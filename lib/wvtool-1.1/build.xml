@@ -1,0 +1,99 @@
+<project name="wvtool" default="build" basedir="./">
+
+	<description>
+    Build file for Word Vector Tool
+	</description>
+
+	<property name="version" value="1.1" />
+	<property name="release" location="release/wvtool-${version}" />
+	<property name="src" location="src" />
+	<property name="build" location="build" />
+	<property name="javadoc" location="javadoc" />
+	<property name="examples" location="examples" />
+	<property name="doc" location="doc"/>
+	<property name="lib" location="lib"/>
+		
+	<property name="build.compiler" value="modern" />
+
+	<path id="classpath">
+		<pathelement location="${build}" />
+		<pathelement location="${lib}/websphinx.jar"/>
+		<pathelement location="${lib}/jwnl.jar"/>
+		<pathelement location="${lib}/PDFBox-0.7.3.jar"/>
+	</path>
+
+	<target name="init">
+		<tstamp />
+		<mkdir dir="${build}" />
+		<mkdir dir="${javadoc}" />
+		<mkdir dir="${release}" />
+	</target>
+
+	<target name="build" depends="init" description="Compile all java files.">
+		<javac srcdir="${src}" destdir="${build}" encoding="ISO-8859-1">
+			<classpath refid="classpath" />
+		</javac>
+	</target>
+
+	<target name="clean" depends="init" description="Delete the build and release directories">
+		<delete dir="${build}" />
+		<delete>
+			<fileset dir="./" defaultexcludes="no" includes="**/*~" />
+		</delete>
+		<delete dir="${release}"/>
+		<delete dir="${javadoc}"/>
+						
+	</target>
+
+	<target name="javadoc" depends="build" description="Creates the javadoc files">
+		<javadoc packagenames="edu.*" access="private" sourcepath="src" defaultexcludes="yes" destdir="${javadoc}" author="true" version="true" use="true" windowtitle="WVTool Class Documentation" additionalparam="-breakiterator" >
+			<classpath refid="classpath" />
+			<!-- <doctitle>
+				<![CDATA[<h1>WVTool Class Documentation</h1>]]></doctitle> -->
+	</javadoc>
+	</target>
+	
+    <target name="release-jar" depends="build" description="Creates the jar file">
+	<jar jarfile="${release}/wvtool.jar">
+		<fileset dir="${build}" includes="**/*" />
+		<fileset dir="licenses" includes="**/*" />
+		<fileset dir="" includes="WVTOOL_LICENSE.txt"/>
+	</jar>
+    </target>
+  
+  <target name="release" depends="build, javadoc, release-jar" description="Creates the full release">
+	
+		 	<copy todir="${release}/src">
+				<fileset dir="${src}"/>
+			</copy>
+			
+			<copy todir="${release}/doc/javadoc">
+				<fileset dir="${javadoc}"/>
+			</copy>
+			
+			<copy todir="${release}/examples">
+				<fileset dir="${examples}"/>
+			</copy>
+
+			<copy todir="${release}/lib">
+				<fileset dir="${lib}"/>
+			</copy>
+			
+			<copy todir="${release}/licenses">
+				<fileset dir="licenses"/>
+			</copy>
+
+  			
+			<copy tofile="${release}/doc/wvtool-${version}.pdf" file="${doc}/wvtool.pdf"/>
+			<copy tofile="${release}/build.xml" file="build.xml"/>
+  			<copy tofile="${release}/LICENSE_WVTOOL.txt" file="LICENSE_WVTOOL.txt"/>
+  				
+			<zip destfile="wvtool-${version}.zip">
+			<fileset dir="release">
+				<include name="**/*"/>	
+			</fileset>
+				
+		</zip>
+	</target>
+	
+	</project>

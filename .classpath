@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/Code/workspace/TextClustering/lib/vn.hus.nlp.tokenizer-4.1.1-bin/vn.hus.nlp.tokenizer-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Code/workspace/Crawler/lib/jsoup-1.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/Code/workspace/TextClustering/lib/jvn-tagger-0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Code/workspace/TextClustering/lib/libsvm.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,14 @@
+edu.udo.cs.wvtool.config
+edu.udo.cs.wvtool.crawler
+edu.udo.cs.wvtool.external
+edu.udo.cs.wvtool.generic.charmapper
+edu.udo.cs.wvtool.generic.inputfilter
+edu.udo.cs.wvtool.generic.loader
+edu.udo.cs.wvtool.generic.output
+edu.udo.cs.wvtool.generic.stemmer
+edu.udo.cs.wvtool.generic.tokenizer
+edu.udo.cs.wvtool.generic.vectorcreation
+edu.udo.cs.wvtool.generic.wordfilter
+edu.udo.cs.wvtool.main
+edu.udo.cs.wvtool.util
+edu.udo.cs.wvtool.wordlist

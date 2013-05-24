@@ -1,0 +1,8 @@
+Riesige Datenmengen entstehen heute in Unternehmen, in Forschungsprojekten, in Verwaltungen 
+oder im Internet. Data-Mining ermöglicht das automatische Auswerten solcher Datenbestände mit Hilfe 
+statistischer Verfahren, künstlicher neuronaler Netze, Fuzzy-Clustering-Verfahren oder 
+genetischer Algorithmen. Ziel dabei ist das Aufspüren von Regeln und Mustern bzw. statistischen 
+Auffälligkeiten. So lassen sich z. B. Änderungen im Verhalten von Kunden oder Kundengruppen 
+aufspüren und Geschäftsstrategien können darauf ausgerichtet werden. Es kann aber auch abweichendes 
+Verhalten einzelner Personen erkannt werden. Dies ruft Datenschützer auf den Plan, welche die 
+Anwendung der Verfahren des Data-Mining kritisch begleiten.

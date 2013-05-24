@@ -1,0 +1,3 @@
+weekday:mon monday tue tuesday wed wednesday thu thursday fri friday
+unix:solaris linux
+anism:.*ism

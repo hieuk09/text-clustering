@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<experiment version="3.4.1">
+
+  <operator name="Root" class="Experiment">
+      <operator name="SparseFormatExampleSource" class="SparseFormatExampleSource">
+          <parameter key="attribute_description_file"	value="test_wv.aml"/>
+          <list key="prefix_map">
+            <parameter key="id"	value="id"/>
+          </list>
+      </operator>
+  </operator>
+
+</experiment>

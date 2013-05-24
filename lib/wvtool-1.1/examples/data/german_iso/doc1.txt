@@ -1,0 +1,6 @@
+Unter Data-Mining versteht man die Anwendung von (statistisch-mathematischen) Methoden auf 
+einen Datenbestand mit dem Ziel der Mustererkennung. Dabei finden insbesondere solche 
+Methoden Anwendung, die hervorragende asymptotische Laufzeiten haben, weshalb Data-Mining 
+oft im Zusammenhang mit großen Datenbeständen genannt wird. Gleichwohl ergeben sich durch 
+den Verzicht auf Modellannahmen über den Datenentstehungsprozess auch bei kleinen 
+Datenbeständen interessante Anwendungsmöglichkeiten.

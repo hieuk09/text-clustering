@@ -1,0 +1,10 @@
+data/SVM/svm-feature.txt
+bin/
+data/Bayes/
+data/XML/
+data/temp/raw.txt
+data/AIML/conversation.aiml
+data/SVM/svm-feature-match-sentence.txt
+data/SVM/tag.txt
+data/SVM/test.txt
+data/SVM/train.txt
