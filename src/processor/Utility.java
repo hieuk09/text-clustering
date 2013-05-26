@@ -2,6 +2,7 @@ package processor;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Random;
 
 public class Utility {
 	
@@ -112,5 +113,10 @@ public class Utility {
 			else
 				map.put(index, 1);
 		}
-	}	
+	}
+	
+	public static int random(int length) {
+		Random randomGenerator = new Random();
+		return randomGenerator.nextInt(length);
+	}
 }

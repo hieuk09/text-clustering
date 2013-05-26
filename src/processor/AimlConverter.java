@@ -12,6 +12,7 @@ import jvntagger.POSTagger;
 import output.XMLOutput;
 
 import data.Aiml;
+import data.AimlFile;
 import data.Conversation;
 import data.Category;
 
@@ -94,5 +95,17 @@ public class AimlConverter {
 		Conversation[] conversations = readInput("data/input.txt");
 		ArrayList<Aiml> categories = convert(conversations);	
 		writeOutput(categories);
+	}
+	
+	public static void runForConversation() {
+		Conversation[] conversations = readInput("data/input.txt");
+		
+		AimlFile aimlFile = new AimlFile();
+
+		for (Conversation aiml : conversations) {
+			aimlFile.addAiml(aiml);
+		}
+
+		XMLOutput.saveConversation("data/all.xml", aimlFile);
 	}
 }

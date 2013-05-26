@@ -7,24 +7,24 @@ import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlSeeAlso;
 
 @XmlRootElement
-@XmlSeeAlso(Aiml.class)
+@XmlSeeAlso(Conversation.class)
 public class AimlFile {
-	LinkedList<Aiml> aimls;
+	LinkedList<Conversation> aimls;
 	
 	public AimlFile() {
-		aimls = new LinkedList<Aiml>();
+		aimls = new LinkedList<Conversation>();
 	}
 	
 	@XmlElement(name="aiml")
-	public void setAimls(LinkedList<Aiml> aimls_) {
+	public void setAimls(LinkedList<Conversation> aimls_) {
 		this.aimls = aimls_;
 	}
 	
-	public LinkedList<Aiml> getAimls() {
+	public LinkedList<Conversation> getAimls() {
 		return aimls;
 	}
 	
-	public void addAiml(Aiml aiml) {
+	public void addAiml(Conversation aiml) {
 		aimls.add(aiml);
 	}
 }

@@ -10,6 +10,7 @@ import javax.xml.parsers.*;
 import org.w3c.dom.*;
 
 import data.Aiml;
+import data.AimlFile;
 
 public class XMLOutput{
 	DocumentBuilderFactory docFactory = null;
@@ -47,6 +48,27 @@ public class XMLOutput{
 
 			File file = new File(fileName);
 			JAXBContext jaxbContext = JAXBContext.newInstance(Aiml.class);
+			Marshaller jaxbMarshaller = jaxbContext.createMarshaller();
+
+			// output pretty printed
+			jaxbMarshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
+
+			jaxbMarshaller.marshal(aiml, file);
+
+		} catch (JAXBException e) {
+			e.printStackTrace();
+			return false;
+		}
+		return true;
+
+	}
+	
+	public static boolean saveConversation(String fileName, AimlFile aiml)
+	{	
+		try {
+
+			File file = new File(fileName);
+			JAXBContext jaxbContext = JAXBContext.newInstance(AimlFile.class);
 			Marshaller jaxbMarshaller = jaxbContext.createMarshaller();
 
 			// output pretty printed

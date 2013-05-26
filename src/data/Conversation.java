@@ -1,5 +1,9 @@
 package data;
 
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement
 public class Conversation {
 	private String question;
 	private String answer;
@@ -18,6 +22,7 @@ public class Conversation {
 		return question;
 	}
 
+	@XmlElement
 	public void setQuestion(String question) {
 		this.question = question;
 	}
@@ -26,6 +31,7 @@ public class Conversation {
 		return answer;
 	}
 
+	@XmlElement
 	public void setAnswer(String answer) {
 		this.answer = answer;
 	}
@@ -34,6 +40,7 @@ public class Conversation {
 		return topic;
 	}
 
+	@XmlElement
 	public void setTopic(String topic) {
 		this.topic = topic;
 	}

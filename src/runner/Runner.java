@@ -56,11 +56,13 @@ public class Runner {
 		
 		//createTrainAndTestFile("data/input.txt", "data/test.txt", "data/train.txt");
 //		createSVMTrainingSet("data/Input", "data/SVM");
-		QuestionProcessor.getTrueQuestion("Máy tôi bị hư");
+		String label = QuestionProcessor.getTrueQuestion("Máy tôi bị hư");
+		System.out.println(label);
 		
 		//convertLabelToClass("data/predict-label.txt", "data/predict-class.txt");
 		
 //		AimlConverter.run();
+//		AimlConverter.runForConversation();
 		
 		System.out.println("END");
 	}

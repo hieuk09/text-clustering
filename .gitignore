@@ -8,3 +8,16 @@ data/SVM/svm-feature-match-sentence.txt
 data/SVM/tag.txt
 data/SVM/test.txt
 data/SVM/train.txt
+data/bayes-label.txt
+data/conversation-remove-blacklist.txt
+data/conversation-tag.txt
+data/conversation.txt
+data/feature-bayes-pca.txt
+data/feature-pca.txt
+data/feature.txt
+data/pair.txt
+data/predict-class.txt
+data/predict-label.txt
+data/test.txt
+data/train.txt
+output.aiml
