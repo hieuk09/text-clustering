@@ -6,7 +6,6 @@ trẻ_con
 53%
 zoom
 hành_lang
-tịch
 xâm
 khu_vực
 lê_văn_sỹ_quận
@@ -59,8 +58,8 @@ khác_nào
 6
 5
 4
-;
 từ_cam_ranh
+;
 cafe
 :
 9
@@ -78,12 +77,12 @@ xàm
 xào
 1.73m
 512
+times
 ngoại
 fx1000m
 ]
 khương_đình
 _
-518
 ^
 [
 nói_mỹ
@@ -242,7 +241,6 @@ thì_ra
 à
 công_sản
 trăm
-bạo_động
 ý
 galatasaray
 ù
@@ -360,7 +358,6 @@ vc02
 diệc_phi
 văn_minh
 gaming
-nói_ngang
 vali
 bòn_rút
 làm_bằng
@@ -429,14 +426,12 @@ bề_mặt
 suông
 không_tài_nào
 256gb
-dt-35
 hợp_đồng
 người_ta
 thương_xót
 sướng_rơn
 inter_milan
 cà_chua
-bóng_loáng
 truyền
 ừm
 lại_người
@@ -448,8 +443,8 @@ ne600
 ironclad
 anh_dũng
 dung_môi
-gtx460
 điểu
+gtx460
 dân_nghèo
 bồn_chồn
 điển
@@ -458,7 +453,6 @@ medium
 michigan
 playback_devices
 460w
-ý_đồ
 widow_ultimate
 ừa
 quốc_hữu_hóa
@@ -502,7 +496,6 @@ quyết_tâm
 stereo
 đạt
 bastian
-case
 650ti
 đạp
 hình_tượng
@@ -517,7 +510,6 @@ trời_ơi
 ủn
 đạo
 ngàn
-ngàm
 trên_dưới
 điếu_cày
 k60
@@ -676,6 +668,7 @@ seoul
 furious
 đâu_vào_đấy
 làm_chi
+tai_ương
 đơn_giá
 thêm_bớt
 a6210
@@ -692,6 +685,7 @@ khóc
 windowsphone
 khói
 boas
+song_kiếm
 phillip_twin
 chả
 trữ_tình
@@ -740,7 +734,6 @@ khi
 nói_đúng_ra
 lòng_vòng
 đag
-ibasso
 sung
 bạn_trung_quốc
 khe
@@ -769,7 +762,6 @@ photocopy
 nói_xàm
 thị_phần
 gái
-kem
 lí_lịch
 2.7ghz
 keo
@@ -803,7 +795,6 @@ siêu_bền
 trâi
 hư_không
 trân
-gâu
 phát_hiện
 gây
 wall
@@ -820,7 +811,6 @@ tinh_tế
 điều_độ
 chán_chê
 trái
-vùi_dập
 mastering
 tư_bản
 suju
@@ -892,7 +882,6 @@ cx300
 gkill_ripjaws
 cũa
 du_dương
-đim
 nội_chính
 bán_lẻ
 xôi_thịt
@@ -908,7 +897,6 @@ công_tắc
 chữa
 tiêu_chí
 fractal_core
-i_times
 facebook
 itebook
 2gb
@@ -1087,7 +1075,6 @@ diễn_viên
 mặc_kệ
 đĩa_windows
 02
-razer_messenger
 khoảng
 10
 pavillion
@@ -1104,7 +1091,6 @@ dự_tính
 79
 quảng_bá
 đồng_tháp
-07/2011
 hình_thành
 storm_sentinel_advance
 vòi
@@ -1187,8 +1173,8 @@ savico_long_biên
 feed
 chợp
 62
-nộp
 60
+nộp
 61
 stule
 bo_mạch_chủ
@@ -1202,7 +1188,6 @@ crucial
 ronaldo
 nội
 45
-luyên
 46
 feet
 hết_mình
@@ -1221,8 +1206,6 @@ uy_hiếp
 đến_điều
 3d
 52
-53
-54
 đường_tiếng
 3l
 3m
@@ -1276,6 +1259,7 @@ công_nhân
 toàn_hưng
 6-pin
 8g
+đuô
 sáng_tạo
 một_nửa
 99
@@ -1301,6 +1285,7 @@ dũng_cảm
 steam
 winning_eleven
 ngon_ơ
+renekton
 vàng
 kha_khá
 hiền_lành
@@ -1348,7 +1333,6 @@ chơi_crysis
 múi_giờ
 nối
 con_asus_vivotab_smart
-có_thể
 đại_lộ
 zalman
 trò_chơi
@@ -1398,7 +1382,6 @@ party
 khâm_thiên_center
 335
 làm_bạn
-top.html
 bánh_phồng
 trận
 nháy_nháy
@@ -1470,8 +1453,6 @@ trò_darksiders
 320
 ấm_ức
 máy_quay_phim
-vát
-m15x
 thời_đại
 phòng_không
 ván
@@ -1501,7 +1482,6 @@ sự_thực
 pl11/21
 vài
 cao_độ
-công_an_tân_bình
 giả_dối
 hay
 30%
@@ -1636,6 +1616,7 @@ tăng_tốc
 logitech
 đồng_nai
 jdam
+bỏ_ashe
 tegra
 kiêu
 hic
@@ -1696,7 +1677,6 @@ hkt
 đổi
 hiện_tại
 vật_lý
-số_liệu
 hưng_phấn
 thất_vọng
 pate
@@ -1715,7 +1695,6 @@ js750
 spore
 vô_chừng
 đục
-bộ_gõ
 riếng
 giá
 quả
@@ -1827,7 +1806,6 @@ benchmark
 được
 mới_đó
 ban_đầu
-anten
 canon
 pedrosa
 sctvnet
@@ -1973,7 +1951,6 @@ hồi_giáo
 malzahar
 jvc_rx7
 châu_âu
-alaska
 370
 1.55m
 enterprise
@@ -2020,7 +1997,6 @@ bánh_mì
 phần_nào
 ăn_hại
 làm_việc
-nậo
 cho_xong
 hải_đông
 350
@@ -2051,7 +2027,6 @@ ghost
 ga
 gb
 motogp
-bàn_cãi
 bé
 thông_minh
 bã
@@ -2061,18 +2036,16 @@ thánh_cô
 na_ná
 làm_sao
 miệng
-ssid
 hy_lạp
 thần_thánh
 tức_là
-fn
 bê
+fn
 g860
 8530w
 bí
 h2
 mộc_uyển_thanh
-va_đập
 cú
 dvorak
 kết_hôn
@@ -2097,7 +2070,6 @@ gu
 i7
 i5
 gs
-polycarbonat
 i3
 gp
 go
@@ -2160,7 +2132,6 @@ ee
 suzuki
 mệt
 2670qm
-g2
 eo
 nửa_mùa
 thời_điểm
@@ -2203,7 +2174,6 @@ nấm
 quốc_phòng
 cảm_thấy
 bi
-bc
 nấu
 be
 dc
@@ -2290,7 +2260,6 @@ idm
 thứ_hai
 2.1
 2.0
-aw
 2.2
 c7
 đắc
@@ -2328,9 +2297,9 @@ nạn
 nguyễn_thái_học
 con_trỏ
 tranh
-nạp
 đụng
 trang
+nạp
 iig
 no
 truyền_hình
@@ -2393,7 +2362,6 @@ pi
 lo
 ath-m50
 hê
-soundcard
 ll
 hè
 lời
@@ -2404,7 +2372,6 @@ rình
 quản_trị
 hì
 hó
-n9
 click
 cạch
 lu
@@ -2427,8 +2394,8 @@ ma
 mb
 mh
 me
-mk
 vô_cùng
+mk
 cơ
 nghe
 mi
@@ -2453,7 +2420,6 @@ ng
 tướng
 ngắn_hạn
 nh
-chơi_bời
 dơ
 whr-g300n
 tập_tành
@@ -2463,10 +2429,8 @@ nguyễn_ngọc_quỳnh
 500usd
 js
 l3
-ime
 deepcool
 arnold_schwarzenegger
-nhjeu
 m_evo
 bracket
 độc_hại
@@ -2474,8 +2438,8 @@ lều_phều
 lớn
 fractal_design_define
 tủi_thân
-ki
 vô_bổ
+ki
 kh
 gã
 sư_phụ
@@ -2560,7 +2524,6 @@ ig
 chủ_nghĩa_cộng_sản
 mẹo
 ie
-higuain
 hy
 hx
 dù
@@ -2610,6 +2573,7 @@ xl
 đều
 tè
 té
+con_envy
 tì
 xp
 z68
@@ -2746,15 +2710,14 @@ không_đâu
 arsenal
 v5
 devil_may_cry
-tr
 v3
 lồi
 lũ
-tp
 v2
 tên
 phần_cứng
 têm
+tf
 lâm_thanh_hà
 nghi_thức
 quả_là
@@ -2784,7 +2747,6 @@ to_tát
 u2
 mĩ
 so
-hoa_văn
 tép
 sd
 pump
@@ -2794,7 +2756,6 @@ sf
 xml
 hayday
 chủ_yếu
-12xx
 htc
 phong_cách
 se
@@ -2838,7 +2799,6 @@ làm_nên
 lốp
 bằng_được
 re
-nà
 hết_hơi
 crysis
 đến
@@ -2876,7 +2836,6 @@ dài_hạn
 mâ
 có_lý
 má
-linksys
 lă
 mã
 hài_lòng
@@ -2956,7 +2915,6 @@ chường
 giọng
 tơ
 lọt
-offline
 nghiêm
 quan_niệm
 bá_đạo
@@ -2976,7 +2934,6 @@ hành_động
 hut
 mập
 sơ
-295
 khiến
 níu_kéo
 khiếp
@@ -2991,9 +2948,9 @@ shuriken
 mua_bán
 ngu_dân
 intel_absolute
-sao_la
 sư
 phong_độ
+sao_la
 dòm
 liên_hoàn
 làm_ăn
@@ -3037,7 +2994,6 @@ g80-3000
 m6a2e1
 giun
 buổi_trưa
-giup
 vồ_vập
 nổi_tiếng
 lượng
@@ -3065,9 +3021,9 @@ vô
 bừa_bộn
 cô_đơn
 hagreaves
+ebay
 chìa_khóa
 vê
-ebay
 rũ
 ví
 tru_tiên
@@ -3112,7 +3068,6 @@ bình_xịt
 yi
 gấp_bội
 chúi
-941
 thụt
 chuyên_gia
 rác_thải
@@ -3241,7 +3196,6 @@ tổ_hợp
 bất_khả
 chênh
 phố
-vơ_đũa_cả_nắm
 nơi
 chục_triệu
 display
@@ -3256,8 +3210,8 @@ aida64
 230k/giây
 thế_chiến
 phế
-ashe
 7400m
+ashe
 95a
 liên_hồi
 ở_tp
@@ -3312,7 +3266,6 @@ thế_hệ
 danh_tướng
 tiếc
 hiệu_ứng
-font_việt_nam
 kỉ_cương
 tràn_ngập
 thời
@@ -3342,7 +3295,6 @@ chói
 lết
 diện_tích
 phim
-lãng_quên
 e5200
 chính_sách
 vs450
@@ -3491,10 +3443,10 @@ mạnh_mẽ
 tránh
 trung_cấp
 corsair
+ram_ecc
 tử_tế
 5750
 thông
-trầy_trụa
 ai_bảo
 luật_rừng
 vô_số
@@ -3600,7 +3552,6 @@ chăm_chăm
 tái_chế
 nhà_nước
 e8500
-bên_xsoft
 chăm
 x101
 virút
@@ -3790,6 +3741,7 @@ orianna
 walkman
 do_dự
 8/3
+con_poker
 refurbish
 2x1gb
 vietcali
@@ -3825,7 +3777,6 @@ nhân_viên
 water_cooler
 820
 cơ_số
-băm
 ghi
 khó_khăn
 150k/giây
@@ -3885,7 +3836,6 @@ biên_hòa
 real_time_streaming_protocol
 tiếng_nói
 nối_tiếp
-displaysang
 tào_hồng
 an_phú
 vệ_sĩ
@@ -4012,11 +3962,9 @@ trò_cười
 huấn
 lâu_lâu
 mee_rx
-bé_tẹo
 trước_kia
 hoa_quả
 bút
-vga_gtx4
 thôi
 wikipedia
 bún
@@ -4071,7 +4019,6 @@ wap
 captivate
 wan
 11a4
-đái
 dây_dưa
 đường_bộ
 đám
@@ -4087,8 +4034,8 @@ cuồng
 sennheiser_cx
 được_mỗi_cái
 ước_tính
-driver
 tưởng_tượng
+driver
 đào
 nước_ngọt
 thực_hư
@@ -4176,10 +4123,8 @@ dân_chủ
 laptophuyhoang
 trưởng_thôn
 silent_pro_gold
-chêm
 sony_mobile
 địa_thế
-thành_tích
 phụ_tùng
 trọng_tâm
 đàm_vĩnh_hưng
@@ -4247,6 +4192,7 @@ chật_chội
 ròm
 đau_đầu
 ròi
+rabbadon
 công_trình
 không_chiến
 con_con
@@ -4275,7 +4221,6 @@ clip
 tháng
 tàu_xe
 thánh
-khảo
 fsa
 mx980
 inwin_grone
@@ -4333,7 +4278,6 @@ tháp
 gameiro
 ốc_vít
 đòn
-thermaltake_esport
 luiz
 ghi_chép
 1280
@@ -4437,6 +4381,7 @@ grand
 rét
 hợp_nhất
 x11
+korea
 khuâng
 xứng
 llano
@@ -4444,7 +4389,6 @@ ra_đời
 sử_dụng
 nồng_nhiệt
 geekhack
-fn+
 trực_quan
 xáp_lá_cà
 1.288
@@ -4489,7 +4433,6 @@ tuân_thủ
 dòng_họ
 thừa
 thanh_thiếu_niên
-voi
 bẻ_khóa
 vol
 củng
@@ -4506,7 +4449,6 @@ phù_hợp
 voz
 rìa
 pandora
-tiêu_dùng
 có_ích
 90%
 thienthientan
@@ -4655,7 +4597,6 @@ day
 12.9
 large
 tổng_cục
-vap
 bungee
 mai_hoàng
 vat
@@ -4710,7 +4651,6 @@ torpedo
 refresh
 tình_đầu
 qúa
-khí_thế
 virgina
 tivi
 dv5t
@@ -4723,6 +4663,7 @@ sáng_lập
 đánh_đồng
 căng_thẳng
 thực_tập
+auto
 catalona
 tầm_thường
 lạm_dụng
@@ -4775,7 +4716,6 @@ kỹ_nghệ
 hoài_bão
 bản_thân
 đi_đi
-nồi_đồng_cối_đá
 cảm_tính
 trắng_xóa
 2707
@@ -4796,7 +4736,6 @@ laptopno
 vua_chúa
 ngân_sách
 cộng_hòa
-nhầy_nhụa
 ban_ngày
 cắn_răng
 batman
@@ -4822,7 +4761,6 @@ khựng
 đàm_vĩnh_tuy
 đẹp_đẽ
 doanh_doan
-758
 nhà_phát_triển
 thần_tượng
 bắt_giữ
@@ -4833,7 +4771,6 @@ ba_ba
 bạch_mai
 cq40
 phù_đổng
-àm
 àh
 quicklaunch_tutton
 đáng_kể
@@ -4876,7 +4813,6 @@ loạt_xoạt
 chú
 333/800
 bưu_chính
-rzer
 âm
 elitebook
 graphic
@@ -4911,6 +4847,7 @@ chấm_dứt
 bù_lu_bù_loa
 ngang
 quay
+thuô
 lưu_đại
 con_monster_beat
 coi
@@ -4920,12 +4857,10 @@ thuê
 quai
 sát_thủ
 ngoại_tệ
-viên-sx
 công_nghệ
 con
 com
 tốc_độ
-cop
 mĩ_nhân
 nghèo_đói
 download
@@ -4940,10 +4875,9 @@ boxieunhan
 moẹ
 power_asisstant
 bộ_đội
-ngày_giờ
+akali
 gọn_nhẹ
 phi-líp-pin
-vga_hd
 y460
 lăng_xăng
 lễ_nghĩa
@@ -4960,7 +4894,6 @@ vũ_hà
 mx170/270
 nazar
 câu_hỏi
-ngoại_trừ
 căn_cứ
 bộ_phận
 bao_gồm
@@ -5004,8 +4937,6 @@ tàng_hình
 thui
 nhiên_liệu
 hơn_thua
-rham
-phễu
 ce2
 tier
 extreme4
@@ -5039,7 +4970,6 @@ văng
 nilon
 vất_vả
 ceo
-cen
 kỷ_niệm
 ultrasurf
 mác_lê
@@ -5060,6 +4990,7 @@ tich
 radio
 6gs
 nhẹ_tay
+blanc
 kỹ_năng
 buồn_cười
 kana
@@ -5137,7 +5068,6 @@ chuông
 nhịp
 tốt_nghiệp
 lưu_bang
-mua_filco
 ngứa
 878u
 ba_má
@@ -5190,7 +5120,6 @@ sạch_sẽ
 ear
 trẻ_em
 công_tâm
-cá_cược
 còn_mourinho
 review
 con_choc
@@ -5260,8 +5189,6 @@ nguyễn_thông
 tình_dục
 4hd
 4gb
-pc350
-stress
 bực_bội
 1026x768
 vô_dụng
@@ -5283,7 +5210,6 @@ xem_xét
 thương_gia
 ông
 ít
-dây_deathadder
 6.6
 2740p
 ipat
@@ -5359,6 +5285,7 @@ lạy_thánh
 muỗi
 hà_nội_mai_hoàng
 mainboard
+null
 niềm_nở
 black_pearl
 ra_đi
@@ -5434,7 +5361,6 @@ lâu_nay
 bí_mật
 trưởng_thành
 hề_hấn
-dụ_khị
 ngập_tràn
 giả_sử
 hết_lòng
@@ -5469,8 +5395,8 @@ có_mặt
 mạng
 lộ_liễu
 thermaltake
-bóng_đè
 dps
+bóng_đè
 tre
 đích
 tra
@@ -5506,7 +5432,6 @@ nam_hàn
 đồng_tiền_bát_gạo
 widow
 gợi
-shakhtar_donetsk
 hiren
 soundmagic
 kiện
@@ -5533,6 +5458,7 @@ trượng
 quách_tương
 cnps
 thă
+razer_deathadder
 phựt
 hoac
 nopoo_choc
@@ -5540,7 +5466,6 @@ unikey
 anh_ấy
 thú
 thù
-53sinh
 quan_sát
 siêu_thị
 diễn_thuyết
@@ -5690,7 +5615,6 @@ alepo
 ế
 intel_core
 thì
-thò
 tối_mù_mù
 út
 nhựa
@@ -5750,7 +5674,6 @@ sandy
 100s
 cpu_u4
 bỏ_mẹ
-i_windows
 giga_ep4
 hệ_lụy
 chứng
@@ -5892,14 +5815,12 @@ tôn_trọng
 shevchenko
 nài
 gấu
-zowie_hammer
 2120
 open_beta
 gấp
 tình_cờ
 7580
 country
-khôngrean
 mỹ_nexus
 nhẫy
 găng
@@ -6081,6 +6002,7 @@ adapter
 phê_bình
 rin
 amazon
+hung_hãn
 thú_vị
 đỗ_quang_huy
 voodoo_sound
@@ -6092,7 +6014,6 @@ nói
 nón
 năng_lực
 k43sj
-thắng_thế
 productid
 cộng_sinh
 all_solid_capacitors
@@ -6119,7 +6040,6 @@ hội_đồng
 bắt_mắt
 hoang_tưởng
 dây_điện
-ikhôngnik
 video_music_awards
 koolaudio
 học_hành
@@ -6153,7 +6073,6 @@ muôn_thuở
 2.3.4
 hạ_cánh
 bắt_đầu_từ
-choảng
 m4a88td
 đính
 lenovo
@@ -6179,7 +6098,6 @@ ngây_ngất
 hạ_tầng
 64bit
 nhận_xét
-rtl
 uprs
 senshop
 outsource
@@ -6243,7 +6161,6 @@ cực_khổ
 sai
 chiến_lược
 20cm
-100mbps
 carbon
 thấy_việt_nam
 âm_thanh
@@ -6309,7 +6226,6 @@ khẩu_độ
 bình_tĩnh
 ™
 8440w
-vô_tích_sự
 nghĩ_bụng
 núm
 8440p
@@ -6325,7 +6241,6 @@ mượt_mà
 nhảm
 chế_tài
 đại_lí
-51vx
 gậy
 vừa_lòng
 trang_web
@@ -6406,7 +6321,6 @@ chữ_viết
 ngẫm
 cha_mẹ
 szczesny
-múa_rìu_qua_mắt_thợ
 công_khai
 hắc
 quốc_gia
@@ -6477,7 +6391,6 @@ hẫm
 kichhoat.net
 acbel
 50kg
-scr
 đến_nơi
 nói_chung
 google_maps
@@ -6489,7 +6402,6 @@ whatsapp
 định_hướng
 sda
 sdd
-kích_thích
 hosts
 vứt
 xe_cộ
@@ -6542,7 +6454,6 @@ thay_vì
 lệch
 thú_vật
 seo
-sen
 qui_luật
 hươ
 a864
@@ -6599,7 +6510,6 @@ cao_thủ
 pc_x1
 lịch_sự
 highland
-8185
 liên_quân
 ghét_apple
 kindle
@@ -6618,7 +6528,6 @@ an_sinh
 sa_sút
 xạc
 mx518
-li_dị
 tẩy_rửa
 design
 chan
@@ -6637,6 +6546,7 @@ tòan
 hdmi
 ngắm
 nách
+level
 chac
 scythe
 ngắt
@@ -6721,7 +6631,6 @@ ngoại_cảm
 skull_candy
 nhân_dân
 ben_store
-đựng
 tài_năng
 hỏi_han
 double_shot
@@ -6768,7 +6677,6 @@ sách_báo
 system_shock
 mất_lòng
 1.525v
-variable
 lăng_cha_cả
 trong_sạch
 ssd
@@ -6839,7 +6747,6 @@ recovery
 con_source
 service
 razer_lycosa
-imperator
 ba_phải
 nhân_tố
 nhân_sự
@@ -6866,6 +6773,7 @@ pl21
 94-63-89
 kim_són
 phim_ảnh
+k53sv-sx
 a75
 giản_dị
 niềm_vui
@@ -6895,7 +6803,6 @@ hiện_đại_hóa
 ngất
 phóng
 nividia
-ngươi
 nụ_cười
 ngấm
 cánh_quạt
@@ -6960,8 +6867,8 @@ window
 shq1000
 pl50
 ghiền
-menu/new
 malady
+menu/new
 avast
 dict
 bói_đâu_ra
@@ -7006,7 +6913,6 @@ khoảng_trống
 dở
 bkc
 viễn_thông
-desktop
 hiểm
 bán_đảo
 kute
@@ -7095,7 +7001,6 @@ thời_tiết
 đè_bẹp
 dung_lượng
 tết_mậu_thân
-841n
 đương_nhiên
 hòm_thư
 hiếm
@@ -7154,7 +7059,6 @@ xã_hội
 yêu_cầu
 d2k
 n5110
-d2l
 lè_nhè
 nani
 bác_học
@@ -7176,10 +7080,8 @@ lỗ
 hấp_dẫn
 phe
 kỳ
-tomato
 kỹ
 mẻ
-54mbps
 lộ
 programmer
 kỷ
@@ -7207,7 +7109,6 @@ php
 phât
 giao_diện
 thým
-bản_reloaded
 playstation
 lờ
 bbq
@@ -7303,7 +7204,6 @@ nghĩa_địa
 xuân
 pes
 vết
-force
 elly
 nhiệt
 lái
@@ -7359,8 +7259,8 @@ ben
 trượt
 3450
 gỗ
-gỡ
 hybrid
+gỡ
 xe_ôm
 chân_vịt
 hệ
@@ -7386,7 +7286,6 @@ hả
 tích_trữ
 tuyết_kỳ
 hạ
-dụ
 bất_hủ
 tăng_cường
 dự
@@ -7503,7 +7402,6 @@ lựu_đạn
 protecttools
 lùng
 hối_hận
-tính_mạng
 workstation
 cà_pháo
 ngũ_hổ
@@ -7515,7 +7413,6 @@ tin_vui
 tiện_thể
 cat
 x_vừa
-can
 may_ra
 máy_bơm
 mx370
@@ -7541,7 +7438,6 @@ e5430
 santafe
 muỗng
 đen_đen
-prt
 đĩa_nhạc
 bàn_cờ
 smart_fan
@@ -7555,7 +7451,6 @@ nguyễn_ngọc_lĩnh
 amtech
 coverage
 pro
-sơn_hà
 tống
 ex300
 bóng_đèn
@@ -7567,7 +7462,6 @@ lót
 d3v
 filco_majestouch
 melamin
-bro
 usb3
 củi
 maria_ozawa
@@ -7581,7 +7475,6 @@ xử_lí
 shuriken_rev
 lôi
 bênh
-nguyên_lý
 megahalem
 xử_lý
 động_lực
@@ -7603,7 +7496,6 @@ ra_rả
 lòe
 pva
 neil_pattrick_harris
-dhcp
 cứu
 opera
 im_lặng
@@ -7657,7 +7549,6 @@ phổ_thông
 longer
 an_phú_đông
 tương_ớt
-bvs
 chức_quyền
 phần_mềm
 mính
@@ -7692,7 +7583,6 @@ tín_ngưỡng
 sao_mai_điểm_hẹn
 đóng_cửa
 kín_mít
-cửu
 bệnh
 nàng
 wzr-hp-g300nh
@@ -7733,7 +7623,6 @@ aka
 mong
 thủ_đoạn
 2003
-parkson_hùng_vương
 tụt
 storm
 akg
@@ -7751,9 +7640,7 @@ mớitập
 tiện_nghi
 2010
 hóng
-slix3
 lúa
-battle_fury
 thấp_điểm
 2013
 2014
@@ -7762,6 +7649,7 @@ lúc
 sửa_soạn
 5-cebbaa23be1b
 nội_dung
+phúc
 tụi
 hp6930
 cải_lương
@@ -7771,7 +7659,6 @@ lùn
 7200
 violon
 tục
-200k
 5.3ghz
 phút
 mono
@@ -7786,7 +7673,6 @@ tiền_công
 cũ_rích
 ngang_ngửa
 4000m
-tủy
 20.8
 bất_tiện
 vùi_hoa_dập_liễu
@@ -7808,11 +7694,9 @@ chí_cốt
 phẩm_hạnh
 5-2520
 lượt_đi
-niêm_yết
 720p
 mymy_pham
 2000
-lúc_nào
 vảo
 màn
 aol
@@ -7834,7 +7718,6 @@ thất_thoát
 nj-gg9gesi
 qck
 anh
-hoang_phí
 groove
 tay_chân
 and
@@ -7943,7 +7826,6 @@ nhỏ_nhen
 tạo_dáng
 silverarrow
 vạn
-tởm
 usercp
 dội
 tâm_trí
@@ -7980,7 +7862,6 @@ giao_lưu
 quỷ_tha_ma_bắt
 xương
 hiện_hình
-9400
 cao_tốc
 ag+
 cộng_tác
@@ -7990,7 +7871,6 @@ removerredirect
 điều_tra
 súng
 thi_hành
-thăng_hoa
 lưới
 2030
 gigabyte
@@ -8038,7 +7918,6 @@ keycap
 lối_thoát
 méo
 vặn
-rể
 vô_địch
 incredible_science
 rỉ
@@ -8085,8 +7964,8 @@ sứ
 tị
 vẹn
 phonak
-quan_điểm
 tỉ
+quan_điểm
 tệ
 sợ
 dell_inspiron
@@ -8109,6 +7988,7 @@ sờ
 ăn_uống
 2kva
 độ_lượng
+sang_nhật
 từ
 vocal
 chuyện_việt_nam
@@ -8132,7 +8012,6 @@ chan_chát
 chính
 khiêu_dâm
 chiều_cao
-vả
 tận_hưởng
 khuôn
 tận_tay
@@ -8289,7 +8168,6 @@ ngoại_hạng
 apu
 tiêu_hà
 uốn
-point
 mã_vạch
 lông_gà
 sắc_tộc
@@ -8556,7 +8434,6 @@ diên
 vui_chơi
 ông_bà
 tin_tưởng
-3.00
 pháp_sư
 thế_này
 bền
@@ -8623,7 +8500,6 @@ chủ_nhật
 muô
 rat7
 120kb/giây
-e1000
 choáng
 envy
 ý_kiến
@@ -8754,11 +8630,9 @@ quận
 cách_mạng
 quật
 chủ_quan
-w311r
 sạc_iphone
 quậy
 bluetooth
-rần_rần
 admin
 bịa
 sủi
@@ -8847,7 +8721,6 @@ hết_nổi
 tồi
 690ii
 hitachi_touro_mobile
-tồn
 xa_xưa
 0.9
 0.8
@@ -9004,7 +8877,6 @@ thể_hình
 đăng
 150
 cuộn
-search
 bớt
 tranh_thủ
 êm_ái
@@ -9090,7 +8962,6 @@ không_khí
 kingston
 ít_ra
 amoled
-119
 trâu_nước
 mỏi_mắt
 nokia_xpress_browser
@@ -9125,7 +8996,6 @@ cho_hay
 dươ
 oem
 lịch
-139
 xác_định
 xamor
 công_ty
@@ -9137,7 +9007,6 @@ g100
 sapphire
 khỏi_phải_nói
 130
-beats_audio
 ngoại_bang
 chủ_nghĩa_dân_tộc
 nhiệt_kế
@@ -9238,7 +9107,6 @@ dạo
 197
 vắng
 192
-buffer
 starcraft
 certiport
 partition
@@ -9280,11 +9148,11 @@ sl410
 thu_hẹp
 tài_chính
 1230v2
+megastar_parkson_hùng_vương
 2560p
 ra_quân
 giày_tây
 suy_nghĩ
-goliathus_speed
 can_nhược_đồng
 lệ_thuộc
 thư_mục
@@ -9313,7 +9181,6 @@ cau_có
 số_lượng
 kindle_fire
 napoleong
-dập
 lường
 ngứa_mắt
 danh_tiếng
@@ -9326,7 +9193,6 @@ tín_nhiệm
 dậy
 shiden_kai
 secondhand
-own
 tầm
 numlocks
 nghiêm_trọng
@@ -9353,7 +9219,6 @@ iems
 bừa
 ielts
 bộ_máy
-h77ma-g43
 hồng
 razer_mantis
 quốc_tịch
@@ -9413,11 +9278,9 @@ tube
 gd65
 rửa_tội
 đút_túi
-thành_nhân
 liều_mạng
 thiết_thực
 rail
-1m68
 shiden
 1m65
 1m63
@@ -9485,7 +9348,6 @@ cộng_hưởng
 ghê_ghê
 1-3
 1-2
-đính_chính
 2.77
 sốt
 2.75
@@ -9573,6 +9435,7 @@ trở_về
 bàn_phím
 trò_trống
 kim_dung
+kêt
 kêu
 hiền_đệ
 hăng
@@ -9723,8 +9586,8 @@ cầu_thủ
 farm
 cháng
 marcelo
-lag
 30.7
+lag
 hợp_tác
 lai
 lan
@@ -9808,6 +9671,7 @@ klose
 clear
 tàn_tạ
 crôm
+đánh_đơn
 pencak-silat
 sạc
 tài_sản
@@ -9832,7 +9696,6 @@ evoque
 sandy_bridge
 hát_hò
 chức_năng
-robaldo
 mr_olympia
 m80
 hàng_xách
@@ -9856,10 +9719,9 @@ ngô_quyền
 thiên_lợi
 giắc
 nghe_vanessa_mae
-giật
 chạy
+giật
 phàn_nàn
-con_choc_mini
 giận
 không_chừng
 đông
@@ -9870,7 +9732,6 @@ kìm_hãm
 lật_ngược
 sony_arc
 cà_phê
-dell_adamo
 an_phận
 trăm_ngàn
 máy_xách_tay
@@ -9880,7 +9741,6 @@ chả_mấy_khi
 kiểu_dáng
 deadspace
 fx880m
-2lought
 seal
 chủ_nhiệm
 góp
@@ -9892,7 +9752,6 @@ có_thai
 hoạn_nạn
 thì_phải
 chất_lượng
-www.gup.co.jp/eng
 chảy
 thoả_mãn
 ngày_càng
@@ -9948,7 +9807,6 @@ chắc
 6600
 triết_lý
 chắn
-juninho
 sông
 1.45
 nhìu
@@ -9969,6 +9827,7 @@ nhít
 từ_mỹ
 mưu_lược
 giật_mình
+nhưng_việt_nam
 trường_học
 back
 holdem
@@ -9984,6 +9843,7 @@ cơ_thể
 headamp
 nuforce
 1.64
+1.68
 giờ_tào_tháo
 c12nkh
 sâu_nặng
@@ -10064,8 +9924,8 @@ siêu_sao
 sung_công
 nhóm
 rồi
-western_black
 witend
+western_black
 treb
 lờ_mờ
 xông
@@ -10077,11 +9937,9 @@ rút_gọn
 nhóc
 chôn_nhau_cắt_rốn
 tuồn
-192.168.1.1
 hd650
 treo
 tuốt
-coi_mắt
 nhôm
 tinh_túy
 chàng
@@ -10209,7 +10067,6 @@ u2410
 garen
 trồng
 mềm_mại
-rõ_rệt
 hàng_xóm
 ô_tô
 hùng_mạnh
@@ -10236,7 +10093,6 @@ vx043
 ad900
 giáo_trình
 đạ
-huynh
 lủng_lẳng
 bô_bô
 tính_chất
@@ -10257,7 +10113,6 @@ mai
 qui_tắc
 mag
 đệ
-map
 ăn_gian
 tay_bo
 đọ
@@ -10322,7 +10177,6 @@ vùng
 nhàn
 nói_gì
 nhà_nhà
-huyê
 sát_cánh
 australia
 nhác
@@ -10378,7 +10232,6 @@ oled
 macro
 lui
 lun
-lum
 cung_cấp
 laptopsongviet
 cảm_nghĩ
@@ -10448,7 +10301,6 @@ khuyên
 tầm_cỡ
 xóm
 bại
-16.50
 bạn
 nhét
 bạo
@@ -10520,7 +10372,6 @@ sạch
 đáng
 kĩ_thuật_viên
 đánh
-nói_mò
 neptune
 trước_mắt
 trụ
@@ -10549,14 +10400,13 @@ orochi
 quãng
 1979
 roài
+bọn_gigabyte
 saigonlab
 biết_nghĩ
 giắt
 mog
 đàm_phán
-moi
 triệu_vy
-ích_lợi
 mod
 cell
 thương_hiệu
@@ -10632,7 +10482,6 @@ bẩn
 phương
 băng_chuyền
 chú_trọng
-192.168.2.1
 kinh_tế_học
 bẩu
 liên_can
@@ -10724,7 +10573,6 @@ angelina_jolie
 zimbabwe
 kinh
 văn_hóa_phẩm
-xoáy
 launch
 thanh_toán
 quy_tắc
@@ -10739,6 +10587,7 @@ absolute_black
 thùng
 chứng_nhận
 gia_tiên
+ikonic
 rằm
 ngòm
 làm_thịt

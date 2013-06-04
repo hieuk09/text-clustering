@@ -1,5 +1,5 @@
 ﻿1
-Trò chơi điện tử
+Liên minh huyền thoại
 Mình chơi Liên minh huyền thoại chưa tải được bản Việt Nam, vào chơi máy chủ Mĩ thì không cập nhật được, không biết có phải garena chơi bẩn không đây ?
 Không chơi ngoại tuyến được bạn à, phải kết nối đến máy chủ mới đánh với máy được.
 ==========================
@@ -9,22 +9,22 @@ Cho mình hỏi chút, 1 tài khoản đăng ký có thể tạo được nhiề
 Muốn bao nhiêu có bấy nhiêu.
 ==========================
 3
-Trò chơi điện tử
+Liên minh huyền thoại
 Bác chơi Liên minh huyền thoại hay chỉ mình chiến thuật đánh cái, tại hôm qua có chơi với 1 bác cấp 30 bác ấy bảo là chia làn ra đánh đến gần cuối trận, chứ không đi chung với nhau thì sẽ dễ thắng hơn là tụ 1 cục đi chung với nhau khi mới lên cấp 6.
 Thì chỉ tụ tập lại khi có đánh đội, ăn rồng, baron thôi chứ, thời gian còn lại ai lo việc người ấy chứ sao nữa.
 ==========================
 4
-Trò chơi điện tử
+Garena
 Máy chủ Mĩ thì không liên quan tới garena bạn à.
 Garena phát hành cái đó mà, đang tải máy chủ Việt Nam rồi, đêm nay kiểm tra xem sao.
 ==========================
 5
-Trò chơi điện tử
-Sao mà vào đăng ký trên trang chủ của nó mà cái tài khoản đăng nhập nào cũng bị lấy mất rồi thế nhỉ?
+Garena
+Sao mà vào đăng ký trên trang chủ của Garena mà cái tài khoản đăng nhập nào cũng bị lấy mất rồi thế nhỉ?
 Nếu đã đăng ký garena rồi thì không cần đăng ký nữa đâu.
 ==========================
 6
-Trò chơi điện tử
+Liên minh huyền thoại
 Chơi liên minh huyền thoại, có một thắc mắc là thấy Teemo chơi rất vui và cơ động, lại được miễn phí bùa là mấy cây nấm, giết người nhanh, lại có thể vô hiệu hóa đòn đánh vật lý trong 1 thời gian ngắn, nói chung là 1 nhân vật khá tốt, nhưng lên youtube xem đánh giải thì dường như là tuyệt chủng, ai có thể cho biết lý do không ?
 Máu ít nên dễ chết, thứ 2 nữa là chỉ có thể canh me đánh ké thôi chứ khó mà lao vào đánh lung tung, được cái Teemo hỗ trợ với cây nấm thì khá mạnh nếu xây AP, AP càng cao chúng đạp trúng nấm thì máu rút cứ phải nói không cần đánh nhiều.
 ==========================
@@ -44,27 +44,27 @@ Spam sướng vãi.
 Spam chứ không phải post linh tinh đâu, cẩn thận đấy.
 ==========================
 10
-Laptop
-Anh ơi thế con k53 mới có bị lỗi chip không anh ?
+K53
+Anh ơi thế con K53 mới có bị lỗi chip không anh ?
 Dòng K53 này có CPU là dòng CPU dùng sản phầm đời sau đã chữa lỗi, đồng thời các dòng Main H67 va P67 của ASUS mới đã về thay thế cho dòng cũ nên bạn yên tâm sở hửu 1 con K53 về dùng, ngoài ra con này thiết kế đẹp, bàn phím số chiclet. 
 ==========================
 11
-Laptop
+K42JA VX043
 Con K42JA VX043 có màu khác không anh ?
 K42JA-VX043 chỉ có 1 màu đó thôi, laptop ASUS mỗi mã 1 màu.
 ==========================
 12
-Laptop
+ASUS
 Anh ơi em nghe nói dòng laptop ASUS tản nhiệt kém có phải không ạ ?
 Bạn ơi, ASUS là hãng áp dụng công nghệ độc quyền Ice Cool và stack Cool là công nghệ làm mát máy, tỏa nhiệt ra đằng sau làm cho máy của bạn luôn luôn trong môi trường mạt mẻ, và bạn sẽ cảm nhận được ngay việc tỏa nhiệt tốt của laptop ASUS khi máy hoạt động, khi quạt thổi nhiệt hoạt động, bạn sẽ thấy sự hiệu quả công nghệ.
 ==========================
 13
 Laptop
-Em mới làm con k53sinh viên-sx 125 chưa kiểm tra được nhưng nhìn chung là đẹp và mát
+Em mới làm con K53SV-sx 125 chưa kiểm tra được nhưng nhìn chung là đẹp và mát .
 Hì, tuyệt đúng không ạ, đặc biệt mình kết nhất là bàn phím với dòng laptop 15.6inch mà từng phím rời nhau, không sin sít, với cả bàn phím số cũng rời nhau gõ thoải mái không bị dính phím.
 ==========================
 14
-Laptop
+Hỏi laptop
 Em mới mua con K53 hồi chiều tối, về kiểm tra thì thấy mainboard ghi là unknown là sao hả anh ?
 Bạn kiểm tra ở phần nào đấy ạ, bạn đừng dùng các phần mềm cũ để kiểm tra, vì mình nghĩ rằng đây là dòng mainboard và cpu mới mà, có thể phần mềm cũ không hiểu.
 ==========================
@@ -79,13 +79,13 @@ Hôm nay avishop có làm việc không nhỉ ?
 Bên avishop chỉ nghỉ 01/05/2011 các ngày còn lại làm việc bình thường.
 ==========================
 17
-Laptop
+Hỏi laptop
 Anh ơi, cho em hỏi dòng u43 và u45 khác nhau như thế nào ạ ?
 U43 là dòng vỏ tre, U45 là dòng vỏ nhôm.
 ==========================
 18
-Laptop
-Bên anh mang cả máy hay chỉ pin qua thôi ạ?
+Hỏi laptop
+Bên anh mang cả máy hay chỉ pin qua thôi ạ ?
 Bạn mang cả máy cả pin qua cho bên mình nhé.
 ==========================
 19
@@ -99,7 +99,7 @@ Chỉ chuyển hàng ở Mỹ thôi hả bác, Anh và Đức không chuyển h�
 Hàng nếu người bán chuyển về Mỹ thì có thể chuyển hàng được bạn ạ, bạn liên hệ trực tiếp với mình để được tư vấn cụ thể nhé.
 ==========================
 21
-Laptop
+Mua bán
 Thế mua 1.5 triệu nhé.
 1.5 triệu thì đồng ý luôn.
 ==========================
@@ -109,7 +109,7 @@ Neptune đâu ?
 Đổi chai dầu ăn lấy bàn phím à, chơi luôn.
 ==========================
 23
-Laptop
+Máu
 Đã từng máu như bạn và cũng phải bán thật nhanh sau đúng 1 ngày sử dụng vì em này chỉ được cái mã.
 Trời, sao làm gì mà ẹ thế bác ?
 ==========================
@@ -119,7 +119,7 @@ Không cần cảm ơn đâu.
 Cứ cảm ơn đấy, làm gì nhau nào ?
 ==========================
 25
-Trò chơi điện tử
+Elise
 Cho hỏi tí, cái chiêu E của Elise có đu vào 1 chỗ khác trên đất được không, hay là chỉ đu được đến mục tiêu hoặc rơi tại chỗ ?
 Elise đu lên phải có mục tiêu thì mới rớt xuống đầu mục tiêu được, còn không có thì sau 2 giây tự động rơi tại trung điểm của vòng tròn màu đen, để biết được trung điểm của vòng tròn ở đâu thì mời bạn nghiên cứu thêm về bộ môn hình học.
 ==========================
@@ -129,13 +129,13 @@ Bộ kĩ năng của Amumu thì tăng tối đa chiêu 2 trước để đốt, 
 Mình đi phần rừng thì cố gắng tăng tối đa chiêu 3 trước để dọn rừng cho nhanh, khóc nhè mới đầu trận chả được bao nhiêu sát thương cả.
 ==========================
 27
-Trò chơi điện tử
+Ezreal
 14/2 có sự kiện miễn phí tướng nữ, và hiện đã cập nhật tướng nữ, thật bất ngờ có mặt cả Ezreal.
 Ezreal và Taric là nhân vật đồng tính, nên có mặt trong dịp sự kiện này cũng không ngạc nhiên lắm đâu.
 ==========================
 28
-Trò chơi điện tử
-Cho e hỏi cách xây dựng nhân vật Diana với, đang kết em này.
+Diana
+Cho em hỏi cách xây dựng nhân vật Diana với, đang kết em này.
 Giày pháp sư, trượng đầu lâu, đồng hồ cát, nón phù thủy, bùa đầu lâu, trượng hư vô.
 ==========================
 29
@@ -144,28 +144,28 @@ Trò chơi điện tử
 Trong 2 nhân vật còn lại ở trên thì không thằng nào đủ sức để Diana thấm hút đâu.
 ==========================
 30
-Trò chơi điện tử
+Diana
 Trong 2 nhân vật còn lại ở trên thì không thằng nào đủ sức để Diana thấm hút đâu.
 Em nghe nói Diana bị chỉnh sửa lại nên giờ yếu rồi.
 ==========================
 31
-Trò chơi điện tử
+Diana
 Em nghe nói Diana bị chỉnh sửa lại nên giờ yếu rồi.
 Xem trên youtube thấy người ta đánh Diana hay lắm, nên đang phân vân giữa Diana với Irelia.
 ==========================
 32
-Trò chơi điện tử
+Diana
 Xem trên youtube thấy người ta đánh Diana hay lắm, nên đang phân vân giữa Diana với Irelia.
 1 con là bruiser, 1 con là AP, bạn phân vân cái gì?
 ==========================
 33
-Máy tính
+Mạng
 Mình trước dùng wwan chứ không dùng express card vì nó to to không bé và tiện như wwan, tóm lại là mình nghĩ không nên chơi, tốn tiền, khi nào cần vào mạng gấp thì hotspot điện thoại ra, wwan là thứ có thì thừa mà không có thì hơi thiếu đấy, theo mình không nên chơi để tiền đó làm việc khác.
 Cảm ơn bạn nhiều, tiếp thu ý kiến của bạn.
 ==========================
 34
-Laptop
-Mình còn pin 4 cell T61 không anh nhỉ?
+Pin
+Mình còn pin 4 cell T61 không anh nhỉ ?
 Không bạn ạ, pin mình hết rồi.
 ==========================
 35
@@ -176,50 +176,50 @@ Thấy nhiều bạn bảo xem Walking Dead với Breaking Bad ghê, có lẽ xe
 36
 Điện ảnh
 Giới thiệu cho mình phim hoặc sêri TV nào hay hay đi.
-No country for old man bác nhé, phim kinh điển đấy, sêri Breaking Bad, sêri Fast and Furious.
+No country for old man bác nhé, phim kinh điển đấy, sêri Breaking Bad, sêri Fast and Furious nữa .
 ==========================
 37
-Laptop
+Thinkpad
 Cái khoản bàn phím của Thinkpad T430 với T420 thì sao bác nhỉ, xem đánh giá cứ thấy mọi người chê bàn phím mới ?
 Bàn phím T430 mới sản xuất kiểu chicklet cũng có độ êm và nảy như truyền thống, kiểu dáng khác nhau, còn về chất lượng phím thì như nhau, có người thích người chưa thích thôi, rồi sẽ quen.
 ==========================
 38
-Laptop
+Hỏi RAM
 Em có elitebook 8460p bảo hành đến 11/2014, RAM theo máy là 4GB 1333, giờ muốn nâng cấp lên 1 thanh 8GB 1600 các bác có đổi không ?
 RAM bác là RAM gì vậy ?
 ==========================
 39
-Laptop
+Hỏi laptop
 Bác dùng T400 có thấy hiện tượng nóng màn hình ở gần đèn LED không, mình sờ vào đó thấy khá là nóng nên hơi lo lo.
 Chỗ này mà nóng nóng thì là màn hình hoat động tốt, nó là phần công suất của toàn bộ màn hình mà, nếu không nóng thì sắp toi rồi.
 ==========================
 40
-Máy tính
+Hỏi ổ cứng
 Có cái ổ cứng 320G Hitachi nào không bạn, làm một con về gắn HP6930 thay cho Seagate.
-Có Fujitsu bạn ạ.
+Có cái ổ Fujitsu bạn ạ.
 ==========================
 41
-Laptop
+Pin
 Bạn dùng pin laptop thế nào cho bền ?
 Tớ hay để pin tới 50% và 98% thì rút sạc, mỗi tuần xả 1 lần.
 ==========================
 42
 Du lịch
 Anh đi du lịch rồi thì sao mà lướt web được thế ạ, hay đang ngồi ở sân bay?
-Hủy rồi.
+Hủy rồi .
 ==========================
 43
-Laptop
-Chẳng là e cũng vừa khuân 1 em 8540w về, em mua ở Vietcali ngoài Hà Nội, nhưng có vấn đề này bạn chỉ dùm em với, cái Windows em bung máy ra nó là bản xài thử là sao ạ ?
+Hỏi laptop
+Chẳng là em cũng vừa khuân 1 em 8540w về, em mua ở Vietcali ngoài Hà Nội, nhưng có vấn đề này bạn chỉ dùm em với, cái Windows em bung máy ra nó là bản xài thử là sao ạ ?
 Cái này hơi nghi vấn 1 chút vì nếu lần đầu bung Windows của HP Elitebook 8540w thì sẽ ra Windows bản quyền luôn, có thể bac bị nhầm lẫn đâu không?
 ==========================
 44
 Cộng tác viên
-Mình sắp làm cộng tác viên cho bên VCL.
-Chúc mừng.
+Mình sắp làm cộng tác viên cho bên VCL .
+Chúc mừng nhé .
 ==========================
 45
-Laptop
+Hỏi laptop
 Xin anh giúp, em đang cần 1 em HP Elitebook tầm dưới 10 triệu, mua ở đâu ?
 Hiện nay ở songvietlaptop.com đang bán con Elitebook 2530P hàng secondhand với giá 8.8 triệu đồng và Elitebook 6930P secondhand với giá 9.9 triệu đồng.
 ==========================
@@ -299,7 +299,7 @@ Cho em biết sự khác nhau giữa ngọc sát thương chí mạng với ng�
 Ngọc sát thương vật lí tăng một lượng AD nhỏ vào lượng AD cơ bản của nhân vật, ngọc sát thương chí mạng cho thêm một số phần trăm chí mạng, khi đánh thường sẽ có tỷ lệ nhân đôi AD cơ bản vào đòn đánh đó.
 ==========================
 61
-Trò chơi điện tử
+Garena
 Cho em hỏi cái Garena Energy ở cái Garena Plus để làm gì thế ?
 Tích lũy để đổi sò đấy.
 ==========================
@@ -359,7 +359,7 @@ Mua hàng mới cho nó rẻ.
 Trả như thế nào ?
 ==========================
 73
-Máy tính
+Mainboard
 Tiếc quá, mình không hợp với bọn mainboard của MSI, cứ con nào vào tay mình là y như rằng là chết con đó.
 Chết lại được con mới cơ mà.
 ==========================
@@ -374,23 +374,23 @@ Mùa thu với mùa đông mình thấy thoải mái nhất.
 Đồng tính gì mà Đồng tính nhìn gái vẫn thèm thuồng đây này, nhưng khi lâm trận mình lại lười.
 ==========================
 76
-Laptop
+Hỏi laptop
 Bác giúp em với, em đang sử dụng con Asus u57, dạo gần đây thì máy luôn chạy ở mức 20, 30%, duyệt web thì lên 35%, trước giờ chưa bao giờ bị như thế, bình thường thì chạy khoảng 2% lúc để không thôi.
 Thế thì con Asus có vấn đề rồi đó bạn à, đem đi sửa xem.
 ==========================
 77
-Laptop
+Hỏi laptop
 Mới mua được 2 tháng laptop thì bị hư bác ơi.
 Thế đi bảo hành đi bạn, nếu không biết gì thì đừng có nghịch vào rồi lại hỏng thêm, 2 tháng thì đem ra nó bảo hành cho, vớ vẩn nó thay cái máy luôn ấy.
 ==========================
 78
-Laptop
+Bảo hành
 Em mua máy ở chỗ aviSHOP, giờ máy em hơi có vấn đề thì bảo hành ở đâu nhỉ ?
 Bạn mang qua luôn 150 Thái Hà bạn nhé.
 ==========================
 79
-Laptop
-mình định mua ASUS s400 core i5 thì máy đã bao gồm túi xách, chuột rồi thì phải, vậy thì mình sẽ được khuyến mại gì khi mua trong thời gian này ?
+Hỏi laptop
+Mình định mua ASUS s400 core i5 thì máy đã bao gồm túi xách, chuột rồi thì phải, vậy thì mình sẽ được khuyến mại gì khi mua trong thời gian này ?
 Túi xách và chuột quang tặng trong gói khuyến mãi trước là dòng sản phẩm khuyến mại tặng kèm, trong thời gian này thì bạn sẽ được tặng túi xách và chuột là dòng sản phẩm ASUS chính hãng, và bạn được tặng thêm 200 ngàn VND bằng tiền mặt.
 ==========================
 80
@@ -444,7 +444,7 @@ Cam Ranh thì bao quát được cả Biển Đông luôn, vì Khánh Hòa là t
 Đừng bảo là vô khu căn cứ quân sự mà ngắm nhé ?
 ==========================
 90
-Laptop
+Tư vấn laptop
 Theo thiển ý của bác thì con laptop nào chạy nuột nhất vậy ?
 Con nào lắm tiền thì tốt thui.
 ==========================
@@ -475,7 +475,7 @@ Vấn đề nằm chỗ này, bạn nên trình bày rõ ràng để thông rõ 
 ==========================
 96
 Keeley Hazell
-Keeley Hazell, siêu mẫu ngực trần, sinh năm 86, 1m68, số đo ba vòng tuyệt vời lắm.
+Keeley Hazell, siêu mẫu ngực trần, sinh năm 86, 1.68 m, số đo ba vòng tuyệt vời lắm.
 Keeley Hazell mà xấu thế à ?
 ==========================
 97
@@ -549,22 +549,22 @@ Mình 22 tuổi, 4 mối tình, cao 1.67m, nặng 54kg, vừa chia tay người 
 Vẫn cao và nặng hơn mình rồi.
 ==========================
 110
-Laptop
+K43E
 Con laptop K43E nghe nói chỉ nhận Windows 7 64 bit hả bác?
 Sản phẩm K43E cài được Windows 32bit, vì vậy bạn yên tâm nhé.
 ==========================
 111
-Laptop
+N56VZ
 Em đang định mua con ASUS N56VZ nhưng không biết có đủ chơi mấy trò chơi điện tử khủng với cấu hình tối đa không ?
-N56 chạy tải tối đa thoải mái bạn ạ, hầu hết các dòng laptop của ASUS đều có chế độ tản nhiệt tốt nên chạy tải tối đa là tốt khi cần thiết thôi.
+N56VZ chạy tải tối đa thoải mái bạn ạ, hầu hết các dòng laptop của ASUS đều có chế độ tản nhiệt tốt nên chạy tải tối đa là tốt khi cần thiết thôi.
 ==========================
 112
-Laptop
+Bảo hành
 Em mua máy K43SJ ở phố Huế được 1 tháng rồi, hôm nay kiểm tra pin thì bị chai khoảng 5%, lúc mới mua có xả pin và sạc đúng kiểu, thế có được bảo hành không anh ?
 Anh mang máy và pin qua hãng bảo hành nhé.
 ==========================
 113
-Laptop
+610M
 Người ta ca ngợi dòng laptop K53 ghê quá, có khi thứ tư có tiền lấy một con, cứ có phím số là kết rồi, mà cho mình hỏi cái card màn hình 610M của nó hiệu năng thế nào nhỉ, có ngon không ?
 Có ai ca ngợi đâu, 610M cùi bắp lắm, giờ phải lấy 630M cơ.
 ==========================
@@ -589,42 +589,42 @@ Bạn cầm cả 2 đôi điếu cày phang 5 thằng ấy à ?
 3 cái điếu cày thôi chứ.
 ==========================
 118
-Laptop
+Hỏi laptop
 Chắc mình phải mua 1 cái đế tản nhiệt cho laptop của mình quá, cho mình hỏi là nóng quá liệu có làm cho máy trục trặc gì không ?
 Mình nghĩ không đến nỗi nào đâu em Toshiba của mình sống sót qua 4 năm mà nhiệt độ còn nóng hơn thế nên mình nghĩ cứ vô tư đi, nó phải lo cho mình chứ mình lo cho nó thì mệt đó bạn.
 ==========================
 119
-Laptop
+Hỏi laptop
 Mọi người cho mình hỏi nhiệt độ laptop của mình vầy có bình thường không, sao mình sờ vào mặt trên của em nó thấy nóng quá, còn mặt dưới thì như lò than ?
 Bình thường thì chỉ khoảng 40 độ nếu chỉ đọc sách và lướt web thôi.
 ==========================
 120
-Laptop
+Hỏi laptop
 Nhiệt độ laptop của mình nóng là máy mới chỉ chạy phần mềm TuneUp, xem phim và vào Chrome thôi à, nếu mà chạy mấy cái nặng nặng nữa thì có thể sẽ lên nữa đó.
 Bình thường thôi bạn ạ, không có gì đáng lo, CPU xung cao thì phải chấp nhận rồi.
 ==========================
 121
-Laptop
+Hỏi laptop
 À không biết ổ quang của mọi người thế nào, chứ cái của mình khi chạy đĩa kêu to lắm, nghe tiếng rít mà thấy sợ ,có vấn đề gì không nhỉ, máy mình mới mua được vài ngày thôi.
 Ổ đĩa trong máy mình thì không phát ra tiếng rít mà chỉ phát ra tiếng ồ ồ như gió thổi thôi à.
 ==========================
 122
-Laptop
+Bảo hành
 Mình mua laptop được mấy ngày thì hôm trước có việc chạy lên Quận 1 nên ghé qua trung tâm bảo hành HP trên đường Phan Kế Bính xem thế nào, chỗ bảo hành thì bé tí và lúc mình vô thì có mỗi 2 người đang ngồi chờ, mình vô đưa máy luôn và nhờ kiểm tra hộ máy mới hay Refurbish, kiểm tra bảo hành, họ làm ngay tại bàn luôn, đưa đầu đọc số serial trên máy và trả lời luôn, lúc đấy nghe vậy xong là đi luôn mà quên không hỏi phần kiểm tra linh kiện, nhưng mình nghĩ họ cũng kiểm tra được thế thôi, chỉ khi trục trặc phần cứng họ mới kiểm tra linh kiện chứ đang máy mới chạy ngon họ không đời nào gỡ ra đâu.
 Nếu mà không kiểm tra linh kiện bên trong thì mang lên đó cũng có gì đâu mà kiểm tra bạn nhỉ, bên ngoài thì có mỗi số S/N và P/N của máy, còn linh kiện bên trong không biết là linh kiện chính hãng hay hàng dỏm, nếu như thế thì ở nhà kiểm tra trực tuyến còn sướng hơn bạn à, dù sao cũng cám ơn bạn đã đóng góp ý kiến.
 ==========================
 123
-Laptop
+Hỏi laptop
 Cho mình hỏi nhiệt độ máy mình vầy có bình thường không, sao mình sờ vào em nó thấy nóng quá;
 Không nóng đâu bạn, của mình CPU 57 độ khi bình thường và 60 độ khi hoạt động mạnh đó và các nhiệt độ khác cũng tương đương máy bạn, khi bạn để máy không hoạt động nhiều thì nhiệt độ này cách biệt không lớn nhưng khi bạn tải tối đa thì sự cách biệt này khá lớn đấy, một phần chắc do máy bạn kim loại nên nó thoát nhiệt 1 phần qua bề mặt kim loại làm cho bạn cảm thấy nóng hơn.
 ==========================
 124
-Laptop
+Hỏi laptop
 Không nóng đâu bạn, của mình CPU 57 độ khi bình thường và 60 độ khi hoạt động mạnh đó và các nhiệt độ khác cũng tương đương máy bạn, khi bạn để máy không hoạt động nhiều thì nhiệt độ này cách biệt không lớn nhưng khi bạn tải tối đa thì sự cách biệt này khá lớn đấy, một phần chắc do máy bạn kim loại nên nó thoát nhiệt 1 phần qua bề mặt kim loại làm cho bạn cảm thấy nóng hơn.
 Chắc mình phải mua 1 cái đế tản nhiệt cho em nó quá, cho mình hỏi là nóng như vậy liệu có làm cho máy trục trặc gì không ?
 ==========================
 125
-Laptop
+8540w
 Con 8540w cái adapter của nó là bao nhiêu watt thế nhỉ, cái của em sao lúc cắm máy nó cứ kêu rì rì rất nhỏ để tai gần mới nghe thấy.
 8540w thì 1 tiếng rưỡi đầy 90% pin bác ạ.
 ==========================
@@ -634,17 +634,17 @@ Số mình đúng là đen, vay mượn mãi mới đủ tiền sắm được 1
 Có gì đâu bạn, thế mới là máy tính chứ, sau cuộc này bác lại hiểu nó hơn ấy.
 ==========================
 127
-Laptop
+Pin
 8540w xạc chuẩn là 90w, còn cấu hình fx1800m thì là 120w, 150w, hình như thế thì phải.
 Em cứ tưởng pin có 56w mà adapter 90W thì chưa đầy 1 tiếng nó đầy pin, tại điện thoại nó hay tính như vậy.
 ==========================
 128
-Laptop
+Pin
 Bạn xem dùm với, pin laptop nó đề có 96% dù em đã cắm sạc rất lâu, như vậy có phải laptop đã bị chai mất 4% rồi không ạ ?
 Không lo đâu bác, xài tí cho pin xuống dưới 95% là cắm xạc nó lại đầy mà, nếu không đầy thì pin lỗi nhưng máy mới chắc không đến mức thế đâu.
 ==========================
 129
-Laptop
+Pin
 Bác cho em hỏi con adapter của em, nó 90W nhưng pin có 6cell em tưởng chưa đầy 1 tiếng là phải sạc xong chứ nhỉ, sao em vẫn sạc tới hơn 1 tiếng nhỉ, hay sạc bị sao, hay nguyên lí nó không như sạc điện thoại ?
 Bác vừa xạc nghịch bật máy hay tắt máy xạc ?
 ==========================
@@ -709,27 +709,27 @@ Em học Pencak-Silat được 2 năm thì nghỉ, bây giờ muốn học lại
 Sao không đi học hả bạn, môn này phòng thủ rất hay, nếu mà bạn đạt được trình độ bắt chân 10 quả được 9 thì là ngon lắm rồi, môn này bắt chân đánh ngã thì cứ gọi là vô đối với võ thể thao còn võ khác không biết.
 ==========================
 142
-Máy tính
+Hỏi laptop
 Nâng cấp BIOS rồi, thấy bình thường, không khác biệt gì cả.
 Có khác đấy bác, nó chỉnh lại mạch pin, hầu hết pin chai 0%, nhưng thực chất là mất đi sô dung lượng chai của lần trước.
 ==========================
 143
-Laptop
+Hỏi laptop
 Mình thường chơi FIFA, PES trên Elitebook, về hiệu năng thì không bàn rồi, nhưng mà mình thấy khó chịu với cái bàn phím khi chơi, đó là ấn nhiều nút 1 lúc thì máy không nhận được hết tín hiệu, liệu có cách giải quyết không vậy ?
 Bạn thử với bàn phím gắn ngoài xem thế nào ?
 ==========================
 144
-Laptop
+Hỏi laptop
 Em thích dòng doanh nhân của HP nhưng đang thời kỳ đói kém không đủ tiền kham em mới, anh muốn lên đời máy bán máy cũ không thì để lại cho em ạ ?
 Bán lại 25 triệu mua không?
 ==========================
 145
-Laptop
+Hỏi ổ cứng
 Mình có tiền khoảng 2.5 triệu đổ lại, nhờ bạn tư vấn nên mua ổ cứng gắn ngoài cho laptop thế nào là hợp lí nhất, nhu cầu của mình là, bền, ổn định, xem phim trực tiếp trên ổ không bị lag, dùng để lưu trữ và xem phim định dạng cao, dung lượng 1TB, tốc độ chuyển dữ liệu không chậm quá, máy có hỗ trợ eSATA, USB 3.0 nên ưu tiên loại nào có hỗ trợ cái này.
 Cứ Hitachi và Western Black hoặc Blue mà chọn, mình chỉ thấy ổ cứng loại 2.5inch cho laptop chứ 3.5inch thì mình chưa thấy bao giờ.
 ==========================
 146
-Laptop
+Hỏi laptop
 Cho hỏi, sao con 8540p của em quạt card màn hình nó quay 100% suốt thế, có cách nào chỉnh quạt của nó được không nhỉ ?
 Cả con laptop có mỗi 1 cái quạt mà bác, hiện 1 cái là đúng rồi, nhưng máy chạy bình thường mà quạt chạy 100% thế thì cũng lạ nhỉ.
 ==========================
@@ -739,27 +739,27 @@ Laptop của bác pin lỏng thì để ý phần màu xanh lá, xem có cái l�
 Bác tinh thật, của em không sao, may thế, từ giờ kị không tháo pin nữa, cứ để trong máy luôn.
 ==========================
 148
-Laptop
+3G
 Các bác cho em hỏi em chuẩn bị mua USB 3G, laptop 8440p chỉ việc cắm vào là dùng được luôn hay phải cải driver gì ạ ?
 Bác cắm lần đầu cái 3g sẽ tự động cài driver là cái chương trình client cho bác, không phải lo nhé.
 ==========================
 149
-Laptop
+Hỏi laptop
 8350 giá cao hơn, xung df cao hơn nên ngon hơn, ít tiền mà muồn ép xung nghịch ngợm thì lấy 8320 và mainboard ngon tí hơn là lấy 8350 với mainboard cùi.
 Vậy chắc em phải lấy 8350 rồi em xài mainboard cũ AM3 với M4A88TD-V EVO/USB3.
 ==========================
 150
-Laptop
+Mainboard
 Em lấy laptop 8350 rồi em xài mainboard cũ AM3 với M4A88TD-V EVO/USB3.
 Mình nghĩ là bán luôn cái mainboard đó làm 1 cặp 970 với 8350 hay hơn nhiều đó bạn.
 ==========================
 151
-Laptop
+Mainboard
 Em lấy laptop 8350 rồi em xài mainboard cũ AM3 với M4A88TD-V EVO/USB3.
 Theo mình biết thì M5 mới có socket AM3+ hỗ trợ FX, coi lại cẩn thận không mua M4 về là ôm hận đấy.
 ==========================
 152
-Laptop
+Mainboard
 Theo mình biết thì M5 mới có socket AM3+ hỗ trợ FX, coi lại cẩn thận không mua M4 về là ôm hận đấy.
 Mình mới xem lại rồi đúng là M4A88TD-M EVO/USB3 chỉ hỗ trợ có AM3.
 ==========================
@@ -769,7 +769,7 @@ Cùi bắp quá.
 Hay thế mà bảo cùi bắp.
 ==========================
 154
-Máy tính
+CPU
 Sao nó không chạy trên CPU AMD nhỉ ?
 Cái này mình cũng không rành nữa.
 ==========================
@@ -824,7 +824,7 @@ Kì nghỉ xuân đi yosemite đi.
 Nghỉ được có 1 tuần, chán phèo, em phải cắm mặt vào mấy cái dự án.
 ==========================
 165
-Laptop
+Bằng lái
 Ngày mai thi bằng lái xe mô tô, đau tim quá.
 Mình thì thi bằng hạng D ở New York rớt đúng 3 lần.
 ==========================
@@ -854,8 +854,8 @@ Theo kinh nghiệm của thằng bạn em thì du học nếu bác ở lại lu�
 Du học xong chắc em về lại Việt Nam, visa f1 ra trường chắc cũng bị đuổi về, mà dịch vụ cộng đồng là gì nghe lạ thế ?
 ==========================
 171
-Laptop
-khùng , balo bên đây rẻ bèo. chừng $30-$40 thôi thì adidas, nike, puma, northface các kiểu tha hồ mà lựa.
+Balo
+Khùng , balo bên đây rẻ bèo. chừng $30-$40 thôi thì adidas, nike, puma, northface các kiểu tha hồ mà lựa.
 Northface có nhiều cái gia công ở Việt Nam rồi tuồn ra ngoài nhưng chất lượng cũng tốt lắm. Hàng bên Mỹ này bán từ $60-$80 chưa tax chứ 30-40 thì nhìn kiểu cũng khá xấu. Bà chị kỳ rồi có về Việt Nam mua 1-2 cái Northface chất lượng nhìn cực đã lun mà giá chỉ khoảng $30 thôi. Coi như có cái xách đồ quá lun mà có gì phải khùng
 ==========================
 172
@@ -884,12 +884,12 @@ Mà không biết nhiều người mới qua du học bị sốc gì vậy, ch�
 Vậy bạn may mắn rồi, nhiều người mới qua hơn năm trời mới có việc làm đó bác.
 ==========================
 177
-Laptop
+Hỏi card màn hình
 Mình muốn mua card màn hình rời lắp vào laptop.
 Không lắp được thêm đâu anh ạ, vì em thấy nó hàn chặt vào mainboard rồi, không phải dạng lắp rời, nhưng mà dùng card màn hình onboard là ổn rồi anh, công việc anh em mình thì onboard cũng quá ổn, làm tí 3DS Max và Photoshop cũng vẫn ngon lành.
 ==========================
 178
-Laptop
+IBM
 Hàng IBM đắt vãi chưởng
 So với các dòng giải trí thì dòng doanh nhân như ThinkPad, HP Elitebook đắt hơn một chút là điều đương nhiên rồi bạn, nhưng bù lại được bảo hành đến 3 năm hoặc bạn thử lấy số tiền mua máy chia cho thời gian sử dụng rồi sẽ thấy 1 điều hết sức giản dị là mua Laptop dòng doanh nhân như ThinkPad đúng là không đến nỗi đắt quá đâu.
 ==========================
@@ -949,9 +949,9 @@ Bác thử vào mấy siêu thị nội thất xem, có Glassy ở Hàng Cót, A
 Đặt so với mua có sẵn thì đắt hơn nhiều không bác nhỉ ?
 ==========================
 190
-Laptop
-Trông thì thế thôi , chứ thực tế mà nếp sống không gọn gàng khoa học thì với giường tủ như thế sẽ khiến bạn thấy khó chịu đấy .
-nhưng phòng 12m2 thiết kế như thế là hợp lý nhất rồi mà bác
+Nội thất
+Trông thì thế thôi, chứ thực tế mà nếp sống không gọn gàng khoa học thì với giường tủ như thế sẽ khiến bạn thấy khó chịu đấy .
+Nhưng phòng 12m2 thiết kế như thế là hợp lý nhất rồi mà bác .
 ==========================
 191
 Địa chỉ
@@ -984,7 +984,7 @@ Cho em hỏi có bác nào biết cái phim mà có 2 thầy trò đánh Violin 
 Hình như bài Kiss the rain đó bạn.
 ==========================
 197
-Máy tính
+Hỏi CPU
 Con CPU xung thật bao nhiêu vậy bạn, Real temp nó báo 5.9GHz ?
 Bác hỏi mới để ý đến cái đấy, xung thật là 5.4 Ghz với 1.58 vol, kéo lên 5.9 GHz chắc thành hàng độc mất.
 ==========================
@@ -994,17 +994,17 @@ Cho hỏi xếp hình là môn thể thao gì thế ạ?
 Xếp hình là môn thể thao mà khi ấy người chơi phải sắp xếp các vật thể khác nhau vào đúng chỗ của nó, đôi khi có vật thể có thể xếp vừa vào 1 hay nhiều vật thể khác, đại loại vậy
 ==========================
 199
-Laptop
+Balo
 Bên bạn có bán lẻ túi Targus ThinkPad không, giá bao nhiêu, mình vửa mới đặt con x200 bên Nhật, dùng không biết có vấn đề gì không, bên đó có bán bàn phím tiếng Anh không nhỉ, bán thì giá bao nhiêu?
 Túi đó mình để khuyến mại cho khách thôi, tuy không phải là xịn nhưng không đến nỗi tệ, đẹp lắm.
 ==========================
 200
-Laptop
+Balo
 Bạn vừa nói ở trên là túi targus không phải là xịn lắm, mà quảng cáo ở dưới lại nói là túi Thinkpad xịn, liệu có mâu thuẫn không, một cái túi đó giá cũng không ít đâu, về phần còn lại thì máy theo như quảng cáo là khá ngon.
 Theo mình thì nó đẹp và dùng ngon lành, cặp Targus xịn mua bên USA chính hãng Lenovo đã là 49$ rồi chưa kể thuế và tiền lãi bán hàng, mua 1 con Thinkpad mà tặng cặp đấy thì đều cộng hết vào giá tiền bán hàng thôi.
 ==========================
 201
-Laptop
+Nâng cấp
 Nâng cấp laptop thì được rồi nhưng như thế 160 GB có sẵn của máy mình chắc để không thôi, thế thì hơi phí, băn khoăn mỗi chỗ đấy thôi.
 Nâng cấp có nghĩa là bạn thêm tiền để lên phần cứng cao hơn.
 ==========================
@@ -1059,7 +1059,7 @@ Lần trước làm 1 con 6910p, vẫn chạy ngon.
 Vẫn chạy ngon là tốt rồi.
 ==========================
 212
-Laptop
+Công nghệ
 Mới đến K54 mà, nổ gì to thế.
 Công nghệ đổi mới từng ngày mà bạn, dù gì thì cũng hơn chục năm rồi.
 ==========================
@@ -1069,12 +1069,12 @@ Có vợ chưa ?
 Haha, chưa, vẫn đang sợ có vợ, haha.
 ==========================
 214
-Máy tính
-kiểm tra 3l luôn đều thế
+Kiểm tra
+Kiểm tra 3l luôn đều thế ?
 Đúng là lạ thật, khi kiểm tra bạn nhớ đừng mở chương trình nào khác cùng chạy, còn nếu nó vẫn vậy thì mình cũng thua, có lẽ do Windows, xung đột driver,...
 ==========================
 215
-Máy tính
+Kiểm tra
 Đúng là lạ thật, khi kiểm tra bạn nhớ đừng mở chương trình nào khác cùng chạy, còn nếu nó vẫn vậy thì mình cũng thua, có lẽ do Windows, xung đột driver,...
 Ủa mở nhiều chương trình nó cũng ảnh hưởng à, lúc đó mình mở cũng nhiều chương trình lắm.
 ==========================
@@ -1084,17 +1084,17 @@ Mình để ý là cái tốc độ nó tăng thì điểm tăng, tốc độ gi
 Đúng rồi bạn, xung cao thì điểm sẽ cao, điểm này cũng tương đối rồi đó.
 ==========================
 217
-Máy tính
+Kết quả
 Đúng rồi bạn, xung cao thì điểm sẽ cao, điểm này cũng tương đối rồi đó.
 Vậy làm sao chính xác được ?
 ==========================
 218
-Máy tính
+Kết quả
 Vậy làm sao chính xác được ?
 Kết quả thường chỉ tương đối thôi, mình thì thường lúc mở máy lên, không mở bất cứ chương trình gì khác, cứ chạy vài lần rồi lấy kết quả cao nhất là được.
 ==========================
 219
-Máy tính
+Kết quả
 Kết quả thường chỉ tương đối thôi, mình thì thường lúc mở máy lên, không mở bất cứ chương trình gì khác, cứ chạy vài lần rồi lấy kết quả cao nhất là được.
 Thì mình cũng vừa mở máy lên là kiểm tra liền mới cao vậy đó.
 ==========================
@@ -1114,7 +1114,7 @@ Em nghe được trên 1 bản tin radio trên mạng 1 đoạn nhạc khá hay 
 Find Your Love của Fiona Fung nhé.
 ==========================
 223
-Laptop
+Hỏi laptop
 Mình mới mua em 8540W, khi bung Windows là vista mất 4 tháng bảo hành, hiện giờ máy có rất nhiều phần mềm có sẵn mình nên để nguyên rồi cài Windows khác, hay nếu dùng tạm mình xóa đi có ảnh hưởng gì không ?
 Nói chung là cứ format hết rồi cài lại, còn về phần mềm thì nó có cái đĩa kèm theo cứ bỏ vào và cài, còn bảo hành thì lúc mình mua nó cũng trôi mất khoảng 5 tháng, nhưng sau khi cài HP Support Assistan thì khi check bảo hành trên web của HP thì đúng 3 năm từ lúc mình cài HP Support Assistan vô, chẳng biết như thế nào luôn.
 ==========================
@@ -1124,37 +1124,37 @@ Bạn thấy Windows Vista dùng nặng không, mình dùng mà cứ thấy ch�
 Windows Vista là đồ vứt mà bác dùng làm gì, format hết và cài lại Windows 7, sau đó tự tay cài driver, tất tần tật cho máy bác đi.
 ==========================
 225
-Laptop
+Miếng dán bàn phím
 Anh biết chỗ bán miếng dán bàn phím cho laptop từng phím rời thì cho mình biết với nhé, đang cần.
 Cái miếng dán bàn phím cho laptop đó mình xài thử của bạn rồi, cảm giác đánh máy nó khá khó chịu đấy.
 ==========================
 226
-Laptop
+Miếng dán bàn phím
 Cái miếng dán bàn phím cho laptop đó mình xài thử của bạn rồi, cảm giác đánh máy nó khá khó chịu đấy.
 Tại cái phòng trọ của mình bụi quá, sợ nó lọt vô trong kẽ laptop thì lại khó vệ sinh nó ra.
 ==========================
 227
-Laptop
+Miếng dán bàn phím
 Tại cái phòng trọ của mình bụi quá, sợ nó lọt vô trong kẽ laptop thì lại khó vệ sinh nó ra.
 Thế thì bạn mua cái bong bóng thổi bụi và cái cọ để quét bề mặt màn hình thì máy laptop lúc nào cũng mới tinh như mình nhé.
 ==========================
 228
-Laptop
+Vệ sinh laptop
 Thế thì bạn mua cái bong bóng thổi bụi và cái cọ để quét bề mặt màn hình thì máy laptop lúc nào cũng mới tinh như mình nhé.
 Ngày nào cũng quét với thổi chắc chết quá.
 ==========================
 229
-Laptop
+Hỏi laptop
 Bác cho hỏi với, Elitebook dòng p thì ở khớp nối màn hình có bị lộ cáp không, trước không để ý, hôm rồi đi bảo hành thay màn hình ở HP về mới thấy, qua soi con máy của ông anh cũng thấy, và nếu lộ cáp thế có sợ bụi bẩn dính vô hay dễ đứt cáp không?
 Con laptop dòng này cũng bị chết màn hình hả bác, tưởng loại này sẽ ít toi chứ nhỉ.
 ==========================
 230
-Laptop
+Hỏi laptop
 Con laptop dòng này cũng bị chết màn hình hả bác, tưởng loại này sẽ ít toi chứ nhỉ.
 Mình cũng không rõ lắm nhưng của mình chắc là tại rơi nhiều, rơi tầm khoảng chục phát, cả mình cả ông nhóc nhà mình, phát cuối rơi từ yên xe máy xuống kêu to lắm, may vỏ không móp méo gì cả, thế là đưa đi bảo hành thôi, có thể là do tư thế nó rơi ngang đập nguyên bản màn hình xuống đất nên mới bị còn các thứ khác vẫn bình thường, xuất hình qua card màn hình ngon.
 ==========================
 231
-Laptop
+Hỏi laptop
 Minh mới dùng máy được 3 tháng, máy mình 8540p i5, RAM 2GB, card màn hình rời, cài Windows 7 Professional có 2 lỗi này : thi thoảng bật lên chỗ tản nhiệt tự nhiên chạy vù vù, rồi tắt bụp và phím Numlock và phím Caps Lock nháy liên tục, sau đó bật lại thì vào bình thường, không hiểu sao khi chép rất lâu, chép 1 tập tin cảm thấy lâu, như đợt vừa rồi chép 100GB phim mà mất 3 tiếng. 
 Ổ cứng của máy bạn sắp hư hoặc đã bị badsector chỗ nào đó rồi, kiểm tra ổ cứng đi bạn.
 ==========================
@@ -1179,7 +1179,7 @@ Trường mình cũng có tổ chức nhưng mình nhận thấy mình chưa đ�
 Cứ tham gia thi cho vui, thi theo đội mà, có những thứ mình không biết thì bạn mình đã biết.
 ==========================
 236
-Laptop
+Hỏi laptop
 Mình định cài Mac lên con 8540w, không biết có được không, có bạn nào cài thử chưa, chỉ mình với ?
 Mình khuyên bạn cài máy ảo thôi đừng cài máy thật trên đó theo mình nghĩ là phải chỉnh MBR bằng chương trình nữa, dù sao thì Ubuntu là sự lựa chọn tốt.
 ==========================
@@ -1189,32 +1189,32 @@ Em có biết 1 chỗ bán đó, bác có thể mua hộ em 1 cái được khô
 Được bạn à.
 ==========================
 238
-Laptop
+Hỏi laptop
 Máy mình lâu lâu màn hình tối thui sau đó lại sáng lại và hiện ra cái thông báo lỗi, có bác nào biết bị lỗi gì không.
 Mình cũng bị y hệt bạn, phần thông báo đó là do card màn hình, sau khi cài lại bản mới nhất xong thì không còn hiện tượng trên.
 ==========================
 239
-Laptop
+Tư vấn laptop
 Em có tối là 19 triệu thì có thể mua được con T420 chip i5-2520 và card màn hình rời không ạ ?
 Không bạn à, i5 2520, card màn hình onboard đã gần vậy rồi, nhưng card rời thì nó thường đi liền với màn độ phân giải 1600x900 và giá của card rời chênh với onboard nhiều.
 ==========================
 240
-Laptop
+Hỏi laptop
 Thằng T420 có đèn nền bàn phím không anh ?
 T420 không có đèn bàn bàn phím nền đâu bạn à, chỉ có đèn rọi ở trên webcam rọi xuống thui.
 ==========================
 241
-Laptop
+Pin
 Pin 4cell là hàng OME hay hàng gốc vậy bạn?
 Pin 4 cell là hàng gốc bạn ạ, tháo máy T400.
 ==========================
 242
-Laptop
+Hỏi laptop
 Vừa lấy em Thinkpad x220t, bây giờ mới bắt đầu vọc, cảm nhận ban đầu là máy ngon, như mới luôn, bàn phím gõ đã thật, cảm giác còn sướng hơn cả Thinkpad T420 cũ của mình, đúng là không sai lầm khi chọn em này, cảm ứng khá nhạy, nhưng mà có lẽ Windows 7 không hỗ trọ nhiều lắm cho màn hình cảm ứng, phải đợi một chút cài Windows 8 xem mức độ đột phá thế nào, lần đầu tiên dùng ổ SSD cảm giác thật là sướng, cái gì cũng nhanh, cái nào cũng nuột.
 Thì là máy demo, 2nd hoặc máy dùng lướt web không khác gì mới nên chất lượng đảm bảo đó.
 ==========================
 243
-Laptop
+X201
 Sáng vừa lấy con X201, máy đẹp, cấu hình chuẩn, ngồi mãi đến giờ mới cài được Windows bác ạ.
 Nếu chơi X201 thì em cứ để mặc định ổ 320GB 7200rpm gốc của máy thì hơn, vì tốc độ cũng ổn và dùng lượng dùng thoải mái, em nâng cấp lên SSD tốc độ nhanh hơn nhưng dụng lượng thấp dùng khó chịu lắm, mà X series không lắp được thêm Caddy bay như T series nên bất tiện cho việc lưu trữ.
 ==========================
@@ -1229,7 +1229,7 @@ Em muốn lấy con Lumia 900 bị khóa 4G AT&T bác xem trên Amazon báo giá
 Nếu bác có ý định mua về dùng thì 6.6 triệu một em mới cho bác nhé.
 ==========================
 246
-Laptop
+Mua bán
 Bác cho em hỏi muốn mua máy tính HP từ trang chủ của HP thì có được không ạ ?
 Được chứ bác, bác cứ chọn một em đi rồi mua thôi.
 ==========================
@@ -1704,7 +1704,7 @@ Sao em không vào trang web được nhỉ, hay mobifone nó chặn blog ?
 Em vào bằng mobiphone bình thường mà.
 ==========================
 340
-Laptop
+Tin nhắn
 Để lại số điện thoại đâu đó trên đây là điện thoại cứ mấy ngày là hiện ra tin nhắn dịch vụ, thiệt tình, làm như vậy hình như đâu lời được bao nhiêu đâu.
 Tin nhắn dịch vụ là chúng nó làm quảng cáo qua SMS mà.
 ==========================
@@ -1764,22 +1764,22 @@ Web
 Chia buồn với bác.
 ==========================
 352
-Phần mềm
+HP CoolSense
 Là sao bạn, hình như phải cài thông qua cái HP Support Assistant á.
 Mình cài HP Support Assistant rồi mà không thấy HP CoolSense.
 ==========================
 353
-Phần mềm
+HP CoolSense
 Mình cài HP Support Assistant rồi mà không thấy HP CoolSense.
 Cài cái HP Software Famrwork rồi mới cài đến cái HP CoolSense.
 ==========================
 354
-Phần mềm
+HP CoolSense
 Cài cái HP Software Famrwork rồi mới cài đến cái HP CoolSense.
 Cài hết cái đống này rồi mà cứ cài cái HP Coolsense cứ báo lỗi, tụi nước ngoài nó cũng hỏi cái vụ này rồi, hình như chưa sửa được.
 ==========================
 355
-Phần mềm
+HP CoolSense
 Cài hết cái đống này rồi mà cứ cài cái HP Coolsense cứ báo lỗi, tụi nước ngoài nó cũng hỏi cái vụ này rồi, hình như chưa sửa được.
 Cái lỗi của anh nó báo HP Coolsense không hỗ trợ trên máy tính này đúng không ?
 ==========================
@@ -1849,52 +1849,52 @@ WAP
 Em cũng thế, Facebook thì lại vào bình thường, VNPT quẫn quá làm càn rồi.
 ==========================
 369
-Máy tính
+Card màn hình
 AMD nó ra con 7790 cũng chỉ để lấp khoảng trống của 7770 và 7850 mà 650Ti đang làm chủ mà thôi, nhưng con này xung sẵn đã cao thế rồi, bộ nhớ khoảng 1600, ép xung có vẻ không ngon nhỉ ?
 Bộ nhớ thì phải cưa đôi bằng 800 chứ nhỉ.
 ==========================
 370
-Máy tính
+Card màn hình
 Khi nào phiên bản nâng cấp GTX 650ti ra sẽ có kịch bản GTX 650ti 192 bit mạnh hơn HD 7790 và GTX 650ti mạnh hơn HD 7770, người dùng tha hồ mà lựa chọn.
 HD 7850 1G vs GTX 650Ti đã gần nhau thế rồi mà vẫn đút được 2 con nữa vào à ?
 ==========================
 371
-Máy tính
+Card màn hình
 Giga với XFX tản còn cùi hơn ref
-giga tản cùi thì công nhận, con giga với mấy con có HSF là 1 cục nhôm áp lên đều cùi, còn con XFX này nói cùi thì chưa chắc, mấy con MSI Cyclone thần thánh cũng HSF kiểu đấy.
+Giga tản cùi thì công nhận, con giga với mấy con có HSF là 1 cục nhôm áp lên đều cùi, còn con XFX này nói cùi thì chưa chắc, mấy con MSI Cyclone thần thánh cũng HSF kiểu đấy.
 ==========================
 372
-Máy tính
+Card màn hình
 Qua tuần là mình có thể cầm trong tay em Sap 7790 ép xung rồi.
 Lúc đó làm một bài nhận xét luôn đi bác.
 ==========================
 373
-Máy tính
+Card màn hình
 Bài nhận xét khá chi tiết về em Sapphire 7790 đã có bên kitguru.net.
 Kiểu này thì việc gì phải mua HD7850 nhỉ.
 ==========================
 374
-Máy tính
+Card màn hình
 Kiểu này thì việc gì phải mua HD7850 nhỉ.
 Rồi có thể em nó cũng như 6790 trước đây thôi, cứ chờ hàng về và nhận xét chi tiết.
 ==========================
 375
-Máy tính
+7850
 Có trên 4 triệu thì lấy 7580 là lên một tầm cao mới.
 Chuẩn, hơn 4 triệu thì lấy con HIS 7850 cho rồi.
 ==========================
 376
-Máy tính
+7850
 Chuẩn, hơn 4 triệu thì lấy con HIS 7850 cho rồi.
 Mình cũng nghĩ như bác, nếu nó 4 triệu thì quất ngay em 7850 1GB cho khỏe, thà cách 1 triệu còn suy nghỉ chứ 500 ngàn thì không phải lo, 1 tuần rưỡi chịu khổ ăn mì tôm nhịn ăn sáng sẽ đủ.
 ==========================
 377
-Máy tính
+Card màn hình
 Thế con này sẽ ăn thẳng vào khúc con GTX 650 Ti, hoặc là 7770 giảm giá, còn hơn GTX 650Ti 1 chút thì thua, 7850 bên trên quá sát rồi.
 7790 ra thì GTX 650ti giảm giá thế chỗ cho 7770, vậy chả lẽ 7770 không giảm ?
 ==========================
 378
-Máy tính
+Card màn hình
 7790 ra thì GTX 650ti giảm giá thế chỗ cho 7770, vậy chả lẽ 7770 không giảm ?
 Khó lắm, 7770 còn đang nổi thế sao lại không tiếp tục giữ giá thế, hi vọng nó giảm quá hốt 1 em.
 ==========================
@@ -1909,17 +1909,17 @@ Không biết nói gì hơn, đúng là kiến thức của mình có vấn đ�
 Ai cũng có cái đúng cái sai cả thôi.
 ==========================
 381
-Máy tính
+Chuột
 Không cập nhật thông tin thì chăm sóc sản phẩm hơi thiếu trách nhiệm nhỉ ?
 Tôi thì lại sợ tàu khựa nó tự sửa sản phẩm, làm vỏ mới và feet đi kèm lại còn không phải feet dành cho Fireglider mà dành cho chuột khác cơ, nhìn 2 cái ảnh này thấy rõ luôn
 ==========================
 382
-Máy tính
+Chuột
 Bạn lại lộn feet Dra với Fire rồi, em này có feet chuẩn đi kèm, trừ em squad ra thì em Sharkoon nào cũng có, riêng em DarkGlider có 2 loại feet kèm theo, 1 bộ ceramic và 1 bộ teflon.
 Xin lỗi cái này em nhầm.
 ==========================
 383
-Máy tính
+Chuột
 Nói chung chả có gì, theron là 1 con chuột ngon và giá hợp lý, cũng khoái con này.
 Người ta vực dậy một thương hiệu đã bị chính các bạn phân phối giết chết đó.
 ==========================
@@ -1944,7 +1944,7 @@ Mình thì chưa bao giờ thấy cái gọi là hàng rẻ giá ngon cả, nế
 Cái này mình đồng ý.
 ==========================
 388
-Máy tính
+Chuột
 FireGlider mà Avago 9500, kiến thức của đồng chí ở mức này thì mình nghĩ đồng chí có thể dừng tại đây được rồi.
 Chính xác thì FireGlider là 1 trong những sản phẩm Gaming gear đầu tiên của hãng Sharkoon và nó ra đời vào năm 2009 bạn ạ, vì thế nếu nói bạn dùng trước khi công ty Toàn Hưng ra đời thì cũng hơi sai chút xíu, đúng là ban đầu FireGlider sử dụng sensor Avago 6010, nhưng đó là chuyện của xa xưa rồi bạn, hiện giờ em nó đã được nâng cấp, mỗi cái giá thì vẫn vậy.
 ==========================
@@ -1954,7 +1954,7 @@ Bài nhận xét
 Thế mới có cái chốt hạ là kiểm tra kĩ trước khi mua.
 ==========================
 390
-Máy tính
+Chuột
 Nếu đúng là Fireglider được nâng cấp phần cứng sao không có thông tin gì trên trang chủ nhẩy, với lại ADNS 9500 mà DPI có 3600, hơi khó hiểu vì các con chuột khác dùng mắt đọc này đều thấp nhất là 5000 mà ?
 Mắt đọc chỉ là mắt đọc, còn đổ ổn định mắt đọc nó bao hàm cả bo mạch bên trong, người ta nói mắt đọc là trái tim của chuột, quả tim cũng phải cần vô số mạch máu co bóp mà sống.
 ==========================
@@ -2039,23 +2039,23 @@ Thấy khó quá à, bác có trang nào hướng dẫn quăng em xem với, ch�
 Theme thì bác lấy ở đây http://daivietpda.com/wordpress/1004...dpress-15.html hoặc tìm trong mục Wordpress của đại việt đó, còn hướng dẫn thì em không có, toàn ngồi mò mẫm thôi, nhưng mà em thấy Wordpress trực quan, mò dễ mà.
 ==========================
 407
-Máy tính
+Ổ cứng
 Mà ổ cứng thường chậm là chậm sao vậy anh, em xài đó giờ chưa thấy bị chậm chỗ nào cả, anh kéo torrent thì cần gì nhanh ?
-Chậm cỡ cài Windows mất 3 tiếng đồng hồ ngồi chờ.
+Ổ cứng chậm cỡ cài Windows mất 3 tiếng đồng hồ ngồi chờ .
 ==========================
 408
-Máy tính
-Chậm cỡ cài Windows mất 3 tiếng đồng hồ ngồi chờ.
-Tội quá máy e cũng mở 12 tiếng 1 ngày mà tới giờ có bị gì đâu.
+Ổ cứng
+Ổ cứng chậm cỡ cài Windows mất 3 tiếng đồng hồ ngồi chờ 
+Tội quá máy em cũng mở 12 tiếng 1 ngày mà tới giờ có bị gì đâu.
 ==========================
 409
-Laptop
+Máy tính
 Tội quá máy e cũng mở 12 tiếng 1 ngày mà tới giờ có bị gì đâu.
 Anh toàn sleep với hibernate chứ ít khi tắt máy, từ khi cài Windows 8 mới tắt máy nhiều thôi, chỗ trọ anh điện chập chờn lắm.
 ==========================
 410
-Web
-Mình vẫn chưa hiểu là cái site map nó có tác dụng gì ?
+Sitemap
+Mình vẫn chưa hiểu là cái Sitemap nó có tác dụng gì ?
 Sitemap nói chung là bản đồ trang web, tác dụng của nó là giúp người dùng và máy tìm kiếm dễ dàng khám phá trang web hơn, nên máy tìm kiếm sẽ index nhanh hơn, đầy đủ hơn.
 ==========================
 411
@@ -2099,12 +2099,12 @@ E làm trang khiêu dâm trên WAP host có lo công an tóm cổ không ?
 Năm ăn năm thua nhá, host riêng run đấy.
 ==========================
 419
-Máy tính
+Thùng máy
 Mua thùng máy xong thì hết tiền.
 Đúng thiệt, chơi cái thùng máy gần 8 triệu, mà đồ lòng chán quá.
 ==========================
 420
-Máy tính
+TJ07
 TJ07 mà không có quản lí cáp chắc em chết luôn.
 TJ07 mà bảo đời cũ thì mình cũng vái cả nón, khối thằng chịu chết vì cái đời cũ đó đấy.
 ==========================
@@ -2129,27 +2129,27 @@ Nhìn cái Modem VNPT bẩn quá.
 Xài lâu nó vàng đi chứ không phải bẩn.
 ==========================
 425
-Máy tính
+Bụi
 Không hiểu sao thùng máy của em nhiều bụi thế, đặc biệt là chỗ cánh quạt, quạt của card màn hình kẹt đặc bụi luôn.
 Nếu nhà bụi quá thì bác chuyển cái quạt màu dưới đáy lên nóc cho thổi ra lun, còn nếu vẫn nhiều bụi thì bác vứt 2 cái quạt màu luôn đi, xài 1 quạt hút phía sau thùng máy là đủ đồng thời che mấy cái lỗ trên nóc thùng máy là được.
 ==========================
 426
-Máy tính
+Quạt
 Nếu nhà bụi quá thì bác chuyển cái quạt màu dưới đáy lên nóc cho thổi ra lun, còn nếu vẫn nhiều bụi thì bác vứt 2 cái quạt màu luôn đi, xài 1 quạt hút phía sau thùng máy là đủ đồng thời che mấy cái lỗ trên nóc thùng máy là được.
 Nhà bụi thì lắp quạt chỗ nào cũng bụi, trừ khi có lưới lọc bụi.
 ==========================
 427
-Máy tính
+Lưới lọc bụi
 Lưới lọc bụi thì giảm hiệu năng đáng kể lắm, nhà bụi thì chịu khó chấp nhận chứ sao giờ.
 Mình xài thấy bình thường, không ảnh hưởng nhiều, gió vẫn đủ mạnh.
 ==========================
 428
-Máy tính
+Lưới lọc bụi
 Lưới thì lắp vào mặt hút ấy, lắp mặt thổi bảo sao gió chả yếu.
 Hồi giờ ai lắp quạt vào mặt thổi đâu.
 ==========================
 429
-Máy tính
+Quạt
 Hồi giờ ai lắp quạt vào mặt thổi đâu.
 Có em, hồi lúc xài Cooler Master RC430 Black có cái miếng lọc ở 2 cái quạt nóc.
 ==========================
@@ -2159,7 +2159,7 @@ Cu Quang là ai vậy đại ca ?
 Cu Quang là người gắn Toa lét cho anh đó.
 ==========================
 431
-Máy tính
+Quạt
 Cho em hỏi là làm sao lắp được cái quạt ở phía trước vậy ?
 Thì mua quạt về bắt ốc vào thôi, tháo cái mặt trước ra.
 ==========================
@@ -2169,9 +2169,9 @@ Máy tính
 Đúng rồi.
 ==========================
 433
-Máy tính
+Q9400
 Quan niệm của mình là nhu cầu sử dụng phải hợp lí, để chơi trò chơi điện tử, mình cũng nói luôn là, dàn máy của Q9400 cùi hủi của mình chưa ngán trò nào, nhu cầu mình không cần phải tối đa hết cấu hình, vì có tối đa hết thì mình cũng không cảm nhận được, nên trò nào tối đa được thì tối đa, còn chơi bình thường thì cứ chơi, giác quan của mỉnh chỉ được như vậy.
-Nếu là q9400 thì ổn rùi, tại thấy mainboard sk775 mà cái thùng máy lại như vậy nên thắc mắc thui.
+Nếu là Q9400 thì ổn rùi, tại thấy mainboard sk775 mà cái thùng máy lại như vậy nên thắc mắc thui.
 ==========================
 434
 Máy tính
@@ -2181,20 +2181,20 @@ Dàn máy cùi, vả lại không có tiền mua thùng máy đời mới với 
 435
 Máy tính
 Đi dây kiểu này tháo ra lắp vô rất mệt.
-Chủ Case đầy đủ đồ ăn chơi rồi lo gì phải xoắn
+Thùng máy đầy đủ đồ ăn chơi rồi lo gì phải xoắn
 ==========================
 436
-Máy tính
+Hỏi máy tính
 Hỏi ngu phát, mình lắp dây của nguồn FSP BS pro 500 cho mainboard p8h67-v và card màn hình GTX460, mình tính lấy đầu 8-pin cắm vào mainboard, còn card màn hình thì dùng 1 đầu 6-pin còn lại của nguồn và 1 đầu 6-pin của card màn hình nữa thì dùng đầu 4-pin của nguồn chuyển đổi qua 6-pin, bác thấy thế nào ?
 Là sao bạn, đầu 8 pin của card màn hình thì làm sao cắm vào mainboard được, vả lại không biết có khác BS II không, nhưng mà BS II không có đầu 8pin CPU, chỉ có 6x2pin card màn hình thôi mà.
 ==========================
 437
-Máy tính
+Driver
 Driver card màn hình rời hay Intel vậy ?
 Card rời chứ, card intel đi theo Windows luôn mà.
 ==========================
 438
-Máy tính
+Ổ cứng
 Em nghe nói ổ SSD dung lượng càng nhỏ thì tốc độ không bằng ổ lớn hơn phải không bác ? 
 Thì đúng rồi còn gì, giá tiền cũng tăng theo luôn.
 ==========================
@@ -2204,23 +2204,23 @@ Phí quá.
 Sao lại phí bác ?
 ==========================
 440
-Phần mềm
+Leshcat
 Mà Leshcat 12.9 là phầm mềm gì vậy bác ?
 Leshcat 12.9 là driver mod cho AMD bác ạ.
 ==========================
 441
-Phần mềm
+Leshcat
 Leshcat 12.9 là driver mod cho AMD bác ạ.
 Nó khác gì bản thường vậy bác, xài ổn định không ạ ?
 ==========================
 442
-Máy tính
-AW màu đen nhìn ngầu nhỉ, thế mà thằng bạn mua 1 con M17-r3 mầu đỏ nhìn cải lương không chiu được, vậy mà nó vẫn cho là màu đỏ đẹp hơn.
+Alienware
+Alienware màu đen nhìn ngầu nhỉ, thế mà thằng bạn mua 1 con M17-r3 mầu đỏ nhìn cải lương không chiu được, vậy mà nó vẫn cho là màu đỏ đẹp hơn.
 Cái này cũng tùy mắt mỗi người bác ạ, cơ mà cá nhân em vẫn thích màu đen hơn, xem trang bán hàng của Dell thì màu đỏ khá thịnh đấy ạ.
 ==========================
 443
-Máy tính
-Cái này cũng tùy mắt mỗi người bác ạ, cơ mà cá nhân em vẫn thích màu đen hơn, xem trang bán hàng của Dell thì màu đỏ khá thịnh đấy ạ.
+Màu sắc
+Cái này cũng tùy mắt mỗi người bác ạ, cơ mà cá nhân em vẫn thích màu đen hơn .
 Màu đỏ hợp với dàn đèn hơn ấy chứ, vẫn thích màu đen nhám.
 ==========================
 444
@@ -2244,22 +2244,22 @@ Sến cũng là một nghệ thuật đấy.
 Sến là tiêu chuẩn của đồng tính đó.
 ==========================
 448
-Máy tính
+Tản nhiệt
 Để bớt trống trải thì cố làm bộ tản nhiệt nước đi bác, mình là dân chơi mà, bớt led liếc này nọ thôi, 800D mà lạm dụng cái này nhìn cải lương lắm.
 Tản nhiệt nước mình ngồi tính sơ sơ cũng tầm chục triệu, thôi đành để thế vậy.
 ==========================
 449
-Máy tính
+Thùng máy
 Thùng máy cùi quá, chẳng thấy lỗ đi dây.
 Không có lỗ thật, em nó hàng gốc đó.
 ==========================
 450
-Máy tính
+Thùng máy
 Thùng máy do nguồn cùi nên chạy dây hơi cực tí.
 Làm cái hộp che nùi dây ớ dưới đi, còn cái dây 8pin để dưới mainboard đi, bạn thử sẽ thấy ngay sự khác biệt.
 ==========================
 451
-Laptop
+Đi dây
 Chắc bác không biết cách để tháo mấy cái dây nối, bọc lưới như mặc quần áo cho cái nguồn thôi.
 Tháo ra thì biết, mà cái chính không vụ dây nhợ, tháo ra rồi không nhớ đường cắm vào, hoặc cắm lộn thì chết, định thử mấy lần mà chưa có gan.
 ==========================
@@ -2269,17 +2269,17 @@ Hình của bác chất lượng ảnh thì thấp mà thích chơi độ phân 
 Xin lỗi bác, em chụp buổi tối bằng cái Galaxy S1 cùi không có flash, em lại không biết làm sao cho ảnh nó nhỏ lại.
 ==========================
 453
-Máy tính
+Quạt
 Quạt dùng để thoát nhiệt mà sao nói vô dụng nè ?
 Tùy bạn thôi, thích thì cứ để đi.
 ==========================
 454
-Máy tính
+Quạt
 Quạt dùng để hút hơi nóng ổ cứng ra đó
 Quạt dùng chả có tác dụng gì cả.
 ==========================
 455
-Máy tính
+Quạt
 Quạt dùng chả có tác dụng gì cả.
 Quạt làm mát RAM, card màn hình, treo lủng lẳng như người nhện thiệt.
 ==========================
@@ -2299,52 +2299,52 @@ Kiếm trong đống thư rác coi có không bác ?
 Không có bạn ạ.
 ==========================
 459
-Máy tính
+Đi dây
 Dây nguồn mình to quá không chơi kiểu đấy được.
 Đừng bó lại thành từng cụm mà dàn đều dây ra sau, như vậy sẽ dễ đóng nắp hơn.
 ==========================
 460
-Máy tính
+Nguồn
 Bạn xài nguồn gì, nếu nó bó tròn lại làm cho khó nhét thì bạn thử tách các sợi cho nó bung ra và cố đóng nắp lại xem được không, mạnh tay chút chắc là được mà.
 Híc nguồn nó to và mập như con rắn.
 ==========================
 461
-Máy tính
+Nguồn
 Híc nguồn nó to và mập như con rắn.
 Nguồn đấy á, con đấy mà dây to nỗi gì ?
 ==========================
 462
-Máy tính
+Đi dây
 Bác không thấy ống đen đen à, nó cấn ghê lắm, cho ra sau thì không có đè nắp vào được đâu.
 Cái đó do thùng máy chứ dây nguồn vậy bình thường có gì to đâu, mấy cục nguồn bây giờ nó bọc đầy đủ dây lưới chứ không phải chỉ mỗi dây 24pin đâu, lúc đó còn khó đi dây nữa.
 ==========================
 463
-Máy tính
+Shinobi
 Con Shinobi tầm 1.5 triệu thôi à.
 Con Source vỏn vẹn 8 trăm thôi à.
 ==========================
 464
-Máy tính
+Shinobi
 CEN5 II tuổi gì so với Shinobi ?
 Shinobi đi dây khá hơn Corsair.
 ==========================
 465
-Máy tính
+9500GT
 Mua con 9500GT đi cho thiên hạ chê bai.
-Kiếm được con 9500gt nào da cam là cũng cắm luôn.
+Kiếm được con 9500GT nào da cam là cũng cắm luôn.
 ==========================
 466
-Máy tính
+Mainboard
 Khổ thân em mainboard nhất thì đúng hơn, chắc chẳng ai như mình, mainboard 1.7 triệu mà đỡ con tản nhiệt cũng 1.7 triệu.
-Main 1.7 triệu cũng ép xung được hả.
+Mainboard đó mà cũng ép xung được hả ?
 ==========================
 467
-Máy tính
+Mainboard
 Cái mainboard 1.7 triệu mà đi với cpu gần 7 triệu.
 Biết thân biết phận có đú i7 đâu mà 7 triệu.
 ==========================
 468
-Máy tính
+Mainboard
 Mà không hiểu sao cái nguồn CM M2 Pro dây nó cứng quá, bẻ cong tay mà chẳng ăn thua, nhìn đống dây thấy nản.
 Mình thấy bạn nên đổi mainboard sang mainboard MSI, chơi tông xanh đen là hợp nhất, mainboard xanh đen, RAM đen, card màn hình xanh đen, nguồn đen.
 ==========================
@@ -2354,7 +2354,7 @@ Biết thân biết phận có đú i7 đâu mà 7 triệu.
 Chả qua là bạn không muốn lắp thôi, lên tới cỡ này, có HD598, D2000 mà cái CPU i7 chả lẽ không mua được ?
 ==========================
 470
-Máy tính
+Mainboard
 Mình thấy bạn nên đổi mainboard sang mainboard MSI, chơi tông xanh đen là hợp nhất, mainboard xanh đen, RAM đen, card màn hình xanh đen, nguồn đen.
 Dây con thì mềm thật, nhưng mà cái dây to đùng cắm mainboard kia thì nó không hề mềm chút nào.
 ==========================
@@ -2369,17 +2369,17 @@ Giàu thì chơi cái bàn này luôn cho nhanh, đóng làm gì vì trình đ�
 Cái góc vuông chỗ nhà tôi ông lạ gì, làm bàn đấy để không đẹp, hơn nữa trong góc nó vướng cái cột, nên là phải tự vẽ và mang đi đóng thôi.
 ==========================
 473
-Máy tính
+Tản nihệt
 CPU không có quạt vậy thì bạn xài tản nhiệt nước rồi, thế thì cũng phải có quạt cho Rad Tank chứ nhỉ, thế thì sao chỉ có 2 quạt được, muốn không ồn ào thì chỉnh chậm lại, muốn bão tố thì chơi hết ga cho nó hú chơi, không xài thì tắt cũng chả sao.
 Em chỉ xài HS Megahalem chứ không chơi tản nhiệt nước, vệ sinh mệt lắm, mà tính em vốn hay lười, bây giờ em chán rồi, em chuyển sang chơi âm thanh tốn kém nhưng thú vị hơn.
 ==========================
 474
-Máy tính
-Em chỉ xài HS Megahalem chứ không chơi tản nhiệt nước, vệ sinh mệt lắm, mà tính em vốn hay lười, bây giờ em chán rồi, em chuyển sang chơi âm thanh tốn kém nhưng thú vị hơn.
+Âm thanh
+Em chuyển sang chơi âm thanh tốn kém nhưng thú vị hơn.
 Chơi âm thanh là chơi cái gì vậy, thu âm phải không bạn ?
 ==========================
 475
-Máy tính
+Đi dây
 Chơi dây co bé lại tí thì đẹp, đâu cần phải mdpc đâu, có loại khác cũng xài được tốt chán mà, hôm qua mở thùng máy ra kiểm tra thì thấy 4, 5 con nhện chăng lưới ở trong.
 Dây 3 li rồi đó bác, dây 2.5 li đút không vừa lỗ.
 ==========================
@@ -2389,7 +2389,7 @@ Chơi âm thanh là chơi cái gì vậy, thu âm phải không bạn ?
 Chơi âm thanh là chuyển sang đầu tư cho cái lỗ tai đó bác, tốn kém phết, nhưng phê hơn.
 ==========================
 477
-Máy tính
+Đi dây
 Con nguồn dây ngắn quá, đang không biết kiếm cái dây để nối cho đầu 24 pin ở đâu, với cả mấy sợi dây chữ Y cho đầu 4 pin ? 
 Cái bracket USB thì tháo ra cho gọn, chắc gì bác đã dùng đến, mấy dây front panel luồn xuống chỗ nguồn cho nó gọn.
 ==========================
@@ -2404,17 +2404,17 @@ Sao mình toàn thích mấy thứ không ai xài vậy nhỉ ?
 Vì bạn khác người.
 ==========================
 480
-Máy tính
+Thùng máy
 Con H2 nội thất ngon, mỗi tội cái mặt nạ trông hơi nản.
 Mềnh lại thích cái mặt nạ như này, hợp với tổng thể cái thùng máy.
 ==========================
 481
-Máy tính
+Thùng máy
 Mềnh lại thích cái mặt nạ như này, hợp với tổng thể cái thùng máy.
 Lúc dạo bên khu mua bán thấy chỗ bán thùng máy của TDK, nhìn con H2 đã thất ấn tượng ngoại thất rồi nên mới tìm kiếm các bài nhận xét, nội thất còn chất hơn nữa.
 ==========================
 482
-Máy tính
+Thùng máy
 Mình chưa bao giờ có cảm tình với cái bọn NZXT, trên ảnh thì long lanh nhưng nhìn ngoài thì thấy cứ hàng mã thế nào ấy.
 Thấy em phantom bên ngoài chưa ?
 ==========================
@@ -2434,7 +2434,7 @@ Khủng và đẹp là hai thứ chả liên quan, khủng thì chỉ mất ti�
 Thiếu cái gu thẩm mĩ nữa bác.
 ==========================
 486
-Máy tính
+Đi dây
 Sao không kiếm dây sleeve mà xài, xài mainboard x79 saber sk 2011 mà không làm được dây nối dài cho gọn, GS600 dây một nùi nếu mún gọn thì tìm nguồn khác hoặc làm thêm vài thứ che lại.
 Tại thùng máy bé quá nên cũng ngại lay hoay bác ạ, đang thích 600t cơ mà chắc ra giêng mới xúc được, rồi lúc đấy mua sleeve luôn 1 thể.
 ==========================
@@ -2454,17 +2454,17 @@ Nhà nghèo, chụp bằng điện thoại bác thông cảm.
 Xưng là nghèo mà chơi con điện thoại chụp nét cỡ đó với con thùng máy như thế mà kêu nghèo.
 ==========================
 490
-Tư vấn
+Tư vấn thùng máy
 Tư vấn giúp con thùng máy MAtx nào khá khá chút giúp mình với.
 Có ngay, ngon bổ rẻ http://www.hanoicomputer.vn/ProductD...ProductId=7548 .
 ==========================
 491
-Máy tính
+Hỏi thùng máy
 Cho em hỏi thùng máy xịn ngoài mạnh, mát, êm với mắc thì còn có nổi bật ?
 Gọn gàng là chủ yếu.
 ==========================
 492
-Máy tính
+Mainboard
 Mainboard mATX mà bề rộng nó rộng sướng quá ha, mình cũg mATX mà bề rộng ngắn quá.
 Bây giờ thì hiểu rồi, mainboard của mình là uATX còn chú kia là mATX, đúng là ít hiểu biết ngu ngơ ghê.
 ==========================
@@ -2489,12 +2489,12 @@ Bác có kinh nghiệm SEO chia sẻ với, em làm gần 1 tuần mà thấy l�
 Làm vài quả lùm xùm lên là tăng lượng truy cập ngay, học tập showbiz ấy, lâu lâu làm phát tăng lượng xem của đám trẻ vị thành niên lên ngay.
 ==========================
 497
-Máy tính
+Đi dây
 Mà bác vẫn giữ được mấy miêng cao su chỗ luồn dây ra nhỉ, em đẩy cái dây 24 pin là bung ra luôn, mấy chỗ ít dây còn giữ được chứ chỗ đống dây của nguồn thì chịu, phải bỏ ra mới cho chui qua được.
 Dây nào không xài tới thì bác cứ để nó nằm ngoài, rồi làm cái hộp che lại là xong.
 ==========================
 498
-Máy tính
+Đi dây
 800D đi dây vô đối.
 Chưa đủ tầm so với TJ07 của em.
 ==========================

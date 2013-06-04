@@ -29,6 +29,7 @@ import processor.AimlConverter;
 import processor.QuestionProcessor;
 import processor.TextTokenizer;
 import processor.Utility;
+import svm.SvmProcessor;
 
 
 public class Runner {
@@ -56,7 +57,13 @@ public class Runner {
 		
 		//createTrainAndTestFile("data/input.txt", "data/test.txt", "data/train.txt");
 //		createSVMTrainingSet("data/Input", "data/SVM");
-		String label = QuestionProcessor.getTrueQuestion("Máy tôi bị hư");
+//		try {
+//			SvmProcessor.svmTrain();
+//		} catch (IOException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
+		String label = QuestionProcessor.getTrueQuestion("Ram của tôi bị hỏng rồi");
 		System.out.println(label);
 		
 		//convertLabelToClass("data/predict-label.txt", "data/predict-class.txt");

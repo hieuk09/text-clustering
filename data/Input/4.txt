@@ -9,12 +9,12 @@ Cài Steam chưa ?
 Cài rồi mà.
 ==========================
 3
-Bóng đá
-Sao trông giống beckham vậy nhỉ ?
+Beckham
+Sao trông giống Beckham vậy nhỉ ?
 Bác nói em mới để ý, giống Beckham quá.
 ==========================
 4
-Máy tính
+Ổ cứng
 Lưu có ít trò chơi điện tử, phim định dạng cao mà ổ 1.5 TB giờ đã cạn sạch, giờ ít nhất phải 3 TB trở lên cho nhu cầu lưu trữ 2 thứ trên.
 100TB sẽ là chuẩn mới cho các bạn trẻ.
 ==========================
@@ -59,17 +59,17 @@ Tai nạn một phát thì sao ?
 Thì mua cái mới.
 ==========================
 13
-Máy tính
+SAS controller
 À quên, con LSI 1068E là SAS controller, giống như SCSI controller, nó cung cấp interface SAS, hiểu đơn giản hơn nữa nó giống như cái card PCI USB vậy đó, thay vì cung cấp kết nối USB, thì nó cung cấp kết nối SAS, còn nó có RAID hay không thì hắc chắn là không vì nó chỉ là con chip điều kiển SAS thôi.
 Em cũng biết nó là SAS controller, nhưng LSI 1068E và 2008 đều cho phép cấu hình RAID 0, 1, 10, em nghĩ đơn giản là cung cấp được cấu hình RAID thì có nghĩa nó có RAID, chắc em sai vì có thể nó phải có tính năng nào nữa thì mới gọi là có RAID, em cũng chưa có thời gian tìm hiểu kỹ chỉ xem qua tài liệu kỹ thuật sơ sài của nó thì nó có 1 controller điều khiển việc striping và mirroring riêng, thành ra không dùng đến CPU, nhưng có dùng đến RAM của hệ thống, vấn đề đầu tiên của mấy em RAID controller onboard này là tốc độ không ổn định, hệ thống mà thừa RAM thì nó chạy rất nhanh, nhưng khi nó dùng hết rồi thì lại bắt đầu ì ạch, nói chung là RAID này không phù hợp với những máy chủ đòi hỏi nhập xuất cao.
 ==========================
 14
-Máy tính
+SAS controller
 Em cũng biết nó là SAS controller, nhưng LSI 1068E và 2008 đều cho phép cấu hình RAID 0, 1, 10, em nghĩ đơn giản là cung cấp được cấu hình RAID thì có nghĩa nó có RAID, chắc em sai vì có thể nó phải có tính năng nào nữa thì mới gọi là có RAID, em cũng chưa có thời gian tìm hiểu kỹ chỉ xem qua tài liệu kỹ thuật sơ sài của nó thì nó có 1 controller điều khiển việc striping và mirroring riêng, thành ra không dùng đến CPU, nhưng có dùng đến RAM của hệ thống, vấn đề đầu tiên của mấy em RAID controller onboard này là tốc độ không ổn định, hệ thống mà thừa RAM thì nó chạy rất nhanh, nhưng khi nó dùng hết rồi thì lại bắt đầu ì ạch, nói chung là RAID này không phù hợp với những máy chủ đòi hỏi nhập xuất cao.
 RAID mềm cho phép cấu hình 0, 1, 10 một số trường hợp cho phép cấu hình RAID 5, RAID onboard chỉ cần 2GB RAN là chạy ngon vì nó không chiếm nhiều RAM, bạn thử cài lại driver hoặc flash BIOS lại xem.
 ==========================
 15
-Máy tính
+Intel
 Lâu lâu lại tức cái vụ kỹ thuật, thế chốt lại là cái Intel kia là cứng hay mềm thế mấy bác?
 Trên lý thuyết là cứng, nguyên tắc hoạt động là mềm.
 ==========================
@@ -89,52 +89,52 @@ Mình xài card SAS của cả IBM và HP rồi, định báo lỗi để bọn 
 Mà bạn chỉ xài card RAID của nó hay xài nguyên con máy chủ ?
 ==========================
 19
-Máy tính
+Hỏi mainboard
 Cho mình hỏi xíu mainboard mình là ASUS p7p55d le giờ muốn chạy RAIL 0 và 10 thì dùng luôn RAID onboard của mainboard hay mua card rời, tính mua em RAID SAS3082E-R Tháo máy chủ IBM thì có hiệu quả không ? 
 P7p55d là mainboard của máy bàn, RAID được ngay trên Southbridge nhưng không an toàn cho dữ liệu, SAS3082E-R card RAID HYBRID 8 cổng, chắc chắn ngon hơn RAID trên mainboard máy bàn của bác rồi.
 ==========================
 20
-Máy tính
+RAID
 Nếu chỉ xét về khía cạnh ổn định, không bị lỗi vặt, lỗi RAID (ổ cứng không bị lỗi) vẫn phục hồi được dữ liệu thì card RAID rời có hơn hẳn RAID onboard không ?
 RAID rời đương nhiên là hơn, như card màn hình rời ấy, nói thế cho dễ hình dung.
 ==========================
 21
-Máy tính
+RAID
 Máy chủ của mình có nên dùng card RAID rời hay không ?
 Có điều kiện thì nên.
 ==========================
 22
-Máy tính
+RAID
 Nếu cần card RAID rời thì nên mua loại nào, chấp nhận mua card RAID nhiều tiền, có thương hiệu, ổn định và bền bỉ ?
 Tùy theo dòng máy chủ nào, lên trang của hãng tìm loại phù hợp với em nó mà mua, cái này phải xem kĩ nhé.
 ==========================
 23
-Máy tính
+RAID
 Mình cũng có 1 con máy chủ cấu hình gần giống bạn nè.
 Bạn gặp trường hợp nào lỗi card RAID chưa, nếu lỗi card RAID không biết phục hồi như thế nào, chỗ mình dùng LSI, cũng vẫn lo.
 ==========================
 24
-Máy tính
+RAID
 Mình cũng nghe giang hồ đồn đại Adaptec là số 1 về card RAID, bạn đang dùng card RAID bản nào của Adaptec, mua ở đâu ?
 Adaptec mua từ xưa rồi, nó chỉ chạy SCSI thôi.
 ==========================
 25
-Máy tính
+Máy chủ
 Theo mình mua máy chủ nên mua của các hãng lớn như IBM, HP để có sự hỗ trợ tốt từ các hãng đó.
 Bạn đã bao giờ quản lý máy chủ chưa, với tầm mainframe thì mình không nói, chứ máy chủ cho SME thì máy chủ IBM vừa đắt vừa ngu.
 ==========================
 26
-Máy tính
+RAID
 Để phân biệt RAID mềm cứng chỉ có cách dựa vào bộ xử lý của card RAID ấy thôi, còn RAID giả là một dạng RAID mềm nhưng nó hoạt động khác RAID mềm một chút, hiệu năng, độ ổn định tính sẵn sàng cao hơn RAID mềm trong hệ điều hành nhiều.
 Tóm lại RAID mềm chính hiệu là RAID được tạo trong OS và không có phần cứng nào liên quan tới RAID hỗ trợ cho nó sao, RAID giả là có phần cứng nhưng nữa vời sao, không vào tinh chỉnh được ngoài DOS, hay bất cứ phần mền nào để khởi động máy à ?
 ==========================
 27
-Máy tính
+RAID
 RAID giả được tạo ra để tinh chỉnh được qua BIOS đấy chứ.
 Vậy theo mình hiểu tóm lại RAID mềm bất lợi ở chỗ xữ lý dữ liệu nhanh hay chậm, trong trường hợp RAID 5 mềm nếu chết 1 ổ cứng thì theo nguyên tắc 2 ổ cứng còn lại vẫn sẽ chạy vậy nhét thêm 1 ổ cứng mới nó có tự xây dựng lại hay quá trình này phải xữ lý bằng tay ?
 ==========================
 28
-Máy tính
+RAID
 Mình thích SM là có các bản không gắn sẵn card RAID rời, người dùng có thể chọn loại card phù hợp gắn thêm vào, bọn DELL hay HP được tiếng có sẵn card RAID rời nhưng toàn chơi chíp RAID LSI, nhìn thấy ớn.
 Nhưng theo mình biết ở nước ngoài họ thích xài mấy thằng đó vì cái hỗ trợ 24/7/365 của nó, có lần mình được nghe 1 người bạn ở bển kể máy trục trặc gọi cho nó, 5 phút sau có mặt giải quết sự cố ngay và liền.
 ==========================
@@ -149,33 +149,33 @@ Bạn sao không trả lời mình ?
 Ơ bạn hay nhỉ, mình không biết thì mình trả lời gì đây?
 ==========================
 31
-Máy tính
-Core i3 loại gì
+CPU
+Core i3 loại gì ?
 Máy em Core i3 M350 2.27GHz ạ.
 ==========================
 32
-Máy tính
+CPU
 Máy em Core i3 M350 2.27GHz ạ.
 Của bạn là Intel HD Graphics bình thường, loại này yếu lắm.
 ==========================
 33
-Máy tính
+Hỏi CPU
 Thế còn i3-2100 hình như là HD2000 nhỉ, chắc cũng không tệ lắm ?
 HD 2000 chơi được Mafia 2, Assassin's Creed 2 vô tư đấy bạn.
 ==========================
 34
-Máy tính
+Hỏi card màn hình
 Cho em hỏi là Intel hd2000 chơi nổi Diablo III không nhỉ ?
 Đã tải bản beta về rồi mà không cài được để chơi, bực mình quá xóa luôn nè,chờ đến tháng 6 hay 7 hay là sau nữa rồi tính tiếp.
 ==========================
 35
 Laptop
 Laptop mình đang chơi Assasin's Creed Brotherhood cấu hình thấp, độ phân giải 1280x720 bình thường đây.
-Máy mình để cấu hình thấp độ phân giải 640x840 mà còn chưa qua nổi 20 khung hình.
+Laptop mình để cấu hình thấp độ phân giải 640x840 mà còn chưa qua nổi 20 khung hình.
 ==========================
 36
 Laptop
-Máy mình để cấu hình thấp độ phân giải 640x840 mà còn chưa qua nổi 20 khung hình.
+Laptop mình để cấu hình thấp độ phân giải 640x840 mà còn chưa qua nổi 20 khung hình.
 Intel HD Graphics 3000 chơi Assassin's Creed Revelations cấu hình tầm trung độ phân giải 1024x768 vô tư, khung hình cỡ 40, của bạn chắc là Intel HD Graphics bình thường rồi.
 ==========================
 37
@@ -189,52 +189,52 @@ Nếu là Windows 7, 4GB RAM thì tốt hơn.
 Mình Windows 7 8G RAM này.
 ==========================
 39
-Máy tính
+Card màn hình
 Của bạn là Intel HD Graphics bình thường, loại này yếu lắm.
 Hèn gì em chơi PES10 độ phân giải 800X600 cấu hình thấp hình ảnh xấu kinh mà vẫn chậm.
 ==========================
 40
-Laptop
+Hỏi laptop
 Thế bạn dùng G530 vô chơi thử Đột Kích phòng kín người xem khung hình được bao nhiêu ?
 Yên tâm là chjến tốt nhá, tối thiểu là 50 khung hình, tối đa kà 130, trung bình thì khoảng 70, 80 khung hình.
 ==========================
 41
-Máy tính
+HD2000
 Mình dùng HD2000 chơi Assassin's Creed Revelations cấu hình tầm trung độ phân giải 1024x768 vô tư , Assassin's Creed 2 thì thậm chí còn để cấu hình cao.
 Bạn nói có thật không, HD2000 mà chơi được Assassin's Creed à ?
 ==========================
 42
-Máy tính
+Card màn hình
 Theo tin đồn thì HD 4000 là 1 bước nhảy vọt của HD 3000, mạnh hơn khoảng 75%, nguồn từ google, lại phải sắp nâng cấp CPU để nâng cấp card màn hình onboard rồi.
 Không đến 75% đâu, có bài đánh giá i7 3770K rồi đó, sao không nâng card màn hình rời cho rồi ?
 ==========================
 43
-Laptop
+Hỏi laptop
 Laptop của bác có chơi dotA 2 ngon không vậy ?
 Không chơi được chặt đầu mình đi.
 ==========================
 44
-Laptop
+Hỏi card màn hình
 Card màn hình onboard của G41 có chơi được World of Tanks không nhỉ ?
 Chắc không đâu bạn, mình xài HD Graphics giật quá đây nè.
 ==========================
 45
-Laptop
+Hỏi laptop
 Laptop của em Intel HD Graphics, core i3 là HD 2000 hay HD 3000 vậy ạ ?
 Nói thế ai biết được, core i3 loại gì ?
 ==========================
 46
-Laptop
+Hỏi laptop
 Cái laptop kia hơn cpu 1 tí vậy chắc không ảnh hưởng nhiều phải không bạn ?
 Không ảnh hưởng nhiều đâu bạn à.
 ==========================
 47
-Laptop
+Hỏi laptop
 Không nhầm thì con số 2 thuộc dòng core i3 đời đầu tiên HD Hraphics hay có thể nói là HD 1000 yếu hơn HD 3000 khá nhiều đấy.
 Thí dụ như một laptop có CPU là i5 thì hiệu năng chơi tăng lên được mấy lần hả bạn ?
 ==========================
 48
-Máy tính
+Kiểm tra
 Bác kiểm tra lúc nào, hiện giờ đang đứt cáp nên mình cũng hay bị giật thế chứ con HD3000 chơi ngon Dota 2 mà.
 Mình kiểm tra trong thời điểm đang đứt cáp vì vừa mới lấy được mã khóa, đang thất vọng buồn chán mấy bữa nay.
 ==========================
@@ -265,7 +265,7 @@ Blogspot cho phép 18+ mà lo gì.
 ==========================
 54
 Bóng đá
-Đội hình tối ưu để đánh bại Barcelona
+Đội hình tối ưu để đánh bại Barcelona .
 Với cái đội hình đó Barcelona sao được, nó dợt đẹp thêm thì có, mấy ông này khó đá chung lắm, trừ 2 cánh Bale và Sanches thì đúng là có khả năng đánh bại Barcelona. 
 ==========================
 55
@@ -285,8 +285,8 @@ Em gỡ hết rồi, mất cái WAP này thì sống sao đây.
 ==========================
 58
 Máy tính
-Bạn có vấn đề về đọc hiểu? Trong cái mục product của site trên có cái nào liên quan đến ổ cứng không
-chắc là hồi trước về máy tính giờ chuyển sang thiết bị điện khác, vẫn nhận bảo hành là được
+Bạn có vấn đề về đọc hiểu à, trong cái mục sản phẩm của trang trên có cái nào liên quan đến ổ cứng không ?
+Chắc là hồi trước về máy tính giờ chuyển sang thiết bị điện khác, vẫn nhận bảo hành là được .
 ==========================
 59
 Cập nhật
@@ -439,12 +439,12 @@ Giá cao chót vót, lái buôn đã bỏ đi hết, chỉ còn nông dân tâm 
 1202 cũng gắn được nhé, nhưng tai nghe đầu nhỏ hơn.
 ==========================
 89
-Máy tính
+Hỏi card màn hình
 Mình bị loạn thị nên không chắc nữa, có phải 3 cái card màn hình đều đang xệ bên phải xuống không nhỉ?
 Đúng rồi, gắn card màn hình trong thùng máy mà không muốn bị xệ như vậy thì lấy dây nguồn móc lên thùng máy, sẽ kéo card màn hình ở trạng thái bình thường, để xệ lâu ngày là banh cổng card màn hình luôn.
 ==========================
 90
-Máy tính
+Hỏi card màn hình
 Sao không dùng cây mà chống card màn hình ấy bạn ?
 Gắn 1 card màn hình thì chống được, gắn 3 card màn hình thì chống kiểu nào ?
 ==========================
@@ -694,7 +694,7 @@ Mấy con 7950 boost giảm volt bằng MSI AB nó không xuống, nếu không 
 Đúng rồi anh, lô boost mới này js750 chỉ cân được 3 con, Seasonic x1050 kéo 5 con chết luôn cả nguồn, đã thử nghiệm rồi đấy.
 ==========================
 140
-Máy tính
+Acbel
 Mai phải gắn con Acbel 85H vô chạy đỡ.
 Acbel cùi lắm, sụt volt thường xuyên.
 ==========================
@@ -709,12 +709,12 @@ Hỏi nhanh 1 chút mọi người 4 con giống nhau thì để lệnh kiểu g
 Không nhớ nhưng mà cứ vào gõ atiflash, gõ lệnh help thì nó hiện ra cả dãy lệnh có ghi chú.
 ==========================
 143
-Máy tính
+Hỏi card màn hình
 Bác có xài ASUS Direct CU cho mình hỏi cái quạt của nó có 3 cái lỗ để làm gì, khi quạt khô châm dầu vô đó được không ?
 Nếu nó khô dầu quay lờ đờ thì bạn tra dầu vô, hồi trước xài dầu máy may hay loại mỡ gì đó mà cũng mau khô quá.
 ==========================
 144
-Máy tính
+Hỏi card màn hình
 Card màn hình gì tốc độ ngon vậy ?
 8970 bạn ạ.
 ==========================
@@ -724,7 +724,7 @@ Khổ 795 mà ép xuống 550 mà không ổn định được thì chán, hồi
 Để mặc định mỗi 1 card đó xem sao ?
 ==========================
 146
-Máy tính
+Điện
 Điện rẻ là 1 chuyện, còn chuyện nữa là không lẽ phải gắn nguyên cái máy lạnh cho máy luôn hay chơi quạt ?
 Chơi được cả máy lạnh cho máy tính thì thôi khỏi cày đi bác.
 ==========================
@@ -924,7 +924,7 @@ Vậy là công tơ đó nó lập trình được, chắc nó có 3 số điệ
 Bạn kêu thằng điện lực khu của bạn vào chỉnh đồng hồ, vậy là yên tâm mà ngủ, mỗi tháng 200 ngàn tiền điện thôi.
 ==========================
 185
-Máy tính
+Driver
 7970 xài driver nào chạy ngon nhất vậy bác ?
 Mới nhất mà tải nhé.
 ==========================
@@ -939,22 +939,22 @@ Mình có ước mơ gì ta ?
 Em có 1 ước mơ, em có 1 khát khao, thật ra là em tào lao.
 ==========================
 188
-Máy tính
+Máy chủ
 Nhà mình làm khách sạn nên có máy chủ lớn riêng, có cài lên cày trên máy máy chủ được không nhỉ ? 
 Máy chủ khủng là khủng cỡ nào, có bằng cỡ siêu máy tính không hay kiểu CPU xeon cắm vào, nếu như là cái sau thì khuyên không nên, chỉ tổ tốn điện.
 ==========================
 189
-Máy tính
+Máy chủ
 Máy chủ khủng là khủng cỡ nào, có bằng cỡ siêu máy tính không hay kiểu CPU xeon cắm vào, nếu như là cái sau thì khuyên không nên, chỉ tổ tốn điện.
 Siêu máy tính toàn CPU thì cũng vậy, siêu máy tính chạy GPU mới ngon.
 ==========================
 190
-Máy tính
+Card màn hình
 50 triệu làm được dàn 4 con 7970.
 4 card màn hình rồi, mấy thứ linh tinh khác tầm chục triệu nữa không bác nhỉ ?
 ==========================
 191
-Máy tính
+Hỏi card màn hình
 4 card màn hình rồi, mấy thứ linh tinh khác tầm chục triệu nữa không bác nhỉ ?
 50 triệu là xong mainboard, nguồn và card màn hình luôn rồi.
 ==========================
@@ -1045,41 +1045,41 @@ Vấn đề là bao nhiêu tiền ?
 ==========================
 209
 Máy tính
-Bạn nên đầu tư phòng lạnh chứ không phá máy lắm.
-Kệ nó, cày hơn nửa năm rồi, hư thì đem bảo hành.
+Bạn nên đầu tư phòng lạnh chứ không phá máy lắm .
+Kệ nó, cày hơn nửa năm rồi, hư thì đem bảo hành .
 ==========================
 210
-Điện thoại
+Hỏi điện thoại
 Cho em hỏi cách tắt rung 3 nút cảm ứng với cách bật Capslock khi nhắn tin với ?
 Hình như không tắt rung được, còn Capslock thì giữ yên nút mũi tên khoảng 1, 2 giây là bạt Capslock.
 ==========================
 211
-Điện thoại
+Hỏi điện thoại
 Cho em hỏi luôn, em vừa đăng ký gói mimax của viettel, giờ làm thế nào để vào mạng, em thử vào trình duyệt vẫn báo kiểm tra lại mạng.
 Đã mở Mobile data chưa ?
 ==========================
 212
-Điện thoại
+Hỏi điện thoại
 Đã mở Mobile data chưa ?
 Mobile data là chỗ nào ạ, em dùng tiếng Việt, với lại bé tới giờ toàn xài 1202.
 ==========================
 213
-Điện thoại
+Hỏi điện thoại
 Mobile data là chỗ nào ạ, em dùng tiếng Việt, với lại bé tới giờ toàn xài 1202.
 Vào Setting, mục Cellcular nhé.
 ==========================
 214
-Điện thoại
+Hỏi điện thoại
 Có bạn nào khi tải ứng dụng về cài bị báo phải thiết lập gia đình trên windowsphone.com không ?
 Tài khoản live của bạn chỉnh ngày sinh dưới 18 tuổi là được rồi.
 ==========================
 215
-Máy tính
+Mainboard ZOTAC H61-ITX WIFI
 Mainboard ZOTAC H61-ITX WIFI nó hỗ trợ âm thanh như thế nào ạ ?
 Mainboard ZOTAC H61-ITX WIFI dùng chip âm thanh cao cấp Realtek ALC892, có thể xuất âm thanh wa cổng kĩ thuật số và HDMI nữa.
 ==========================
 216
-Máy tính
+Hỏi mainboard
 Cho mình hỏi chút về mainboard, mình cắm xuất qua cổng HDMI vào cổng HDMI của Tivi thì có lên cả hình và tiếng đúng không ạ, mà có mainboard nào dùng cho HTPC mà kèm đồ bấm như của Asrock không ạ ?
 Đúng rồi đó bạn, HDMI truyền cả hình lẫn tiếng, mainboard của ZOTAC không kèm đồ bấm nên có giá thành rất mềm so với Asrock, chất lượng thì vượt trội hơn hẳn, đồ bấm ZOTAC cũng có giá khá rẽ nên bộ đôi mainboard ZOTAC và đồ bấm sẽ rẻ hơn Asrock đi kèm đồ bấm của nó.
 ==========================
@@ -1089,12 +1089,12 @@ Vẫn được, nhưng khi đó nó tự động sài nhắn tin bình thường
 Vậy à, mình dùng whatsapp trên android, chỉ dùng danh bạ của nó, tự động chuyển qua nhắn tin là chết tiền à ?
 ==========================
 218
-Điện thoại
+Hỏi điện thoại
 Bác cho em hỏi, xem thông tin máy điện thoại thì bấm vào chỗ nào ?
 Vào Settings, phần About, mục Advanced nhé.
 ==========================
 219
-Điện thoại
+Hỏi điện thoại
 Bác biết cách tạo danh sách bài hát không chỉ giùm em với, cái 520 này không cho tua nhac nữa mới đau chứ.
 Cắm vào máy tính, còn tua thì nhấn giữ nút Next là tua tới.
 ==========================
@@ -1134,7 +1134,7 @@ Mikel gặp các đội mạnh thường đá rất hay chú nhé, ví dụ như
 Mỗi tội phát động tấn công thì kém quá, đánh chặn tốt nhưng cũng có lúc phải hỗ trợ tấn công.
 ==========================
 227
-Bóng đá
+QPR
 QPR sắp có thêm 3 điểm , vậy là chú mèo nguy cơ rồi, chung kết ngược có khác.
 QPR hơi đen, mặc dù chấp người từ khá sớm và dẫn trước nhưng vẫn chỉ có 1 điểm, mình thích cái đội QPR này vì nó có Park, không thích nó xuống hạng.
 ==========================
@@ -1164,7 +1164,7 @@ Bóng đá
 Dự là sẽ bị Bale nó hạ đêm nay bạn à.
 ==========================
 233
-Bóng đá
+PSG
 Nói thế chứ vớ vẩn PSG nó lại đi vào sâu đấy, thằng này có vẻ hên, thấy nó đá lóng ngóng vãi ra mà cũng gỡ được trái hôm qua.
 Yên tâm là mùa này PSG sẽ được tạo điều kiện tối đa để có thể vào đến bán kết, tứ kết thì PSG sẽ gặp Shalker04 hoặc Porto hoặc có thể là AC.
 ==========================
@@ -1214,7 +1214,7 @@ Qua tới ngày mai mọi chuyện cũng sẽ rõ ràng với đội bóng 2 nă
 Thì cũng như với người hâm mộ MU tối thứ 3 đó.
 ==========================
 243
-Laptop
+Arsenal
 Năm nay Arsenal xuất thần lật ngược thế cờ vào thẳng chung kết C1 rồi vô địch luôn như Chelsea năm ngoái.
 Đội khác thì còn được chứ Arsenal thì mơ đi.
 ==========================
@@ -1244,7 +1244,7 @@ Hôm qua AC Milan chỉ có 1 cơ hội duy nhất, rất tiếc là trúng cộ
 Thôi đừng hoang tưởng nữa.
 ==========================
 249
-Bóng đá
+Valdes
 Hè năm nay Barcelona bán Valdes đi, mua về Bale, Hazard hoặc Reus thay Sanchez là lại bá đạo.
 Bán Valdes thì mua được cả Bale, Luiz và Neymar đó.
 ==========================
@@ -1284,7 +1284,7 @@ Em cũng đang gửi bảo hành tại Viễn Sơn con Gigabyte 5850 đang đợ
 Có kết quả cho mình biết với nhé bạn, chưa đem đi bảo hành nhưng tình cảnh tương tự.
 ==========================
 257
-Máy tính
+Hỏi card màn hình
 Chỉ em cách sử dụng DiabloMiner cho 3 card màn hình nha, cám ơn nhiều.
 Chạy 3 cửa sổ Diablo thôi.
 ==========================
@@ -1304,7 +1304,7 @@ Em cũng bảo là bộ đôi này ban đầu nghe như dở tệ nên bị ném
 Cái gu nhạc với cái tai nghe nó đập nhau chan chát thì ngu phí là phải rồi còn gì.
 ==========================
 261
-Tai nghe
+Beats
 Cái phần về beat chắc gây hiểu nhầm nhất thì phải bác ạ, thực ra, số người nghe beat vì những câu như "sao không mua beat nghe cho hay" không phải là hiếm, em xét chung họ đều là những người mớitập nghe như em cả, thế mà nhiều bác cứ xét nét kiểu như chưa thấy ai tập chơi âm thanh mà nghe beat, beat thì hay gì mà phải tập nghe, thật nhàm quá đi, người mới mà không trả tí ngu phí thì có tiến bộ được không, cứ phải dượt qua 1 lượt các tai nghe từ thấp đến cao nhưng phải là tốt nhất trong tầm giá thì mới là tập nghe à ?
 Cái tội đã là người mới thì dựa cột mà nghe, thế cứ nghe cái thằng người ta bảo beats hay là đi mua beats à, bảo k420 thần thánh là đi mua thần thánh à, không chịu xách cái tai đi thử mà cứ mua mù quáng theo mấy bài nhận xét thì còn tốn nhiều ngu phí lắm, đã là người mới thì hãy xác định là nghe từ thấp đến cao trước, tìm được cái gu thật sự của mình nó gian nan lắm, móc ra bao nhiêu tiền không quan trọng, quan trọng là có biết mình móc ra để làm cái gì không thôi.
 ==========================
@@ -1349,7 +1349,7 @@ Không nên chơi AD vì trọng trách rất cao, AD đòi hỏi nhiều kĩ n�
 Chuẩn, nên chơi tanker hoặc SP, có thua cũng chả có đứa nào chửi, chửi ta thua típ.
 ==========================
 269
-Trò chơi điện tử
+Kĩ năng
 Kĩ năng thì lên cấp độ thì có điểm để cộng thôi chứ mua làm gì bạn?
 Kĩ năng trang phục mà bạn.
 ==========================
@@ -1364,23 +1364,23 @@ Mình cũng mới chuyển qua Liên Minh Huyền thoại, như vậy thì nên 
 Mình thấy ashe cực ngon, sát thương cao, chiêu cuối mạnh, 1 phát chiêu cuối chuẩn là có thể lật ngược thế cờ.
 ==========================
 272
-Trò chơi điện tử
+Tristana
 Tristana đi, đảm bảo bạn sẽ thấy cực kì hưng phấn khi chơi nó.
 Tristana được đấy, AP hay AD đều khá khủng.
 ==========================
 273
-Trò chơi điện tử
+Ashe
 Mình thấy ashe cực ngon, sát thương cao, chiêu cuối mạnh, 1 phát chiêu cuối chuẩn là có thể lật ngược thế cờ.
 Ashe sát thương thuộc dàng bèo nhất trong hàng ADC rồi, lại không có kĩ năng chạy, không dễ đánh đâu.
 ==========================
 274
-Trò chơi điện tử
+SP
 Quan trọng là người chơi SP phải biết bảo vệ AD Carry nữa.
 Mình chơi SP nhiều gặp nhiều AD hổ báo lắm, lúc nguy cấp không về là tiêu rồi.
 ==========================
 275
 Trò chơi điện tử
-trong điều kiện cày tốt nhất, 10 phú mình chỉ cày được khoảng 70 cs.
+Trong điều kiện cày tốt nhất, 10 phút mình chỉ cày được khoảng 70 cs.
 Phải giành ăn của đối thủ từ rừng, bãi ma, bãi sói thì mới với được mốc mỗi phút 10 cs được.
 ==========================
 276
@@ -1389,7 +1389,7 @@ Vậy bây giờ không biết giữa những cái trọn gói rẻ nhất của
 Nhu cầu đó thì lắp gói Mega Easy nhé.
 ==========================
 277
-Internet
+Mega Easy
 Nhu cầu đó thì lắp gói Mega Easy nhé.
 Đồng ý, lắp Internet thì gói Mega Easy là ổn định nhất.
 ==========================
@@ -1404,27 +1404,27 @@ FPT mạng hết điên lâu rùi, giờ đến lượt VNN chịu trận.
 VNN xài vẫn vào mạng bình thường mà, mấy hôm nay không kéo torrent nên không biết thế nào.
 ==========================
 280
-Internet
+VNN
 VNN tốt nhưng giá chát hơn Viettel, mình chuẩn bị lắp net mới cho nhà trọ, chắc sẽ dùng Viettel thôi.
 Tháng 3 VNN lên kìa, giá ngang và cạnh tranh với Viettel roài.
 ==========================
 281
-Internet
+VNN
 Tháng 3 VNN lên kìa, giá ngang và cạnh tranh với Viettel roài.
 Lên cái gì cơ, hiện tại thử ngẫm xem, VNN gói thấp nhất là Mega Easy thì trọn gói 250 ngàn một tháng, Viettel thì gói nhỏ nhất thì tốc độ cao hơn và 280 ngàn một tháng, xài VNN hỗ trợ và ổn định nhưng giá còn chua quá.
 ==========================
 282
-Internet
+Viettel
 Viettel thì gói nhỏ nhất thì tốc độ cao hơn và 280 ngàn một tháng.
-Xin lỗi là không biết khi bạn nói câu này,bạn có từng lên trang của Viettel kiểm tra giùm 1 phát chưa vậy, hay là ngồi nói bừa?
+Xin lỗi là không biết khi bạn nói câu này, bạn có từng lên trang của Viettel kiểm tra giùm 1 phát chưa vậy, hay là ngồi nói bừa ?
 ==========================
 283
-Internet
+FPT
 FPT dùng rất phê.
 Anh em FPT mình giờ đổi vận rồi.
 ==========================
 284
-Internet
+FPT
 Anh em FPT mình giờ đổi vận rồi.
 Cái này thì tốc độ tối đa ai lạ lùng gì nữa bác, máy chủ Việt Nam mà.
 ==========================
@@ -1434,7 +1434,7 @@ Bạn có bị như mình không nhỉ, mình bị mất mạng nhưng modem v�
 Mình cũng từng bị như thế, bị vậy thì mới đau chứ, đèn điếc vẫn sáng đều mà không vào mạng được.
 ==========================
 286
-Internet
+FPT
 Mình mạng FPT tải MEGAME tốc độ 560 kbs/s, còn Mediafire thì tầm 120 thôi.
 Mạng nhà em 6Mbps mà tải Mediafire cũng chỉ được có 140 thôi, chả hiểu là do Mediafire hay tại FPT nữa, trước đây ở xóm cũ, mạng FPT có 3Mbps mà Mediafire được 300kBps đàng hoàng.
 ==========================
@@ -1454,12 +1454,12 @@ Internet
 Mình thì đăng kí VNN buổi sáng buổi chiều đã có rồi.
 ==========================
 290
-Internet
+VNPT
 VNPT gói 3Mbps/s tải torrent trung bình 38x KB, tháng trả trọn gói 150 ngàn sướng ghê, là gói hỗ trợ học sinh, sinh viên và giáo viên.
 VNPT có gói mạng hỗ trợ cả sinh viên hả bác, sao em không biết nhỉ, thủ tục thế nào vậy bác ?
 ==========================
 291
-Internet
+VNPT
 VNPT có gói mạng hỗ trợ cả sinh viên hả bác, sao em không biết nhỉ, thủ tục thế nào vậy bác ?
 Thủ tục gì đâu, mang cái thẻ sinh viên hoặc học sinh và chủ nhà thuê bao đến điểm của VNPT là được, chuyển từ hòa mạng trước sang gói hỗ trợ cũng được mà.
 ==========================
@@ -1474,7 +1474,7 @@ Cái quan trọng là 3G kìa, máy tính bảng mà không có 3G sao đư
 3G thì thêm khoảng 2, 3 triệu nữa thôi.
 ==========================
 294
-Máy tính bảng
+Hỏi máy tính bảng
 Cho hỏi con Nexus 7 giờ giá ở TP.HCM tầm khoảng bao nhiêu tiền vậy ?
 7 triệu bản 16 GB ở Halo nhé.
 ==========================
@@ -1484,12 +1484,12 @@ Nghe nói bên Mỹ Nexus 7 giá 215 USD là khoảng 4500000 VND, mà nghe nói
 Mình mua 223 USD nè bạn, thuế hơn 8% rồi, lên thêm 17 USD, còn 6 USD$ là tiền môi trường gì đó, còn nguyên cái hóa đơn nè.
 ==========================
 296
-Máy tính
+CM Silent Pro
 Sắp tới phải làm mấy con CM Silent Pro 1000W về chạy thôi, giá đang thơm.
 CM Silent Pro Gold hay Pro M, giá thơm đến mức nào ?
 ==========================
 297
-Máy tính
+CM Silent Pro
 CM Silent Pro Gold hay Pro M, giá thơm đến mức nào ?
 Pro Gold chỉ có An Phú trong Sài Gòn có hàng, ngoài Hà Nội Mai Hoàng chỉ có con M2 và Hybrid, con M2 hiện có giá khá chấp nhận được, tất nhiên giá vẫn cao hơn trong Sài Gòn nhiều, mua của Tân Doanh thì rẻ được 200, 300 ngàn nhưng hy vọng là nguồn không chết, nếu không ship mấy con 1000 W này vào SG thì 150 ngàn mỗi chiều vận chuyển cũng quá tội.
 ==========================
@@ -1504,12 +1504,12 @@ Bác này nói như gì ấy, đại lộ thì tất nhiên nó phải khác cá
 Tớ có ở Việt Nam đâu mà có ao bèo với ao cá.
 ==========================
 300
-Internet
+Viettel
 Cho hỏi dùng Viettel chơi trò chơi trực tuyến trong nước tốt không, vì tính lắp thêm đường dây phụ chỉ để dùng chơi trò chơi trực tuyến thôi, Viettel thấy đang khuyến mãi miễn phí lắp đặt ADSL ?
 Em đang dùng Viettel này, nói chung là cũng ổn định, tốc độ lúc mới lắp tối đa 230k/giây, còn bây giờ ổn định tại 150K/giây, chơi Audition ít khi đứt mạng lắm, nói chung là em khá hài lòng vì ít khi bị trục trặc, nhưng mỗi cái là hơi chậm, vì tốc độ tối đa có 150K/giây thôi.
 ==========================
 301
-Internet
+Viettel
 Viettel gói Home C, 9 giờ sáng đạt được khoảng 180KB/giây, 200KB/giây.
 Tui gói Home N, lúc nào cũng đạt tốc độ như thế cả.
 ==========================
@@ -1519,7 +1519,7 @@ Tui gói Home N, lúc nào cũng đạt tốc độ như thế cả.
 Home N thì tốc độ 120KB/giây là thường xuyên.
 ==========================
 303
-Internet
+VNN
 Không biết bạn bị gì chứ về trò chơi trực tuyến thì dùng VNN là nhất.
 Không có bị gì hết bạn ơi mà là tình trạng chung của những ai dùng Mega VNN chỗ tôi, tất cả các tiệm Net chỗ tôi giờ cũng đều chuyển hết sang dùng đường truyền của Viettel rồi, mà không riêng gì trò Võ Lâm Truyền Kì giựt mà ngay cả Audition cũng vậy, tôi chơi ở công ty toàn bị tình trạng chấm dứt kết nối với máy chủ trong khi về nhà xài Viettel thì cứ nhảy ầm ầm đâu có sao đâu.
 ==========================
@@ -1554,7 +1554,7 @@ Torrent mọi đêm tôi vẫn khoảng 300, 310, upload 40, bình thường n�
 Tui thì cứ 7 giờ sáng là lại từ 330 xuống 40, chắc nó mất kết nối 1 phát để khởi động lại tốc độ.
 ==========================
 310
-Máy tính
+Mua bán
 Mainboard này chưa thấy bán nhưng mình đoán giá không dưới 3 triệu, còn cpu thì tầm 3 tới 3.1 triệu, nhưng nếu chạy mặc đinh thì mình nghĩ lấy mấy con A75 sẽ hợp lí hơn.
 Dưới 3 triệu ư ?
 ==========================
@@ -1574,7 +1574,7 @@ Xài Opera đi.
 Chrome thì dùng tiểu sử mới, có tác dụng như dùng 1 trình duyệt khác.
 ==========================
 314
-Phần mềm
+Opera
 Opera thì không ưa, máy chạy atom hơi yếu, chạy Firefox đã muốn đuối, giờ chả nhẽ cày cái Chrome, mà cái Chrome nó nặng hay nhẹ hơn Firefox nhỉ ?
 Opera nhẹ hơn Firefox.
 ==========================
@@ -1649,74 +1649,74 @@ Chỉ còn cách giả IP à ?
 Giả làm gì, người ta chặn IP facebook chứ có chặn IP của bạn đâu mà giả.
 ==========================
 329
-Máy tính
+Hỏi máy tính
 Mọi người cho hỏi cấu hình AMD mạnh hơn Intel nhiều không vậy tại nghe thằng bạn nói cùng tầm tiền thì AMD mạnh hơn Intel ?
 Mình thì nghĩ là Intel mạnh hơn.
 ==========================
 330
-Máy tính
+Hỏi máy tính
 Làm sao mà 2 cái cấu hình chênh lệch 20 ngàn được, AMD còn mắc hơn Intel 20 ngàn nữa mới vãi lúa.
 Chính xác là chênh nhau 10 ngàn.
 ==========================
 331
-Máy tính
+Card màn hình
 Mình đổi ấy rồi lấy hd6670 thì cấu hình Intel mắc hơn AMD 350 ngàn nhưng nghe nói là mạnh hơn A10-5800 luôn.
 iGPU của A10 tương đương 6570 DDR3 nhé bạn, còn CPU thì A10 tươnd đương I3 3220, G550 xách dép, bộ đôi AMD có 2.77 triệu mà bạn, thêm thanh RAM 1600 chạy đôi nữa là ngon hơn so với bộ đôi Intel rồi, còn nếu giá như trên thì bộ đôi Intel ngon hơn.
 ==========================
 332
-Máy tính
+Tư vấn máy tính
 Muốn ý kiến bên Intel thế nào về dòng AMD, chỉ bàn về chất lượng, những thứ nằm ngoài không cần quan tâm, mong bác góp ấy.
 Cái này còn tùy tầm giá cả và nhu cầu nữa bạn chứ nói không thế này khó lắm.
 ==========================
 333
-Máy tính
+Nói móc
 Ý bác nói móc AMD chứ gì ?
 Thiệt chứ nói móc gì.
 ==========================
 334
-Máy tính
+Hiệu năng
 Hiệu năng phải lên chứ, 8320 gần bằng xeon 1230 rồi mà.
 Hiệu năng trò chơi điện tử bác ạ, tại mấy trò chơi có mấy cái tận dụng được 8 nhân đâu.
 ==========================
 335
-Máy tính
+Hiệu năng
 Hiệu năng trò chơi điện tử bác ạ, tại mấy trò chơi có mấy cái tận dụng được 8 nhân đâu.
 Mình nhớ cách đây 1 năm cũng có nhiều người nói là trò chơi điện tử có mấy cái tận dụng 4 nhân, giờ thì sao, 1 năm nữa 8 nhân là sẽ hỗ trợ nhiều, nhà phát triển trò chơi điện tử ai cũng muốn là dùng nhiều nhân nhất để trò chơi xử lý tốt nhất mà.
 ==========================
 336
-Máy tính
+Hỏi card màn hình
 Mà sao em coi trên anandtech con GTX 460 của em còn hơn con GTX 650 còn FX 8350 chơi trò chơi điện tử thua i5 2400 của em cả khúc.
 Cái này khó trả lời, nhiều chỗ nhận xét mang tính chất dìm hàng, nên hỏi những ai có kinh nghiệm và đã dùng qua thôi.
 ==========================
 337
-Máy tính
+Dìm hàng
 Cái này khó trả lời, nhiều chỗ nhận xét mang tính chất dìm hàng, nên hỏi những ai có kinh nghiệm và đã dùng qua thôi.
 Đúng rồi, bài nhận xét dìm hàng thì ít mà để bán được hàng thì nhiều, bạn nên hỏi những người dùng cá nhân ấy chứ đừng hỏi mấy anh thương gia và những anh đang làm ở Intel, AMD cái này tự bạn hiểu nhé.
 ==========================
 338
-Máy tính
+SFC
 Gigabyte hình như nó kị gắn mấy con phase SFC lên mainboard hay sao ấy, nhìn mấy con mainboard MSI gắn phase này chất cực kỳ.
 SFC là của MSI, ai cho gắn mà gắn.
 ==========================
 339
-Máy tính
+SFC
 SFC là của MSI, ai cho gắn mà gắn.
 Ý em là gắn dạng phase giống mấy SFC của MSI ấy, chứ không phải lấy của MSI gắn vào, ví dụ mấy con ferrite choke hiện tại nè, làm nhỏ lại và đổi cái chữ Gigabyte lên cho nó giống SFC cũng được mà.
 ==========================
 340
-Máy tính
+SFC
 Ý em là gắn dạng phase giống mấy SFC của MSI ấy, chứ không phải lấy của MSI gắn vào, ví dụ mấy con ferrite choke hiện tại nè, làm nhỏ lại và đổi cái chữ Gigabyte lên cho nó giống SFC cũng được mà.
 Mỗi con có công nghệ riêng hầm bà lằng của từng hãng chứ có giống nhau hoàn toàn đâu.
 ==========================
 341
-Máy tính
+Công nghệ
 Mỗi con có công nghệ riêng hầm bà lằng của từng hãng chứ có giống nhau hoàn toàn đâu.
 Và ít khi nào dùng tới hết.
 ==========================
 342
-Máy tính
+Mua bán
 Về Việt Nam chắc chắn không dưới 4 triệu
-Giá con này mình thấy ở nước ngoài chỉ ngang A10-5800K nên về Việt Nam mình nghĩ sẽ tốt.
+Giá con này về Việt Nam mình nghĩ sẽ tốt.
 ==========================
 343
 Máy tính
@@ -1725,31 +1725,31 @@ Bên bạn có con A10-5800K nào để trước mình một con được không
 ==========================
 344
 Máy tính
-Bên bạn có con A10-5800K nào để trước mình một con được không?
+Bên bạn có con A10-5800K nào để trước mình một con được không ?
 Em bị người ta mượn rồi, em đồn là ngay tuần sau A10 sẽ có tại Việt Nam, em sẽ thu xếp cho anh sớm mà.
 ==========================
 345
-Máy tính
+Mua bán
 Em bị người ta mượn rồi, em đồn là ngay tuần sau A10 sẽ có tại Việt Nam, em sẽ thu xếp cho anh sớm mà.
 OK, cảm ơn bạn trước.
 ==========================
 346
-Máy tính
+Hỏi máy tính
 Chả biết sao, AMD mà chạy IGP mình chỉ khoái mấy cái M-ATX gọn gọn để chơi HTPC thôi.
-chắc để chạy mấy con APU 6 core dis iGP trong tương lai đó mà, lúc đó chắc là Athlon II x6 1xxxK, em chém thôi đừng gạch em ạ
+Chắc để chạy mấy con APU 6 core dis iGP trong tương lai đó mà, lúc đó chắc là Athlon II x6 1xxxK, em chém thôi đừng gạch em ạ
 ==========================
 347
-Máy tính
+Hỏi máy tính
 Sao nó không làm nốt mos-hs ở mấy cái phase phía trên nhỉ, làm nốt thì có phải đẹp không?
 Cái này cũng khó nói, có lẽ mấy mấy thằng thiết kế nó không thích đẹp.
 ==========================
 348
-Máy tính
+Hỏi card màn hình
 Em hỏi ngu tí, nó viết hỗ trợ CrossfireX thì có cắm được SLI không ?
 Cắm được bạn nhưng khi chạy thì chỉ chạy được 1 card màn hình thôi.
 ==========================
 349
-Máy tính
+Áo
 Hôm qua ở sự kiện của AMD cũng có phần hãy chọn số lượng linh kiện đúng trên Mainboard GIGABYTE, phần thưởng là một cái áo.
 Áo Gigabyte hay áo AMD? 
 ==========================
@@ -1769,7 +1769,7 @@ Tuần tới mình hy vọng sẽ vượt con số 100 ngàn USD.
 Đúng là đã giàu thì càng giàu thêm, mình chỉ là hạt cát.
 ==========================
 353
-Máy tính
+Dual BIOS
 Cho mình hỏi Dual BIOS có những tác dụng gì vậy?
 Dual BIOS là có 2 con BIOS đó bạn, 1 khi con BIOS chính bị lỗi thì còn còn kia để dự phòng.
 ==========================
@@ -1779,22 +1779,22 @@ Cả đội mình đánh cũng toàn bật bài này lên.
 Nghe yêu đời mà, nãy giờ toàn nghe bài này.
 ==========================
 355
-Máy tính
+HDMI
 Buồn quá, do đọc không kĩ nên lỡ mua con D2V, giờ không có cổng HDMI, hối hận mà không biết phải làm gì nữa.
 Nhưng bạn có cần dùng tới cổng HDMI không chứ, nếu không dùng thì như nhau thôi.
 ==========================
 356
-Máy tính
+HDMI
 Nhưng bạn có cần dùng tới cổng HDMI không chứ, nếu không dùng thì như nhau thôi.
 Có bạn, mình có cọng HDMI, dự định nối từ máy tính tới tivi LCD để coi phim, giờ mua đầu chuyển từ DVI sang HDMI, không biết có âm thanh trên tivi LCD được không nữa, chắc là không.
 ==========================
 357
-Máy tính
+Hỏi mainboard
 Nhìn con tụ làm sao biết nó là tụ Nhật hay tụ Đài Loan vậy bạn ơi, không biết xem cứ phải nghe mấy thánh phán mỗi người một kiểu ?
 Mình thấy mainboard Gigabyte nếu sử dụng toàn tụ của Nhật thường ghi luôn trên mainboard, "All Japanese Solid Capacitors", loại nào chỉ sử dụng tụ Đài loan thì chỉ ghi chung chung "All Solid Capacitors".
 ==========================
 358
-Máy tính
+HDMI
 Mình có cọng HDMI, dự định nối từ máy tính tới tivi LCD để coi phim, giờ mua đầu chuyển từ DVI sang HDMI, không biết có âm thanh trên tivi LCD được không nữa, chắc là không.
 Nếu bác chuyển từ DVI sang HDMI bằng cáp thì không có tiếng được rồi, vì bản thân ngõ DVI không có đường tiếng, giờ bác đành phải xem phim bằng DVI rồi, thật ra chất lượng xuất hình của DVI không hề kém HDMI, chẳng qua HDMI thì thêm đường tiếng thôi.
 ==========================
@@ -1854,57 +1854,57 @@ Chờ mãi chỉ để coi trận này.
 Mấy ông bình luận chém gió lâu quá.
 ==========================
 370
-Internet
+Youtube
 Giật quá, cả trên twitch lẫn cả trên youtube stream, coi mà nản, 240 cũng như 720 kiểu nào cũng giật như nhau, mặc dù đã giật lùi về chút để coi.
 Do máy rồi, mình đang coi youtube 720p để bình thường không giật nè, khởi động lại modem đi.
 ==========================
 371
-Máy tính bảng
+Tư vấn máy tính bảng
 Em định mua con Kindle HD cho các cụ đọc sách và báo có hợp lý không bác nhỉ ?
 Mua máy tính bảng thì mua con Nexus 7 giống mình cho vui, cổng USB nhận ổ cứng, tay cầm PS2 nhận được luôn.
 ==========================
 372
-Máy tính bảng
+Tư vấn máy tính bảng
 Mua máy tính bảng thì mua con Nexus 7 giống mình cho vui, cổng USB nhận ổ cứng, tay cầm PS2 nhận được luôn.
 Em mua cho cụ nhà em ạ, cụ cũng nhiều tuổi rồi, mục đích chỉ là đọc sách báo thôi ạ, thế nên cần nhất là màn hình đọc tốt và bền bền, chắc chắn tí.
 ==========================
 373
-Máy tính
+Hỏi card màn hình
 Bạn xài card màn hình gì vậy ?
 Card Gigabyte được ép xung.
 ==========================
 374
-Máy tính
+BIOS
 Cho em hỏi là nâng cấp BIOS có những tác dụng gì vậy ạ?
 Như mainboard ra trước, CPU ra sau mình thường phải nâng cấp BIOS thì nó mới nhận CPU, rồi đôi khi gặp vài trục trặc do vấn đề tương thích với các thiết bị ngoại vi mình nâng cấp cũng hết, rồi có khi nâng cấp để cải thiện vài thứ giúp mình ép xung ổn định hơn.
 ==========================
 375
-Máy tính
+BIOS
 Như mainboard ra trước, CPU ra sau mình thường phải nâng cấp BIOS thì nó mới nhận CPU, rồi đôi khi gặp vài trục trặc do vấn đề tương thích với các thiết bị ngoại vi mình nâng cấp cũng hết, rồi có khi nâng cấp để cải thiện vài thứ giúp mình ép xung ổn định hơn.
 Nâng cấp BIOS có khó không bác, liệu nâng cấp sai có bị lỗi không ạ, thường thì nâng cấp BIOS ở trang web nào ạ?
 ==========================
 376
-Máy tính
+BIOS
 Nâng cấp BIOS có khó không bác, liệu nâng cấp sai có bị lỗi không ạ, thường thì nâng cấp BIOS ở trang web nào ạ?
 Trong trang này có hướng dẫn cụ thể cách nâng cấp BIOS nè bạn, thấy cũng không có khó lắm: http://vozforums.com/showthread.php?t=3186244 .
 ==========================
 377
-Máy tính
+BIOS
 Trong trang này có hướng dẫn cụ thể cách nâng cấp BIOS nè bạn, thấy cũng không có khó lắm: http://vozforums.com/showthread.php?t=3186244 .
 Hay đấy.
 ==========================
 378
-Máy tính
+Dual BIOS
 Vậy nghĩa là xài Dual BIOS không bao giờ lo lỗi cả 2 BIOS à ?
 Mình thì chưa thấy lỗi 2 con, nhưng lỗi vật lý thì có, lỗi vật lý thì buộc phải thay con đó mới hoạt động bình thường được, nếu không thì khi khởi động nó báo Recovery Bios liên tục, tỉ lệ chết BIOS vật lý cũng rất hiếm, thường là mainboard bị lỗi chứ không chết tự nhiên.
 ==========================
 379
-Máy tính
+GA-B75M-D3H
 Em thì đang định xúc con GA-B75M-D3H, yêu cái màu xanh bệnh hoạn của Gigabyte.
-Mình cũng có một em D3H này, nhưng hơi làm biếng nên không đưa em nó vào.
+Mình cũng có một em GA-B75M-D3H này, nhưng hơi làm biếng nên không đưa em nó vào.
 ==========================
 380
-Máy tính
+D3V
 Con HD3 thấy chả khác gì thằng D3V mình đang xài ?
 D3V không có cổng HDMI bác à.
 ==========================
@@ -1919,17 +1919,17 @@ Mình mới mua Kennen, thử xài trận bình thường thì tốt nhưng bi�
 Mình thấy AP vẫn lợi hơn, lý giải về việc Kennen AD tràn lan thì chắc do bắt chước theo nhau thôi.
 ==========================
 383
-Trò chơi điện tử
+Zag
 Zag chưa ra à, lâu quá.
 Zag là cái gì ?
 ==========================
 384
-Trò chơi điện tử
+Zag
 Zag là cái gì ?
 Nhầm, là Zac cơ, Zag là bên dday.
 ==========================
 385
-Trò chơi điện tử
+Zag
 Zag là tướng mới à ?
 Ừ, mới đấy.
 ==========================
@@ -1939,17 +1939,17 @@ Can thiệp lúc ngủ với gái luôn hả?
 Biết đâu được đấy.
 ==========================
 387
-Máy tính bảng
+Nexus 7
 Vẫn chưa thấy Nexus 7 có 3G đâu, đợi chờ tiếp.
 Google bắt đầu bán Nexus 7 có kết nối 3G rồi đó.
 ==========================
 388
-Máy tính bảng
+Nexus 7
 Hấp dẫn quá, Nexus 7 giá 300USD cho bản 3G 32Gb thì còn gì bằng.
 Cỡ 340 USD cả thuế cả phí vận chuyển, cơ mà vẫn ngon.
 ==========================
 389
-Máy tính bảng
+Nexus 7
 Có chỗ cho đặt Nexus 7 ở Việt Nam giá 8 triệu đó bạn.
 Cũng đang chờ, quyết tâm trước tết sẽ mua một em về nghịch.
 ==========================
@@ -1989,22 +1989,22 @@ Bạn thích ăn gì, uống gì ?
 Thích ăn bánh mì, Starbucks, Cocacola, McDonald.
 ==========================
 397
-Máy tính
+Hỏi mainboard
 Nếu mình nối hai dây nguồn trên mainboard lại, và bỏ chức năng trong Windows là nhấn lâu nút nguồn sẽ tắt máy thì khi sau khi cúp điên xong, máy sẽ tự khởi động lại phải không bạn ?
 Trong BIOS có chế độ để tự động bật nguồn sau khi có sự cố mất điện mà bác.
 ==========================
 398
-Máy tính
+Hỏi card màn hình
 Sao em chạy con ASUS 7970 tối đa chỉ 1125 thôi, làm sao để tăng lên 1200 vậy anh?
 Bán đi mua con khác thôi, không phải con nào cũng lên được 1200 đâu.
 ==========================
 399
-Bóng đá
+VFF
 Cuối cùng cũng thấy vui, mấy ông VFF bòn rút nhiều quá rồi, lần này bác Kiên tát cho vỡ mặt, cái ấy tưởng Super Cup này chắc được bác Kiên nhen nhóm lâu rồi nên nói là làm luôn, chỉ sợ mấy ông VFF phá thôi.
 Khả năng nếu VFF chịu cải tổ lớn thì Super Cup cũng không có cơ hội ra đời đâu.
 ==========================
 400
-Bóng đá
+Bầu Kiên
 Nói thật thì làm thằng đàn ông là phải như Bác Kiên, làm giàu, miệng có gang có thép, tay còn cứng hơn thép.
 Ủng hộ bầu Kiên.
 ==========================
@@ -2014,7 +2014,7 @@ Dạo này Việt Nam tiếp nhiều tướng lĩnh các nước quá ta ?
 Toàn nước có hiềm khích hoặc xích mích với Trung Quốc.
 ==========================
 402
-Bóng đá
+Mạnh
 Mạnh thật, phải thế chứ, cho mấy vị VFF biết ai mới là tay to, khâm phục bác Kiên quá.
 Mạnh vì gạo, bạo vì tiền.
 ==========================
@@ -2024,7 +2024,7 @@ Chia buồn với bạn, bầu Kiên sẽ không lập giải.
 Đương nhiên là không lập được rồi, các ông đó chỉ dọa thôi, nếu VFF không cải tổ lớn thì cùng lắm mùa sau các ông trốn như ông Hòa Phát là hết.
 ==========================
 404
-Bóng đá
+Bầu Kiên
 Bầu Kiên quả là có tiền là có quyền có khác, nói là làm luôn.
 Thực ra ổng nói để hù, mà ông Hỷ bố láo nên ghét quá, làm luôn.
 ==========================
@@ -2044,7 +2044,7 @@ Bạn sinh năm bao nhiêu ?
 Năm 89 nhé bạn.
 ==========================
 408
-Máy tính
+Hỏi máy tính
 Cục đấy là mainboard phải không bác ?
 Cục ấy là thùng máy bác ạ.
 ==========================
@@ -2075,7 +2075,7 @@ Vậy có thể do bạn kia quay tay bằng tay trái nhiều nên tay trái b�
 ==========================
 414
 Đại học
-E nghỉ đại học từ hồi tháng 8.
+Em nghỉ đại học từ hồi tháng 8.
 Biết rồi, thất nghiệp mà khoe mãi.
 ==========================
 415
@@ -2084,7 +2084,7 @@ Tận thế mất rồi.
 Làm gì bây giờ, sắp đóng tiền điện rồi.
 ==========================
 416
-Internet
+Viettel
 Mình Viettel vào ngon ơ mà ?
 Viettel nó không chịu sự quản lý của bộ thông tin truyền thông, thằng VTC Online trực thuộc bộ thông tin truyền thông, nó có mạng xã hội ảo goonline. thấy dân tình dùng facebook dữ quá nên chặn thôi.
 ==========================
@@ -2094,7 +2094,7 @@ Hồi gãy vai nghỉ được 3 tuần đã ra đá lại, ngồi không ngứa
 Bữa nào đi sắm cái kính đá banh đi.
 ==========================
 418
-Bóng đá
+Kính
 Không biết cái kính đá banh giá bao nhiêu nhỉ, và ở Sài Gòn không biết có bán không ?
 Có thằng bạn mua rồi, lúc nó mua là 500 ngàn đồng mà đem ra cho tiệm kính quen hay làm kính, bà làm kính lắc đầu, mấy kính này làm tròng không chuẩn được, vì nó ôm mặt, nên bị lệch cái gì đó quên mất tiêu rồi.
 ==========================
@@ -2104,7 +2104,7 @@ Sao mọi người có quê ở đảo để về mà mình không có ?
 Ghen tị với các bạn ở đảo quá, bạn có tàu bơi ra thì rủ mình đi với nhé.
 ==========================
 420
-Internet
+Facebook
 Bạn có biết cách sửa lỗi này không, khi đăng nhập vào facebook thì trang home và trang cá nhân bị trắng ?
 Xóa cache là hết.
 ==========================
@@ -2124,17 +2124,17 @@ Internet
 Vào được là được, sao phải chém gió ?
 ==========================
 424
-Internet
+VNPT
 Chả hiểu sao hôm nay mình không vào được facebook các bác ạ, mạng VNPT nhé, không phải Viettel ?
 VNPT luôn đây, cách đây 15 phút là VNPT không vào được Facebook bằng DNS của Google.
 ==========================
 425
-Internet
+Facebook
 Bây giờ muốn vào Facebook đổi DNS không được, sửa tập tin host cũng không được, máy thì cùi bắp cài AOL với Hotspot xong đơ luôn.
 Giờ còn mỗi cách www.lisp4.facebook.com là vào được Facebook thôi bác ơi, mọi cách kia đều vô phương hết rồi.
 ==========================
 426
-Internet
+Facebook
 Giờ còn mỗi cách www.lisp4.facebook.com là vào được Facebook thôi bác ơi, mọi cách kia đều vô phương hết rồi.
 Thông báo với bạn là cách đổi tập tin hosts với cách vào lips4 là một, hiện giờ chậm lắm, chắc do tăng tải đột xuất.
 ==========================
@@ -2149,12 +2149,12 @@ Mình chơi PES 13 cũng bị đứng, nhưng khì cài pesedit xong là chơi �
 Máy gì thế bác ơi, chơi bằng card màn hình gì vậy, có mượt không ?
 ==========================
 429
-Máy tính
+Card màn hình
 Ai bảo bác Card onboard HD 4000 giật, em HD 3000 để cấu hình tối đa còn nuột nữa đây là.
 Thì em thấy giật mà.
 ==========================
 430
-Máy tính
+Hỏi laptop
 Intel HD 4000 cũng thừa sức để cấu hình cao PES 13 rồi, hay là bác chưa cắm sạc khi chơi ?
 Sạc gì cơ ạ ?
 ==========================
@@ -2174,7 +2174,7 @@ Arsenal vô địch
 Rút tay ra khỏi quần cầu, mong lượt vê nó giữ thể diện cho đừng đánh tennis là may rồi.
 ==========================
 434
-Bóng đá
+Arsenal
 Vài bữa bác có cổ vũ Arsenal không nhỉ ?
 Cũng muốn cổ vũ lắm, nhưng sợ bị ném gạch lắm, cứ hôm nào cổ vũ Arsenal là nó thua, thế mới đau chứ.
 ==========================
@@ -2189,57 +2189,57 @@ Bóng đá
 Ngồi run run ở đâu nãy giờ mới thấy mặt thế ?
 ==========================
 437
-Máy tính
+Card màn hình
 Card màn hình ngon nhưng giá chưa ngon lắm, sắp được 1 em 6850 có bảo hành chính hãng rồi.
 Đâu, ở đâu có thế ?
 ==========================
 438
-Máy tính
+Hỏi card màn hình
 Thấy bảo EVGA sản xuất card màn hình Geforce bị nóng không biết con của bác có nóng không ?
 Không nóng lắm đâu bác.
 ==========================
 439
-Máy tính
+Hỏi mainboard
 Bác có em Asus Z77-Deluxe không vậy ?
 Có bác.
 ==========================
 440
-Máy tính
+Hỏi máy tính
 Bác ơi sao không thấy em nào của EVGA vậy ?
 Thế em GTX 580 là của hãng nào thế bác ?
 ==========================
 441
-Máy tính
+Hỏi card màn hình
 7970 bác có mấy con nhỉ, được 4 tới 6 con không ?
 Tất nhiên là có bác ạ.
 ==========================
 442
-Điện thoại
+Windows Phone
 Ba em dùng Windows Phone nè, thấy vẫn ổn chỉ có điều không dùng facebook nên hơi chán.
 Windows Phone đánh tiếng việt ổn chưa hả bác, thí dụ như bàn phím đánh chữ mình có thể chọn hiện 9 phím để đánh chữ kiểu cổ truyền không ? 
 ==========================
 443
-Điện thoại
+Windows Phone
 Android thì quá phức tạp, trẻ trẻ mà lớ mớ còn không biết dùng, nhất là mấy chị em thành ra đưa cho người có tuổi dùng thì hơi nhẫn tâm, mình chưa dùng Windows Phone bao giờ, nó thực sự khó dùng đến vậy à bác ?
 Mình sẽ mua 520, sẽ dùng Windows Phone 8, sẽ dùng được, nhưng nhận định Windows Phone 8 khó dùng hơn Android hay iOS là chính xác, cái giao diện cổ điển truyền thống với 1 mớ icon là thứ dễ xài nhất, cách bài trí của Windows Phone 8 gây khó khăn cho người non kinh nghiệm, với mình không vấn đề, nhưng với bố mẹ sẽ khác.
 ==========================
 444
-Điện thoại
+Windows Phone
 Windows Phone đánh tiếng việt ổn chưa hả bác, thí dụ như bàn phím đánh chữ mình có thể chọn hiện 9 phím để đánh chữ kiểu cổ truyền không ? 
 Bàn phím qwerty nhưng đánh kiểu đoán từ không phải telex nên các cụ cũng nhanh hiểu, bàn phím cũng khá to, ba mình làm công nhân nên hay đeo bao tay nên máy khó mà dùng cảm ứng được rất tiện, không như Android mấy cái icon nhỏ tí, Windows Phone 8 mình cho icon quan trọng to ở cỡ 2 nên dễ bấm dù đeo bao tay.
 ==========================
 445
-Điện thoại
+Windows Phone
 Mình sẽ mua 520, sẽ dùng Windows Phone 8, sẽ dùng được, nhưng nhận định Windows Phone 8 khó dùng hơn Android hay iOS là chính xác, cái giao diện cổ điển truyền thống với 1 mớ icon là thứ dễ xài nhất, cách bài trí của Windows Phone 8 gây khó khăn cho người non kinh nghiệm, với mình không vấn đề, nhưng với bố mẹ sẽ khác.
 Đùa à, ba em bảo mấy cái icon mới khó dùng, ba em không có quan niệm cái nào là truyền thống cả vì chưa từng tiếp xúc với Windows, giao diện Windows Phone 8 có nét giống giao diện 1202 nên ba em thấy quen hơn.
 ==========================
 446
-Máy tính
+Hỏi máy tính
 Có cái ASUS Z9PE-D8 không bác ?
 Có luôn bác.
 ==========================
 447
-Máy tính
+Dominator
 Khi nào Dominator về Việt Nam vậy bạn ?
 Bạn muốn hỏi Dominator nhưng mà loại nào ?
 ==========================
@@ -2254,17 +2254,17 @@ Con trưởng thôn mà cũng hổ báo quá nhỉ ?
 Thế mà gọi là nô bộc của dân đấy.
 ==========================
 450
-Trò chơi điện tử
+Orianna
 Tuần này có Orianna là hay ho này, à cho em hỏi chơi con này có khó lắm không ?
 Cũng được, Orianna chơi được cả 5 vị trí nên đa năng lắm.
 ==========================
 451
-Trò chơi điện tử
+Orianna
 Cũng được, Orianna chơi được cả 5 vị trí nên đa năng lắm.
 5 vị trí thế nào được hả bác, thấy nó thường được dùng làm AP Carry ở làn giữa mà ?
 ==========================
 452
-Trò chơi điện tử
+Syndra
 Sao không kể nốt về Syndra hả bác ?
 Về Syndra em thấy nó bình thường thôi, nhanh tay là chính.
 ==========================
@@ -2279,7 +2279,7 @@ Mùa này còn Torres và Benitez với triết lý, lối đá bế tắc như 
 Bác nghĩ Cavani với Falcao có phù hợp với Chelsea hay chú Gomez, em nghĩ nếu Chelsea mua thì Gomez phù hợp với lối đá Chelsea hơn.
 ==========================
 455
-Máy tính
+Hỏi card màn hình
 Cái này chắc 6950 chứ anh, làm gì có con 5850 nào 2 GB ?
 Chắc hàng đểu.
 ==========================
@@ -2294,17 +2294,17 @@ Trò gì thế anh ?
 Trò này bắn headshot vui lắm.
 ==========================
 458
-Máy tính
+Toxic
 Ở Việt Nam có hàng Toxic chưa bác?
 Toxic giá hơi cao nên Altech chưa mang về, đặt hàng thì chắc mới được mang về.
 ==========================
 459
-Máy tính
-Vapor-x à hay cái nào thế ?
+Vapor-X
+Vapor-X à hay cái nào thế ?
 Em dự đoán là Vapor-X, nhưng mà chưa chắc chắn, biết đâu lại là phiên bản mới của con 3GB ép xung, bực cái là cái trang sapphiretech đang chết nên em không vào kiểm tra được.
 ==========================
 460
-Máy tính
+Vapor-X
 Em dự đoán là Vapor-X, nhưng mà chưa chắc chắn, biết đâu lại là phiên bản mới của con 3GB ép xung, bực cái là cái trang sapphiretech đang chết nên em không vào kiểm tra được.
 Trang đó có chết đâu, vào được nè.
 ==========================
@@ -2314,77 +2314,77 @@ Trang đó có chết đâu, vào được nè.
 Đang chết không thể vào được từ sáng cơ.
 ==========================
 462
-Máy tính
+Tư vấn gear
 Đang chiến cái World Of Tank và mấy game góc nhìn thứ nhất thì nên dùng bàn phím và chuột thế nào vậy bác, trong tầm giá 3.5 triệu cho cả 2 món, ráng lắm lết được 4 triệu ?
 Thế thì nguyên bộ Razer đi nhỉ, Deathadder, Goliathus 2011, Blackwidow tổng cộng là tầm 4 triệu.
 ==========================
 463
-Máy tính
+Hỏi chuột
 Thế sao con Deathadder của mình nó không làm được nhỉ ?
 Đừng cố bác ơi, để cho nó mới.
 ==========================
 464
-Máy tính
+Deathadder
 Mới mua con Deathadder 3500p rồi, bóc ra mặt dưới chuột nó dán 1 lớp nilon có bóc không nhỉ ?
 Sao không mua Deathadder 2013 lại mua bản cũ thế này, bóc lớp nilông ra thì sau này trầy đừng hỏi nhé.
 ==========================
 465
-Máy tính
+Deathadder
 Sao không mua Deathadder 2013 lại mua bản cũ thế này, bóc lớp nilông ra thì sau này trầy đừng hỏi nhé.
 Deathadder cũ có con Black Edition lớp phủ của nó thích hơn Deathadder 2013, cái nilon ở đấy không bóc ra lúc di trên bàn lót chuột nó cứ loạt xoạt, mà nếu đi 2 chân chuột thì chả bao xước, có chạm vào cái gì đâu mà xước.
 ==========================
 466
-Máy tính
+SteelSeries Siberia v2
 Sang tháng cũng có tí tiền, mình định đầu tư con SteelSeries Siberia v2 vì vừa đẹp vừa có microphone tiện đi đánh trùm TERA cùng mấy đồng chí trong tổ chức, bác có dùng thử con này rồi thì xin tí nhận xét xem âm thanh thế nào, microphone có ngon không và nhất là có bền không ạ ?
 SteelSeries Siberia v2 âm thanh tốt, nhưng cảm nhận của mình là bass không bằng kraken, nhưng được cái kiểu dáng đẹp, nhẹ, chơi trò chơi điện tử tốt, nhạc tạm tạm, có soundcard USB nên chất lượng khi chơi các trò chơi điện tử cũng cao hơn, còn microphone thì ổn không có gì phải chê, còn của bền do người bạn ạ.
 ==========================
 467
-Máy tính
+Tư vấn gear
 Thế thì nguyên bộ Razer đi nhỉ, Deathadder, Goliathus 2011, Blackwidow tổng cộng là tầm 4 triệu.
 Vậy còn bộ này thì sao, Razer Taipan và Razer Black Widow Tournament 2013 với Razer Goliathus Fragged 2011, đang kết bộ này.
 ==========================
 468
-Máy tính
+Tư vấn gear
 Vậy còn bộ này thì sao, Razer Taipan và Razer Black Widow Tournament 2013 với Razer Goliathus Fragged 2011, đang kết bộ này.
 Vậy thì càng ngon nữa, mua luôn đi.
 ==========================
 469
-Máy tính
+Hỏi chuột
 Nhân tiện bác có biết cách mở con Deathadder ra như thế nào không ạ, mình tính sơn cái bề mặt sang màu đỏ cho vui nhưng nghe nói Deathadder khó mở hơn IE nhiều nên bác cho em xin ít kinh nghiệm ạ ?
 Tìm kiếm trên Youtube nhé.
 ==========================
 470
-Máy tính
+Tư vấn chuột
 Bác tư vấn giúp mình, mình ở Hà Nội mai đi mua laptop, cần mua luôn con chuột, mình cần chuột cho công việc văn phòng, kích cỡ trung bình, không dây, cần có 3 4 phím macro để một vài thao tác gán vào đó, chuột không cần nhạy chỉ cần nhấn êm tay thoải mái, mình nhấn rất nhiều và hay bị đau tay.
 G700 nhé
 ==========================
 471
-Bảo hành
+Hỏi chuột
 Cho mình hỏi vấn đề này cái, mình vừa mua con Razer orochi về, cắm vô máy thì nó không chạy, nhưng nhấn chuột phải, trái vẫn dùng được, đem ra tiệm hỏi thì họ bảo sẽ đổi cho con khác, nhưng phải chờ hàng về, qua ngày hôm sau họ gọi điện bảo do mình cắm lộn đầu pin làm chuột bị lỗi đợi 2 ngày nữa họ bảo hành rồi trả lại mình.
 Trời, cửa hàng nào làm ăn tệ thế, mang lên Atech đi, Atech hỗ trợ tốt lắm, họ đổi mới luôn, nếu hết hàng thì chờ có hàng họ đổi cho.
 ==========================
 472
-Máy tính
+Hỏi lót chuột
 Mình đang xài RAT7, mới sắm con RAT9 giờ muốn kiếm con lót chuột cứng ngon ngon để xài chung với RAT9, bác tư vấn giúp với.
 4HD, 9HD, hay mấy con lót chuột cứng của Razer, đa dạng và tốn tiền chân chuột.
 ==========================
 473
-Máy tính
+Giá
 SteelSeries sắp ra con này, không biết giá thế nào bác nhỉ ?
 Con này ra dự đoán tầm 100 USD.
 ==========================
 474
-Máy tính
+Lót chuột
 4HD, 9HD, hay mấy con lót chuột cứng của Razer, đa dạng và tốn tiền chân chuột.
 Lót chuột cứng thì bụi bẩn gì dễ lau chùi không bác, con Tyloo nhà em mới giặt 1 lần xong tàn tạ ghê gớm, rõ ràng lúc giặt đã chà nhẹ hết mức có thể rồi mà lót chuột vẫn bị xước và cảm giác không mượt như lúc trước nữa ?
 ==========================
 475
-Máy tính
+Hỏi bàn phím
 Cho mình hỏi phím bị dính mồ hôi tay thì vệ sinh như thế nào, mình dùng cái bình xịt để lau xem chừng không hiệu quả lắm ?
 Phím ABS không phủ thì mòn là chuyện thường, phủ sơn bóng lại phục vụ đẹp mã nhưng sẽ không chống mồ hôi tay, phím phủ thì dùng lâu sẽ bong, càng lau nước càng chết, tốt nhất là cho nó mòn hết rồi sơn 1 lớp sơn nhám lại, còn phím như mấy em bàn phím LED thì lau mịn đều rồi ra dịch vụ phủ sơn bóng lên, đảm bảo như mới, đã thử với lớp phủ của Deathadder 3500.
 ==========================
 476
-Máy tính
+Tư vấn gear
 Đang muốn sắm 1 bộ bộ chuột và lót chuột mới, gom tiền thì cũng được 600, 700 ngàn, em cho hỏi trong tầm giá thì chọn loại nào vậy bác ?
 Chắc lại bộ Kinzu hoặc G100 và lót chuột thôi nhỉ ?
 ==========================
@@ -2399,7 +2399,7 @@ Orianna đi làn trên thì mua đồ giống hệt đi làn giữa thôi, khác
 Mới chỉ vác ra làn giữa, chưa thử đi làn trên bao giờ, vụ rừng này mới à nha hôm nào phải thử mới được.
 ==========================
 479
-Trò chơi điện tử
+Syndra
 Về Syndra em thấy nó bình thường thôi, nhanh tay là chính.
 Syndra bình thường nhưng cũng độ khó tối đa mà bác.
 ==========================
@@ -2409,7 +2409,7 @@ Syndra bình thường nhưng cũng độ khó tối đa mà bác.
 Em luyện 2 tuần mới thành thục đấy bác ạ, còn về độ khó của nó em không để ý lắm.
 ==========================
 481
-Internet
+Facebook
 Ngộ nhỉ, mỗi nơi mỗi khác, giờ sao lại làm căng Facebook thế nhỉ ?
 Có khi do đang có đại hội quốc hội chất vấn bộ trưởng.
 ==========================
@@ -2419,22 +2419,22 @@ Ngày mai 1 cháu MSI 5970 sẽ được trả về nơi sản xuất, hy vọng
 MSI gửi wa nước ngoài bảo hành hả anh ?
 ==========================
 483
-Điện thoại
+Windows Phone
 Từ hồi dùng Windows Phone bớt nghịch điện thoại hẳn, trước dùng Android suốt ngày nghịch ROM, rồi chỉnh sửa các kiểu, mãi không tìm được cái ưng ấy, giờ chả có gì để nghịch đâm ra lại nhàn.
 Thằng Windows Phone nó đóng hệ điều hành rồi, trong khi phần mềm lại ít.
 ==========================
 484
-Internet
+TCP
 Nếu các gòi truyền bằng giao thức TCP thì với cái mạng cùi bắp ở Việt Nam xác định là video 100 MB thì nó truyền 300 MB nhé.
 Dịch vụ Video Streaming thì phải dùng UDP chứ nhỉ sao lại là TCP ?
 ==========================
 485
-Điện thoại
+Hỏi điện thoại
 Cho em hỏi cái, em mới tậu con 520, muốn kết nối với máy tính mà không được, đã tải bản Windows Ohone để kết nối, nhưng cái đoạn nó bắt nhập tên điện thoại thì chịu.
 Nhập tên gì cũng được, bác nhập tên nào thì khi vào phần about của điện thoại nó sẽ hiện tên ấy.
 ==========================
 486
-Laptop
+Hỏi điện thoại
 Cái ứng dụng này chỉ tải được ảnh, nhạc, video, văn bản, thế còn ứng dụng khác hay trò chơi di động thì có cách nào tải thông qua máy tính không, hay phải tải ở cửa hàng ứng dụng hoặc ra quán hả bác ?
 Vẫn tải được qua máy tinh rồi chép vào thẻ nhớ và cài hàng loạt được, tuy nhiên chỉ được cài ứng dụng miễn phí trên cửa hàng ứng dụng thôi, ứng dụng có phí vẫn là bản dùng thử.
 ==========================
@@ -2444,22 +2444,22 @@ Cho em cái địa chỉ đi.
 Gọi mình để có địa chỉ bác nhé.
 ==========================
 488
-Laptop
+Nokia
 Hàng Nokia nhìn chắc chắn và cực bền nhưng thấy không được đẹp bằng HTC hay Apple.
 Nokia thì pin ngon khỏi nói rồi.
 ==========================
 489
-Internet
+TCP
 Dịch vụ Video Streaming thì phải dùng UDP chứ nhỉ sao lại là TCP ?
 Youtube vẫn dùng TCP đấy bác ạ, các HD streaming bây giờ hầu hết dùng TCP.
 ==========================
 490
-Internet
+TCP
 Youtube vẫn dùng TCP đấy bác ạ, các HD streaming bây giờ hầu hết dùng TCP.
 Vậy à, chắc do mình không chịu cập nhật thông tin liên tục, hồi trước Flash phát triển mạnh thì RTSP - Real Time Streaming Protocol phổ biến, cái này dùng UDP, giờ mấy trang HD Streaming dùng nền tảng HTML5 với hạ tầng mạng phát triển nên người ta chấp nhận chi phí nhiều hơn để phục vụ tốt các dịch vụ hơn.
 ==========================
 491
-Máy tính
+Thằn lằn
 Mới phát hiện một em thằn lằn nằm chết khô cứng ngắc trên cánh quạt CPU, chắc phải mấy ngày rồi mà máy không chết, ghê thật.
 Chắc CPU chả tải nhiều nên máy không bị khởi động lại nên không biết, mình có thù với những sinh vật này, mình lùng tụi nó khắp nơi, giờ thì máy mình đã sạch sẽ.
 ==========================
@@ -2469,29 +2469,29 @@ Chắc CPU chả tải nhiều nên máy không bị khởi động lại nên k
 Đắt chỗ nào nào ?
 ==========================
 493
-Máy tính
+Gigabyte
 Mấy con Gigabyte 7970 giờ muốn tra dầu vào quạt thì sao đây bác, cánh mỏng nhỏ wá, không dám dứt ra, sợ gãy thì mệt ?
 Con quạt của Gigabyte công nhận lỏng lẻo thật, của mình có 1 con bị lệch rồi.
 ==========================
 494
-Internet
+Facebook
 Giả ip để vào Facebook được không anh ?
 Dùng mấy trang web giả hoặc dấu IP thì vào Facebook bình thường, đổi DNS thì không được.
 ==========================
 495
-Internet
+Facebook
 Giờ vào Facebook là thấy nó báo không truy nhập được, bị chặn thật rồi sao ?
 Dùng Ultrasurf chữa cháy đi bồ.
 ==========================
 496
-Trò chơi điện tử
+Cityville
 Bọn bạn chơi Cityville spam thông báo cập nhật tới tấp, viết status chửi thì chúng nó vào xin lỗi, rồi lại đâu vào đấy, bực thật.
 Cứ chọn giấu hết cập nhật CityVille là xong hết, hoặc chặn tụi nó luôn cũng được.
 ==========================
 497
-Internet
+Facebook
 VNPT quận 9 không vào được Facebook nè, đã đổi DNS của Google mà vẫn bó tay.
-Xác nhận là chính xác, mình cũng ở Q.9, sáng vào bình thường, cái từ 10 giờ trở đi không vào được nữa, ức chế quá.
+Xác nhận là chính xác, mình sáng vào Facebook bình thường, cái từ 10 giờ trở đi không vào được nữa, ức chế quá.
 ==========================
 498
 Việc làm thêm
@@ -2499,12 +2499,12 @@ Làm ở đó còn cần Anh văn hay kĩ năng gì không bạn ?
 Tiếng Anh thì dễ thôi anh ạ, nhớ đợt trước ngày phỏng vấn em luyện cả đêm, sáng vào phòng ổng hỏi 1 câu tên em là gì rõ dài 3, 4 giây rồi giới thiệu bản thên thế là qua.
 ==========================
 499
-Việc làm thêm
+Pizza Hut
 Em nói thật bác qua Pizza Hut mà làm, ba cái chỗ KFC và Lotteria làm ăn mệt bỏ xừ ra, lương thưởng chả biết có không chứ dám chắc chả được bao nhiêu.
 Em xem web thì thấy Pizza Hut nó có nhiều chi nhánh khác nhau, nếu mình nộp hồ sơ thì muốn làm cơ sở nào đến nộp tại cơ sở đó hay nộp ở một nơi tập trung hả bác, và người ta xếp địa điểm làm theo nguyện vọng của mình hay sao bác ?
 ==========================
 500
-Laptop
+Việc làm thêm
 Em xem web thì thấy Pizza Hut nó có nhiều chi nhánh khác nhau, nếu mình nộp hồ sơ thì muốn làm cơ sở nào đến nộp tại cơ sở đó hay nộp ở một nơi tập trung hả bác, và người ta xếp địa điểm làm theo nguyện vọng của mình hay sao bác ?
 Làm ở đâu đến nộp ở đấy, KFC, Pizza Hut, Lotte hay gì gì cũng thế hết.
 ==========================

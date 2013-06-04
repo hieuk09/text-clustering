@@ -1,10 +1,10 @@
 ﻿1
-Máy tính
+Mainboard
 Tháo mainboard ra thì tháo block ra thôi chứ tháo cả tube và coolant thì vỡ thớt, kể ra nếu có phải đụng chạm gì thì cũng phiền nhỉ, chơi tản nhiệt nước thì thùng máy phải to to mới khoái.
 Tút được mainboard lên là cả một vấn đề vì một đống block và tube ở trên nó, còn tank ở bên cạnh nữa, mình thì mình cũng ngậm ngùi lách ra tháo ra đó, chứ tiền coolant có ít đâu.
 ==========================
 2
-Máy tính
+Tản nhiệt
 Cũng làm gì tốn lắm, hôm trước lượn tìm 1 bộ tản nhiệt nước, cứ cái rẻ nhất chọn, cả bộ có gần 4 triệu.
 Đại gia nói chuyện với nhau, mình không nên chen vào bác ạ.
 ==========================
@@ -24,17 +24,17 @@ Một khi đã máu thì đừng hỏi bố cháu là ai.
 Máu thì máu rồi ạ, cơ mà dự mất vài triệu.
 ==========================
 6
-Máy tính
+Đi dây
 Nhìn dây rút hơi phản cảm thật.
 Dây rút chỉ là cố định tạm thởi để tính đường nước thôi, còn sau này sẽ bắt bằng rãnh trượt của nhôm định hình.
 ==========================
 7
-Máy tính
+Card LAN
 Cho em hỏi thông minh chút là card LAN của mấy con mainboard cao cấp so với con B75 thì có giống nhau hay không , hay là mỗi phân cấp thì card LAN khác nhau ?
 Cùng cái card LAN đó cho 4 con mà, trang chủ MSI có 4 con này rồi đấy, bác có thể lên đó tham khảo thêm.
 ==========================
 8
-Máy tính
+Hỏi thùng máy
 Còn đây là thùng máy gì vậy ?
 Thermaltake Speedo hay gì gì đó ấy.
 ==========================
@@ -54,17 +54,17 @@ Vừa lấy điện thoại vào WAP của mình kiểm tra thử thì thấy m�
 Hình như của mình cũng thế, hôm trước tải thử cái phần mềm xem điểm thi về cũng vậy.
 ==========================
 12
-Máy tính
+Đi dây
 Bác có lòng tốt đi dây hộ em cái thùng máy được không, mua cái thùng máy về mà đi dây không gọn thì phí quá.
 Đi dây mày mò 1 chút là ổn, có gì đâu bác, em ở tận dưới Đại học Hà Nội, không thì cũng qua giúp bác tí.
 ==========================
 13
-Máy tính
+Tản nhiệt
 Hôm nay kiếm tạm con HP825 thay cho SF, có tạm thùng máy cùi, dây 4 pin CPU ngắn quá, giá mà nó mọc thêm 20cm nữa thì tuyệt, có khi phải lên tí đèn đóm cho ảo.
 Con này lá tản nhôm nhìn kinh quá bác, sao không lấy HP 928 em nhìn nó có vẻ đẹp hơn.
 ==========================
 14
-Máy tính
+Quạt
 Quạt nóc thùng máy cũng phải có lọc bụi chứ, không mỗi lần tắt máy thì chỗ đấy khác nào chỗ hứng bụi, nói chung là bụi thì không tránh được, nhất là ở môi trường Việt Nam, nhà mình tít trong ngõ ngách đây mà còn bụi kinh.
 Nhà em ngoài mặt đường tầng 2, 1 ngày mở cửa là bụi vào như mưa, may hồn là ở tuốt tầng 4, nóng chết.
 ==========================
@@ -94,67 +94,67 @@ Triều Tiên
 Hàn Quốc và Triều Tiên mà đánh nhau thì chỉ làm trò cười cho thiên hạ, mó tự giết nhau thôi, ai thắng ai thua thì cũng đều nhục cả, vì thế nếu không phải bất đắc dĩ thì 2 thằng này không đánh nhau đâu, mà có đánh thì cũng khó mà thổi lên chiến tranh thế giới thứ 3 được, vì nó vẫn mang tính chất nội chiến là chính.
 ==========================
 20
-Phần mềm
-Thì em chuyển về Unicode mới gõ được bình thường, thế mỗi lần sang Office mình phải chuyển từ Unicode về Việt NamI Windows chứ không có cách khắc phục triệt để sao ?
-Chuẩn rồi, cách khắc phục triệt để là đừng dùng font Việt NamI cho tập tin office nữa, chuyển sang font Unicode mà dùng.
+VNI
+Thì em chuyển về Unicode mới gõ được bình thường, thế mỗi lần sang Office mình phải chuyển từ Unicode về VNI Windows chứ không có cách khắc phục triệt để sao ?
+Chuẩn rồi, cách khắc phục triệt để là đừng dùng font VNI cho tập tin office nữa, chuyển sang font Unicode mà dùng.
 ==========================
 21
-Phần mềm
-Em là sinh viên, tất cả bài làm của em thì phải soạn thảo theo Font Việt NamI Times bảng mã Việt NamI Windows thì người ta mới nhận ạ, thế nên bắt buộc dùng Việt NamI.
-Cứ viết bằng Unicode rồi mở Unikey ra mà chuyển sang bảng mã Việt NamI.
+VNI
+Em là sinh viên, tất cả bài làm của em thì phải soạn thảo theo Font VNI Times bảng mã VNI Windows thì người ta mới nhận ạ, thế nên bắt buộc dùng VNI.
+Cứ viết bằng Unicode rồi mở Unikey ra mà chuyển sang bảng mã VNI.
 ==========================
 22
-Phần mềm
+Cài đặt
 Đang cài đặt tới phần chép tập tin thì nó hiện ra lỗi này nó đưa ra 3 lựa chọn là bỏ qua cài tiếp, thoát và dừng lại, cho em hỏi nó là lỗi gì thế ?
 Đĩa Windows bị lỗi, hoặc bị xước nên không thể chép tập tin đó được, kiếm cái đĩa khác đi.
 ==========================
 23
-Phần mềm
+Cài đặt
 Đĩa Windows bị lỗi, hoặc bị xước nên không thể chép tập tin đó được, kiếm cái đĩa khác đi.
 Nếu em cài tiếp tục thì có sao không ?
 ==========================
 24
-Phần mềm
+Cài đặt
 Nếu em cài tiếp tục thì có sao không ?
 Ngày trước em cài mấy cái đĩa hỏng cũng thế này, cài vô tư mỗi tội Windows lúc đó nó không vào.
 ==========================
 25
-Phần mềm
+Cài đặt
 Ngày trước em cài mấy cái đĩa hỏng cũng thế này, cài vô tư mỗi tội Windows lúc đó nó không vào.
 Chán thế.
 ==========================
 26
-Máy tính
+Thùng máy
 Thùng máy của bạn còn rối nhiều lắm.
 Không dám so sánh với người khác nhưng với 2 thùng máy trên thì không thể gọn gàng bằng mình được.
 ==========================
 27
-Máy tính
+295GTX
 Lỡ em có 3 con 295GTX thật nhưng tháo bớt ra để trưng 1 em thôi thì sao? 
-3 con 295 chạy bằng niềm tin à, 2 cây thì cắm vẫn chạy chứ SLIx3 295 thì đỡ vào đâu nổi.
+3 con 295GTX chạy bằng niềm tin à, 2 cây thì cắm vẫn chạy chứ SLI 3 con 295GTX thì đỡ vào đâu nổi.
 ==========================
 28
 VOZ
-VOZ là gì?
+VOZ là gì ?
 Vietnam Overclocker Zone.
 ==========================
 29
-Máy tính
+Benchtable
 Cũng muốn chơi benchtable nhưng nhà bụi kinh dị nên thôi.
 Chính xác, cứ để benchtable khoảng 3 ngày đi, thấy màu xám liền.
 ==========================
 30
-Máy tính
+Vệ sinh máy
 Thùng máy mình cũng bụi thấy ớn luôn nè, chăm vê sinh thì nó sạch thôi.
 Mỗi lần vệ sinh cả tiếng đồng hồ bao gồm tháo ra lắp lại.
 ==========================
 31
-Máy tính
+Đi dây
 Bác ơi cái dây nguồn nó ép vào mainboard lâu ngày thì có sao không vậy, em giấu dây mặt sau nên có 1 cụm dây nó ép vào mainboard khi gắn nắp thì phải đè mạnh tay nó mới khít.
 Không sao, chỉ sợ cấn quá gãy đầu cắm trên mainboard, còn nếu vẫn bình thường thì không sao.
 ==========================
 32
-Máy tính
+Đi dây
 Con CM silent M2 đúng không bác, kết kiểu dây cáp này quá, bọn Corsair HX, AX chỉ có mỗi cáp sata và 4 pin làm kiểu dẹt, sao không làm kiểu dẹt cả cáp 6 pin nữa nhỉ ?
 Dây pci mình gét kiểu dẹt dẹt lắm, chỉ thích mấy dây sata và ata dẹt thôi.
 ==========================
@@ -165,7 +165,7 @@ Của mình nhìn cũng như bạn nhưng có vài con nhện.
 ==========================
 34
 Chó
-ôi con chó nhìn yêu thế, giống hệt con mới sinh nhà mình, mà đi được 3 tháng rồi, không biết nó bự cỡ nào.
+Ôi con chó nhìn yêu thế, giống hệt con mới sinh nhà mình, mà đi được 3 tháng rồi, không biết nó bự cỡ nào.
 Nhìn thích thật, dễ thương quá, mong chủ con chó này nuôi em nó tử tế, nhìn tội nghiệp vãi.
 ==========================
 35
@@ -179,12 +179,12 @@ Quân sự
 Nhiều nước vẫn dùng bom chùm như Nga, Trung Quốc, Mĩ.
 ==========================
 37
-Máy tính
+Đi dây
 Hôm nay lên 620w có module nhìn gọn hơn hẳn.
 Nhìn quả đèn đẹp vô đối, nhưng mà em thấy cái đoạn dây sau màn hình máy tính rối rắm quá mất hết cả cảm xúc.
 ==========================
 38
-Tai nghe
+Hỏi tai nghe
 D2000 à ?
 Chính nó bạn à, con này chuyên trị nhạc bass và coi phim phê đừng hỏi.
 ==========================
@@ -219,22 +219,22 @@ Phải la lối mới có người trả lời chứ.
 Chuyện bình thường mà sao bạn lại ngạc nhiên nhỉ ?
 ==========================
 45
-Máy tính
+Quạt
 Bạn gắn quạt thùng máy để thổi vào, không biết có bị ngược không ta ?
 1 quạt đằng trước hút ra.
 ==========================
 46
-Máy tính
+Quạt
 Bạn gắn quạt ngược với thiên hạ quá.
 Trời bên Việt Nam nóng, bên này đang lạnh như quỷ nên hai quạt H100 và quạt thùng máy hút lạnh vào, đẩy xuống dưới thổi khí nóng ra.
 ==========================
 47
-Máy tính
+Quạt
 Trời bên Việt Nam nóng, bên này đang lạnh như quỷ nên hai quạt H100 và quạt thùng máy hút lạnh vào, đẩy xuống dưới thổi khí nóng ra.
 Mình toàn thấy hút từ trước và dưới thổi ra sau và lên trên chứ lắp kiểu bạn mới thấy lần đầu.
 ==========================
 48
-Máy tính
+Vệ sinh máy
 Vừa vệ sinh cái thùng máy.
 Xấu khỏi nói.
 ==========================
@@ -244,12 +244,12 @@ Toàn hàng đẹp.
 Hàng đẹp làm kỷ niệm, có thể sẽ bán nhưng giờ thì chưa.
 ==========================
 50
-Máy tính
+Quạt
 2 cái quạt LED chắn ngang là gì thế?
 Quạt đi theo con W1.
 ==========================
 51
-Máy tính
+Hỏi mainboard
 Cái mainboard bé tí là mainboard gì thế bạn ?
 Nó là con này đây Asrock H77 Pro4/MVP.
 ==========================
@@ -284,9 +284,9 @@ Cứ nghe đến Ronaldo là lòng em lại trào dâng 1 cảm xúc khó tả.
 Hóng người ngoài vũ trụ vượt qua người ngoài hành tinh.
 ==========================
 59
-Bóng đá
+Ronaldo
 Xét tầm quốc gia thì Ronaldo hơn Messi.
-Tầm quốc gia CR7 có cái gì mà hơn Messi vậy, ít nhất Messi cũng có 1 cái huy chương Olympic.
+Tầm quốc gia Ronaldo có cái gì mà hơn Messi vậy, ít nhất Messi cũng có 1 cái huy chương Olympic.
 ==========================
 60
 Điện thoại
@@ -294,47 +294,47 @@ Tầm quốc gia CR7 có cái gì mà hơn Messi vậy, ít nhất Messi cũng c
 Ý bác là cái nhận diện giọng nói ?
 ==========================
 61
-Điện thoại
+Hỏi điện thoại
 Làm sao để chuyển danh bạ từ sim qua danh bạ hotmail vậy các bác ?
 Bác vào People, Settings, Import SIM contacts nhé
 ==========================
 62
-Điện thoại
+Hỏi điện thoại
 Mà bị 1 lỗi, nhạc trong Itunes là nhạc m4a, nhưng đồng bộ vào 520 thì bị lỗi không nghe được ?
 m4a nghe tốt mà pác.
 ==========================
 63
-Điện thoại
+Hỏi điện thoại
 Ý bác là cái nhận diện giọng nói ?
 Mới dùng nên hơi khó, giờ dùng quen nên ngọt rồi bác.
 ==========================
 64
-Điện thoại
-Làm sao hiện % pin lên vậy bác ?
-Vào cài đặt chỗ tiết kiệm pin sẽ ra % pin.
+Hỏi điện thoại
+Làm sao hiện phần trăm pin lên vậy bác ?
+Vào cài đặt chỗ tiết kiệm pin sẽ ra phần trăm pin.
 ========================== 
 65
-Điện thoại
+Hỏi điện thoại
 Cho hỏi các ứng dụng cơ bản ví dụ như yahoo thì không có rồi thì lấy gì thay thế, facebook dùng ứng dụng nào, có Google Maps không ?
 Yahoo thì có IM+ , Facebook thì có phần mềm của Facebook, còn Google Maps không đủ tuổi để so với Here Maps.
 ==========================
 66
-Điện thoại
-Ứng dụng Facebook có cách nào là cái tile của nó live với new feed không, của em nó hiện ra cái hình cover thôi.
+Hỏi điện thoại
+Ứng dụng Facebook có cách nào là cái tile của nó live với new feed không, của em nó hiện ra cái hình cover thôi ?
 Vào trong store có 2 ứng dụng, 1 là Facebook HD là của thằng nào nó viết, cái này hay bị treo, còn cái Facebook không có gì là hàng ngon, dùng phê.
 ==========================
 67
-Điện thoại
+Here Map
 Mà Here Map có chế độ báo kẹt xe không ?
 Here Map tải bản đồ ngoại tuyến của cả Việt nam dễ dàng nhé.
 ==========================
 68
-Điện thoại
-Đang dùng FB của Microsoft, nhưng ấy mình muốn hỏi là cái tile trong menu Start đó, có cách nào nó live với newfeed trong tài khoản Facebook của mình không, giờ nó chỉ hiện lên cái hình cover mình chỉnh trong tài khoản thôi.
+Hỏi điện thoại
+Đang dùng Facebook của Microsoft, nhưng ấy mình muốn hỏi là cái tile trong menu Start đó, có cách nào nó live với newfeed trong tài khoản Facebook của mình không, giờ nó chỉ hiện lên cái hình cover mình chỉnh trong tài khoản thôi.
 Cái đó trong cài đặt đồng bộ ấy, chỗ email thì phải.
 ==========================
 69
-Điện thoại
+Pin
 Còn cái vụ pin thì sao nhỉ, ấy em là vỏ màu mè hoa lá giống của mấy con iPhone ấy ?
 Vụ pin thì mới đầu dùng nhanh hết, nhưng được vài hôm rồi sẽ ổn nhá, mình để chế độ airplane từ 12 giờ đêm tới 8 giờ sáng vẫn 100%, nếu để wifi và whatsapp thì 1 giờ đi 1% pin.
 ==========================
@@ -354,67 +354,67 @@ Máy tính của em đây.
 Máy của bạn gọn gàng và đẹp thế.
 ==========================
 73
-Máy tính
+Mainboard
 Mới xoay mainboard lại, gọn gàng có thể nói là rất được, chưa có tiền mua bàn nên đặt tạm như này.
 Sao không để quay cái mainboard lại được à, để ngược mainboard nhìn nó thế nào ấy ?
 ==========================
 74
-Máy tính
+Hỏi mainboard
 Sao không để quay cái mainboard lại được à, để ngược mainboard nhìn nó thế nào ấy ?
 Được mà bạn, chả là chán bên phải thôi mà.
 ==========================
 75
-Máy tính
+Hỏi mainboard
 Con mainboard gì mà nhìn bề ngang bự thế nhể, con kia là Shuriken đúng không bác ?
 Shuriken đó bác, không biết bác kia có chế lại clip không chứ clip của bọn scythe dùng bực mình dễ sợ.
 ==========================
 76
-Máy tính
+Ổ cứng
 Ồ có thêm ổ SSD với card màn hình kìa.
 Shuriken Rev B, lúc mua tìm Big Shuriken nhưng không có, con này được cái đỡ kén RAM, Big Shuriken phải RAM thấp mới gắn được, được cái 4 hp với quạt 120mm, clip dễ gắn hơn, clip con mình đang dùng gắn hơi khó .
 ==========================
 77
-Máy tính
-bọn Gigabyte không có dòng nào cộp cái mác Gaming nhỉ ?
-Cái đám mainboard màu xanh đọt chuối với đen ấy.
+Mainboard
+Bọn Gigabyte không có dòng nào cộp cái mác Gaming nhỉ ?
+Cái đám mainboard màu xanh đọt chuối với đen ấy .
 ==========================
 78
-Máy tính
+Hỏi thùng máy
 Đẹp quá, thùng máy của bạn hay chôm hình về ?
 Đương nhiên là chôm hình rùi, từng đấy thùng máy chật nhà ra đó.
 ==========================
 79
-Máy tính
+Modular
 Tự nhiên thấy thèm con PSU Modular quá.
 Đừng tưởng Modular là gọn, loại thường đi không gọn rồi gặp modular đi dây còn xấy hơn nhiều.
 ==========================
 80
-Máy tính
+Đi dây
 Thế cho em hỏi thùng máy của em đã gọn chưa ạ hay cố đi làm sao cho gọn nữa ?
 Chưa gọn bạn ơi, có thể đi dây gọn hơn rất nhiều nữa, đi làm sao thì tùy trình ráng nghiên cứu xem sao.
 ==========================
 81
-Máy tính
+Đi dây
 Bạn có cao kiến gì để đi dây gọn hơn không ?
 Quay ngược ổ cứng lại, đi dây nguồn sẽ dễ giấu hơn, tìm thêm mấy cọng sata chữ L ngược sẽ gọn gàng ngay.
 ==========================
 82
-Máy tính
+Đi dây
 Hỏi ngu 1 câu thấy nhìu máy đi ống nước kim loại, vậy làm sao đo và uốn cong chuẩn thế, rồi làm sao nối với Fitting được ?
 Hình như đổ cát vào ống rồi uốn đó, nối Fitting giống kiểu nối SLI bình thường thôi.
 ==========================
 83
-Máy tính
-Thương hiệu Ikhôngnik đã được khẳng định qua đợt hàng của HNC với những sản phẩm tầm trung rất tốt đã được tiêu thụ mạnh trên Hà Nội và cả TP.HCM, cho đến nay vẫn chưa được nhập lại, với đỉnh cao là em Ikhôngnik ra2000 có thể chạy song song RAD 320, thép dày và thô vô đối.
-Vậy mà trước giờ tưởng thép nó hơn cộc xê chứ, em thấy bác kia lên thùng máy cực ngon, hoặc thùng máy vừa vừa nhưng lựa chọn tản nhiệt nước thơm, con Ikhôngnik chưa sờ không biết nhưng 1100 bơ thế kia bác còn chê, không gắn RAD được ở nóc thì tháo hộc ổ cứng gắn mặt tiền, mà cơ bản là do em cảm tình với 1100.
+Ikonic
+Thương hiệu Ikonic đã được khẳng định qua đợt hàng của HNC với những sản phẩm tầm trung rất tốt đã được tiêu thụ mạnh trên Hà Nội và cả TP.HCM, cho đến nay vẫn chưa được nhập lại, với đỉnh cao là em Ikonic ra2000 có thể chạy song song RAD 320, thép dày và thô vô đối.
+Vậy mà trước giờ tưởng thép nó hơn cộc xê chứ, em thấy bác kia lên thùng máy cực ngon, hoặc thùng máy vừa vừa nhưng lựa chọn tản nhiệt nước thơm, con Ikonic chưa sờ không biết nhưng 1100 bơ thế kia bác còn chê, không gắn RAD được ở nóc thì tháo hộc ổ cứng gắn mặt tiền, mà cơ bản là do em cảm tình với 1100.
 ==========================
 84
-Máy tính
-Nói chung Ikhôngnik không chơi được tản nhiệt nước thoải mái đâu, 650D đi.
+Ikonic
+Nói chung Ikonic không chơi được tản nhiệt nước thoải mái đâu, 650D đi.
 Rộng rãi thế mà bác ?
 ==========================
 85
-Máy tính
+Bảo hành
 Đang chờ tới mùng 10 để mang con mainboard Z77 GD65 đi bảo hành đây.
 Bác với em đồng cảnh ngộ rồi.
 ==========================
@@ -444,62 +444,62 @@ SEO
 Chắc vậy thôi, giờ chuyển qua chiến lược tấn công chiều rộng, post bài tràn lan.
 ==========================
 91
-Điện thoại
+Windows Phone
 Windows Phone 8 tuy khác với Windows Phone 7.5 nhưng chỉ khác trong Kernel là chính, cái giao diện thì giống 99% , trước khi mua không tìm hiểu, mua rồi thì than gì nữa ?
 Vào cái thời điểm mua chả tìm thấy chỗ nào nói đến nhược điểm của Windows Phone ngoài phím chụp hình, hở sáng, pin hao thì lấy cái giống gì tìm hiểu.
 ==========================
 92
-Điện thoại
+Windows Phone
 Mình cũng mới làm quen với Windows Phone bằng con Lumina 620, về phần cứng con này thì ổn, còn hệ điều hành với phần mềm thì chán lắm, các phần mềm thì thiếu thốn và hay bị lỗi văng ra, lỗi này có thể châm trước do hệ điều hành mới nên phần mềm chưa hoàn thiện nhưng lỗi xài chung một cây âm lượng với vụ rung có 2, 3 giây rồi thôi thì không thể chấp nhận được, từ ngày chuyển qua xài em này thì điện thoại với tin nhắn tới toàn bị lỡ, giờ chắc quay về em Nokia 1280 thần thánh xài cho lành quá.
 Bạn với mình trở thành đồng chí được rồi đó.
 ==========================
 93
-Máy tính
+Đi dây
 Cọng dây 8Pin của CPU sao không đưa ra sau thùng máy luôn đi ?
 Đưa không được bác ơi, dây không đủ dài.
 ==========================
 94
-Máy tính
+Đi dây
 Máy gọn gàng quá bác ơi, bác không xài ổ cứng à ?
 Cái ổ cứng giấu ở trên nóc đó bác, như vậy mới là gọn chứ.
 ==========================
 95
-Máy tính
+Hỏi máy tính
 Kết NZXT rùi ah ?
 Em thì chỉ cần đẹp, ngon, chất và dễ đi đây một tí thôi ạ, vì là Mica nên em định chỉnh lại dây để khi nhìn xuyên vào trong thấy mainboard, chip, card đồ họa các thứ đỡ bừa bộn hơn.
 ==========================
 96
-Máy tính
+Hỏi thùng máy
 Thế em thích đẹp thì chọn 1 trong 2 con thùng máy kia được không ạ, thấy ông anh em kiểm thử cũng đâu đến nỗi ?
 Mình thấy thực sự là NZXT không đẹp, không chất, trước mình cũng từng dùng nhiều thùng máy rồi nên có ấy kiến như vậy, m3 con mình kể đi dây, rộng rãi thoáng mát chắc chắn hơn nhiều 2 con NZXT kia, theo mình cứ mang tầm 2 tới 2.5 triệu đi đến cửa hàng máy tính nhìn tận mắt mà chọn.
 ==========================
 97
-Máy tính
+Quạt
 Cho em hỏi con quạt trên nóc màu trắng là con gì đó bác ?
 Xigmatek 120mm XOF-F1251 White nhé.
 ==========================
 98
-Máy tính
+Quạt
 Sao mà lắp lắm quạt thế, ồn phải biết, một đôi con A70 đã là quá rồi.
 Em vừa mới vứt 2 con quạt A70 vào kho vì ồn quá, gỡ ra thấy rất rất là đỡ ồn, thay bằng con Xigmatek 120mm CLF-F1251 Blue led Crystal Silent Fan nghe im ru.
 ==========================
 99
-Máy tính
+Hỏi card màn hình
 Mấy con card cyclone này nhìn nó hơi cong xuống nhỉ ?
 Mấy con board to đều cong cả vì 1 đầu không có chốt giữ, con của mình cũng cong.
 ==========================
 100
-Máy tính
+Mua bán
 Intel RTS2011LC Water Cooler, cái này có bán ở Việt Nam không bác ?
 Không bán, nhưng máu thì ship về, khoảng 2 triệu.
 ==========================
 101
-Máy tính
+Hỏi thùng máy
 NZXT Lexa S hay Hades dùng mát hơn nhỉ các bác ?
 CM 690II, Corsair 400r, Cougar evo hơn 2 con đó.
 ==========================
 102
-Máy tính
+THùng máy
 Mấy em Fractal thiết kế ổn, đi dây ngon, thông minh nhưng xây dựng hơi dỏm, ốc 1 thời gian bị rỉ sét , nắp hông khó kéo ra lắp vô.
 Em có thấy bị gì đâu, nắp hông vẫn chuẩn khít như lúc mới mua.
 ==========================
@@ -514,7 +514,7 @@ Blogspot
 Mình nghĩ là blogspot tự co giãn mà nhỉ.
 ==========================
 105
-Máy tính
+Quạt
 Bác chơi nhiều quạt thế, có ồn lắm không, 4 con ổ cứng sít thế kia chắc cũng nhiệt độ lên gần 40 ấy nhỉ ?
 Nhiệt độ lên tầm 40, 41 con ổ cứng thì có sao không bạn ơi, con của mình quạt trong quạt ngoài cũng phải tầm đấy.
 ==========================
@@ -524,13 +524,13 @@ Chụp bằng ống 85 mà phòng có hạn nên chỉ được thể này thôi
 Ống 85 thì chắc phải đứng sát tường để chụp ấy nhỉ ?
 ==========================
 107
-Máy tính
+Đi dây
 Chụp kiểu lừa tình để giấu mấy cái dây đây mà.
 Em đi dây đẹp lắm bác.
 ==========================
 108
-Laptop
-lâu lắm rồi em cũng chưa làm sạch thùng máy, bao lâu thì cần tắm rửa cho nó 1 lần thế ?
+Vệ sinh máy
+Lâu lắm rồi em cũng chưa làm sạch thùng máy, bao lâu thì cần tắm rửa cho nó 1 lần thế ?
 Ngày tắm 2 lần, cần nữa thì cho em nó đi spa tắm trắng luôn.
 ==========================
 109
@@ -544,22 +544,22 @@ Chính xác là độ nét tốt hay trường ảnh tốt hả bác ?
 Em nghĩ là cả 2.
 ==========================
 111
-Máy tính
+Nguồn
 Kiếm 1 cái nguồn chết không ra.
 Kiếm không có thì lết ra mấy chỗ chuyên bán linh kiện điện tử mà tìm, ở TP.HCM thì cứ ra Nhật Tảo.
 ==========================
 112
-Máy tính
+Đi dây
 Đi dây chán thế ?
 Mình nhận ra một điều hiển nhiên là muốn đi dây đẹp phải chọn thùng máy và mainboard với nguồn hợp nhau chứ không thì không được đâu.
 ==========================
 113
-Máy tính
+Thùng máy
 Sặc con HAF 932 màu đỏ xấu quá bác ơi, sao không mua màu đen cho đẹp, lòng sơn đen hết luôn cho chất.
 Nhà nghèo mua đồ cũ, đâu có lựa chọn.
 ==========================
 114
-Laptop
+Đi dây
 Mình nhận ra một điều hiển nhiên là muốn đi dây đẹp phải chọn thùng máy và mainboard với nguồn hợp nhau chứ không thì không được đâu.
 Khốn nạn là một số con thùng máy cũng như một số cái mainboard chả ăn rơ với cái mainboard hoặc cái thùng máy nào khác.
 ==========================
@@ -569,12 +569,12 @@ Nhà nghèo mua đồ cũ, đâu có lựa chọn.
 Ặc, thế bác mua con đấy bao tiền mà bảo là nghèo ?
 ==========================
 116
-Máy tính
+Đi dây
 Đồng chí phía trên đòi hỏi hơi quá, dây dài mà lại còn gọn, dễ giấu thì bố ai mà làm được ?
 Nói chung là cứ dây dài với không thiếu đầu cắm đi, sau đó chọn thùng máy có khoảng trống sau mainboard rộng rồi nhét tất vào đó là xong.
 ==========================
 117
-Máy tính
+Bẻ
 Hãi đồng chí, cái nẹp đó cứng thế mà cũng bẻ cho gãy được.
 Bác không biết đâu, bẻ ra bẻ vào ấy nó gần rụng đến nơi luôn đang tính đổi sang con khác mà vẫn chưa tìm được con nào ưng ý.
 ==========================
@@ -594,17 +594,17 @@ Dạo này tự kỷ rồi.
 Bác giống em.
 ==========================
 121
-Máy tính
+Mainboard
 Chú đang nói cái mainboard nào thế, lung tung xà beng ai mà biết Board nào?
 Câu đầu tiên của em nói về nó là về cái Board cho đám phase đấy, cơ mà bác kia lại hiểu sang là board wifi.
 ==========================
 122
 Nghèo
-Xưng là nghèo mà chơi con điện thoại chụp nét cỡ đó vs con thùng máy như thế mà kêu nghèo ?
-Chỉ là con N5230 thôi mà bác.
+Xưng là nghèo mà chơi con điện thoại chụp nét cỡ đó với con thùng máy như thế mà kêu nghèo ?
+Chỉ là con N5230 thôi mà bác .
 ==========================
 123
-Máy tính
+Vệ sinh máy
 Thùng máy bụi kinh khủng mà không biết phải làm sao.
 Tháo hết ra rồi vệ sinh chứ sao nữa.
 ==========================
@@ -614,57 +614,57 @@ Nokia 5233 biết chụp thì vẫn đẹp.
 Vẫn xấu mù.
 ==========================
 125
-Máy tính
+Thùng máy
 2 triệu thì bỏ ra gần 1 triệu lấy em Fractal Core 1000, tiền còn lại tự làm thêm 1 bộ dây nguồn, lấy 1 cái fan màu trắng rồi chỉnh sửa.
 Đẹp nhỉ, không biết con này lắp tản nhiệt nước có đủ chỗ không nữa ?
 ==========================
 126
-Máy tính
-Đang tình lắp y hệt như này nhưng chưa biết nhét 2 cái ổ cứng vào đâu.
+Hỏi thùng máy
+Đang tình lắp y hệt như này nhưng chưa biết nhét 2 cái ổ cứng vào đâu ?
 Lắp vào khay ODD nhé.
 ==========================
 127
-Máy tính
+Core 1000
 Máy em ổ cứng hơi nhiều, cũng nhắm con Core 1000 nhưng ngai chỗ ổ cứng, phải chi có bán Define Mini thì quá ngon.
 Cũng đang kiếm em đó, Core 1000 đặt nguồn trên hơi vô duyên thêm cái không dấu được dây.
 ==========================
 128
-Máy tính
+Thùng máy
 À quên mất còn con này Fractal Design Define XL Black Pearl, đợt trước có giảm giá mấy mẫu có cả nó không biết bảo hành còn không, giá 650 USD.
 Ngon thế, bao giờ mới có tiền làm dàn máy có thiết kế như thế đây ?
 ==========================
 129
-Máy tính
+Thùng máy
 Inwin Grone, có 2 triệu rưỡi mà thùng máy dạng tháp, mica cửa sổ đầy đủ, chất lượng lắp chưa biết thế nào ?
 Con này gắn tản nhiệt nước hơi bị phê.
 ==========================
 130
-Máy tính
+Thùng máy
 Mà sao 600T, 650D, 800D cũng hơn 3, 4 năm tuổi rồi mà Corsair không ra thế hệ tiếp theo rồi cho bọn này về hưu đi, 800D từ 2008 rồi mà đến nay chả cải tiến gì.
 Có 900D rồi bác.
 ==========================
 131
-Máy tính
+Tiền
 Ngon thế, bao giờ mới có tiền làm dàn máy có thiết kế như thế đây ?
 Tầm 30 triệu là đủ rồi.
 ==========================
 132
-Máy tính
+Chơi
 Bác này chơi dàn gần giống em.
 Chơi thì cùng tông chứ bác, trên xanh dưới đỏ.
 ==========================
 133
-Máy tính
+Ổ cứng
 Quay ngược ổ cứng lại, đi dây nguồn sẽ dễ giấu hơn, tìm thêm mấy cọng sata chữ L ngược sẽ gọn gàng ngay.
 Quay ngược lại được à bạn, mà cái cọng Sata chữ L như thế nào bảo mình để mình tìm mua cái, cho hình thì càng tốt.
 ==========================
 134
-Máy tính
+H2
 Con H2 đẹp đó, mua đi để tớ mua em Antec này.
 Mua nhiêu, được giá phi luôn cuối tháng có lương rước em H2 về.
 ==========================
 135
-Máy tính
+Hỏi thùng máy
 Thùng máy gì thế bác ?
 Thùng máy đồng bộ Acer thôi.
 ==========================
@@ -674,7 +674,7 @@ Góc tự kỷ của em ạ.
 Rất gọn gàng, ngăn nắp.
 ==========================
 137
-Máy tính
+Hỏi thùng máy
 Có thử thùng máy này chưa ?
 Có rồi, gắn rồi.
 ==========================
@@ -689,7 +689,7 @@ Các bác có biết web nào gắn nhắn tin mà khách hàng phải nhắn ti
 kichhoat.net
 ==========================
 139
-Laptop
+Hỏi laptop
 3 phím cảm ứng của bạn có đèn không nhỉ, thắc mắc quá ?
 Không có nhé, lắm bạn thắc mắc cái này rồi.
 ==========================
@@ -714,7 +714,7 @@ Có gì mà quan trọng hóa vấn đề vậy, chẳng qua máy mới nó bị
 Đang xài 620 nút chụp hình ngon từ đầu chứ không phải chờ.
 ==========================
 144
-Máy tính
+Card màn hình
 Dùng đến 690 mà còn chết card màn hình vì nóng thì chắc là do cái tản nhiệt của card màn hình cùi quá chứ không phải thùng máy.
 Chắc là đúng rồi.
 ==========================
@@ -724,122 +724,122 @@ Em thấy mỗi con mainboard là đẹp, còn lại toàn đồ cùi.
 Không nhìn ra giá trị con nguồn rồi.
 ==========================
 146
-Máy tính
+Nguồn
 Không nhìn ra giá trị con nguồn rồi.
 Con đó cùi ấy mà , ngang Huntkey thôi.
 ==========================
 147
-Máy tính
-Con đó cùi ấy mà , ngang Huntkey thôi.
+Huntkey
+Con đó cùi ấy mà, ngang Huntkey thôi.
 Sao ngang được, cùi hơn Huntkey nhiều, Huntkey làm gì có con nào 650w mà giá chỉ có 1 triệu đâu.
 ==========================
 148
-Máy tính
+Hỏi card màn hình
 Con Vga ATI HD5770 thì phải ?
 HIS 5770 cơ mà.
 ==========================
 149
-Máy tính
+Hỏi ổ cứng
 Cái ổ cứng y hệt con của mình, Seagate ATA 20GB phải không nhỉ ?
 Chính hắn.
 ==========================
 150
-Máy tính
+Đại gia
 Mình không phải đại gia giàu có gì nên không phải cứ đồ chơi nào mới nhất là mua hết được, cũng đi làm dành dụm chịu khó ngồi kiếm giá rẻ mới có đủ để chơi máy móc, quan trọng niềm đam mê là chính chứ không phải mua về để khoe hàng, bắt đầu từ lúc chơi trò chơi điện tử cho đến trở thành 1 người đam mê phần cứng là cả 1 quãng đường dài, lắp máy, ép xung, đo, đi nghiên cứu thêm về phần cứng và được chơi những món đồ này để rồi nó thành sở thích hồi nào không hay.
 Bác không đại gia nhưng đi làm tháng cứ 1500 tới 2000 USD và thêm thích chơi phần cứng thì đam mê lúc nào không hay ấy chứ, nhìn dàn của bác ai chả thèm.
 ==========================
 151
-Máy tính
+Quạt
 Cánh quạt quay thì đèn sáng, vậy là đèn này không ăn điện trực tiếp từ nguồn, mà là từ cánh quạt, đúng không ta ?
 Mới biết vụ này, con CM quay là tạo ra điện cho đèn sáng luôn à, cũng ngộ nhỉ.
 ==========================
 152
-Máy tính
+Card màn hình
 Tháo nốt cái mấy cái chốt cổng card màn hình đi, nhận tiện tháo tè le thế này thì quất cho tí sơn đen trông cho ngầu, đã dùng con này mà còn kêu nóng thì chả có con nào mát hơn.
 Cái chốt xanh dương tháo không được, nghiên cứu qua lại 1 hồi không biết tháo, mục đích tháo nó ra hết như vậy là để sơn đen, nhưng mà sau khi mua chai xịt sơn về sơn cái nắp bên kia thùng máy thì bỏ ý định đó luôn.
 ==========================
 153
-Máy tính
+Quạt
 Chắc bác ấy thấy nó xanh xanh nên tưởng là cái quạt LED.
 Ừ lộn, tưởng quạt PCI giống cái tdk bán, đó giờ dùng toàn card âm thanh onboard thôi.
 ==========================
 154
-Máy tính
+Hỏi RAM
 Tản nhiệt của RAM nhìn đẹp quá, RAM của hãng nào đấy, phiên bản gì vậy, hay tản nhiệt mua ngoài ?
 Gkill Ripjaws bạn ạ.
 ==========================
 155
-Máy tính
+Hỏi thùng máy
 Thùng máy gì thế bạn, có cảm giác như là Storm Scout ?
 Chính em nó.
 ==========================
 156
-Máy tính
+Thùng máy
 Từng một thời chết mê em Storm Scout, mua về rồi ngồi nhìn mấy cái thùng máy giấu dây ra ầm ầm nhận ra sự ngu của bản thân, giờ chỉ còn yêu em nó ở mỗi chổ có quai xách, còn lại hết.
 Bạn chỉ được cái nói đúng, xài cái nguồn 750W dây quá trời nên cũng tự nhận ra cái ngu của bản thân, bị cấn cái H60 nên bực quá tháo luôn.
 ==========================
 157
-Máy tính
+Quạt
 Mà sao bạn không gắn quạt thổi mà gắn kiểu hút vậy, hay là gắn ngược rùi đó, nó mà ngược là thôi rồi luôn, thổi vô thùng máy thì nướng bánh mì luôn.
 Tụi Corsair khuyên gắn như vậy, thổi vô thì đã có quạt trên hút nên không lo, lo là lo bụi thôi.
 ==========================
 158
-Máy tính
+Quạt
 Cái kia tháo quạt nóc ra rồi còn đâu mà hút ?
 Có 2 quạt nhỏ bên hông, và 1 quạt lớn thổi vào từ ổ cứng, không thì mình cho nó hút ra.
 ==========================
 159
-Máy tính
+Hỏi máy tính
 Sao bác không cắm dây nguồn cho con ổ cứng vậy ?
 Có mấy dữ liệu nhạy cảm trong đó, rút ra mà bà già vô tình thấy được lại rắc rối nữa.
 ==========================
 160
-Máy tính
+WINDY
 Chỉ có vài người mới biết về WINDY ra sao và hiểu WINDY dùng ốc gì.
 Ừ, tại mình cũng chưa xài WINDY bao giờ, không hiểu hand screw của WINDY thế nào, chất liệu có gì đặc biệt hay kích cỡ khác nhỉ ?
 ==========================
 161
-Máy tính
+Hỏi RAM
 RAM cũng đâu to lắm đâu nhỉ ?
 RAM bản 1 GB nên tản nhiệt 2 khe chứ là bản 2GB thì đụng ổ cứng rồi.
 ==========================
 162
-Máy tính
+Thùng máy
 Nên để thùng máy trần trụi thì bụi bám nhiều hơn hay thùng máy để nắp bác nhỉ, dạo gần đây mới bắt đầu quan tâm vấn đề nè, tại máy nhà bật được khoảng 3, 4 tiếng là nghe tiếng cho dù để trong tủ gỗ, em đang định để trần trụi luôn cho thoáng bác tư vấn cho em với.
 Thùng máy trần trụi bám bụi và ồn hơn là đậy nắp đấy, bạn xem cái nào phát ra tiếng thì nâng cấp lên.
 ==========================
 163
-Máy tính
+Quạt
 Thùng máy trần trụi bám bụi và ồn hơn là đậy nắp đấy, bạn xem cái nào phát ra tiếng thì nâng cấp lên.
 Mà cánh quạt thì làm sao để vệ sinh vậy bác, em nhìn thấy nó bụi kinh khủng mà không sao lau sạch cái cánh bên trong được ?
 ==========================
 164
-Máy tính
+Hỏi quạt
 Mà cánh quạt thì làm sao để vệ sinh vậy bác, em nhìn thấy nó bụi kinh khủng mà không sao lau sạch cái cánh bên trong được ?
 Vệ sinh cánh quạt thì lấy khăn giấy rồi chùi từng cánh thôi.
 ==========================
 165
-Máy tính
+Lian Li
 Chắc là kích cỡ riêng, giống Lian Li, cũng riêng 1 bộ phụ kiện mua ngoài không có.
 Lian Li bây giờ kích cỡ cũng theo chuẩn rồi, chỉ tội thiết kế riêng thôi.
 ==========================
 166
-Máy tính
+Vệ sinh máy
 Vệ sinh cánh quạt thì lấy khăn giấy rồi chùi từng cánh thôi.
 Sao khổ thế, tháo ra xong cho vào chậu mà rửa.
 ==========================
 167
-Máy tính
+Vệ sinh máy
 Sao khổ thế, tháo ra xong cho vào chậu mà rửa.
 Tay chân mình không tỉ mỉ nên sợ gãy chốt lắm, vả lại phải mất thời gian phơi khô nữa.
 ==========================
 168
-Máy tính
+Quạt
 Hình như quạt hút ra hơi nhiều, 2 cái trên nóc nên để 1 cái hút 1 cái thổi thì hay hơn là cái dưới cùng thổi, vì dưới thùng máy rất ít gió.
 2 cái con quạt CM đó mà 1 cái hút 1 cái thổi thì đang phân vân không hiểu là gió sẽ quẩn quanh cái khu vực CPU nó thế nào ?
 ==========================
 169
-Máy tính
+Quạt
 Sao 2 cái quạt nóc không chạy nhỉ ?
 Chắc trời lạnh, rút bớt quạt ra cho đỡ ồn.
 ==========================
@@ -849,17 +849,17 @@ Chụp ảnh
 Máy ảnh kĩ thuật số mượn nên không kịp dọn dẹp đó mà.
 ==========================
 171
-Máy tính
+Mainboard
 Đang cần 1 con Roland 2nd, đang chuẩn bị làm dự án với XFX 790SLI Ultra.
 Mainboard xịn vậy mà chơi thùng máy cùi vậy sao, mua RC690 Black đi.
 ==========================
 172
-Máy tính
+Quạt
 Chắc trời lạnh, rút bớt quạt ra cho đỡ ồn.
 Chuẩn thế không biết, bác rất hiểu ý em.
 ==========================
 173
-Máy tính
+Quạt
 Em thấy cứ lắp 2 quạt hút trên và 1 quạt hút sau như cơ bản của CM690 là chuẩn vì nếu khi ép xung thì nhiệt của RAM và CPU toả ra không ít, trên khoang để ổ quang có 1 quạt thổi vào, quạt dưới đáy thổi lên vậy 2 trên và 1 sau hút em nghĩ là chuẩn.
 Nếu để luồng gió của 1 quạt vuông góc với đầu vào của quạt CPU thì lượng gió quạt CPU hút được sẽ bị triệt tiêu đáng kể, dẫn tới nhiệt độ tăng.
 ==========================
@@ -869,17 +869,17 @@ Tưởng gì chứ vẽ cái đấy có tốn nhiêu sơn đâu.
 Nói thì luôn luôn dễ.
 ==========================
 175
-Máy tính
+Quạt
 Bụi không vào nhiều thì tương đương với nhiệt độ chả giảm bao nhiêu.
 Vậy phải mua luôn 2 cái quạt DeepCool à, hơi bị hao, dư ra cái quạt CM đen thì làm gì với nó nhỉ, thùng máy chỉ gắn được 2 cái quạt ?
 ==========================
 176
-Máy tính
+Quạt
 Vậy có cần thiết phải gắn quạt không, con SG thì 40 độ, con WD thì 48 độ, gắn vào thì chắc hơi bị bụi cho thùng máy, nhưng dù sao thì em cũng ráng 1 tuần hút bụi 1 lần cho thùng máy rồi.
 Nhiệt độ 2 cái ổ cứng sao nóng vậy , gắn thêm đi bác.
 ==========================
 177
-Máy tính
+Quạt
 Mình gắn ổ cứng tuốt lên khỏi tầm thổi của quạt trước, nên toàn bộ khí mát được thổi vào card màn hình.
 Em thấy cái card màn hình nằm xa quạt thế mà thổi cũng tới luôn hả bác ?
 ==========================
@@ -899,7 +899,7 @@ Cho em hỏi giả sử em có mã nguồn phim đồi trụy mà mỗi trang nh
 Bác dùng chức năng tìm trong tập tin ở notepad ++ nhé, thay 1 phát là được 400 tập tin luôn.
 ==========================
 181
-Máy tính
+Quạt
 Cái quạt hút gió vảo hả bác ?
 Giờ đang cho nó hút vào, nhưng mà không cho nó chạy, khi nào cho chạy chắc gắn lại con tản nhiệt CPU đã, giờ dùng mỗi em quạt ở sườn hút vào thôi.
 ==========================
@@ -909,17 +909,17 @@ Zimbabwe có mà Việt Nam thì lại không, ức thật, rất thích 
 Việt Nam chơi bình thường mà, chịu khó làm cái thẻ visa debit là ổn.
 ==========================
 183
-Máy tính
+Sơn
 Sơn bạc cái hộp che dây cho trùng màu với thùng máy nữa thì đẹp hơn.
 Em làm được tới đó là hết hơi rùi, bác nào xài thùng máy đen thì sơn màu đen chắc sẽ đẹp hơn.
 ==========================
 184
-Máy tính
+Thùng máy
 Thùng máy nhìn khoái thật, dày cui.
 Em nó là thùng máy HP Workstation XW8000 đó bác.
 ==========================
 185
-Máy tính
+Đi dây
 Èo, cả nùi dây thế kia mà gọn gì ?
 Mạnh dạn để dây rợ hết phía sau như mình thì gọn hơn đó.
 ==========================
@@ -974,12 +974,12 @@ Tôi chơi một ngày vài giờ cũng đã thấy chán chán, tạm nghỉ đ
 Chịu khó chơi tiền to lên là khác ngay.
 ==========================
 196
-Máy tính
+Quạt
 Em thấy cái card màn hình nằm xa quạt thế mà thổi cũng tới luôn hả bác ?
 Cái quạt đen đằng trước thùng máy của mình thổi ra tới khe PCI đằng sau ra ngoài thùng máy luôn ấy.
 ==========================
 197
-Máy tính
+Quạt
 Cái quạt đen đằng trước thùng máy của mình thổi ra tới khe PCI đằng sau ra ngoài thùng máy luôn ấy.
 Con quạt Trung Quốc của em cũng vậy nè bác, quay mạnh hơn, gió nhiều hơn quạt CM hay deepcool nhiều, đồng nghĩa là ồn kinh khủng.
 ==========================
@@ -989,47 +989,47 @@ Cho xin hình.
 Hình gì vậy ?
 ==========================
 199
-Máy tính
+Quạt
 Em đang định chế cái lưới lọc bụi cho quạt bằng vải lưới, không biết có khả thi không ?
 Làm vậy chi cho mệt, cứ để y nguyên, lâu lâu tháo ra vệ sinh 1 lần sẵn vệ sinh cho nguyên cái máy tính luôn, nếu bác làm theo cách đó em nghĩ chỉ làm cản trở khí lưu thông cho quạt thôi.
 ==========================
 200
-Máy tính
+ACLY
 Chỉ có con ACLY mới quạt LED còn con ACLX là quạt đen.
 Lúc mua là muốn mua ACLY nhưng không có hàng, công nhận hàng tốt thật.
 ==========================
 201
-Máy tính
+N520
 Cái con CM đó là con CM N520 đó bác.
 Em biết nó là N520 mà, em chỉ muốn biết hiệu năng của nó thôi, tại thấy nó trông cũng đẹp đẹp.
 ==========================
 202
-Máy tính
+N520
 Em biết nó là N520 mà, em chỉ muốn biết hiệu năng của nó thôi, tại thấy nó trông cũng đẹp đẹp.
 Em gắn thêm hai cái bóng đèn xanh đó bác, để mấy bữa nữa em kiểm tra xem.
 ==========================
 203
-Máy tính
+Card màn hình
 Mới đú con card màn hình, thùng máy nhỏ nên dùng đồ nhỏ thôi
 Bộ lòng này cho vào em Fractac Design Core 1000 thì đẹp, thùng máy này trông gỉ gỉ xấu quá.
 ==========================
 204
-Máy tính
+Quạt
 Bạn xài 1 quạt có phát huy hết hiệu năng không nhỉ, mấy con quạt HP cản gió như gì ấy.
 Thùng máy kín mít à bác, đâu có cửa sổ để dòm, mà dàn cùi mà gắn tản nhiệt nước kì lắm.
 ==========================
 205
-Máy tính
+GTX 690
 3 con GTX 690 ?
-670 hoặc 680 thôi, không phải 690 đâu.
+670 hoặc 680 thôi, không phải GTX 690 đâu.
 ==========================
 206
-Máy tính
+Quạt
 Cái quat trong có vè không hợp tông lắm, làm em tản nhiệt nước đi.
 Thay RAM màu xanh hoặc đen rồi sơn lại cái quạt thành màu trắng là đẹp rồi.
 ==========================
 207
-Máy tính
+Đi dây
 Không có cái lỗ nào gần gần để đi dây card màn hình qua à bác, sao lại để nó dài thế ?
 Thiếu gì lỗ ?
 ==========================
@@ -1039,47 +1039,47 @@ Này thì gọn gàng.
 Bụi ghê bác, lau chùi đi.
 ==========================
 209
-Máy tính
+6950
 3 con 6950 mới hợp.
 Con nguồn đó chạy 3 con 6950 bằng niềm tin à ?
 ==========================
 210
-Máy tính
+6950
 Con nguồn đó chạy 3 con 6950 bằng niềm tin à ?
 Có tiền mua 3 con 6950 thì đổi nguồn cao hơn có gì khó mà lo ?
 ==========================
 211
-Máy tính
+Thùng máy
 Mới lắp tổ hợp máy mới, RAM nhìn lạc loài quá.
 Nhìn cái thùng máy này cứ thấy nó thiếu thiếu cái gì đấy mà nghĩ mãi không ra, ra là chưa có card màn hình.
 ==========================
 212
-Máy tính
+H60
 Con H60 nhìn mỏng lét vậy ?
 Ừ thì con H60 mỏng mà.
 ==========================
 213
-Máy tính
+Hỏi thùng máy
 Hình như cái nguồn quay ngược thì phải ?
 Thùng máy này bắt buộc phải gắn nguồn xoay lên trời, ở dưới không có lỗ hút gió anh ơi.
 ==========================
 214
-Máy tính
+Card màn hình
 Nghe giang hồ đồn là GTX560Ti.
 570 mới hợp.
 ==========================
 215
-Máy tính
+Card màn hình
 570 mới hợp.
 3 con 6950 mới hợp.
 ==========================
 216
-Máy tính
+Thùng máy
 Cái thùng máy xấu quắc đi khoe hoài vậy cha nội, thùng máy tui mắc hơn còn chưa khoe nhiều như thế nữa.
 Ở đây chỉ xét đẹp gọn, không cần đắt rẻ bạn ạ, còn thích đọ thùng máy ai đắt tiền nhất không, để tớ nói chuyện khác.
 ==========================
 217
-Máy tính
+Thùng máy
 Ở đây chỉ xét đẹp gọn, không cần đắt rẻ bạn ạ, còn thích đọ thùng máy ai đắt tiền nhất không, để tớ nói chuyện khác.
 Bạn có biết là mình ôm cái thùng máy đi khoe khắp thế giới không, khoe gì mà từ diễn đàn trong nước đến diễn đàn nước ngoài từ diễn đàn tiếng Việt đến diễn đàn tiếng Tây, Tàu, Nhật, Hàn luôn. 
 ==========================
@@ -1199,17 +1199,17 @@ Mình định mua 1 con máy lạnh 1 HP tầm tiền từ 5 tới 7 triệu, b�
 Trong tầm tiền này với máy mới thì bạn có 2 sự lựa chọn đơn giản như sau, nếu thích đẹp, hiệu năng cao, bảo hành ít 1 năm thì có Panasonic model KC9 NKH, nếu thích rẻ hơn tí đỉnh, hiệu năng ổn định, bảo hành dài lâu 4 năm cho Compressor thì có Daikin model FTE25, còn mấy cái như Electrolux, Sanyo gì đó đừng quan tâm, chả xài ra hồn gì đâu.
 ==========================
 241
-Máy tính
+Thùng máy
 Cả thùng máy đẹp trừ 2 cái dây nguồn, che 2 cái dây nguồn lại cho đẹp bác ơi.
 Che hết đít nó thì thoát nhiệt đi đâu.
 ==========================
 242
-Máy tính
+Hỏi mainboard
 Mainboard máy tính công nghiệp hay sao mà chạy nguồn đơn thế, cho xin mã hiệu được không ?
 H-I945-ITX nhé.
 ==========================
 243
-Máy tính
+Thùng máy
 Cái này làm HTPC thì ngon, như bác chủ không làm lỗ thông cho nó thì coi bị toi cả dàn.
 Hơi bị mát luôn, cái quạt LED bên hông thổi gió vào làm mát và khí nóng thoát ra theo các khe phía trên.
 ==========================
@@ -1224,47 +1224,47 @@ Dính sơn gì vậy, sơn ATM muốn an toàn thì sắm bộ đánh bóng, kh�
 Dính có tí sơn mà mua bộ sản phẩm này thì phí quá.
 ==========================
 246
-Máy tính
+Ống co nhiệt
 Sao không làm thêm các ống co nhiệt ở các đầu dây hở bạn, nhìn chắc hơn.
 Ống co nhiệt không chắc nổi đâu, kéo mạnh là rớt ra liền.
 ==========================
 247
-Máy tính
+Thùng máy
 Đau đầu quá, khoe thùng máy làm gì, có cách nào chống ồn cho thùng máy để khỏi đỡ đau đầu thì hay quá ?
 Tháo hết quạt ra cho tui.
 ==========================
 248
-Điện lạnh
+Tủ lạnh
 Tủ lạnh đã sử dụng rồi để lâu không dùng có hỏng hay hại gì không hả bác, nếu tủ lạnh lâu không sử dụng thì phải bảo quản như thế nào ?
 Tủ lạnh hay máy lạnh hay cái gì liên quan đến phần cơ khí hoạt động thì thỉnh thoảng bạn phải cho nó chạy để bôi trơn dầu nhớt đều, tránh tình trạng bị kẹt máy hoặc khó hoạt động do lâu ngày bị rỉ sét bên trong gây cứng cốt máy, do đó tầm 1 tuần bạn mở cho chạy 1 tới 2 giờ rồi tắt là đủ.
 ==========================
 249
-Điện lạnh
+Máy lạnh
 Tại sao máy lạnh nhà em là Panasonic CS-C9NKH-8 Non Inventer lại không điều chỉnh được nhiệt độ máy lạnh, nhiệt đồ từ 16 tới 30 độ đều giống nhau, tại sao lại không thể điều chỉnh nhiệt độ, khi điều khiển lại có chức năng đó, giúp em với ạ, nhiều lúc nằm lạnh mà không biết phải làm sao, phòng kín nên không tắt máy lạnh được, mà để chạy như vậy thì tốn điện quá ?
 Bạn lấy nhiệt kế đo phòng thử xem để nhiệt độ trên điều khiển theo yêu cầu thì máy có ngắt lạnh không, nếu bạn chỉnh 26 độ C trên điều khiển mà phòng nó lạnh quéo xuống 23, 24 độ C thì bộ phận cảm ứng ngắt trong nhà bị hư rồi, tháo ra đem sửa là xong thôi, chi tiết con đó nó như hạt đậu đen ngắn ngay trên giàn lạnh gần hộp board bên góc phải ấy, thường là mở 2 tấm lưới ra là thấy sợi dây đó ngay.
 ==========================
 250
-Máy tính
+Thùng máy
 Trông thùng máy trụi vì quá gọn gàng thôi, căn bản cái tính em nó sạch sẽ gọn gàng từ nhỏ.
 Quá ít đồ chơi làm sao không gọn được, mình có ráp cho khách mấy cái máy tính còn gọn đẹp hơn ấy chứ.
 ==========================
 251
-Máy tính
+Thùng máy
 Quá ít đồ chơi làm sao không gọn được, mình có ráp cho khách mấy cái máy tính còn gọn đẹp hơn ấy chứ.
 Bác ráp máy cho người ta mà không gọn gàng sạch sẽ dám bị chửi lắm chứ chả chơi à ?
 ==========================
 252
-Máy tính
+Hỏi màn hình
 Dùng màn hình gì vậy ?
 Asus PG191.
 ==========================
 253
-Máy tính
+Tản nhiệt
 Tản nhiệt của Pentium 3 nhìn lạ quá nhỉ, Pentium 3 mà RAM cũng gần bằng con máy của em.
 Tiếc là anh đã rã con máy tính cũ, không thì cũng post hàng cổ lên cho anh em xem, hàng anh bố trí đi dây gọn lắm, mainboard 845, CPU Pentium 4 2.2ghz, 128 SD Ram, 20 GB ổ cứng, card màn hình Gigabyte Readon pro 32MB.
 ==========================
 254
-Máy tính
+Thùng máy
 Máy mình Intel E2180, mainboard GA-EP31-DS3L, RAM ADATA G series, ổ cứng Samsung 320GB, thùng máy nhỏ quá nên nhìn hơi bừa bộn.
 Được mỗi cái tản nhiệt.
 ==========================
@@ -1294,7 +1294,7 @@ Mình không biết.
 Xào hoài, biết mà giấu.
 ==========================
 260
-Máy tính
+Ổ cứng
 Mình nghĩ nên mua cái hộc ổ cứng của xigmatek mà có khả năng đổi chỗ cho đống ổ kia đỡ bị trơ trọi thì đẹp hơn.
 Ừ, chỗ đó nó làm hơi dở.
 ==========================
@@ -1304,12 +1304,12 @@ Màu mè quá ạ.
 Tính mình đã thế từ bé.
 ==========================
 262
-Bóng đá
+Công Vinh
 Thằng Công Vinh này sau khi lạy trọng tài rồi tuyên bố giải nghệ nhưng nó không làm, làm anh em mình thất vọng quá xá, hôm nay xem tivi thấy đưa tin em nó bị chấn thương, nhưng nhìn nó chạy qua chạy lại với cái vai xâm hình, nhìn thấy bực ói cả máu.
 Cũng thấy bức xúc với một số hành động của Công Vinh, nhưng trường hợp của bạn là hơi thái quá, không chừng lại bị người khác bảo là thấy người ta nổi thì ghen tức đó.
 ==========================
 263
-Địa điểm
+Chợ An Phú Đông
 Ở q.12 cho hỏi chợ An Phú Đông ở đâu vậy, đang cần xuống đó gấp, xin hãy chỉ với.
 Chợ An Phú Đông nằm ở Quốc Lộ 13 cũ, chạy từ Quốc lộ 13 mới, thấy có đường Quốc lộ 13 cũ bên trái thì rẽ vào sẽ thấy chợ An phú đông.
 ==========================
@@ -1369,9 +1369,9 @@ TP.HCM nóng nực bực bội nè bác.
 Bác ở phòng không có điều hòa à ?
 ==========================
 275
-Máy tính
-Con quạt kia nhìn xấu thế, đổi con nào đẹp đẹp tí đi bro ^^
-Con này mua lâu rồi, thấy cũng ổn nếu OC nhẹ. Còn hiện giờ đang xài DF không OC nên chỉ cần mát mẻ hơn Stock Fan của Intel khoảng 4-5*C là ok. Do chụp hình không đẹp nên nhìn xấu xấu vậy chứ ở ngoài nhìn ổn hơn.
+Quạt
+Con quạt kia nhìn xấu thế, đổi con nào đẹp đẹp tí đi bạn .
+Con này mua lâu rồi, thấy cũng ổn nếu ép xung nhẹ, còn hiện giờ đang xài DF không ép xung nên chỉ cần mát mẻ hơn Stock Fan của Intel khoảng 4-5*C là được, do chụp hình không đẹp nên nhìn xấu xấu vậy chứ ở ngoài nhìn ổn hơn .
 ==========================
 276
 Máy tính
@@ -1384,7 +1384,7 @@ Trứng này đã bóc vỏ.
 Nhìn thế quái nào ra quả trứng đó bóc vỏ rồi thế ?
 ==========================
 278
-Máy tính
+B25
 Đâu phải B25 nhỉ, con B25 nguồn nằm trên mà.
 B25FWB đó.
 ==========================
@@ -1404,22 +1404,22 @@ Bọn đồng tính là thất bại của tạo hóa, là đi ngược lại t�
 Tư tưởng của bạn cứng nhắt quá.
 ==========================
 282
-Máy tính
+Thùng máy
 Cực thích thiết kế con này, đặc biệt là chỗ gắn ổ cứng.
 Hỏi chứ thiết kế kiểu này có gì hay vậy, thùng máy này ông kia gắn vào nhìn có vẻ chật chội nhỉ ?
 ==========================
 283
-Máy tính
+Thùng máy
 Hỏi chứ thiết kế kiểu này có gì hay vậy, thùng máy này ông kia gắn vào nhìn có vẻ chật chội nhỉ ?
 Nhỏ thon gọn đẹp, được chưa bác ?
 ==========================
 284
-Máy tính
-làm sao mà cái card màn hình nằm ngang được thế bác ?
+Hỏi card màn hình
+Làm sao mà cái card màn hình nằm ngang được thế bác ?
 Chắc dùng cái dây nối dài.
 ==========================
 285
-Máy tính
+Ổ cứng
 Nói thật chứ mình gét cái ổ để ổ cứng thùng máy này ghê.
 Sao lại ghét, tháo lắp ổ cứng đằng nào cũng phải mở mặt bên kia để cắm dây mà, mình thấy vậy hóa ra lại hay, chỉ cần mở một bên, như kiểu ngang truyền thống phải mở 2 bên.
 ==========================
@@ -1484,7 +1484,7 @@ Em chỉnh 266/1066 rồi nhưng mà nhấn khởi động lại xong là máy b
 Thể nào ngồi nghịch ngợm 1 tẹo mà chẳng ra được hả bạn.
 ==========================
 298
-Máy tính
+HFS
 Cho em hỏi HFS là gì thế các anh ?
 Là Heatsink Fan, là cái quạt và cục nhôm tản nhiệt đó mà
 ==========================
@@ -1494,17 +1494,17 @@ Ghê, không dám nhận đâu, sao giống đồng tình quá, mà sao không n
 Phải rồi, thơm thì không nhận đâu nhưng tiệc thì nhận đó anh trai ơi.
 ==========================
 300
-Laptop
+Hỏi laptop
 Ối bàn phím em bị dở hơi rồi, chơi Dota ấn phím số 3 nhiều quá nên nó bị làm sao rồi ấy, kiểu này có được bảo hành không nhỉ ?
 Chơi trò chơi điện tử nhiều thì chịu khó mua thêm cái bàn phím ghẻ ghẻ có cổng USB ghim vô laptop ấy, chứ chơi trên laptop bấm đè hoài nó nhanh hư đó bạn.
 ==========================
 301
-Laptop
+Hỏi RAM
 Không biết như vậy nó báo RAM của em bao nhiêu hả bác ?
 Cái này chỉ kiểm tra được bảo hành thôi, nếu em không nhầm là RAM của bác là 2 GB.
 ==========================
 302
-Laptop
+Bàn phím
 Này thì bàn phím chống nước.
 Nó chống thì cũng chỉ chống được theo kiểu chẳng may thôi chứ, nếu bác là người hâm mộ của Thinkpad hay Latitude thì bác mang con laptop của bác làm thế liệu nó có bị toi không, nước chảy lênh láng thế nó kêu bàn phím chống nước thôi chứ đâu kêu cả máy chống nước đâu ?
 ==========================
@@ -1519,27 +1519,27 @@ Chắc thế quá.
 Không đổi đâu bạn ạ.
 ==========================
 305
-Trò chơi điện tử
+PES
 Bác có đường dẫn tải PES 6 không ?
 Đây nè bác http://pes-fucca.forumotion.com/t3-topic.. , nhẹ hều.
 ==========================
 306
-Máy tính
+UV
 UV thì không có màu xanh dương nhé bạn, UV nó chính là cái đèn soi tiền ấy.
 Vậy có cái đèn mà màu xanh tím tím mà mọi người hay dùng nếu không phải là đèn UV thì là đèn gì thế ạ ?
 ==========================
 307
-Máy tính
+UV
 Vậy có cái đèn mà màu xanh tím tím mà mọi người hay dùng nếu không phải là đèn UV thì là đèn gì thế ạ ?
 À là cái đèn LED, đèn UV để làm phát quang lưới UV và các chất liệu uv trong thùng máy thôi.
 ==========================
 308
-Trò chơi điện tử
+PES
 Sao nhìn ảnh giống PES 08 thế nhỉ, không biết có sửa lối đá thiểu năng của PES 08 không nữa ?
 Có giống, nhưng có 1 số điểm sửa đổi, bạn không nhìn thấy cầu thủ với cả sân vận động thật hơn à, cả cỏ cũng thế, nhìn mượt hơn rất nhiều.
 ==========================
 309
-Trò chơi điện tử
+PES
 Có giống, nhưng có 1 số điểm sửa đổi, bạn không nhìn thấy cầu thủ với cả sân vận động thật hơn à, cả cỏ cũng thế, nhìn mượt hơn rất nhiều.
 Sêri PES luôn đem lại cảm giác hào hứng, từ thời Winning Eleven trên PS1.
 ==========================
@@ -1594,17 +1594,17 @@ Chỉ là phần mềm thôi mà bạn, phần cứng tốt là ngon rồi, về
 Mấy cái đồ ỏm từ hồi Windows Phone 7 làm bao nhiêu người hóng ba cái nâng cấp 7.5, 7.8, 8.0 thì cứ xác định Microsoft chỉ lừa thôi nhé.
 ==========================
 320
-Điện thoại
+Windows Phone
 Từ đó trở đi, người dùng và Windows Phone 8.1 sống hạnh phúc bên nhau suốt đời.
 Nếu Windows Phone 8.1 sửa được lỗi chỉnh âm lương cho cả chùm thì bá đạo rồi.
 ==========================
 321
-Điện thoại
+Windows Phone
 Đã từng gắn bó với Windows Phone hơn một năm nay , mọi thứ đều rất tuyệt nhất là cái ứng dụng People của nó, nhưng mỉnh phải từ bỏ nó vì một lý do hết sức đơn giản là không có chế độ vừa rung vừa chuông làm lỡ cuộc gọi thường xuyên, khi nào Windows Phone khắc phục được điều này mình sẽ quay lại dùng nó.
 Đang dùng em lumia 520, nhưng may mà mình dùng làm máy thứ 2 nên không ảnh hưởng nhiều lắm.
 ==========================
 322
-Phần mềm
+Firefox
 Xác nhận là Firefox ngốn RAM rất nhiều, mình chuyển sang Chrome từ trước Tết rồi, tuy nhiên ưu điểm của Firefox là có nhiều ứng dụng thêm hỗ trợ cho việc duyệt web mà Chrome không có được như mở ảnh bằng Photoshop trực tiếp trên web, IDM, RemoverRedirect.
 Chắc có mình bác kêu Chrome ngốn RAM ít hơn Firefox.
 ==========================
@@ -1614,12 +1614,12 @@ Mấy tab mà mất 1.5 GB RAM thế, của tớ 60 tab mà có hơn 700 MB tí 
 2 Tab, 1 tab mở liên tục 6 tiếng.
 ==========================
 324
-Phần mềm
+Chrome
 Mình thì dùng Chrome từ bản 20 cho đến 23, cũng khá lâu, sau đó thì vì thi thoảng bị đứng khi đóng tab nào đang chạy flash nên ức chế đổi sang dùng Firefox cho đến giờ.
 Từ bản 20 tới 23 tính ra có hơn tháng chứ mấy, mình dùng từ hồi còn bản 7.0 tới bây giờ là bản 28 rồi, giật, đứng chủ yếu do nhiều ứng dụng mở rộng quá, đôi khi là các chương trình chạy nền, chứ bình thường mình mở 20 tab vẫn làm việc được, nhiều khi đang xem dở để đó rồi mở Word ra vừa gõ cả tiếng, vào lại vẫn chẳng bị sao cả.
 ==========================
 325
-Máy tính
+M5800
 ATI Firepro M5800, Quadro FX 880M cho mình hỏi 2 con này có hơn nhau nhiều không hay chỉ ngang ngửa thôi ?
 Con M5800 mạnh hơn hẳn FX880 mà.
 ==========================
@@ -1629,67 +1629,67 @@ Lúc lướt web thì phóng lớn lên thôi, còn tán gẫn thì chịu bác 
 Nghe nói vụ này bác Apple đã làm được rồi.
 ==========================
 327
-Laptop
+Màn hình
 Sao tự nhiên em thèm dùng con màn hình 17 inch quá bác ơi.
 Dùng 17 ich khổ lắm bác ạ, lâu lâu muốn cà phê cà pháo mà nghĩ đến chuyện vác em nó theo, nhìn cục chuyển tiếp điện đã thấy oải rồi.
 ==========================
 328
-Laptop
+Màn hình
 Dùng 17 ich khổ lắm bác ạ, lâu lâu muốn cà phê cà pháo mà nghĩ đến chuyện vác em nó theo, nhìn cục chuyển tiếp điện đã thấy oải rồi.
 Nhưng dòng 17 inch hiếm lắm bác ơi ở Việt Nam hết sạch hàng rồi, em thì vẫn khoái em 2740p, nghe bảo em này cảm ứng mượt phết, ra sân bay bật ăng ten 3G lên, xoay màn hình 1 vòng mấy anh tây chắc lác cả mắt.
 ==========================
 329
-Laptop
+Màn hình
 Nhưng dòng 17 inch hiếm lắm bác ơi ở Việt Nam hết sạch hàng rồi, em thì vẫn khoái em 2740p, nghe bảo em này cảm ứng mượt phết, ra sân bay bật ăng ten 3G lên, xoay màn hình 1 vòng mấy anh tây chắc lác cả mắt.
 Lúc trước nhìn 17 inch cũng khoái lắm, giờ thì ước gì cái 17 inch của mình biến thành cái 13 inch.
 ==========================
 330
-Máy tính
+M5800
 Con M5800 mạnh hơn hẳn FX880 mà
 Em cũng thấy trong bảng xếp hạng card màn hình thì M5800 hơn khá nhiều bậc với FX880 mà giá 2 con cấu hình tương đương có card Fx880 lại đắt hơn M5800.
 ==========================
 331
-Laptop
+Màn hình
 Lúc trước nhìn 17 inch cũng khoái lắm, giờ thì ước gì cái 17 inch của mình biến thành cái 13 inch.
 Mỗi nhu cầu 1 khác, bọn em làm đồ họa mà màn 15.6 inch là mệt.
 ==========================
 332
-Laptop
+Elitebook
 Elitebook có cài thêm được MAC OS không nhỉ, đang tính dùng thử cho biết, anh hướng dẫn chi tiết giùm được không ?
 Em thì chưa thử bao giờ, bác xem cái này rồi máu thì làm theo xem nhá http://xhdev.wordpress.com/2009/08/1...oot-with-win7/ .
 ==========================
 333
-Laptop
+Hỏi laptop
 Mình mới mua 1 con EliteBook 6910p, sau thời gian hơn 1 tháng sử dụng mình thấy máy nói chung ổn, nhưng từ vài hôm nay tự nhiên xảy ra lỗi, thỉnh thoảng máy bị treo cứng luôn, phải khởi đông lại cứng mới được, thỉnh thoảng sau khi tắt cứng như vậy, khởi động lại thì máy báo là không có ổ cứng hoặc ổ cứng lỗi, không vào được hệ điều hành, sau mình lại khởi động luôn thì mới vào được, mình đã nâng cấp BIOS mới nhất trên HP nhưng lỗi vẫn thỉnh thoảng xuất hiện, dù có ít hơn, mong bạn giúp đỡ.
 Lỗi đó có thể do phần mềm hoặc lỗi ổ cứng, bác thử cài lại trước đã chứ tắt nóng hại ổ cưng lắm. lỗi này nhiều khả năng là do lỗi Windows thôi.
 ==========================
 334
-Laptop
+Hỏi laptop
 Lỗi của máy mình cũng hơi khó hiểu là, khởi động từ ổ cứng thì không thấy ổ cứng, cài windows cũng không có, định ghost Windows thì khi vừa vào cái Noton Ghost báo là ổ cứng gắn không chính xác, mình nghĩ ổ cứng hỏng hoặc chỗ tiếp xúc với mainboard có vấn đề. 
 Bác có xài phần mềm chia ổ nào không nhỉ, hồi trước em bị mấy lần kiểu này.
 ==========================
 335
-Laptop
+Hỏi laptop
 Trung bình độ bền dòng này được mấy năm hả bác, mà không biết nó có chạy khoẻ hơn các dòng bình thường không ạ, nhiều lúc em thấy nhiều con cùng cấu hình, y hệt luôn mà nhiều người cứ nói là dòng này bền hơn, chạy khoẻ hơn.
 Em mới xài được khoảng 1 năm nên chưa đánh giá được nhưng nhìn các bài kiểm tra và thời gian bảo hành thì cũng đánh giá tương đối, còn muốn chi tiết hơn hôm nào em chụp mấy con đời trước của nó như evo ra đời được 7 năm rồi, sêri này khoảng 5 năm.
 ==========================
 336
-Laptop
+Hỏi laptop
 6930p của em có cảm giác pin hơi lỏng, dạo gần đây thỉnh thoảng lại báo không phát hiện được, máy còn bảo hành đến 2012, bác có dính vụ này không ?
 Bác đã cài cái chốt khóa pin vào chưa, hồi trước nhiều bác kêu lỏng nhưng đó là chưa cài chốt pin vào, báo không phát hiện được chắc là bác để lỏng cái giắc cắm pin rồi, nếu cài chặt vào mà vẫn bị thì mang lên trung tâm HP thử xem.
 ==========================
 337
-Laptop
+Hỏi laptop
 Con 6930p của em phím u bấm khác hẳn các phím khác, không nhẹ nhàng như các phím kia, cảm giác nặng tay hơn, như vậy có được bảo hành không ạ ?
 Không cần bảo hành đâu, bác mang qua em cạy ra lắp lại là được, chắc nó bị lỏng hoặc lệch cái khớp ở dưới thôi mà, giờ phím tất cả các dòng IBM hay HP em tháo nhoay nhoáy, và buồn cười ở chỗ có cái thì phải cạy từ trên xuống, có cái lại phải cạy từ dưới lên.
 ==========================
 338
-Laptop
+Khe
 Cái khe này là gì vậy bác ?
 Đọc và lưu danh thiếp bác ơi, bác bật chương trình Business Card Reader lên, cho card vào khe đó, bấm phát, gập màn hình xuống là nó chụp xong lưu vào danh bạ điện thoại, vui phết, webcam dòng này có macro mà.
 ==========================
 339
-Laptop
+Cài đặt
 Tình hình là em cài hoài không được cái chương trình FingerPrint cho HP 8440p, bác có thể hướng dẫn chi tiết cho em được không, em xem hướng dẫn nhưng trong HP ProtectTools Security Manager không thấy FingerPrint để cài, chỉ có pass và smart card dù đã cài driver cho FingerPrint.
 Chắc là cài sai thứ tự thôi.
 ==========================
@@ -1709,22 +1709,22 @@ Cho em hỏi, của em 2500k 4.5 vcore em thấy trong CPU-Z nó nhảy từ 1.2
 Hạ tí nữa không vào Windows được thì phải thêm vcore mới ổn định rồi 1.288 thì chắc bios chỉnh thành 1.3 lên thêm chút nữa nếu tản nhiệt chịu được.
 ==========================
 343
-Máy tính
+Thùng máy
 Nhìn con này có nhiều nét gia công giống PC Cooler và A70 nhỉ?
 Lá nhôm con này dày đúng chuẩn 0.5mm, mấy con của PC Cooler tầm giá này là nhôm mỏng lắm.
 ==========================
 344
-Máy tính
+PC Cooler
 Không biết phải PC Cooler gia công không, rất giống Spire Kepler Pro.
 Cái clip này thì y chang tụi PC Cooler hồi đó rồi.
 ==========================
 345
-Máy tính
+Quạt
 Thay 2 cái quạt đen là khỏi ngủ luôn đó.
 Lúc ở trên đó cũng thử rùi, mát lắm cơ mà nó hú thì sẽ lại trở về thời kì ban đầu của quạt và còn hơn thế nữa vì quạt đội.
 ==========================
 346
-Máy tính
+Quạt
 Lúc ở trên đó cũng thử rùi, mát lắm cơ mà nó hú thì sẽ lại trở về thời kì ban đầu của quạt và còn hơn thế nữa vì quạt đội.
 Tui đag xài 2 quạt Delta 90x90x38 quay nhẹ nhàng chỉ có 4 ngàn vòng mà có thấy hú hí gì đâu, gió thổi đủ làm mát cho tôi lun, khỏi mở quạt.
 ==========================
@@ -1734,7 +1734,7 @@ Máy tính
 Bình thường mà tải tối đa chứ có phải không hoạt động đâu
 ==========================
 348
-Máy tính
+CPU
 CPU này là hàng lựa chuyên dùng để kiểm tra quạt nên Vcore, nó phải vậy mới đánh giá được sức mạnh của quạt mà em.
 Vcore cao cũng phải lựa hả anh ?
 ==========================
@@ -1759,27 +1759,27 @@ Mình xin nhắc lại nha, ngoài các chương trình chính thức của các
 Không thể tin được là đã nhắc nhở thế này rồi mà không ai thèm để ý, vãi ấy thức, ra đảo hết đi, ngoài đó tha hồ mà xin mã khóa.
 ==========================
 353
-Điện thoại
+Iphone
 Sạc Iphone xịn thì nặng, có số serial bên trong, cáp thì có lõi đồng, rờ vào dây thấy rít.
 Bác gà quá, sạc Mỹ iphone 5 chả cái nào có serial hết, sạc có serial là nhái nhé.
 ==========================
 354
-Điện thoại
+Iphone
 Bác gà quá, sạc Mỹ iphone 5 chả cái nào có serial hết, sạc có serial là nhái nhé.
 Mình cũng thấy là sạc iphone đi theo máy không có serial bên trong trong khi đó các sạc Ipad, IPod của mình mua tại cửa hàng Apple lại có serial bên trong.
 ==========================
 355
-Điện thoại
+Iphone
 Mình cũng thấy là sạc iphone đi theo máy không có serial bên trong trong khi đó các sạc Ipad, IPod của mình mua tại cửa hàng Apple lại có serial bên trong.
 Máy em mua hàng mới cả sạc với cáp đều có serial, chả có nhẽ lại dính hàng dỏm, mà em thấy cách phân biệt bây giờ cũng lung tung hết chẳng biết đâu mà lần.
 ==========================
 356
-Điện thoại
+Sạc
 Máy em mua hàng mới cả sạc với cáp đều có serial, chả có nhẽ lại dính hàng dỏm, mà em thấy cách phân biệt bây giờ cũng lung tung hết chẳng biết đâu mà lần.
 Sạc mới là sạc 3 chân đúng không, sạc 3 chân xịn bao giờ cũn có serial in rõ và nét không đen và nhoè như hàng dỏm nhé, không có gì lung tung hết nhìn là biết ngay.
 ==========================
 357
-Điện thoại
+Sạc
 Sạc mới là sạc 3 chân đúng không, sạc 3 chân xịn bao giờ cũn có serial in rõ và nét không đen và nhoè như hàng dỏm nhé, không có gì lung tung hết nhìn là biết ngay.
 Đúng rồi, sạc của mình 3 chân, trên dây cắm thấy có in serial.
 ==========================
@@ -1789,7 +1789,7 @@ Hôm rồi cắm em iPad mini nổ cái đoàng, chạy ra thấy cục sạc ch
 Chắc lúc đó bác sợ vỡ mật nhỉ.
 ==========================
 359
-Máy tính
+Thùng máy
 Rad và tản nhiệt của nó liền nhau có đục bằng mắt, Cougar Volant bảo đảm gắn không được, đã từng phải lê lết đổi thùng máy những 2 lần khi mua H100 về gắn, nói chung muốn mua H100 thì nên xác định là xách hẳn nguyên bộ máy tính lên cửa hàng gắn tại đó là an tâm nhất, xài thùng máy CoolerMaster mà gắn vào còn mém không vừa nè.
 Tháo ống ra, kiếm ống kèm bộ fit khác, ăn chơi sợ gì mưa rơi nhỉ, mình còn chế thêm block card màn hình cho con H100 nữa cơ.
 ==========================
@@ -1799,52 +1799,52 @@ Bỏ bảo hành 2 năm à, giàu thế ?
 Hàng xách tay bạn ạ, tiết kiệm được ít.
 ==========================
 361
-Máy tính
+Thùng máy
 Lắp H100 vào thùng máy Cougar Volant như này nè.
 Xấu không tả được.
 ==========================
 362
 Máy tính
-So voi máy khác thì không hơn nhiều đâu bạn, tầm 5 độ thôi.
+So với máy khác thì không hơn nhiều đâu bạn, tầm 5 độ thôi.
 Không nhiều lắm đâu ha, 5 độ mà không có nhiều hả ?
 ==========================
 363
-Máy tính
+Quạt
 Nghe nói H100 quạt và pump hú lớn lắm phải không các bác, mình cũng định hóng 1 bộ, xài quạt hú quá nhức đầu luôn.
 Quạt hú thôi bác, pump thì không nghe, nhưng bác chỉnh mức quạt vừa thôi, 2 cái quạt mỗi lần khởi động nó mới quay hết công suất nên hú, còn khi chạy rồi thì nó quay chậm lại nên cũng bình thường.
 ==========================
 364
-Máy tính
+H100
 Chọn H100 luôn và ngay đi, đang dùng con TS120 mà cũng khá tốt.
 H100 chán chết, mua con xôi thịt cho ngầu, H100 chả hơn Topair bao nhiêu.
 ==========================
 365
-Máy tính
+Tản nhiệt
 H100 chán chết, mua con xôi thịt cho ngầu, H100 chả hơn Topair bao nhiêu.
 Thùng máy cùi mà lắp tản nhiệt phía trên thì không cấn mới lạ, cỡ quạt hay 600T thì mới rộng rãi được, nên gắn tản nhiệt nước cho lành.
 ==========================
 366
-Máy tính
+Thùng máy
 Thùng máy cùi mà lắp tản nhiệt phía trên thì không cấn mới lạ, cỡ quạt hay 600T thì mới rộng rãi được, nên gắn tản nhiệt nước cho lành.
 Thùng máy cùi gắn cái quạt của H100 cũng không dễ đâu bạn.
 ==========================
 367
-Máy tính
+Thùng máy
 Thùng máy cùi gắn cái quạt của H100 cũng không dễ đâu bạn.
 Không được trong thùng máy có thể đục lỗ cho quạt ra bên ngoài được mà.
 ==========================
 368
-Máy tính
+Thùng máy
 Em dùng thùng máy 600T thấy con TS120 lắp vào vẫn còn cách 1 khoảng kha khá, dư sức lắp SA.
 Cougar Volant bảo đảm gắn không được, đã từng phải lê lết đổi thùng máy những 2 lần khi mua H100 về gắn, nói chung muốn mua H100 thì nên xác định là xách hẳn nguyên bộ máy tính lên cửa hàng gắn tại đó là an tâm nhất, xài thùng máy CoolerMaster mà gắn vào còn mém không vừa nè.
 ==========================
 369
-Máy tính
+Quạt
 Kiếm cái quạt 4, 6, hoặc 8 cm rồi lấy dây rút buộc vô, bao mát.
 Làm như bác kiếm quạt cỡ 4, 5, 6 cm đường kính là được, bác ở TP.HCM thì ra nhật tảo, ở Hà Nội như em thì ngoài chợ trời bán có 10 ngàn 1 cái, ngon bổ rẻ, mát rượi luôn.
 ==========================
 370
-Máy tính
+Thùng máy
 Mình thích Corsair H100 hơn là Silverarrow, tùy thuộc bạn dùng thùng máy gì nữa , vì 2 con này thùng máy cũng tương đối mới vừa.
 Cái mình cần biết là hiệu năng, tại gọn hay không gọn không thành vấn đề với mình.
 ==========================
@@ -1879,7 +1879,7 @@ Chế
 Em làm gì dám chế hả bác ?
 ==========================
 377
-Laptop
+Chính trị
 Mỹ tuyên bố đưa Việt Nam trở về thời kỳ đồ đá, nhờ Đảng mà quân dân ta đã giành chiến thắng vang dội, đập tan âm mưu của Mỹ, con người phải hơn con vật ở chỗ biết suy nghĩ logic, liên kết các vấn đề lại với nhau.
 Đảng lãnh đạo nhân dân hồi đó đánh thắng Mĩ với tên gọi trận Điện Biên Phủ trên không, cái này có gì sai, chỉ ra coi sai chỗ nào, nhưng chưa có bài báo nào dám vỗ ngực nói nhờ ơn Đảng đã giúp nhân dân thoát khỏi thời kì đồ đá nhé, suy luận kiểu xuyên tạc lời nói mà cũng to mồm gớm nhỉ, đã nói rồi, chú bảo là Đảng giúp nhân dân thoát khỏi thời kì đồ đá, tôi bảo trích cái đó ra đây, chú mà bảo Đảng đã giúp nhân dân chiến thằng trận Điện Biên Phú trên không thì tôi chả thèm ấy kiến ấy cò gì đâu, hiểu chưa?
 ==========================
@@ -1944,7 +1944,7 @@ Sao không tổ chức vào Chủ nhật vậy, thứ 7 mình vẫn phải đi l
 Đổi lịch sang chủ nhật nhé.
 ==========================
 390
-Máy tính
+Hỏi card màn hình
 Cho hỏi mình dùng card màn hình GT540M 2GB, RAM 4gb, core i5 để cấu hình tối đa Dota 2, chỉnh hết cao rồi mà hình ảnh vẫn xấu xí dị hợm là sao?
 Bác chỉnh cái dòng chất lượng gì đó lên cao chưa ?
 ==========================
@@ -2354,7 +2354,7 @@ Gmap bị Google bắt gỡ ?
 Gmap có bị bắt gỡ đâu ?
 ==========================
 472
-Điện thoại
+iOS
 Ủa nếu nói đơn giản thì iOS đơn giản hơn nhiều chớ ?
 Đồng ý, iOS phải công nhận là nó đơn giản thiệt, đẹp và tối giản.
 ==========================
@@ -2365,26 +2365,26 @@ Windows Phone 7 theo em biết là không có gõ được tiếng Việt phải
 ==========================
 474
 Điện thoại
-cũng có ứng dụng tin nhắn bởi các lập trình viên Việt Nam viết, cho phép mình gõ tiếng Việt rồi gửi đi, đỡ phải mất công chép.
+Cũng có ứng dụng tin nhắn bởi các lập trình viên Việt Nam viết, cho phép mình gõ tiếng Việt rồi gửi đi, đỡ phải mất công chép.
 Như vậy thì bất tiện quá, duyệt web chém gió trên Facebook hay nhắn tin mà không có tiếng Việt thì mất vui rồi, mình cũng thích mấy con Windows Phone nhưng cái nhược điểm này là cái duy nhất làm mình suy nghĩ, không biết Windows Phone 8 có cải thiện không nữa ?
 ==========================
 475
-Điện thoại
+Tư vấn điện thoại
 Sắp tới lĩnh lương em muốn đổi sang Windows Phone sài, không biết trong tầm 5 triệu đổ lại có em nào tốt không các bác tư vấn giùm em với, chỉ cần mượt, ổn định, pin đủ xài 1 ngày, có máy ảnh trước và không bị lỗi lặt vặt thôi ạ.
 Lumia 620 mà mua thôi, pin chắc cũng được 1 ngày, nếu xem video, chơi trò chơi điện tử, dùng 3G thì tùy tần suất dùng nhé.
 ==========================
 476
-Điện thoại
+Tư vấn điện thoại
 Bạn mua điện thoại Windows Phone để trải nghiệm hay sử dụng nghiêm túc, nếu trải nghiệm khuyên thật lòng bạn mua 520 là đủ, con 820 tốt thật đấy nhưng cái hệ điều hành Windows Phone 8 này nó ngu lắm.
 Nghiêm túc ạ,em là chả thích iOS, còn anh Android giờ nó xô bồ, tạp nham quá cũng chả thích.
 ==========================
 477
-Điện thoại
+Windows Phone
 Về độ mượt, ứng dụng và tính năng phầm mềm thì tất cả các máy Windows Phone đều như nhau, nên cứ làm con rẻ nhất dùng trước, kết Windows Phone thì mua máy đắt hơn để được phần cứng mạnh hơn.
 Bác nhận xét thế là chuẩn nhất rồi.
 ==========================
 478
-Điện thoại
+Samsung focus
 Samsung focus sao rồi dùng mượt không bạn ?
 Mượt mà ngon lắm bác ạ.
 ==========================
@@ -2414,17 +2414,17 @@ Việt Nam
 Hễ cái gì không hay là thể nào chả có thành phần nhảy vào phán mấy câu đại loại như vậy, còn Tây của bạn thì hay lắm, cứ làm như sống ở nước ngoài lâu lắm ấy mà biết chúng nó gặp của ngoảnh mặt làm ngơ.
 ==========================
 484
-Máy tính
+Mainboard
 Điều em muốn nói là cái nước sơn bo mạch ấy.
 Ngày xưa Asus từng làm bo mạch màu vàng, nhìn cái mainboard toát lên vẻ rẻ tiền và dỏm nên Asus không dám chơi thêm lần nào nữa.
 ==========================
 485
-Máy tính
+Mainboard
 Ngày xưa Asus từng làm bo mạch màu vàng, nhìn cái mainboard toát lên vẻ rẻ tiền và dỏm nên Asus không dám chơi thêm lần nào nữa.
 Đâu, đẹp thì chả cần đẹp, em thích độc thôi, như mấy cái mainboard màu đỏ lòm của MSI ngày xưa, và xanh lè của Gigabyte bây giờ, chứ mainboard tầm tầm bọn nào cũng nâu đen xem riết chán.
 ==========================
 486
-Máy tính
+Mainboard
 Đâu, đẹp thì chả cần đẹp, em thích độc thôi, như mấy cái mainboard màu đỏ lòm của MSI ngày xưa, và xanh lè của Gigabyte bây giờ, chứ mainboard tầm tầm bọn nào cũng nâu đen xem riết chán.
 Tìm nguyên dòng Asus P5G đó.
 ==========================
@@ -2479,22 +2479,22 @@ Thiệt hại về doanh thu một chút nhưng lại được về quảng cáo
 Đây có thể là 1 chiêu quảng cáo đấy, hơi bị độc.
 ==========================
 497
-Trò chơi điện tử
+Dung lượng
 Trò này dung lượng gần 20 GB mà đòi cấu hình không cao lắm nhỉ, chắc là thời lượng chơi dài, thấy đánh giá toàn tuyệt đối.
 Dung lượng lớn để có thêm nhiều trải nghiệm thôi chứ có tăng độ chi tiết như Crysis đâu.
 ==========================
 498
-Trò chơi điện tử
+Devil May Cry 5
 Sao kì vậy ta, Devil May Cry 5 cũng sử dụng Unreal 3 mà máy em chơi cấu hình tối đa được khoảng 40 khung hình mà bác.
 Bác so thế không được, Devil May Cry 5 cảnh vật đều là tĩnh cả với đồ vật, đâu có nhiều như Bioshock, với lại Devil May Cry 5 là DirectX9.
 ==========================
 499
-Trò chơi điện tử
+Devil May Cry 5
 Bác so thế không được, Devil May Cry 5 cảnh vật đều là tĩnh cả với đồ vật, đâu có nhiều như Bioshock, với lại Devil May Cry 5 là DirectX9.
 Vậy máy em hết hi vọng chiến cấu hình trung bình rồi.
 ==========================
 500
-Trò chơi điện tử
+Bioshock
 2 phần đầu của Bioshock có gì đâu kinh dị nhỉ, chỉ là cái không khí nó u ám thôi chứ không có kinh dị kiểu Dead Space đâu.
-2 phần đầu nó làm theo phong cách của System Shock, mà chơi System Shock cảm giác nó hãi hơn Dead Space nhiều.
+2 phần đầu Bioshock làm theo phong cách của System Shock, mà chơi System Shock cảm giác nó hãi hơn Dead Space nhiều.
 ==========================

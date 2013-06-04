@@ -1,61 +1,61 @@
 ﻿1
-Máy em
+Tư vấn nguồn
 Hiện giờ máy em là core i3 2120 RAM 4GB ddr 3 ổ cứng wd cavia black 500gb main asus p8h61-m vga ati 5750 thì em nguồn arrow 600w chạy được không ạ ?
-Rất xin lỗi mình không nói trước được điều gì với những bộ nguồn không tên lắp máy với VGA rời.
+Rất xin lỗi mình không nói trước được điều gì với những bộ nguồn không tên lắp máy với card màn hình rời.
 ==========================
 2
-HĐH
+Hệ điều hành
 HĐH là cái gì ạ?
 Hệ Điều Hành
 ==========================
 3
-Tư vấn
-Mấy bác tư vấn cho em là main nào đi với con 8350 hợp ạ ?
-Không OC thì MSI 970a-g46/giga 907a-d3, OC thì mạnh dạn lên giga 990FXA
+Tư vấn mainboard
+Bác tư vấn cho em là mainboard nào đi với con 8350 hợp ạ ?
+Không ép xung thì MSI 970a-g46/giga 907a-d3, ép xung thì mạnh dạn lên Gigabyte 990FXA .
 ==========================
 4
 Nexus
-Con Nexus thì có vấn đề về pin mình không nói. Thế bạn biết x86 có giới hạn gì không ? 
-Mình chỉ biết x86, MIPS, ARM, mà ARM chỉ xách dép cho 2 cái trước thôi
+Con Nexus thì có vấn đề về pin mình không nói, thế bạn biết x86 có giới hạn gì không ? 
+Mình chỉ biết x86, MIPS, ARM, mà ARM chỉ xách dép cho 2 cái trước thôi .
 ==========================
 5
-Xui
-Chắc do bác xui thôi chứ giọng Trung Bắc vẫn vô bình thường nhé
+Giọng
+Chắc do bác xui thôi chứ giọng Trung Bắc vẫn vô bình thường nhé .
 Kì vậy ? 
 ==========================
 6
 Bảo hành 
 Lúc trước em mua cái tản nhiệt L3 mà bảo hành 1 hay 2 năm gì đấy, xài khoảng nửa năm thì nó hư không chạy được, em đem lên xuân vinh đà nẵng sửa, nó gửi vào sài gòn rồi 1~2 tuần sau em lấy lại, lúc lấy lại thì hình như em được con L3 mới, không những thế, em nhìn tem bảo hành thì ghi lại từ ngày em đem đi sửa bảo hành.
-Sướng thế nhỉ
+Sướng thế nhỉ ?
 ==========================
 7
 Hát live
 Hương Giang thu âm cũng ổn phết, mà hát live thì chán quá
-Công nhận là khác quá trời luôn
+Công nhận là khác quá trời luôn .
 ==========================
 8 
 Đồng tính
-Xem mấy cái giải thưởng về người đồng tính đi, nếu không đọc tựa đề mà chỉ xem ảnh thế nào cũng có người phán: "ước gì bạn gái mình cũng được vậy" 
-Bác cho em xin cái link giải xem thế nào, em nghe bác nói mà đau quai hàm quá
+Xem mấy cái giải thưởng về người đồng tính đi, nếu không đọc tựa đề mà chỉ xem ảnh thế nào cũng có người phán: "ước gì bạn gái mình cũng được vậy" .
+Bác cho em xin cái link giải xem thế nào, em nghe bác nói mà đau quai hàm quá .
 ==========================
 9
-Tai nghe
-PL 30 nghe ok không thím? So với tai nghe kèm theo khác biệt nhiều không?
-Nếu có muốn đỉnh cao thì phải chơi tầm 1 củ, nói chung chơi cái này rất là tốn tiền
+Tư vấn tai nghe
+PL 30 nghe tốt không bác, so với tai nghe kèm theo khác biệt nhiều không ?
+Nếu muốn tai nghe đỉnh cao thì phải chơi tầm 1 củ, nói chung chơi cái này rất là tốn tiền .
 ==========================
 10
 Đi
-Mai có đi không mày?
+Mai có đi không mày ?
 Mai tao bận đi học.
 ==========================
 11
-Tình dục 
-Sao bảo tình dục bên Nhật bản thông thoáng lắm,sao ngủ ở nhà bạn trai đã bị dư luận lên án đến mức cắt tóc ?
-Nó là idol mà , 1 số idol ở Nhật còn không được có bạn trai kìa.
+Thần tượng 
+Sao bảo tình dục bên Nhật bản thông thoáng lắm, sao ngủ ở nhà bạn trai đã bị dư luận lên án đến mức cắt tóc ?
+Nó là thần tượng mà, 1 số thần tượng ở Nhật còn không được có bạn trai kìa.
 ==========================
 12
-RAM
-Mình muốn hỏi có phải là Ram ECC Registered và Unbuffered không thể cắm vào main desktop đúng không, còn Ram ECC Unbuffered thì có thể cắm được ?
+Hỏi RAM
+Mình muốn hỏi có phải là RAM ECC Registered và Unbuffered không thể cắm vào mainboard máy bàn đúng không, còn Ram ECC Unbuffered thì có thể cắm được ?
 Đúng hay không còn tùy trường hợp, nếu main support các loại RAM trên nó chạy còn không thì hên xui cái chạy cái không.
 ==========================
 13
@@ -64,29 +64,29 @@ Lái xe an toàn, không phải lái xe giỏi nhen.
 Không ai tự vỗ ngực mình là người lái xe giỏi đâu bạn ạ 
 ==========================
 14
-Cấu hình
-Các thím giúp mình với, cấu hình thế này, mình đã cài drivers VGA rồi cơ mà khi vào game offline thì nó không chơi được, còn game online thì lag vô cùng
-Cài hệ điều hành lại, nếu vẫn còn thì tháo hết RAM kiểm tra từng cây một, rồi own OCCT rồi stress CPU, GPU
+Hỏi máy tính
+Bác giúp mình với, cấu hình thế này, mình đã cài driver card màn hình rồi cơ mà khi vào game ngoại tuyến thì nó không chơi được, còn game online thì giật vô cùng .
+Cài hệ điều hành lại, nếu vẫn còn thì tháo hết RAM kiểm tra từng cây một, rồi thử OCCT rồi thử CPU, GPU .
 ==========================
 15
 Youtube
 Chiều rảnh quá lướt qua mấy video nghệ thuật ở youtube thấy cái đám Incredible Science nó làm mấy thứ siêu vãi, giải trí rất tốt khi mình có nó, cho hỏi mấy thứ đấy là bọn nó tự chế hay là mua nhỉ, ở Việt Nam có mấy cái đó không mấy bác ?
-Nhìn mấy món này thích thế mà tìm Google chả thấy
+Nhìn mấy món này thích thế mà tìm Google chả thấy .
 ==========================
 16
 Cooler Master
-Là người hâm mộ trung thành của Cooler Master nên nghe nói cái này sắp ra là không chịu được nên lập chủ đề hỏi tí, cả nhà cho em hỏi sản phẩm này bao giờ ra mắt nhỉ?
-Ra từ lâu rồi mà bạn , cũng hơn 3 tháng rồi còn gì
+Là người hâm mộ trung thành của Cooler Master nên nghe nói cái này sắp ra là không chịu được nên lập chủ đề hỏi tí, cả nhà cho em hỏi sản phẩm này bao giờ ra mắt nhỉ ?
+Ra từ lâu rồi mà bạn , cũng hơn 3 tháng rồi còn gì ?
 ==========================
 17
-Website
+Web
 Làm sao để trang web có cùng một nội dung mà người ta vẫn tìm được, kiểu như trang của mình là trang thiết kế website, trên mạng có hàng ngàn site tương tự làm sao để mình quảng bá thương hiệu ? 
-Để ngươi dùng tìm được thì đơn giản nhất là bạn quảng cáo như bằng Google Ads, nhưng hiệu quả về mặt chất lượng nhất vẫn là tự SEO hoặc thuê công ty khác SEO dùm để lên top Google như Cloud SEO của Tenten 
+Để người dùng tìm được thì đơn giản nhất là bạn quảng cáo như bằng Google Ads, nhưng hiệu quả về mặt chất lượng nhất vẫn là tự SEO hoặc thuê công ty khác SEO dùm để lên top Google như Cloud SEO của Tenten .
 ==========================
 18
 Hitler
-Đọc nhiều sách mới thấy Hitler quá bá đạo, mất 14 năm để đưa Đức từ nước bại trân trong thế chiến thứ Nhất thành siêu cường để rồi năm 1940 gần cả châu âu nằm dưới gót sắt của Đức.
-Hitler là thiên tài nhưng cái sai của Hitler là đi quá nhanh và quá cuồng, thất bại là điều khó tránh khỏi.
+Đọc nhiều sách mới thấy Hitler quá bá đạo, mất 14 năm để đưa Đức từ nước bại trân trong thế chiến thứ Nhất thành siêu cường để rồi năm 1940 gần cả châu âu nằm dưới gót sắt của Đức .
+Hitler là thiên tài nhưng cái sai của Hitler là đi quá nhanh và quá cuồng, thất bại là điều khó tránh khỏi .
 ==========================
 19
 Bác Hồ
@@ -94,59 +94,64 @@ Bác Hồ là vị cha già của dân tộc mà, là niềm tự hào của con
 Nhưng cuộc đời ai mà chả có góc khuất, nạn đói năm 45, thảm sát Huế và sai lầm Tết Mậu Thân năm 1968, con riêng...
 ==========================
 20
-Tư vấn
-Chào các bác, tình hình là sau khi ăn Tết ba đã duyệt chi cho mình khoản tiền 12 triệu để mua laptop, nhu cầu của mình là văn phòng, lướt web, xem phim HD, ít chơi game, các bác tư vấn cho mình với khoản tiền và nhu cầu như trên mình có thể chọn em ASUS K43SJ VX462 được không ?
-Phim ảnh bạn nên xài con nào 15 inch ấy cho nó thoải mái, bạn tham khảo thử HP probook và Dell Inspiron N5110 coi sao.
+Tư vấn laptop
+Chào bác, tình hình là sau khi ăn Tết ba đã duyệt chi cho mình khoản tiền 12 triệu để mua laptop, nhu cầu của mình là văn phòng, lướt web, xem phim HD, ít chơi game, các bác tư vấn cho mình với khoản tiền và nhu cầu như trên mình có thể chọn em ASUS K43SJ VX462 được không ?
+Phim ảnh bạn nên xài con nào 15 inch ấy cho nó thoải mái, bạn tham khảo thử HP probook và Dell Inspiron N5110 coi sao .
 ==========================
 21
-Quốc phòng
+Nghĩa vụ quân sự
 Vừa tốt nghiệp lấy bằng tháng 10/09 xong, chưa xin dc việc đã gọi đi quốc phòng, làm sao xin việc được bây giờ ?
-Không sao đâu chỉ cần làm 1 cái giấy thị lực 5/10 là được rồi.
+Không sao đâu chỉ cần làm 1 cái giấy thị lực 5/10 là được rồi .
 ==========================
 22
 Cắt tóc
-Chẳng là em mới cắt quả tóc, ra đường ai cũng khen đẹp trai hẳn lên, sướng quá các bác ạ 
-Thím bị hoang tưởng à. 
+Chẳng là em mới cắt quả tóc, ra đường ai cũng khen đẹp trai hẳn lên, sướng quá bác ạ . 
+Bác bị hoang tưởng à ?
 ==========================
 23
 Con gái
-Đi đi, không chấp nhận con gái chửi bậy nhé
-Ai nói đấy là chửi bậy, tại cách suy nghĩ của thím bậy thôi.
+Đi đi, không chấp nhận con gái chửi bậy nhé .
+Ai nói đấy là chửi bậy, tại cách suy nghĩ của bác bậy thôi .
 ==========================
 24
 Sanjana Singh
-Chị Sanjana Singh một mình dũng cảm băng đèo, vượt núi tới gặp bọn cướp yêu cầu chúng trả tự do cho chồng mà không hề có sự trợ giúp của cảnh sát.
-Đúng là nữ anh hùng.
+Chị Sanjana Singh một mình dũng cảm băng đèo, vượt núi tới gặp bọn cướp yêu cầu chúng trả tự do cho chồng mà không hề có sự trợ giúp của cảnh sát .
+Đúng là nữ anh hùng .
 ==========================
 25
-Đồng yên
-Đồng yên lên giá khiến gánh nặng trả nợ của các nước đi vay bằng yên thêm nặng.
+Tiền tệ
+Đồng yên lên giá khiến gánh nặng trả nợ của các nước đi vay bằng yên thêm nặng .
 Bây giờ USD mà lên 20 ngàn, 25 ngàn thì có mà khóc .
 ==========================
 26
-Khỏa thân
+Mỹ
 Ở bên Mỹ toàn khỏa thân biểu tình với quyên góp từ thiện còn gì ? 
-Nhưng VN có mấy người làm cái mấy trò chả liên quan gì cả.
+Nhưng Việt Nam có mấy người làm cái mấy trò chả liên quan gì cả .
 ==========================
 27
 Trung Quốc
 Trần gian có lâm vào đại họa, Trung Quốc âm mưu chiếm đoạt bá chủ thế giới, nhân gian dịch bệnh, thiên tai, bá tánh lâm vào cảnh lầm than, các anh hùng dần dần lộ diện
-Anh em chuẩn bị góp gạo với tiền mua xe chiến cho thánh gióng thôi
+Anh em chuẩn bị góp gạo với tiền mua xe chiến cho thánh gióng thôi .
+==========================
+28
+Trung Quốc
+Sẽ có ngày Trung Quốc gây ra chiến tranh thế giới thứ 3 .
+Đồng ý, Trung Quốc quả là càng ngày càng hung hãn .
 ==========================
 29
-Tư vấn 
-Mình đang định mua một cái bàn laptop đa năng, nhưng đang phân vân không biết nên ra cửa hàng máy tính mua hay ra cửa hàng Hòa Phát mua 1 cái bàn học sinh viên, không biết cái nào dùng thoải mái hơn, bạn nào từng dùng rồi góp ý giúp mình nhé.
-Bàn laptop chủ yếu ngồi giường, mua bàn to đỡ mệt hơn. muốn mua ở đâu, giá cả sao, chịu khó search google nhé. 
+Tư vấn laptop
+Mình đang định mua một cái bàn laptop đa năng, nhưng đang phân vân không biết nên ra cửa hàng máy tính mua hay ra cửa hàng Hòa Phát mua 1 cái bàn học sinh viên, không biết cái nào dùng thoải mái hơn, bạn nào từng dùng rồi góp ý giúp mình nhé ?
+Bàn laptop chủ yếu ngồi giường, mua bàn to đỡ mệt hơn, muốn mua ở đâu, giá cả sao, chịu khó tìm trên google nhé. 
 ==========================
 30
-Tư vấn
+Hỏi máy tính
 Cái máy tính bàn của em 2 hôm nay nó giở chứng, đang dùng tự nhiên tắt phụt đi, sau đó khởi động lại, nó tự khởi động lại mấy lần nhưng không lên, bác nào biết máy em đang bị sao không chỉ em với ? 
-Lỗi này mình nghĩ tại Mainboard đó.
+Lỗi này mình nghĩ tại Mainboard đó .
 ==========================
 31
-Tư vấn
-Em có cái ổ cứng nhưng không biết xem bảo hành ở đâu cả , ai biết thì chỉ cho em, em xin chân thành cảm ơn.
-Tốt nhất là bạn đem thẳng đến trung tâm bảo hành, sau khi kiểm tra nếu hư thì sẽ được nhận bảo hành cái mới nhé.
+Hỏi máy tính
+Em có cái ổ cứng nhưng không biết xem bảo hành ở đâu cả , ai biết thì chỉ cho em, em xin chân thành cảm ơn ?
+Tốt nhất là bạn đem thẳng đến trung tâm bảo hành, sau khi kiểm tra nếu hư thì sẽ được nhận bảo hành cái mới nhé .
 ==========================
 32
 Mai Hoàng
@@ -159,14 +164,14 @@ Bạn học trường gì nhỉ ?
 Mình cũng dân viễn thông đó mà.
 ==========================
 34
-Tư vấn
+Tư vấn điện thoại
 Mình đang có nhu cầu mua điện thoại thông minh tầm khoảng 9 triệu để phục vụ cho công việc, chủ yếu cấu hình và pin ổn tí xíu, nhờ các bác tư vấn giùm mình với.
-Làm em LG optimus G đi bạn, mọi thứ đều bạn yêu cầu đều ổn.
+Làm em LG optimus G đi bạn, mọi thứ đều bạn yêu cầu đều ổn .
 ==========================
 35
 Sony HPM-64
-Tai nghe Sony HPM-64 theo máy không thể xịn hơn có giá 200 ngàn đồng.
-Giá cao quá đi
+Tai nghe Sony HPM-64 theo máy không thể xịn hơn có giá 200 ngàn đồng .
+Giá cao quá đi .
 ==========================
 36
 Dân tỉnh
@@ -195,8 +200,8 @@ Tải datasheet của mấy con IC về mà đọc, rồi vào mấy trang bán 
 ==========================
 41
 Đi
-Hội mình có ai đi không?
-Vừa đi chiều qua xong, nói chung là ok.
+Hội mình có ai đi không ?
+Vừa đi chiều qua xong, nói chung là được .
 ==========================
 42
 Windows 
@@ -210,8 +215,8 @@ Mua máy ở đâu thì xin họ 1 bản Windows ngon lành luôn ấy.
 ==========================
 44
 Bàn phím
-Bàn phím laptop em bị dở hơi rồi 
-Chơi game nhiều thì chịu khó mua thêm cái bàn phím có cổng USB cắm vô laptop ấy, chứ chơi trên laptop bấm đè hoài nó nhanh hư đó bạn. 
+Bàn phím laptop em bị dở hơi rồi .
+Chơi game nhiều thì chịu khó mua thêm cái bàn phím có cổng USB cắm vô laptop ấy, chứ chơi trên laptop bấm đè hoài nó nhanh hư đó bạn . 
 ==========================
 45
 Việc làm bán thời gian
@@ -221,15 +226,15 @@ Lotte Trần Hưng Đạo đang tuyển 10 nhân viên nam nha các bác, nộp 
 46
 Caravelle
 Khách sạn Caravelle ở đâu nhỉ ? 
-Bên phải Nhà hát lớn ở Thành phố Hồ Chí Minh bạn ạ.
+Bên phải Nhà hát lớn ở Thành phố Hồ Chí Minh bạn ạ .
 ==========================
 47
-Việc làm bán thời gian
+Việc làm thêm
 Việc làm bán thời gian có đòi hỏi ngoại hình, tuổi tác gì không bạn ?
 Không nhe bạn, quan trọng là có thời gian thôi.
 ==========================
 48
-Máy tính
+Hỏi laptop
 Có nên đi dán miếng dán từ trên màn hình máy laptop không nhỉ? 
 Dán thoải máy bác à, không có ảnh hưởng gì hết.
 ==========================
@@ -239,7 +244,7 @@ Mấy con Elitebook có nhược điểm gì không ?
 Vấn đề muôn thuở của dòng doanh nhân này là màn hình không đẹp, góc nhìn hẹp, nhưng cái này không quan trọng lắm khi đã quyết định mua elitebook.
 ==========================
 50
-Tư vấn 
+Tư vấn laptop
 Chào mọi người em hiện là sinh viên kiến trúc cần mua lapop phục vụ học hành và cả làm việc sau này, có khoảng 20 triệu thì nên chọn mua laptop nào ? 
 Bạn nên tham khảo dòng 8540p , giá tầm 20 triệu đáp ứng rất tốt với nhu cầu của bạn.
 ==========================
@@ -250,8 +255,8 @@ Dòng nào cũng dùng được hết bạn ơi.
 ==========================
 52
 Elitebook
-Có bác nào biết trên Elitebook làm thế nào mở chế độ pin HP Optimized không?
-Bác nhấn FN+F8 là nó hiện ra HP Power Asisstant, trong đó bác tùy chỉnh các chế độ quản lí pin cho máy.
+Có bác nào biết trên Elitebook làm thế nào mở chế độ pin HP Optimized không ?
+Bác nhấn FN với F8 là nó hiện ra HP Power Asisstant, trong đó bác tùy chỉnh các chế độ quản lí pin cho máy .
 ==========================
 53
 Messi
@@ -259,9 +264,9 @@ Nhìn Messi đi bóng thật là ảo, không có một cầu thủ nào làm m�
 Sử dụng 2 chân thì mình cam đoan CR7 không bằng M10, M10 đảo 2 chân cực khéo, gọn và chuẩn đến từng chi tiết, CR7 chỉ màu mè đảo qua đảo lại thôi, CR7 chỉ được cái khoẻ hơn Messi.
 ==========================
 54
-Ronaldo béo
+Ronaldo
 Vừa lướt Youtube thấy có mấy bạn trẻ phán Ronaldo béo không bằng CR7 hay Messi, 2 thằng kia đá mấy giải xóm được đồng đội bơm tốt thì được chứ vào World Cup bị 2-3 thằng kèm cho thì không nổ được phát nào cả.
-Ừ ,so cúp vàng thì Messi , Ronaldo , Drogba , Shevchenko , Van Nistelrooy cũng không bằng Pedro 
+Ừ, so cúp vàng thì Messi, Ronaldo, Drogba, Shevchenko, Van Nistelrooy cũng không bằng Pedro .
 ==========================
 55
 Ăn xin
@@ -269,49 +274,49 @@ Ra đường nhìn thấy ăn xin không nhà không cửa thì thấy sao ?
 Nói thật chứ mình cũng muốn làm ăn xin, 1 ngày kiếm được vài trăm ngàn là ít.
 ==========================
 56
-Laptop
+Hỏi laptop
 Nếu mình dùng miếng lót bàn phím bằng silicon để bảo vệ không cho bụi chui vào khe hở bàn phím thì có ảnh hưởng đến vấn đề tản nhiệt của laptop không nhỉ?
 Mình nghĩ không ảnh hưởng nhiều đâu vì hơi nóng chủ yếu qua khe thoát nhiệt mà.
 ==========================
 57
 Miếng lót bàn phím
-Đem miếng lót lên bàn phím nhìn xấu lắm, làm mất hết cái chất của máy.
-Của mình cũng chẳng dán màn hình hay bàn phím gì cả, để vậy nhìn thích hơn.
+Đem miếng lót lên bàn phím nhìn xấu lắm, làm mất hết cái chất của máy .
+Của mình cũng chẳng dán màn hình hay bàn phím gì cả, để vậy nhìn thích hơn .
 ==========================
 58
 Pin
 Sao máy mình chỗ biểu tượng pin tại Task Tray nó thông báo thế này "96% available (plugged in, not charging)" mà không phải là 100% ?
-Nó đợi cho xuống đến khoảng cỡ 95% mới bắt đầu sạc lại, tránh hiện tượng sạc quá nhiều lần gây hại pin thôi bạn.
+Nó đợi cho xuống đến khoảng cỡ 95% mới bắt đầu sạc lại, tránh hiện tượng sạc quá nhiều lần gây hại pin thôi bạn .
 ==========================
 59
-Laptop
+Hỏi laptop
 Cho em hỏi nếu 1 laptop HP người thân ở Mỹ cho có bảo hành của Newegg thì ở Việt Nam có được bảo hành không ạ ?
-Được bạn à, yên tâm nhé.
+Được bạn à, yên tâm nhé .
 ==========================
 60
-Laptop
+Hỏi laptop
 Vỏ laptop bị hư có được bảo hành không, nếu không thay hết tầm bao nhiêu không ?
 Cái này là lỗi do người sử dụng đó bác, Trung tâm bảo hành tính phí sao bác phải chịu vậy thôi.
 ==========================
 61
 Đời sống
-Tôi tự hỏi rồi đây các công nhân lương 2.5 triệu/tháng, ở nhà thuê, còn phải gửi tiền về cho gia đình, sẽ sống như thế nào?
-Ăn mì gói thôi, mà giờ cũng đã thế rồi.
+Tôi tự hỏi rồi đây các công nhân lương 2.5 triệu/tháng, ở nhà thuê, còn phải gửi tiền về cho gia đình, sẽ sống như thế nào ?
+Ăn mì gói thôi, mà giờ cũng đã thế rồi .
 ==========================
 62
 Đời sống
 Không thể tin được, tô phở mọi bữa 18 ngàn, sáng hôm nay đã lên 25 ngàn làm tôi ăn không cảm thấy ngon miệng như trước nữa, mặc dù món phở là 1 trong những món yêu thích nhất của tôi
-Tăng thế này thì cả tầng lớp trung lưu cũng còn phải chật vật nữa chứ đừng nói đến dân nghèo.
+Tăng thế này thì cả tầng lớp trung lưu cũng còn phải chật vật nữa chứ đừng nói đến dân nghèo .
 ==========================
 63
-Tư vấn
-Mình muốn học kinh doanh nhưng mình nhận thấy mình khá trầm , ít nói , kém năng động, sau này mình muốn làm kinh doanh nên ai học Đại Học Kinh Tế TP.HCM tư vấn dùm em với
+Kinh tế
+Mình muốn học kinh doanh nhưng mình nhận thấy mình khá trầm, ít nói, kém năng động, sau này mình muốn làm kinh doanh nên ai học Đại Học Kinh Tế TP.HCM tư vấn dùm em với ?
 Không phải lăn tăn, học kinh tế sau này nếu có chút kiến thức vững vàng thì cơ hội kiếm việc rất lớn, sau đó học thêm các kỹ năng khác cũng được.
 ==========================
 64
 Tư vấn
-Mình muốn sau khi ra trường mình có khả năng phân tích tốt, có tầm nhìn tốt , chiến lược kinh doanh , quản lý tốt, mình muốn sau này sẽ tìm hướng kinh doanh 1 lĩnh vực nào đó để có thể khởi nghiệp được
-Bây giờ còn ngồi học mình thấy mọi chuyện đơn giản thế thôi, sau này ra trường xin việc mới thấy hết những khó khăn bạn ạ, nhưng dù sao có hoài bão là 1 khởi đầu tốt.
+Mình muốn sau khi ra trường mình có khả năng phân tích tốt, có tầm nhìn tốt, chiến lược kinh doanh, quản lý tốt, mình muốn sau này sẽ tìm hướng kinh doanh 1 lĩnh vực nào đó để có thể khởi nghiệp được .
+Bây giờ còn ngồi học mình thấy mọi chuyện đơn giản thế thôi, sau này ra trường xin việc mới thấy hết những khó khăn bạn ạ, nhưng dù sao có hoài bão là 1 khởi đầu tốt .
 ==========================
 65
 Chém
@@ -320,36 +325,36 @@ Hình thức và thể lệ chém như thế nào ?
 ==========================
 66
 Thuật toán
-Có biết cách tạo cây nhị phân trong C# để tính giá trị biểu thức không, đang học môn phương pháp tính mà bị bí chỗ này.
-Search ký pháp Ba Lan rồi đọc giải thuật nhé.
+Có biết cách tạo cây nhị phân trong C# để tính giá trị biểu thức không, đang học môn phương pháp tính mà bị bí chỗ này ?
+Tìm google ký pháp Ba Lan rồi đọc giải thuật nhé .
 ==========================
 67
 Ị
-Á á á, em mắc ị quá. 
-Ôi, ngứa.
+Á á á, em mắc ị quá . 
+Ôi, ngứa .
 ==========================
 68
 Yêu
 ôi em yêu chồng em quá, có biết không ? 
-Anh biết rồi, không cần phải la to vậy đâu.
+Anh biết rồi, không cần phải la to vậy đâu .
 ==========================
 69
 Việc làm thêm
-Em hiện đang làm người vận chuyển, nhưng định nghỉ việc vì lương chỉ có 1 triệu, thưởng 200k.
+Em hiện đang làm người vận chuyển, nhưng định nghỉ việc vì lương chỉ có 1 triệu, thưởng 200 ngàn .
 Chỗ của bác có vẻ lương hơi thấp nhỉ ?
 ==========================
 70
-Tư vấn
+Tư vấn laptop
 Mình đang muốn mua máy, kinh phí dưới 30 triệu, màn hình 17 inch, và nhẹ nhất có thể vì mang vác nhiều, bác có biết em nào hội tụ đủ yêu cầu thì chỉ mình với ?
 Kiểu này cũng khó rồi màn hình 17 inch thì chẳng lấy đâu mà nhẹ nhàng được, nhưng có con HP Envy thì tạm được đấy.
 ==========================
 71
-Tư vấn
+Tư vấn laptop
 Dự tính là mua Probook 4540 và Dell Vostro mà không biết mua ở đâu ở Hà Nội hết.
 Bạn sang bên chỗ Laptopno1 nha.
 ==========================
 72
-Tư vấn
+Hỏi laptop
 Thím nói cho em biết Dell Vostro với Dell Latitude nó khác nhau cái gì không ? 
 Bạn có thể tham khảo 2 mẫu Dell Vostro và Dell Latitude tại website laptopanphong.com thì bạn sẽ biết khác nhau như thế nào.
 ==========================
@@ -359,9 +364,9 @@ Thím ở Hà Nội hay Sài Gòn, nếu ở Sài Gòn thì thím làm ở Lotte
 Em ở Sài Gòn, trước làm ở quận 5 ạ.
 ==========================
 74
-Tư vấn
+Tư vấn laptop
 Em học xây dựng, đang tính chọn con máy nào đó giá khoảng từ 9 tới 11 triệu không hơn, có thể sử dụng tốt mấy phần mềm của xây dựng và thi thoảng chiến tí game, xin tư vấn giùm em
-Tư vấn cho bạn tham khảo laptop này để bạn có sự lựa chọn nhé : Dell Latitude E5430 (Core i5 3210M, 4GB, 500GB, VGA HD 4000, 14 inch).
+Tư vấn cho bạn tham khảo laptop này để bạn có sự lựa chọn nhé : Dell Latitude E5430 (Core i5 3210M, 4GB, 500GB, card màn hình HD 4000, 14 inch) .
 ==========================
 75
 Việc làm thêm
@@ -369,58 +374,58 @@ Trình Anh Văn của mình tương đương mức yêu cầu của Megastar th�
 Xin làm lễ tân ở các Công ty hoặc các Khách sạn xịn, hoặc bạn vào trang timviecnhanh.com tìm xem có công việc nào phù hợp không. 
 ==========================
 76
-Máy tính
+Hỏi máy tính
 Tại sao CPU & QPI Voltage càng thấp càng tốt, vì theo em biết thì QPI là tuyến giao tiếp giữa các thiết bị ngoại vi mà, ít voltage thì nó hoạt động không hiệu quả chứ?
 Cái gì chả vậy, càng ít càng tốt để đỡ nóng và tốn điện, nên hệ thống có hoạt động ổn định và hiệu quả hay không thì đương nhiên là phải test.
 ==========================
 77
-Tư vấn
-Em đang tính dựng bộ máy tính + màn hình 20 inch, nhưng vẫn đang trong giai đoạn lên đồ, tư vấn giúp em 1 dàn ngon ạ.
-Thím lấy thế này nhé: VGA: MSI R7750 Power Edition 1GD5/OC hoặc HIS 7750 IceQ X Turbo 1GB GDDR5 PCI-E DVI/HDMI/2xMini DP, PSU: Acbel CE2 - 350W, Màn Hình: BenQ 20"GL2055A Wide LED
+Tư vấn máy tính
+Em đang tính dựng bộ máy tính và màn hình 20 inch, nhưng vẫn đang trong giai đoạn lên đồ, tư vấn giúp em 1 dàn ngon ạ ?
+Thím lấy thế này nhé: card màn hình: MSI R7750 Power Edition 1GD5/OC hoặc HIS 7750 IceQ X Turbo 1GB GDDR5 PCI-E DVI/HDMI/2xMini DP, PSU: Acbel CE2 - 350W, Màn Hình: BenQ 20"GL2055A Wide LED
 ==========================
 78
-Máy tính
+Hỏi CPU
 Xeon 1230 và 1245 ngoài cái xung 3.3Ghz và 3.4Ghz có khác nhau gì nữa không ?
 E3 1230v2 chỉ thua về xung 3,3Ghz với 3,4Ghz của 1245V2 sức mạnh 2 con khác nhau theo tỉ lệ xung.
 ==========================
 79
-Máy tính
+Ép xung
 Cấu hình của em là Mainboard: G31MX S2, CPU: E8500, 2 Thanh DDR2 1GB, nguồn Vaio 24 pin, em muốn ép xung lên 1 chút ạ.
 Mainboard G31 chẳng nên ép xung làm gì cho mất công.
 ==========================
 80
-Máy tính
+Hỏi CPU
 Hiện giờ em đang dùng Xeon 3210, Mainboard DS3L, RAM Adata 2x1GB bus 800, Tản nhiệt Tuniq 120,PSU Acbel M8 750w, nếu ép tốc độ lên 3,0GHZ thì ổn định với mức vcore là 1,264v, nhiệt độ khi tải tối đa là 55*C, nhưng khi tăng lên 3,2GHZ thì không thể ổn định khi kiểm tra với prime95 với bất kỳ mức vcore nào cho dù đã tăng từ 1,3-1,6v, và nhiệt độ lúc này khi tải tối đa là 66*C, sau khi đọc qua 1 số bài nói về vấn đề giải nhiệt với việc ép xung thì em mới thấy lạ là tại sao với mức 3,2GHZ nhiệt độ chỉ 66* mà nó lại không ổn định,trong khi người khác ổn định rất dễ dàng, không biết có phải tại tản nhiệt hay không ?
-Chỉ còn có mỗi 1 khả năng, đó là con CPU này quá cùi 
+Chỉ còn có mỗi 1 khả năng, đó là con CPU này quá cùi .
 ==========================
 81
-Máy tính
+Ép xung
 Người dùng X58 không ít đâu, tính riêng MSI thôi đã gần 200 rồi còn trong số này những ai có nhu cầu OverClock thì khỏi phải nói.
 200 bác xài X58 của MSI chắc phần đông đảo là mua về xài cho công việc như kế toán, thiết kế kỹ thuật, đồ họa...số bác dùng cho ép xung chắc không lớn, đấy là chưa kể có bác mua về để chơi Picachu 
 ==========================
 82
-Máy tính
-Hiện mình đang dùng main Gigabyte X48-DS5, nguồn thì 700W, giờ muốn kéo con CPU lên chút đỉnh thôi thì phải làm thế nào ?
+Hỏi CPU
+Hiện mình đang dùng mainboard Gigabyte X48-DS5, nguồn thì 700W, giờ muốn kéo con CPU lên chút đỉnh thôi thì phải làm thế nào ?
 Dùng phần mềm của Gigabyte là Smart 6, vào smart boost nhấn 1 phát nó sẽ tự OC lên 3.6Ghz (hệ số nhân 8), vào BIOS đẩy hệ số nhân lên 8.5 nữa là được 3.8 lun, chạy hàng ngày ngon lành, ngoài ra trong Smart Boost có 3 mức ép xung tùy bạn chọn.
 ==========================
 83
-Máy tính
-Khóa PCI thế nào đây bạn, con VGA là quý nhất dàn đó bạn à 
+Ép xung
+Khóa PCI thế nào đây bạn, con card màn hình là quý nhất dàn đó bạn à 
 Ép xung lên 3.6 hay 3.8 không cần khóa PCI đâu bạn
 ==========================
 84
-Quan
-Quan ra lệnh cho xe lu nghiến người kinh khủng quá 
-Vụ này so với vụ Tiên Lãng cũng chả khác nhau mấy
+Chính trị
+Quan ra lệnh cho xe lu nghiến người kinh khủng quá . 
+Vụ này so với vụ Tiên Lãng cũng chả khác nhau mấy .
 ==========================
 85
 Cộng sản
-Cộng sản đấy , thiên đường Xã hội chủ nghĩa đấy
-Đừng mang chuyện cộng sản vào đây, không liên quan đến cộng sản, đừng cứ có gì lại mang cộng sản hay không cộng sản ra, chẳng hay ho gì đâu.
+Cộng sản đấy , thiên đường Xã hội chủ nghĩa đấy .
+Đừng mang chuyện cộng sản vào đây, không liên quan đến cộng sản, đừng cứ có gì lại mang cộng sản hay không cộng sản ra, chẳng hay ho gì đâu .
 ==========================
 86
-Chế độ
-Vấn đề nằm ở con người chứ không phải ở chế độ.
+Chính trị
+Vấn đề nằm ở con người chứ không phải ở chế độ .
 Chế độ gì mà mấy chục năm toàn đẻ ra toàn lũ quái thai dị dạng vậy, nhìn Thái Lan, Singapore, Hàn Quốc, Malaysia, Indonesia không thấy nhục à, tự hào tự tôn dân tộc đâu hết rồi ?
 ==========================
 87
@@ -430,8 +435,8 @@ Thứ nhất: Không ai yêu cầu cái gì tuyệt đối cả, thứ hai: Kinh
 ==========================
 88
 Sony
-Mấy con điện thoại Sony giá mềm mà cấu hình ngon nữa
-Sony thì nhắm mấy dòng Sony Xperia mà chơi thôi 
+Mấy con điện thoại Sony giá mềm mà cấu hình ngon nữa .
+Sony thì nhắm mấy dòng Sony Xperia mà chơi thôi .
 ==========================
 89
 Trung Quốc
@@ -440,8 +445,8 @@ Ghét Trung Quốc thì ghét thật, nghiền 1 dân thế này thì cũng ch�
 ==========================
 90
 Lưu Diệc Phi
-Em Lưu Diệc Phi này ngoài cái khuôn mặt đẹp ra thì mình thấy diễn xuất rất tầm thường, mặt cứ đơ đơ ra.
-Tại nó có bố nuôi làm to đấy.
+Em Lưu Diệc Phi này ngoài cái khuôn mặt đẹp ra thì mình thấy diễn xuất rất tầm thường, mặt cứ đơ đơ ra .
+Tại nó có bố nuôi làm to đấy .
 ==========================
 91
 Cộng sản
@@ -454,22 +459,22 @@ Vụ này thấy có vấn đề: vì sao bọn chính quyền Trung Quốc khô
 Đúng đấy, mặc dù ghét lũ Trung Quốc nhưng vụ này chưa biết thực hư thế nào.
 ==========================
 93
-Máy tính
+Ép xung
 Em là người mới nên ngu cái này lắm nay em muốn lên tầm 3.234(360 x 9) hoặc 3.4(380x9) thì các bác có kinh nghiệm chích con này thôi cho em mức chích của từng lựa chọn với ạ 3.2 thì chích bao nhiêu mà 3.4 thì chích bao nhiêu (vẫn giữ nguyên các thứ kia ), thêm nữa cứ mỗi lần em ép xung RAM đặt múc 3.0 để lên 1000MHZ thì không thể lên toàn tự trả về DF, vậy em nên tăng thời gian lên thành 5-5-5-15 (hoặc DF 6-6-6-18) không để ép xung riêng bus thôi và cần chích điện bao nhiêu vào RAM (RAM em hiện tại đang chích 0.075) và khi chích len 1 thì vẫn không vào được ?
 Tăng FSB lên, nếu không khởi động máy được thì thêm tí điện, tăng đến mức 3.2 hoặc 3.4 thì kiểm tra ổn định bằng Prime, chưa ổn định thì thêm điện tiếp, chú ý giữ nhiệt độ tầm 70 đến 75 lúc tải tối đa là được, còn nếu chưa đến mức mình muốn mà nhiệt độ cao rồi thì nên dừng lại. 
 ==========================
 94
 Hiểu
-Không hiểu người ta nói cái gì rồi
-Từ từ rồi bạn ấy sẽ hiểu 
+Không hiểu người ta nói cái gì rồi .
+Từ từ rồi bạn ấy sẽ hiểu .
 ==========================
 95
 Yêu
 Cho em hỏi cái, yêu mà không hôn thì làm gì nhỉ ?
-Mồm người yêu cũ thối quá không muốn hôn, chỉ làm tình thôi vì chỗ ấy của nó còn thơm hơn mồm của nó.
+Mồm người yêu cũ thối quá không muốn hôn, chỉ làm tình thôi vì chỗ ấy của nó còn thơm hơn mồm của nó .
 ==========================
 96
-Xin
+Đại học
 Làm ơn cho em xin mẫu đơn xin xác nhận sinh viên của trường Cao Đẳng Sư Phạm Trung Ương ở đường Hoàng Quốc Việt cái ạ ? 
 Google đi thôi, chứ trường này lạ quá mình không biết.
 ==========================
@@ -479,27 +484,27 @@ Cũng là người làm trong ngành xuất bản, mình hoàn toàn đồng ý 
 Công nhận là mấy chuyện như YNCHDNEG và SNGSET tình tiết ngày càng ảo riêng YNCHDNEG mình đã bỏ theo dõi từ lâu rồi.
 ==========================
 98
-Bạn gái
+Tình cảm
 Tối hôm qua, nhắn tin với bạn gái và mình cập nhật được tình hình rồi, nhưng giờ mới biết là bạn gái lừa mình trong khi nhắn tin bằng cách đang nhắn tin thì bạn gái bảo là vào phòng rồi không ngồi với hắn nữa, và nhắn tin qua lại hỏi han, về sau mình bảo khi nào đi ngủ thì nhắn tin cho mình để cảm nhận lại cảm giác 1 lần còn yêu thương như ngày xưa, nhưng 1 tí thì thấy bạn gấu nhắn tin, rồi mình trả lời dặn dò chào từ biệt và hi vọng gấu không chọn người kia.
 Bạn nên chấm dứt cái kiểu gợi lại tình cảm yêu thương ngày xưa đi vì bây giờ nó đang thích thằng khác thì cách đấy chỉ làm nó cảm thấy vướng víu thôi, và giờ đến lúc lạnh lùng rồi bạn ạ.
 ==========================
 99
-Nước mắt
-Em đã từng rơi nước mắt từng van xin, giờ nghĩ lại thấy nhục vãi, nó không xứng đáng với những gì em đã hi sinh. 
-Buồn cũng sẽ qua, cố đi ra ngoài nhiều đi, rồi về quê, nói chuyện với bạn bè nhiều lên.
+Tình cảm
+Em đã từng rơi nước mắt từng van xin, giờ nghĩ lại thấy nhục vãi, nó không xứng đáng với những gì em đã hi sinh . 
+Buồn cũng sẽ qua, cố đi ra ngoài nhiều đi, rồi về quê, nói chuyện với bạn bè nhiều lên .
 ==========================
 100
-Con gái
+Tình cảm
 Con gái họ đã yêu là yêu hết mình, còn đã dứt tình thì dù thím có cố bao nhiêu cũng thế thôi, tốt nhất thím nên suy nghĩ kĩ càng, dừng lại khi cả 2 vẫn có thể gặp nhau nói chuyện, giờ thím có thể mang bạn gái về rừng đi chăng nữa, nhưng rồi không ai dám chắc bạn gái lại đi, thậm chí chính bạn làm bạn gái đi tiếp.
 Bạn này nói chuẩn rồi đấy, vì cố níu kéo chưa chắc đã mang lại kết quả đâu, nên cứ để em nó vui với người mới đi và nếu nó còn yêu thì tự khắc nó sẽ quay về thôi. 
 ==========================
 101
-Bạn gái
+Tình cảm
 Bạn nên dũng cảm vượt qua sự thật là bạn gái bạn không còn yêu bạn nữa, cũng không nên níu kéo làm gì, đau khổ cũng không giúp ích gì đâu, hãy lạc quan mà tiếp tục sống.
 Đúng đấy, làm thằng đàn ông phải dứt khoát.
 ==========================
 102
-Đàn ông
+Tình cảm
 Để lại nỗi đau cho người khác chẳng làm mình vui lên, cũng chẳng chứng minh được điều gì cả chỉ là khiến mình khốn nạn hơn thôi.
 Đàn ông khi quá yêu thường yếu đuối và lụy tình, sống bằng tình cảm chứ không phải lý trí, chính vì sống bằng tình cảm nên hay suy nghĩ, đừng thay đổi tính cách vì tình yêu bởi nó chẳng thể thay đổi được, có chăng chỉ là trong giây lát, cái cần là làm như thế nào cho hòa hợp, còn tính cách bản thân thì không được phép thay đổi.
 ==========================
@@ -519,127 +524,127 @@ Chán quá riết công an thành lũ bảo an thời nguy rồi không bít ai 
 Đừng vơ đũa cả nắm đấy chứ.
 ==========================
 106
-Tư vấn
-Em mê nhạc Bằng Kiều như Phút cuối hay Bản tình cuối và các thể loại nhạc trữ tình, nhạc vàng, còn lúc vui cũng thỉnh thoảng Non stop nhưng ưu tiên nhạc Bằng Kiều và nhạc vàng, mong bác giúp tư vấn một em tai nghe giá tầm trên dưới 300 ngàn và là tai nghe trong tai nhé các bác.
+Tư vấn tai nghe
+Em mê nhạc Bằng Kiều như Phút cuối hay Bản tình cuối và các thể loại nhạc trữ tình, nhạc vàng, còn lúc vui cũng thỉnh thoảng Non stop nhưng ưu tiên nhạc Bằng Kiều và nhạc vàng, mong bác giúp tư vấn một em tai nghe giá tầm trên dưới 300 ngàn và là tai nghe trong tai nhé các bác ?
 Tầm này làm em Sennheiser MX170 hay Sony E828 cũng tạm ổn đấy.
 ==========================
 107
-Tư vấn
+Tư vấn tai nghe
 Em đang dùng Ipod Touch 4 và Xcape IE và SL42 với Sony MDR E888, bây giờ muốn kiếm thêm cái tai nghe cỡ lớn để nghe ở nhà, nguồn phát như trên hoặc là laptop, yêu cầu là nghe được cả rock và nhạc vàng, ngân quỹ cho phép trong vòng 3 tới 4 triệu, dự định là mua Sennheiser 558 vì sẵn hàng và bảo hành chính hãng, mong bác tư vấn. 
 HD558 thì chắc phải chờ bác khác tư vấn, trong giá đó và thể loại nhạc đó mình đề cử con HD595 (vì mình nghe rồi) cũng là Sennheiser bác nhé.
 ==========================
 108
-Tư vấn
+Tư vấn tai nghe
 Mình đang phân vân giữa Sony XB300 và Superlux 681, nên xin hỏi 2 con này con nào nghe mấy thể loại nhẹ nhàng bay bổng khá hơn, mình không nghe rock nhiều. 
 Theo mình là Superlux bạn nhé, và không cần thêm amp, có cũng được không có cũng không sao, và tốt nhất là bạn nên mua 1 chú DAC để âm thanh tốt hơn.
 ==========================
 109
-Tư vấn
+Tư vấn tai nghe
 Em là lính mới tập tành, nhờ bác tư vấn một em tai nghe nhét tai, trong khoảng 1 triệu 3 trăm ngàn, và em nghe khá tạp, nhưng chủ yếu là Pop, Vocal, R&B, Classic và Alternative, nhưng chưa đến mức Rock đúng nghĩa nên mong tìm được một em bass vừa nghe và treble tốt.
 Pop, vocal, bass vừa mid, treble tốt thì còn chạy đâu ngoài MX880 nữa. 
 ==========================
 110
-Tư vấn
+Tư vấn tai nghe
 Bác giúp em với, đang lăn tăn Xcape IE, Xcited, CX 300 II, 400II.
 Giữa Xcape IE và CX300 thì khuyên bác nên lấy CX300.
 ==========================
 111
-Tư vấn
+Tư vấn tai nghe
 Em muốn nhờ bác tư vấn con Clip Zip nghe Pop, Newage, Intrusmental, Acoustic thì nên chọn tai nghe nào trong tầm từ 700 ngàn trở lại ạ?
 Mình nghĩ là Meelec M6 nhé, thể loại bạn thì cần 1 em âm trường khá, tiếng mộc chút, treble chi tiết và có bass ngon.
 ==========================
 112
-Tư vấn
+Hỏi tai nghe
 Tai nghe ear-bud có ưu, nhược điểm gì ?
 ear-bud thích hợp mang trong nhà, cũng linh động trong việc di chuyển, ưu điểm thường là sẽ nghe thoáng, đeo dễ chịu, thoải mái. nhưng nhược điểm là cách âm không tốt, bass có thể yếu hơn các loại khác.
 ==========================
 113
-Tư vấn
+Hỏi tai nghe
 Tai nghe in-ear có ưu, nhược điểm gì ?
 in-ear phù hợp nếu có di chuyển nhiều, đi đường, nghe trong môi trường ồn ào, ưu điểm cách âm rất tốt nên thường bass cũng chắc khỏe, tiếng chi tiết hơn ear-bud, nhưng cách đeo in-ear thì với 1 số người sẽ không quen có thể cảm thấy bức bí, khó chịu 1 chút
 ==========================
 114
-Tư vấn
+Hỏi tai nghe
 Tai nghe fullsize có ưu, nhược điểm gì ?
 Tai nghe fullsize thì về mặt chất âm sẽ có nhiều ưu thế nhất, về việc tái tạo bass, treble, âm trường, âm hình, còn khả năng mở rộng, phối ghép cũng cao và lằng nhằng hơn nên sẽ là lựa chọn tốt nếu bạn xác định ngồi 1 chỗ và có đòi hỏi cao về chất âm, còn nhược điểm như bạn đã thấy khá bất tiện khi di chuyển.
 ==========================
 115
-Tư vấn
+Tư vấn tai nghe
 Nếu em hay xem phim trên laptop và dùng ở nhà thì dùng loại tai nghe nào hợp lý ? 
 Tai nghe Portable là sự kết hợp ưu nhược điểm của tất cả các loại tai nghe, Portable thường gấp lại được nên cũng thuận tiện di chuyển hơn fullsize cho nên nếu bạn phải lựa chọn tai nghe để nghe với laptop và dùng ở nhà thì đây là lựa chọn hợp lý nhất.
 ==========================
 116
-Tư vấn
+Tư vấn tai nghe
 Mục đích xem phim thì nên chọn tai nghe có âm bass khỏe đúng không ạ, nếu để nghe tiếng anh thì thiên về mid đúng không ạ, ngoài tiêu chí về âm ( bass, mid, treb ) thì còn tiêu chí nào để lựa chọn nếu muốn xem phim ? 
 Mình nghĩ xem phim cần thêm âm trường tốt và tiếng chi tiết 1 chút để thể hiện được các hiệu ứng và không gian như xem rạp, còn vụ tiếng anh thì chịu. 
 ==========================
 117
-Tư vấn
+Hỏi tai nghe
 Em thấy đa phần các tai ear-bud có cái dở là đeo 2 tai không khít nên tai thì vừa, tai lại bị lỏng do 2 tai không bằng nhau, hay là tại tai em bị dị dạng ?
 Vậy là bình thường thôi, nói là tai bị dị dạng là không chính xác đâu.
 ==========================
 118
-Tư vấn
-Bác tư vấn cho em cái , nên mua tai nghe HD800 hay là HD700 ?
+Tư vấn tai nghe
+Bác tư vấn cho em cái, nên mua tai nghe HD800 hay là HD700 ?
 Càng đắt càng thể hiện đẳng cấp bạn ạ.
 ==========================
 119
-Tư vấn
-Em đang dùng tai nghe Touch 4 + Xcape IE và SL42 với Sony MDR E888, bây giờ muốn kiếm thêm cái fullsize để nghe ở nhà, nguồn phát như trên với laptop, yêu cầu là nghe được cả rock và nhạc vàng, ngân quỹ cho phép trong vòng 3 tới 4 triệu, dự định là mua Sennheiser 558 vì sẵn hàng và bảo hành chính hãng, mong bác tư vấn cho ạ.
+Tư vấn tai nghe
+Em đang dùng tai nghe Touch 4 và Xcape IE và SL42 với Sony MDR E888, bây giờ muốn kiếm thêm cái fullsize để nghe ở nhà, nguồn phát như trên với laptop, yêu cầu là nghe được cả rock và nhạc vàng, ngân quỹ cho phép trong vòng 3 tới 4 triệu, dự định là mua Sennheiser 558 vì sẵn hàng và bảo hành chính hãng, mong bác tư vấn cho ạ.
 Mình thấy dòng Audiophile của Sennheiser nói chung là không hợp với SL lắm.
 ==========================
 120
-Tư vấn
+Hỏi tai nghe
 Em vốn rất mê nhạc vàng, đặc biệt là Quang Lê nhưng không biết sử dụng Walkman hay iPod hợp với dòng nhạc này ?
 Dẹp mấy con đó đi chơi SL45 nhé.
 ==========================
 121
-Tư vấn
+Hỏi tai nghe
 Cho mình hỏi mấy bác đeo in-ear khi lái xe ngoài đường có bị hiện tượng nghe tiếng gió thổi vù vù vào tai không, và có cách nào khắc phục không ? 
 Chắc là do đeo không vừa thôi.
 ==========================
 122
-Tư vấn
+Tư vấn tai nghe
 Các bác tư vấn cho em in-ear trong tầm 1 triệu nghe với Iphone 4 cả clip với, mà thích nhiều bass, ấm. còn nhạc thì Rock, Pop, Ballad, R&B, ưu tiên mấy em có microphone.
 Mình nghĩ bạn chọn con MX500 được đấy. 
 ==========================
 123
-Tư vấn
+Hỏi tai nghe
 Cho em hỏi làm thế nào để nâng bass con HD201 lên, công nhận là con này bass hơi yếu.
 Kiếm DAC thôi, không mong chờ vào bass của mấy con Senn đâu.
 ==========================
 124
-Tư vấn
+Tư vấn tai nghe
 Theo bác thì HD201 đi với E5 hay E6 thì ổn ? 
 Thật ra em cũng chưa dùng DAC bao giờ nhưng thấy mấy bác khác bảo mấy con này hầu như chả khác nhau tí nào đâu, nếu để kéo âm lượng thì E6 tốt hơn, cơ mà HD201 em thấy cũng không cần DAC đâu 
 ==========================
 125
-Tư vấn
+Đại học
 Em muốn tham khảo tí, học đại học thì ôn bài 1 ngày bao nhiêu tiếng đồng hồ là tốt ạ ?
 Khoảng 6 tiếng học đại học, về nhà làm bài tập của đại học từ 2 tới 3 tiếng nữa.
 ==========================
 126
-Tư vấn
+Đại học
 Học để thi đại học thì làm bài tập tự giải hay vừa tham khảo đáp án đây ?
 Tất nhiên là tự giải, lúc đầu chưa quen thì không giới hạn thời gian, sau khi học hết chương trình và có vốn kha khá rồi thì giảm dần, làm xong so đáp án, xem lại cả câu đúng lẫn sai, tập luyện dần dần rồi sẽ thành kỹ năng thôi.
 ==========================
 127
-Tư vấn
-Cấu hình của mình hiện tại: Nguồn Acbel I430, Mainboard GIGA EP45T-UD3LR, CPU E5300@3.64, RAM 2x2G DDR3, VGA GTX460 1GB, bây giờ game con CPU của mình đuối quá rồi, mình đang có tầm 1 triệu 7 giờ muốn nâng CPU lên mà đang phân vân nên chọn Q8400 hay Q9400 hoặc bán Mainboard đổi sang H61 hoặc G860, bác cho mình ý kiến với ạ.
-Đổi sang B75A G43 với G2010 nhé bác, B75A G43 sau này bác lên hẳn i5 nếu có điều kiện.
+Tư vấn máy tính
+Cấu hình của mình hiện tại: Nguồn Acbel I430, Mainboard GIGA EP45T-UD3LR, CPU E5300@3.64, RAM 2x2G DDR3, card màn hình GTX460 1GB, bây giờ game con CPU của mình đuối quá rồi, mình đang có tầm 1 triệu 7 giờ muốn nâng CPU lên mà đang phân vân nên chọn Q8400 hay Q9400 hoặc bán Mainboard đổi sang H61 hoặc G860, bác cho mình ý kiến với ạ.
+Đổi sang B75A G43 với G2010 nhé bác, B75A G43 sau này bác lên hẳn i5 nếu có điều kiện .
 ==========================
 128
-Tư vấn
-Tình hình kinh tế khó khăn nên em các bác tư vấn giùm em cái CPU cũ khoản 5 triệu có card đồ họa , chủ yếu chơi game và sử dụng Photoshop thôi.
+Tư vấn CPU
+Tình hình kinh tế khó khăn nên em các bác tư vấn giùm em cái CPU cũ khoản 5 triệu có card đồ họa, chủ yếu chơi game và sử dụng Photoshop thôi.
 Tầm đó thêm khoảng 500 ngàn cũng được dàn H61 với Celeron Gxxx và 5570 rồi.
 ==========================
 129
-Tư vấn
+Tư vấn tai nghe
 Tình hình em đang định kiếm em tai nghe Sennheiser IE8i, cho mình ý kiến với nhé.
 Con đó âm thanh nghe không tốt đâu, tầm đó dư sức sắm NU700X hoặc 400ii của Sennheiser rồi.
 ==========================
 130
-Tư vấn
+Tư vấn laptop
 Em muốn mua 1 con laptop XPS 15 bên vietcali nhưng khi tìm kiếm thông tin thì thấy nhiều thông tin gây hoang mang, vậy nên em xin phép hỏi là khi mua máy ở TP.HCM thì chỗ nào thì uy tín ạ ?
 Ở Sài Gòn thì laptophoangchi, vietcali, saigonlab, laptopno1, laptopcali, thienthientan...
 ==========================
@@ -650,8 +655,8 @@ Phải cái bà bị ghi âm cuộc nói chuyện điện thoại không ?
 ==========================
 132
 Laptop
-Từ khi biết Thinkpad bị bán cho Trung Quốc thì mình không cảm thấy thích nữa.
-Bạn không nên chỉ thích nhìn cái mác như thế.
+Từ khi biết Thinkpad bị bán cho Trung Quốc thì mình không cảm thấy thích nữa .
+Bạn không nên chỉ thích nhìn cái mác như thế .
 ==========================
 133
 Hóa học
@@ -669,9 +674,9 @@ Em gái mình có rất nhiều triển vọng, con bé có thể chơi cả đ�
 Vậy à, cô bé chắc là có khiếu cảm thụ âm nhạc tốt lắm.
 ==========================
 136
-Game
-Trong Modern Warfare 1 có thằng tên John thì phải, ăn trái bom nguyên tử ấy, lúc ấy tưởng tượng ra giật cả mình.
-Thằng đó là Paul Jackson, ban đầu thấy em nó lò mò ra khỏi trực thăng tưởng sẽ chết đi sống lại như Soap chứ.
+Trò chơi điện tử
+Trong Modern Warfare 1 có thằng tên John thì phải, ăn trái bom nguyên tử ấy, lúc ấy tưởng tượng ra giật cả mình .
+Thằng đó là Paul Jackson, ban đầu thấy em nó lò mò ra khỏi trực thăng tưởng sẽ chết đi sống lại như Soap chứ .
 ==========================
 137
 Kênh 14
@@ -679,22 +684,22 @@ Nói tới kênh 14 là biết toàn những tin ba láp cho hội tuổi teen �
 Lên đó chả buồn đọc, xem hình thôi.
 ==========================
 138
-Game online
-Một thời là mình nghiền game online lắm, khi chơi game quen được cả gái nữa nhưng từ sau đợt hack là nghỉ luôn 
-Cứ tưởng bác quen được gái rùi theo gái bỏ game chứ 
+Trò chơi trực tuyến
+Một thời là mình nghiền game online lắm, khi chơi game quen được cả gái nữa nhưng từ sau đợt hack là nghỉ luôn .
+Cứ tưởng bác quen được gái rùi theo gái bỏ game chứ .
 ==========================
 139
-Tư vấn
+Pháp luật
 Mình mới chia tay bạn gái được gần 1 tháng thì mê con nhỏ mới học lớp 8 và chuyện gì đến cũng đã đến, bây giờ nhà nó kiện thì em có đi tù không ?
-Đi tù khoảng từ 12 tới 20 năm nhé bạn.
+Đi tù khoảng từ 12 tới 20 năm nhé bạn .
 ==========================
 140
-Laptop
+Mua bán
 Hôm trước có người bán con Vaio Z I7-SSD 512 GB giá 13 triệu mà mình không kịp mua, thiệt là tức quá đi. 
 Nếu vậy thì bạn phải tự trách bản thân mình thôi. 
 ==========================
 141
-Máy tính
+CPU
 Nếu muốn mua CPU I5 thì vài năm nữa chắc giá cũng không xuống lắm đâu, với I7 thì tốt hơn.
 i7 nghe bảo tốn pin nên thôi, i5 cho hợp thời bạn à.
 ==========================
@@ -729,12 +734,12 @@ Trò chơi điện tử
 Đúng, bởi vì bật V-sync có khả năng khung hình sẽ bị giảm nữa đấy.
 ==========================
 148
-Máy tính
+Hỏi laptop
 Giúp em với, không hiểu sao laptop của em bị giảm độ sáng khi nhấn Alt với Tab để ra ngoài. 
 Cài lại Windows đi em ơi.
 ==========================
 149
-Tư vấn
+Tư vấn laptop
 Nhờ bác tư vấn cho 1 em laptop, nhu cầu chủ yếu là game và thi thoảng là đồ họa, cho nữ dùng nên nhẹ nhẹ thôi.
 Theo mình thấy thì Asus N56VZ hợp lý nhất cho bác đấy.
 ==========================
@@ -749,12 +754,12 @@ Tết
 Ở các thành phố lớn thì ngày Tết vắng hoe là đúng thôi, dân tứ xứ đổ về quê ăn Tết mà.
 ==========================
 152
-Tư vấn
+Đặt tên
 Mình sắp có con, lại mê bóng đá, không biết nên đặt tên con thế nào cho hay ?
 Đặt tên là cái gì đó FC đi, ví dụ như Đầu Đất FC hay Não Phẳng FC hay Rồng FC đi.
 ==========================
 153
-Tư vấn
+Anh văn
 Chỉ mình với, học Anh văn đang tính mua chọn bộ sách nào đó kèm dĩa CD về luyện, mà không biết nên mua ở chỗ nào ? 
 Ra mấy tiệm sách cũ mua, đĩa thì lên mạng mà kiếm.
 ==========================
@@ -764,12 +769,12 @@ Mấy năm trước có thằng phát ngôn vụ IQ cao cần có đường sắ
 Dân chúng bầu lên chứ ai nữa.
 ==========================
 155
-Tư vấn
+Tư vấn quạt
 Máy em Mainboard Asus P5QL pro, CPU E8500 ép xung lên 4Ghz, khi chạy Idle thì nhiệt độ ngon nhưng tải tối đa thì lên đến 72-74 độ nên bác tư vấn em còn quạt nào ngon nhẹ chạy không ồn nhiều với.
 Muốn không ồn thì chọn Z600 nhé.
 ==========================
 156
-Âm nhạc
+AKB48
 Nói thật nhạc cái nhóm AKB48 còn không bằng Kpop mặc dù mình không bao giờ nghe Kpop. 
 Nhầm rồi đấy, Kpop khả năng kém nhóm này nhiều lắm.
 ==========================
@@ -789,17 +794,17 @@ Cây này đắt vì mê tín chứ chả phải giá trị thẩm mỹ, ngườ
 Người ta nhiều tiền, thấy cái gì có ích thì họ mua thôi, có gì là phí tiền, 100 triệu của họ cũng giống 100 ngàn của mình thôi.
 ==========================
 160
-Tư vấn
+Tư vấn điện thoại
 Chả là trong túi đang có hơn 4 triệu tiền tết xài chưa hết, cho em hỏi là có nên mua Lumia 520 không ạ ?
 Thích thì mua thôi, con này chất lượng tốt trong tầm giá.
 ==========================
 161
-Tư vấn
+Hỏi điện thoại
 Do xài Android lâu rồi nên giờ em muốn chuyển qua Windows Phone, có nên mua không bác ? 
 Mua đi bác.
 ==========================
 162
-Tư vấn
+Máy tính bảng
 Tình hình là em mún tậu một cái máy tính bảng có thể nghe gọi như điện thoại ấy, bác chỉ em vài loại nào dùng tốt mà rẻ được không ạ ?
 Dùng Samsung Tab 7.0 mới ra đấy, có 3G, SIM mà giá chỉ 7.4 triệu tính ra rẻ hơn cả Google Nexus.
 ==========================
@@ -809,17 +814,17 @@ Hôm qua đến giờ tâm trạng cứ bồn chồn lo lắng khi nghe tin th�
 Chia bùn cùng bác, mong em bác sớm tai qua nạn khỏi. 
 ==========================
 164
-Tư vấn
+Nước uống
 Tình hình ngại đun nước quá, định mua cái bình 20l về uống cho đỡ mất công, nhưng thấy bảo nhiều hãng làm bẩn quá nên muốn hỏi nên chọn hãng nào cho tốt nhỉ ? 
 Lavie nhé, giá hơi đắt một tí, khoảng 50 ngàn 1 bình.
 ==========================
 165
-Điện thoại
+Hỏi điện thoại
 Điện thoại Sony Arc S xài có tốt không nhỉ ?
 Kiểu dáng thì đi đâu mà rút máy ra thì chưa bao giờ hết tự hào về nó, nhưng hết pin nhanh khi chơi game và nóng, ngoài ra nghe nhạc và chụp hình thì không có gì để chê cả.
 ==========================
 166
-Điện thoại
+Hỏi điện thoại
 Điện thoại Sony Xperia P so với Sony Arc S thì như thế nào ?
 Dòng P ngon hơn hẳn bác ạ, giao diện thích hơn, màn hình cũng đẹp hơn, chụp ảnh thua 1 tí thôi, kiểu dáng Arc bóng bẩy hơn nhưng nhanh bong mạ lắm. 
 ==========================
@@ -829,7 +834,7 @@ Mua hàng điện tử mà mua hàng từ xa em thấy không hay lắm bác ơi
 Đúng đấy, nên khi mua hàng từ xa phải biết kiểm tra máy đồng thời phải kiếm nơi nào uy tín để mua.
 ==========================
 168
-Tư vấn
+Tư vấn điện thoại
 Điện thoại Sony Xperia P so với Sony Arc S thì nên mua cái nào ?
 Mua con P chắc chắn là tốt hơn bạn ơi. 
 ==========================
@@ -909,17 +914,17 @@ Mùa Tết năm nay chán thật, chả có người dẫn đi chơi, buồn qu�
 Có rất nhiều người không được đón tết cùng gia đình, chú được vậy là mừng rồi.
 ==========================
 184
-Điện thoại
+Hỏi điện thoại
 Cho hỏi cách vào mạng 3G bằng galaxy s ạ ?
 Vào mạng 3G như sau : đăng kí 3G với nhà cung cấp dịch vụ đi động bạn đang sử dụng, rồi vào Settings/Wireless Network/Mobile Network/Access Point Name, nếu chưa có thì Menu/New APN rồi điền thông số APN của nhà cung cấp dịch vụ di động bạn đang sử dụng, sau khi điền xong thì Menu/Save, quay trở ra sẽ thấy một cái APN mới, đánh vào cái ô bên phải là được.
 ==========================
 185
-Tư vấn
+Hỏi điện thoại
 Nâng cấp firmware của Galaxy S thế nào ạ ?
 Sử dụng phần mềm Odin để nâng cấp qua máy tính, theo mình thấy thì cách này sử dụng nguy hiểm nhưng khi về sau sẽ lợi hơn.
 ==========================
 186
-Tư vấn
+Hỏi điện thoại
 Cho hỏi cách kiểm tra thông tin máy Galaxy S ạ ?
 Cách kiểm tra máy: Settings/About phone
 ==========================
@@ -929,57 +934,57 @@ Công nhận mấy dòng Galaxy S âm lượng nhỏ quá, toàn phải mở l�
 Sử dụng Voodoo Sound và tăng âm lượng analog volume lên có khi là vỡ tai luôn ấy chứ.
 ==========================
 188
-Tư vấn
+Tư vấn điện thoại 
 Con Galaxy SL i9003 4G thấy hoanghamobile bán có 7.7 triệu sao rẻ thế, bác tư vấn giúp với.
 Bản SL là bản rút gọn của GS1, màn hình Clear LCD chứ không phải Super Amoled, bộ nhớ trong 4GB chứ không phải 16GB, thêm CPU và GPU yếu hơn nữa.
 ==========================
 189
-Tư vấn
+Máy tính bảng
 Mình cần tư vấn 1 cái máy tính bảng có thể kết nối trực tiếp với DSLR của Canon (DSLR dùng cổng mini USB) để sync và xem trực tiếp trên máy tính bảng không cần thông qua máy tính.
 Dùng Ipad đi bác, hình như Ipad có bộ Camera Connection Kit đó bác 
 ==========================
 190
-Điện thoại
+Samsung Galaxy S2
 Chip âm thanh của Samsung Galaxy S2 hình như là của Yamaha chứ không phải Wolfson ?
 Tùy thuộc vào batch, có thể Yamaha hoặc Wolfson.
 ==========================
 191
-Điện thoại
+Tư vấn điện thoại 
 Mình đang phân vân giữa Galaxy S và Desire S, theo bạn thì nên chọn cái nào ?
 Galaxy S nhé bác.
 ==========================
 192
-Điện thoại
+Tư vấn điện thoại 
 Nghe nhạc thì mấy cái điện thoại Galaxy của Samsung với Iphone 4, cái nào hay hơn ?
-Chip sound trên con Galaxy S thuộc loại tốt nhất hiện nay rồi, kể cả Galaxy S2 thì vẫn là con chip này thôi, có điều nghe hay hay không phần lớn là phụ thuộc vào tai nghe cũng như sự tinh chỉnh của mỗi người.
+Chip âm thanh trên con Galaxy S thuộc loại tốt nhất hiện nay rồi, kể cả Galaxy S2 thì vẫn là con chip này thôi, có điều nghe hay hay không phần lớn là phụ thuộc vào tai nghe cũng như sự tinh chỉnh của mỗi người.
 ==========================
 193
-Điện thoại
+Hỏi điện thoại
 Cho em hỏi khi mình đang vọc để điện thoại Samsung Galaxy S kết nối với máy tính mà lỡ cáp nó mất tín hiệu giữa chừng thì con điện thoại có bị gì không ạ ?
 Galaxy S tuyệt đối an toàn nhé.
 ==========================
 194
-Tư vấn
+Trưởng thành
 Mong bác tư vấn cho em biết làm sao để mọi người thay đổi lại cách nghĩ về em, làm sao để chứng tỏ rằng em đã trưởng thành trong mắt người khác?
 Trưởng thành hay không là từ các hành động của bạn đó, hãy thể hiện là mình đã biết suy nghĩ chín chăn, đồng thời biết suy nghĩ kĩ trước khi làm.
 ==========================
 195
-Laptop
+Elitebook
 Dòng Elitebook mới tự nhiên cho bàn phím kiểu chicklet vào, nhìn chán hẳn.
 Bàn phím thì đó là vấn đề về thẩm mỹ, lúc chưa có thì nhiều bác thắc mắc, thôi kệ mỗi người mỗi vẻ mà bác.
 ==========================
 196
-Laptop
+Hỏi laptop
 Thế Elitebook em nâng cấp driver bằng gì vậy ?
 HP Support Assistant đấy.
 ==========================
 197
-Laptop
+Hỏi laptop
 Sao máy laptop của mình tự nhiên không sử dụng được phím FN để điều chỉnh độ sáng màn hình, điều chỉnh âm lượng bằng các nút cảm ứng cũng không thấy thanh biểu hiện mức độ âm lượng xuất hiện trên màn hình nữa, giúp mình với.
 Cài lại driver rồi nhớ khởi động lại khi nó yêu cầu mới dùng được.
 ==========================
 198
-Laptop
+Hỏi laptop
 Em mới múc con 8540w mà gà quá, chẳng biết làm gì cả, các bác chỉ em cách tiết kiệm pin với, giảm độ sáng màn hình sao hả các bác, sao em bấm F9 mà không giảm độ sáng được ạ ?
 Nhấn tổ hợp phím FN + F9 là được.
 ==========================
@@ -989,52 +994,52 @@ Mình học kiến trúc năm 3 cũng là khóa đầu của Đại học dân l
 Ồ vậy à, Hải Phòng cũng có khoa Kiến trúc rồi à ?
 ==========================
 200
-Laptop
+Hỏi laptop
 Sao máy Elitebook của mình tự nhiên không sử dụng được phím FN để điều chỉnh độ sáng màn hình, điều chỉnh âm lượng bằng các nút cảm ứng cũng không thấy thanh biểu hiện mức độ âm lượng xuất hiện trên màn hình nữa ?
 Cái này bác cài chương trình Quicklaunch Tutton vào nhé, nhớ đừng tắt nó đi khi khởi dộng là được.
 ==========================
 201
-Tư vấn
+Tư vấn laptop
 Cho mình hỏi là có tầm 16 triệu muốn mua laptop 8440P có lỗi thời không nhỉ, mình đang cân nhắc con có màn hình tỉ lệ 1600x900, không biết màn hình này so với màn hình của Macbook Pro thế nào nhỉ?
 Bạn mua laptop 8460P đi bạn, giá khoảng từ 16,5 triệu đến 18 triệu thôi, con 8440P màn hình hơi nhợt, và góc nhìn hẹp lắm.
 ==========================
 202
-Laptop
+Hỏi laptop
 Về việc tự động điều chỉnh ánh sáng màn hình khi sử dụng pin của con laptop 8460P, bác có biết để nó không tự động điều chỉnh áng sáng khi dùng pin nữa thì phải làm thế nào không ?
 Bác vào BIOS bỏ chọn dòng Ambient Light Sensor đi là được.
 ==========================
 203
-Laptop
+Hỏi laptop
 So với màn hình của máy Macbook thì màn hình của laptop 8460P thế nào bạn nhỉ ?
 Con laptop 8460P góc nhìn hẹp lắm, nó là dòng doanh nhân mà, yêu cầu bảo mật nên nhìn nghiêng là mờ tịt, không nhìn thấy gì đâu, đã chơi con này là chấp nhận thôi.
 ==========================
 204
-Laptop
+Hỏi laptop
 Cho em hỏi con laptop Elitebook của em sau khi bảo hành màn hình xong thì bán lại cho người ta tầm bao nhiêu được nhỉ, em đang cần một con laptop nhẹ nhẹ để vác đi vác lại đỡ tốn sức. 
 Chắc khoảng từ 16 tới 17 triệu. 
 ==========================
 205
-Tư vấn
+Tư vấn laptop
 Mình muốn nhờ tư vấn giúp 1 em máy laptop tầm 20 triệu cho nữ dùng, yêu cầu không nhiều, chỉ cần bền, đẹp, nhẹ, mục đích sử dụng cho lướt web, xem phim và một số thao tác văn phòng đơn giản.
 Nữ thì dùng Zenbook UX32A nhé, kiểu dáng đẹp, mỏng nhẹ, pin khỏe, vỏ nhôm nguyên khối, giá con này tầm dưới 20 triệu.
 ==========================
 206
-Tư vấn
+Tư vấn laptop
 Tình hình là em định mua con laptop Dell Vostro 3560, sau nhiều thời gian tham khảo giá thì em thấy ở Hà nội tại Ben và BKC là giá mềm hơn cả, nhưng em có phần nghiêng về Ben vì thấy BkC cũng nhiều tai tiếng quá, không biết mua lap ở ben có mua phải hàng hư trả lại không ạ ?
 Nếu mua ở siêu thị lớn thì yên tâm bạn ạ, nếu bạn thích rẻ thì có thể mua hàng xách tay mà cung đảm bảo chất lượng, giá lại rẻ hơn từ 2 đến 3 triệu.
 ==========================
 207
-Tư vấn
+Tư vấn laptop
 Tình hình là em định mua con laptop nhưng chưa biết mua laptop gì, có tầm tiền là 11 tới 12 triệu, mục đích sử dụng là có thể dùng cho các ứng dụng văn phòng xem phim và lập trình, em đang học năm 4 rồi xác định mua máy để sau này đi làm luôn bác tư vấn máy nào bền bền 1 chút ạ ?
 Để sử dụng lâu dài bạn nên mua dòng Dell latitude ấy, dòng này nổi tiếng rất bền đó.
 ==========================
 208
-Tư vấn
+Tư vấn điện thoại
 Xin tư vấn cho em xem với 14 triệu thì nên mua Iphone 4S hay Samsung Galaxy S3, em đang là sinh viên và khá đắn đo về vấn đề này.
 Mình nghĩ bạn nên mua Iphone 4S, vì ngoại hình của nó đẹp mà ứng dụng cũng không thua kém Samsung Galaxy S3 là mấy.
 ==========================
 209
-Tư vấn
+Thức ăn nhanh
 Ở Hà Nội thì ăn thức ăn nhanh ở đâu là ngon nhất ạ ?
 Nếu ở Hà Nội thì mấy quán BBQ ngon nhất, Lotteria dở nhất, còn KFC thì tàm tạm.
 ==========================
@@ -1059,7 +1064,7 @@ Muốn biết số lần khởi động ổ cứng thế nào cho tốt thì ph�
 Muốn kiểm tra số lần khởi động ổ cứng chuẩn nhất là nhờ các bác bán hàng, khi khách mua hàng mới ngay tại cửa hàng thì các bác dùng các phần mềm kiểm tra thử xem 1 con ổ cứng mới nguyên nhãn nó khởi động bao nhiêu lần rồi.
 ==========================
 214
-Laptop
+Hỏi laptop
 Cho em hỏi em xài laptop 8540w để render vray mà nó chỉ dùng có 2 nhân thôi, làm sao chỉnh nó lên 4 hoặc 6 nhân đây, lúc trước nó 6 nhân sao bây giờ còn có 2 nhân thôi.
 Khi render 3DSMax mà chỉ dùng có 2 nhân thì đúng là có vấn đề thật.
 ==========================
@@ -1069,17 +1074,17 @@ Mính đang mơ mộng em laptop 8760W và M4600.
 M4600 không so với 8760W đựoc đâu bạn, vì con Dell là màn hình 15 inch mà đi so với con kia có màn hình 17 inch thế nào đuợc. 
 ==========================
 216	
-Laptop
+Hỏi laptop
 Tình hình là mới được nhờ nâng cấp BIOS cho 1 em laptop HP Elitebook 8440P, BIOS này phiên bản là 68CCU Ver. F.0B, mình đã tải toàn bộ các bản BIOS mới hơn sau đó chạy thử để nâng cấp không được, xin chỉ giùm mình cách khắc phục với, cảm ơn rất nhiều. 
 Nói thật với bác là mấy cái máy Elitebook mình dùng rồi nâng cấp BIOS bằng HP Support Asistant không mà chẳng bị lỗi nào cả nên cũng chả biết khắc phục cho bác kiểu gì, chắc bác cứ dùng chương trình đó là được. 
 ==========================
 217
-Laptop
+Hỏi laptop
 Máy laptop mua chưa được 6 tháng mà tự nhiên đêm nay, khuya thanh vắng, nghe nó chạy mà kêu lọc cọc mới khiếp chứ, bác có kinh nghiệm vụ này chẩn bệnh giùm em cái ạ. 
 Chắc là vấn đề với tản nhiệt, cách tốt nhất là đi mua máy mới bác ạ.
 ==========================
 218
-Laptop
+Hỏi laptop
 Đang dùng laptop thì nghe tiếng động to phát ra từ ổ cứng, chả nhẽ ổ cứng Hitachi hư nhanh thế, nâng như nâng trứng hứng như hứng hoa cơ mà ? 
 Các dòng ổ cứng nó có tiếng kêu đặc trưng khi đọc dữ liệu đấy, ổ Hitachi thì lạch cạch, ổ Seagate thì lục cục, còn ổ WD thì kêu rin rít.
 ==========================
@@ -1089,7 +1094,7 @@ Các bác mua máy về hay lăn tăn vấn đề nhiệt độ nhỉ, cứ xài
 Ừ em thấy cũng đúng đó, như em đến cty ngồi điều hòa thì không sao nhưng về nhà nhiều khi làm việc nó cứ nóng nóng dưới tay khó chịu lắm, hơn nữa đó cũng là chuyện "của đau con xót" truyền thống nữa, khi chiều em ngồi ở nhà thằng bạn, máy thằng bạn là acer cũng bị nóng nhưng quạt của nó cũng không nóng như máy em, em nghĩ bụng hay là do hiệu năng tản nhiệt của máy mình khủng hơn máy nó nhỉ ?
 ==========================
 220
-Laptop
+Hỏi laptop
 Bác cho em hỏi dòng Elitebook 2011 có chức năng khi đầy pin cắm sạc thì nó tự lấy điện chứ không sạc dồn vào không ? 
 Khi cắm điện thì máy dùng nguồn cục chuyển tiếp điện cung cấp chứ đâu lấy từ pin, máy laptop nào chả vậy. 
 ==========================
@@ -1129,7 +1134,7 @@ Việc làm thêm
 Bán ở đâu thế, ít cũng được miễn là có tiền, nhưng mà vấn đề là nó có cho đăng ký giờ làm như kiểu bên Lotteria không ấy.
 ==========================
 228
-Tư vấn
+Mua bán
 Ít khi mua hàng nên mỗi lần thử ra giá cứ thấy ngại kiểu gì,cùng lắm chỉ nói bớt vài giá, về nhà bị mấy thằng nói là mày bị nó bắt chẹt rồi, thế nên muốn hỏi xem mua hàng mặc cả kiểu gì là tốt nhất ạ ?
 Mặt mũi lạnh lùng, tỏ ra cái chi mình cũng biết, lời thoại hùng hồn, kiên quyết, tuyệt đối không cười khi mua hàng, tiếp đó thì ngã giá theo quan điểm thôi.
 ==========================
@@ -1144,72 +1149,72 @@ Trò chơi điện tử
 Đọc gì chứ Rikimaru tàng hình ở rune chờ tôi ra nhặt mà nó bật Dust thì đấy là do cảm tính à bạn ?
 ==========================
 231
-Laptop
+Hỏi laptop
 Em vừa mua con laptop 8540W xong, nhưng mà cái màn hình Full HD chữ bé quá, nhìn toét cả mắt, nếu giảm độ phân giải thì màn hình bị sai tỉ lệ, làm sao đây ?
 Nếu bạn muốn chữ to ra thì cũng trong màn hình Display, bạn chọn vào mục Set custom text size (dpi) rồi chọn 100, 125, 150 hay 200 tùy ý bạn nhé.
 ==========================
 232
-Laptop
+Bảo hành
 HP thường mỗi lần bảo hành dòng Elitebook này trong vòng bao lâu vậy bác ?
 Tùy tình trạng máy, với mình thì hẹn 4 ngày làm việc, nhưng mới ngày thứ 2 đã gọi đến lấy.  
 ==========================
 233
-Tư vấn
+Tay cầm
 Với hãng Nazar mua tay cầm nào tốt để chơi trò chơi điện tử ?
 Sao không để dành rồi mua hẳn tay cầm Xbox 360 ấy, đẹp hơn mà chơi cũng sướng hơn nữa.
 ==========================
 234
-Laptop
+Hỏi laptop
 Có chỗ nào cho xây dựng 1 con Elitebook 15.6 inch, Core i7, hoặc Core 2 duo với Quadro FX 3700M không nhỉ ?
 Card màn hình khủng đó thì cho dòng máy trạm chuyên nghiệp màn hình 17 inch vác nặng lắm ạ chứ không ai đi lắp cho workstation 15.6 inch đâu.
 ==========================
 235
-Laptop
+Hỏi laptop
 Cho em hỏi, con laptop HP 6930P hàng mới khi đập hộp có những gì, mà nhân tiện cho em hỏi luôn là làm sao để biết con 6930p này chưa bị luộc đồ ?
 Hàng nào nhập về thì phụ kiện cũng gồm có: 1 máy, 1 pin, tập sách vở hướng dẫn, 1 đĩa Windows XP Pro, 1 đĩa Driver cho Windows XP, 1 đĩa Windows Vista Business, 1 đĩa Driver cho Windows Vista Business, ngoài ra, nếu chưa tin tưởng hẳn thì bác xem cái niêm phong thùng và niêm phong seal còn cho yên tâm nhé, nếu không có seal thì phải kiểm tra kỹ ốc vít và xung quanh máy là được, còn có seal thì không có gì để sợ đâu.
 ==========================
 236
-Laptop
+Hỏi laptop
 Máy laptop của em thỉnh thoảng ổ cứng kêu tít tít, làm việc đêm kêu rất rõ , bác có biết tại sao không ạ ?
 Hình như cái này do driver của cái bảo mật vân tay hay chip bảo mật gì đấy, không phải do ổ cứng đâu bác đừng lo, nó không ảnh hưởng đến hoạt động của máy đâu.
 ==========================
 237
-Laptop
+Hỏi laptop
 Cho mình hỏi là mình mới mua 1 con EliteBook 6910p, sau thời gian hơn 1 tháng sử dụng mình thấy máy nói chung ổn, nhưng từ vài hôm nay tự nhiên xảy ra lỗi như sau: thỉnh thoảng máy bị treo cứng luôn, phải khởi động lại cứng mới được, ngoài ra thỉnh thoảng sau khi tắt cứng như vậy, khởi động lại thì máy báo là không có ổ cứng hoặc ổ cứng không vào được hệ điều hành, mong bạn giúp đỡ.
 Lỗi đó có thể do phần mềm hoặc lỗi ổ cứng, trước hết bác thử cài lại Windows trước đã chứ tắt máy cứng hại ổ cứng lắm, lỗi này nhiều khả năng là do lỗi Windows thôi, nếu cài lại mà vẫn không được thì mang đến mình tháo ra lắp vào xem có bị lỏng không, nếu vẫn không được thì mang ra HP người ta thay ổ cứng mới là được bác ạ.
 ==========================
 238
-Laptop
+Dell
 Dell sắp ra con Precision M4500 mới chắc để cạnh tranh với 8540w của HP. 
 Dell ghét cái là không có bảo hành toàn cầu tại Việt Nam nên em chả chơi đâu.
 ==========================
 239
-Laptop
+Hỏi laptop
 Dùng laptop Elitebook bác có bị bóng bàn phím khi chưa đến 1 năm sử dụng không ?
 Tùy gõ ít hay gõ nhiều, bàn phím dòng này em gõ 3 tháng là bóng, bàn phím Dell Latitude và Thinkpad em gõ khoảng tháng rưỡi là bóng nhẫy.
 ==========================
 240
-Laptop
+Hỏi laptop
 Trong cái đĩa driver của HP thì có phần Quickweb, theo mình hiểu là vào web mà không cần khởi động Windows, sao mình mở không lên được ?
 Muốn sử dụng chức năng đó bạn phải khởi động máy bằng phím cảm ứng hình quả địa cầu. 
 ==========================
 241
-Laptop
+Hỏi laptop
 Bạn thấy chất lượng Elitebook bên SV thế nào, liệu có nên mua không, thấy bảo hành có 1 năm ít quá.
 Chất lượng thì yên tâm, quan trọng là giá cả thôi, bác xem ổn thì mua không thì kiếm chỗ khác, dòng này cũng ít lỗi, các dòng khác đều bảo hành 1 năm mà, pin thì bảo hành 1 năm như nhau, tóm lại vấn đề là giá cả thôi, bác cứ so sánh rồi quyết định.
 ==========================
 242
-Laptop
+Hỏi laptop
 Mình đang xài 8730w, không hiểu sao sau khi cài xong Windows 7 64bit Proffesional thì không thể dùng bluetooth được nữa. 
 Bác thử bấm vào phần HP Wireless manager xem có bị tắt cái bluetooth không, nhiều khi cài theo thứ tự không đúng nó không lên đâu, tốt nhất là bác xài cái Softpaq Download Manager cho nó tự cài là chuẩn nhất.
 ==========================
 243
-Laptop
+Hỏi máy tính
 CPU hơn 90 độ C có phải là bình thường không bác, dạo này máy em chạy nóng hẳn lên, đo Everest thì ra như thế làm em lo quá.
 Sao nóng thế bác, xem có bụi biếc gì bị hút vào quạt không, hay là máy có bị vi rút làm hoạt động quá công suất không ?
 ==========================
 244
-Laptop
+Hỏi laptop
 Chiều nay mới nhận máy 8730w nhưng sao màn hình thấy tối hù, mặc dù đã làm theo lời tư vấn  là : tắt chức năng "Ambient Light Sensor" hoặc bấm Fn và F9 hay F10 để tăng giảm độ sáng nhưng vẫn không được. 
 Bác lên mạng tải Bios mới nhất và Quick Launch Button về để nâng cấp nhé, chỉnh sáng tối thì có thể chỉnh thêm trong Bios hoặc ở phần Power Management. 
 ==========================
@@ -1254,32 +1259,32 @@ Tình hình là lớp em năm nay làm cái đồng phục lớp nhưng chưa ng
 Tích cực học tập, vận may sẽ tới. 
 ==========================
 253
-Laptop
+Hỏi laptop
 Cá nhân bạn cảm nhận thế nào khi so sánh máy Elitebook với các laptop của Dell về bàn phím, màu sắc màn hình, độ đầm chắc, con nào hơn ?
 Bàn phím Dell đầm hơn, độ nảy không cao như Elitebook, touchpad thì mình thấy ngang nhau, vỏ ngoài sờ sướng hơn, màu cũng hay hơn Elitebook dòng P, màn hình thì sáng hơn, pin lồi ra nhìn xấu, nếu mà thiết kế chéo sang 2 bên như 2 cái tản nhiệt của Asus G73 thì đẹp, nói chung mình thích vẻ ngoài của em nó, nhưng mà bên trong thiết kế trông ngu ngu thế nào ấy, mấy phím như F1, F2 khó bấm, nhìn thô hơn Elitebook, cùng là 15,6 inch, nhìn trông to nhưng mà so thì lại không bằng Elitebook.
 ==========================
 254
-Laptop
+Hỏi laptop
 Cho em hỏi, em dùng 8560w, mà tìm hoài không ra phím chụp màn hình ?
 Ấn phím Fn với Prt Sc là chụp màn hình được thôi bác.
 ==========================
 255
-Laptop
+Bảo hành
 Mình thắc mắc là nếu cục pin và sạc không trùng với máy thì khi bị hư có được bảo hành không ?
 Bác hỏi thế cũng hỏi, thế nó sinh ra cái quản lý mã phần để làm gì, bọn nước ngoài nó không dán tem bảo hành, ở Việt Nam phải dán tem bảo hành là vì thế, không khách hàng mang về đổi cục pin khác rồi mang đến cửa hàng, cửa hàng mang lên hãng không bảo hành được, đó chính là lý do mà ở Việt Nam đều dán tem, đó là vấn đề về ý thức đó thôi.
 ==========================
 256
-Laptop
+Hỏi laptop
 Cho mình hỏi gấp chút, bác có biết chỗ nào sửa sạc tốt không, con 8540p của mình đang dùng thì hỏng sạc, mang ra mấy hàng ở Bách Khoa toàn bảo là thà mua mới còn hơn, nhưng mình kiếm trên mạng thì không thấy con sạc của mình, hoặc bác biết chỗ bán sạc xịn của HP uy tín thì cho mình xin nhé.
 Xạc không sửa được đâu, con của bác nếu đúng là 8540p thì dùng được xạc 90w mà, nếu mà cần xạc xịn 120w có thể sang bên mình nhé, 120w thì xài vô tư.
 ==========================
 257
-Laptop
+Hỏi laptop
 Mình có con 8540p nhưng khe thẻ SD/MMC không nhận thẻ nhớ, trong Device Manager nó báo thiếu SDA Standard Compliant SD Host Controller, không biết cái này nó liên quan tới khe thẻ nhớ không nữa, nình đã down nhìu driver mà vẫn không được, ai đó có đĩa driver gốc máy 8540p cho mình xin driver khe thẻ SD/MMC với, hay có cách nào khác giúp mình với.
 Mình nghĩ bạn nên cài lại driver cho Chipset và driver cho Card reader nhé.
 ==========================
 258
-Tư vấn
+Hỏi laptop
 Bác cho tớ hỏi tí, đang chạy con 8540w nhưng RAM hơi ít, đang chạy 1 thanh 4 GB 1333, định nâng cấp lên 8 GB thì mua 1 thanh hay là chạy 2 thanh các bác nhỉ, và mua ram ở đâu bây giờ cho tốt ?
 Qua Tân Doanh làm 1 con GSkill hoặc Cossair 4 GB nhé, rẻ như bèo, bảo hành 3 năm, bảo đảm tương thích, lên site mà coi giá, mình thì biết chỗ mua nên rẻ hơn mấy chục so với Tân Doanh.
 ==========================
@@ -1304,12 +1309,12 @@ Không hiểu về khái niệm khóa radar, giải thích giùm mình với.
 Khóa radar nôm na là phát 1 chùm sóng tới mục tiêu để sensor trên tên lửa có thể nhìn thấy đích đến, ngoài ra có thể khóa mục tiêu bằng chùm tia hồng ngoại, nói ví von như kiểu bạn chiếu đèn pin lên cục gạch rồi 1 người khác sẽ nhìn thấy cục gạch đó và chạy lại lụm.
 ==========================
 263
-Đại học
+Học viện Công nghệ bưu chính Viễn thông
 Học viện Công nghệ bưu chính Viễn thông khó vào không bác?
 Đào tạo tốt, xong nếu muốn học tại học viện thì học lực của bạn phải khá.
 ==========================
 264
-Tư vấn
+Tư vấn tai nghe
 Bác tư vấn cho em cái , nên mua tai nghe HD800 hay là HD700 ?
 Càng đắt càng thể hiện đẳng cấp bạn ạ.
 ==========================
@@ -1326,15 +1331,15 @@ Mang tính giải trí cao, mọi người thấy vui, cười nhiều, cơ bả
 267
 Âm nhạc
 Vô tình trên Facebook thấy có clip này thấy có bài nhạc nền hay mà em không biết tên là gì để tìm, nhờ bác giúp ạ.
-Đây là bài She của Groove coverage
+Đây là bài She của Groove coverage .
 ==========================
 268
 Trung Quốc
 Hàng Trung Quốc thì xịn khỏi chê rồi, thử trong gia đình bác nào không có món hàng nào "Made in China" xem.
-Nokia C5 - Made in khôngrean.
+Nokia C5 "Made in Korea" nè.
 ==========================
 269
-Nhiếp ảnh
+Chụp ảnh
 Chụp ảnh đẹp cần trình độ hay thiết bị nhiều hơn nhỉ ?
 Cả hai yếu tố đó, mấy tấm trong bài toàn chụp phơi sáng thôi.
 ==========================
@@ -1349,23 +1354,23 @@ Dân Nhật bản lòng tự tôn dân tộc của họ cao lắm
 Mấy chú đó cứ tưởng được Mĩ bảo kê là ngon cơ chứ.
 ==========================
 272
-Tình yêu
+Tình cảm
 Ban đầu, khi thấy bạn thay đổi, bạn gái bạn sẽ nghĩ là tình hình như vậy bạn mới làm thế, phải kiên trì thì bạn gái mới thay đổi quan điểm, khi có cơ hội hãy thể hiện sự quan tâm của bạn tới bạn gái, chứ không phải ngày nào cũng gặp, cố gắng nhắn cả buổi tối mà chả có cảm hứng gì, quan tâm nhưng đừng vồ vập quá, không thì bạn gái càng chán bạn hơn.
 Mình cũng đã cố gắng tầm 3 tuần rồi đó bạn.
 ==========================
 273
-Tình yêu
+Tình cảm
 Chia sẻ với bạn là bạn gái mính cũng giống bạn gái của bạn, và cả bạn cũng giống mình nữa, cô ấy là người tốt, không muốn phản bội bạn nên không chia tay với bạn thôi, chứ hiện tại cô ấy chán bạn rồi, nếu tiếp tục giữ thì cũng chả thể vui vẻ được. 
 Ặc, bạn giống mình thật, nhưng mình cảm thấy bạn gái mình không yêu người kia đâu, chỉ là thời gian sẽ đưa cô ấy trở lại, cơ bản mình cũng sợ thời gian và nôn nóng nữa thôi.
 ==========================
 274
-Tình yêu
+Tình cảm
 Tại sao lại cần có thời gian để xác định lại tình cảm, dù gì cũng đã yêu 5 năm rồi giờ còn xác định gì nữa, như bạn gái mình, cứ có vụ cãi nhau là nó lại bảo với bạn nó là sắp chia tay rồi, xong khi tai em, em hỏi nó thì nó cũng bảo cần thời gian để suy nghĩ, em bảo nó thế sao không suy nghĩ kỹ từ hồi mới yêu đi, sâng hôm sau em cũng điên điên, mua 1 cái áo rồi đi bộ cả tiếng từ chỗ em đến chỗ nó làm giữa buổi trưa, gọi nó ra đưa cho nó bảo quà chia tay, nó khóc te te giữa đường luôn, từ đấy chả dám nói những câu thế nửa, đấy con gái phải phũ thì nó mới sợ, càng luỵ thì nó càng chả coi mình ra gì đâu, thớt phải cứng rắn lên, con gái nó cần 1 người đàn ông đủ bản lĩnh bao bọc, che chở cho nó chứ không phải 1 đứa trẻ.
 Giờ mình cũng đang cố tỏ ra phũ phàng lắm đây bạn, nhưng mà nhiều lúc buồn lắm, mới được có 2 ngày thôi.
 ==========================
 275
 Điện
-Nhà mình chuyển wa xài bếp từ rùi, nấu nước cũng thế, xài luôn máy nuoc nóng, nói chung toàn xài điện.
+Nhà mình chuyển qua xài bếp từ rùi, nấu nước cũng thế, xài luôn máy nuoc nóng, nói chung toàn xài điện.
 Không thấy giá điện nước cũng ầm ầm rồi sao, có than tổ ong thì rẻ nhưng lại độc, không nên xài.
 ==========================
 276
@@ -1444,12 +1449,12 @@ Tình hình là em mới mua con xe máy Airblade, ngoài việc thay nhớt th�
 Dầu thắng khi nào thấy vơi vơi gần hết thì thay, mà thường chả bao giờ hết được, nếu hết chứng tỏ thắng xe có vấn đề, dây curia 24 ngàn cây số thay 1 lần, tấm lọc gió lâu lâu vệ sinh được rồi, nước mát thì gần mức thấp thì châm thêm, xe mình 12 ngàn cây số mình thêm nước, bác coi trong sách hướng dẫn có hết đấy.
 ==========================
 291
-ổ cứng
+Ổ cứng
 ổ cứng di động Hitachi Touro Mobile cắm vào cổng USB là xài lun hả bác ?
 Cắm vào cổng USB là chạy thôi bác, không cần thêm nguồn rời.
 ==========================
 292
-Tư vấn
+Tư vấn ổ cứng
 Với giá 2 triệu nên mua ổ cứng di động 500 GB nào thì ngon ạ ?
 ổ cứng di động 500G làm gì có giá 2 triệu, thấp lắm cũng 2.8 triệu còn bình thường thì tầm 3 triệu lận.
 ==========================
@@ -1484,17 +1489,17 @@ Bắc Triều Tiên có tội vì chạy đua vũ trang mà không lo phát tri�
 Chung quy cả Hàn Quốc và Bắc Triều Tiên chỉ là con cờ của các cường quốc mà thôi, vận mệnh luôn bị thao túng, quê hương, đất nước bị biến thành bàn cờ để các thế lực sát phạt nhau.
 ==========================
 299
-Máy tính
+Ép xung
 Hiện mình đang dùng Mainboard Gigabyte X48-DS5, nguồn thì 700W, giờ muốn ép xung con CPU lên chút đỉnh thôi thì phải làm như vầy phải không : Chỉnh FSB lên 40.
 Bạn cứ làm thử thì biết thôi, CPU không chết đâu mà lo.
 ==========================
 300
-Máy tính
+Hỏi CPU
 Các bác cho em hỏi phát, con CPU Q9550 có lắp được vào mainboard MSI G41M-P33 không nhỉ ?
 Chạy được đó bác vì FSB của Q9550 là 1333 nên gắn vào MSI G41M-P33 được.
 ==========================
 301
-Máy tính
+Ép xung
 Có cách nào để ép xung CPU i7 với mainboard Asus không nhỉ?
 Mainboard Asus ép xung rất dễ, nguyên tắc ép xung i7 cũng có gì đâu, về phần lý thuyết thì bên Amtech có một bài dài về vấn đề đó đấy, bạn sang đó mà đọc, hướng dẫn cho Mainboard Asus luôn. 
 ==========================
@@ -1509,7 +1514,7 @@ Chơi Crysis 3 thì HD 7750 chơi được mức cấu hình nào hả các bác
 Chắc cũng được mức Medium đó bạn.
 ==========================
 304
-Tư vấn
+Tư vấn RAM
 Vậy nói chung ở Việt Nam thì chọn loại RAM nào mà giá rẻ mà ép xung tốt hả anh ??
 RAM rẻ thì hên xui, mà RAM xịn cũng hên xui nữa,chứ không phải đơn giản là cứ RAM xịn là ép xung tốt.
 ==========================
@@ -1524,52 +1529,52 @@ Thủ môn Ba Lan tệ vậy sao trách Séc-ni được ?
 Trái banh đầu tiên ra vào không hợp lý, banh thứ 2 nếu xuất sắc thì có khi Szczesny đã ra sớm hơn hoặc khôn ngoan hơn khi chọn điểm rơi rồi, tóm lại là nhờ thủ môn của Arsernal mà Hy Lạp đã có điểm. 
 ==========================
 307
-Máy tính
+Ép xung
 Trời, ép xung lên 82 độ thì ổn định sao nổi. 
 Thì em chỉnh ở các mức vcore 1.4 tới 1.525v mà, đến 1.525 thì nó mới là 82 độ, còn ở mức 1.45 chỉ có 73 độ thôi, mà kể cả mức 1,45v nó cũng không ổn định nên phải tăng thêm vcore chứ.
 ==========================
 308
-Phần mềm
+Hỏi phần mềm
 Hình như chương trình Core Temp không hỗ trợ Pentium 4 thì phải, em tải về mà xài chả được.
 Vậy thì xem bằng chương trình Real Temp nhé.
 ==========================
 309
-Máy tính
-Tình hình mình xài con Opteron 1210, sau khi ép xung lên mức có thế là 280HTT x 9 = 2.520GHz,chạy Ortho được khoảng phút thì CPU nó nóng quá nên mình không dám chạy nữa, theo bác nhiệt độ như vậy có cao quá không và theo bác thì con Opteron này chạy tốt như mấy con AMD+6400 không, con này tải nhiệt tối đa được khoảng 3 GHz.
-Bác thay tản nhiệt khác cho em nó đi 
+Ép xung
+Tình hình mình xài con Opteron 1210, sau khi ép xung lên mức có thế là 280HTT x 9 = 2.520GHz, chạy Ortho được khoảng phút thì CPU nó nóng quá nên mình không dám chạy nữa, theo bác nhiệt độ như vậy có cao quá không và theo bác thì con Opteron này chạy tốt như mấy con AMD+6400 không, con này tải nhiệt tối đa được khoảng 3 GHz.
+Bác thay tản nhiệt khác cho em nó đi .
 ==========================
 310
-Máy tính
-Mình có nhìn nhầm không đây, RAM gì mà 1536 MB vậy?
-À đó là vì 1 GB + 512 MB đó bạn.
+RAM
+Mình có nhìn nhầm không đây, RAM gì mà 1536 MB vậy ?
+À đó là vì RAM 1 GB và 512 MB đó bạn.
 ==========================
 311
-Máy tính
+Tư vấn quạt
 Đang yên đang lành tự nhiên tháo cái quạt tản nhiệt ra sơn, sơn xong nhìn đẹp nhưng gắn vào thì nó hú như cái máy bơm vậy, sau 5 đêm chịu hết nổi với nó, giờ phải tìm mua cái quạt tản nhiệt khác, có ai biết chỗ bán chỉ dùm mình với, đẹp đẹp 1 tí nhé.
 Đâu chả có, hầu hết các cửa hàng máy tính đểu có bán quạt tản nhiệt 80 cả, quan trọng là yêu cầu trong đầu và số tiền trong túi thôi. 
 ==========================
 312
-Máy tính
+Ép xung
 Nghe nói ép xung CPU dễ hơn ép xun RAM, nhưng hình như theo bài hướng dẫn của bác Minh thì khi ép xung phải ép xung cả CPU lẫn RAM, mình trước mắt là chỉ tính tập ép xung CPU lên 1 chút thôi, chứ chưa dám đụng gì tới RAM, vậy chỉ ép xung CPU không ép xung RAM lên thì có sao không ?
 Ép xung CPU mà không ép xung RAM thì tốc độ có cải thiện nhưng không tốt lắm do RAM là bộ nhớ đệm để xử lý nên cho dù CPU cao mà RAM không cao thì cũng không hơn được là bao.
 ==========================
 313
-Máy tính
+Ép xung
 Khi ép xung đến thời điểm nào thì mới chích thêm Vcore vào, như của mình không chích Vcore mà chỉ chỉnh FSB lên 350 thì nó khác gì với lúc mình không chỉnh FSB mà chích thẳng Vcore lên 1.3 thì 2 cái này cơ bản có gì khác không ?
 Khi nào mở máy mà bật không lên thì tăng 1 nấc Vcore, việc chích Vcore chả khác gì vì nếu vcore càng cao thì máy càng nóng, không tốt lắm.
 ==========================
 314
-Máy tính
+Ép xung
 Khi ép xung máy tính lên rồi, của mình ép xung nhẹ lên 2.8 Ghz thì có cần kiểm tra độ bền gì không, hay là nặng mới test ?
 Cứ kéo tới mức mình muốn rồi kiểm tra luôn cho khoẻ, khi đã ổn định thì bắt đầu hạ 1 nấc Vcore rồi kiểm tra, ổn định thì hạ 1 nấc Vcore rồi kiểm tra tiếp, làm vậy đến khi nào máy bật không lên thì trả Vcore về mức ổn định gần nhất.
 ==========================
 315
-Máy tính
+Ép xung
 Nếu ép xung khiến cho nhiệt độ lên cao quá mức thì chuyện gì sẽ xảy ra ?
-Khi nhiệt độ cao dễ hại CPU mà đôi lúc cao quá thì máy bật không lên hoặc không ổn định được hoặc khi chơi trò chơi điện tử nặng bỗng nhiên máy tắt. 
+Khi nhiệt độ cao dễ hại CPU mà đôi lúc cao quá thì máy bật không lên hoặc không ổn định được hoặc khi chơi trò chơi điện tử nặng bỗng nhiên máy tắt . 
 ==========================
 316
-Máy tính
+Hỏi máy tính
 Nhiệt độ khi ép xung máy tính nào thì được xem là khá cao, không tốt, còn nhiệt độ nào thì được ?
 Nhiệt độ khoảng từ 60 tới 65 độ là được (nhưng nếu được thì càng thấp càng tốt) 
 ==========================
@@ -1590,91 +1595,91 @@ Chắc gì bóng bay chỉ có mỗi truyền đơn với tiền nhỡ đâu có
 ==========================
 320
 Tai nghe
-Con MX500 dễ làm giả lắm tại vì giờ đã ngừng sản xuất rồi.
-Vâng em biết là ngừng sản xuất rồi cơ mà cái tai này cửa hàng này ế được khoảng 2,3 năm rồi. 
+Con MX500 dễ làm giả lắm tại vì giờ đã ngừng sản xuất rồi .
+Vâng em biết là ngừng sản xuất rồi cơ mà cái tai này cửa hàng này ế được khoảng 2,3 năm rồi . 
 ==========================
 321
-Tai nghe
+Sennheiser
 Tai nghe Sennheiser thì HD 439 thì so nổi với HD 555 đâu.
 Bây giờ thì em muốn kiếm 1 em HD 555 đây, nhưng mà cần gấp quá, khổ thế, có liền thì tốt quá.
 ==========================
 322
-Tư vấn
+Tư vấn tai nghe
 Xin bác tư vấn cho em một con tai nghe nào nghe Baroque, giao hưởng hay trong tầm giá 1 triệu đổ lại. 
 Giao hưởng là thứ nhạc bác học đắt tiền đó bác, mĩnh nghĩ bác nên chơi loa kèn. 
 ==========================
 323
-Tai nghe
+M50 
 Tai nghe M50 nghe rock hay không ?
 Nghe rock bằng M50 thì chả khác nào chém vào tai.
 ==========================
 324
-Tai nghe
+M50
 Hôm bữa dùng tai nghe M50 nghe bài We Are Young mới hiểu thế nào là bass thảm họa. 
 Em dùng M50 nghe bài đó thấy tương đối mà, không thấy tệ lắm,có khi do chất lượng tập tin nhạc chăng ?
 ==========================
 325
-Tư vấn
+Tư vấn tai nghe
 Thật sự thì không biết mua tai nghe HD800 với HD700 về thì kéo với với cái gì nữa ?
 Kiếm chục con DAC với Amp về kéo, cứ lắp ghép với nhau bao giờ thấy ổn là được thôi.
 ==========================
 326
-Tư vấn
+Tư vấn tai nghe
 Bác tư vấn giúp em 1 em tai nghe ear-bud nghe ca trù được không ạ ?
-PK1 hoặc MX980 nhé.
+PK1 hoặc MX980 nhé .
 ==========================
 327
-Tai nghe
+Tai nghe JVC
 Có con tai nghe JVC gì ấy, khoảng 2 triệu mà nghe gần như M50.
 JVC RX700, dạo này em nó hiếm hàng lắm bác ạ. 
 ==========================
 328
-Tư vấn
+Tư vấn tai nghe
 Bác ơi, em hơi bị phần vân ạ, em cần tai nghe khi chơi trò chơi điện tử, nhạc Kpop, anime, phim full HD, em thích tai nghe dạng full size và cũng thích đẹp một tí, đeo lâu nên cũng muốn thoải mái, và bền, mà chẳng biết nên chọn con nào.
 Mình thấy SteelSeries Neckband hoặc Siberia V2 đều được, Neckband thì mình chưa thử nhưng Siberia V2 thì nghe nhạc không thích hợp lắm đấy, mà để chơi trò chơi điện tử các kiểu thì ổn phết.
 ==========================
 329
-Tư vấn
+Tư vấn tai nghe
 Cần tìm 1 con tai nghe, nhà chưa có điều kiện lắm nên xoay được từ 200 tới 300 ngàn thôi, chủ yếu là nghe trên laptop Lenovo, nghe nhạc và xem phim, âm thanh ổn 1 tí là được, nhỏ gọn thì tốt bởi mình hay đi lại. 
 Bác xem mấy con như EP630, PL11/21, MX170/270 coi thử.
 ==========================
 330
-Tai nghe
+Tư vấn tai nghe
 Có bác nào biết mấy cái tai nghe của Skull Candy hay Star chi đó mà tầm vài trăm thôi không ạ ? 
 Nếu là sinh viên nghèo thì nên chọn hàng bền, chất lượng hợp lý, có bảo hành hơn là hàng nhái đẹp mà kém chất lượng.
 ==========================
 331
-Tai nghe
+Tư vấn tai nghe
 Các tai nghe EX50LP, Feeling 2, E10, M9, trong những con đó thì mình nên chọn con nào phù hợp với thể loại nhạc Pop, Dance, và R&B vậy bác ? 
 Đã dùng qua EX50LP, hợp cho nhạc Dance, bass sâu, treble khá gắt, sắc, mid lùi, E10 thì tốt gỗ tốt cả nước sơn.
 ==========================
 332
-Tai nghe
+Tư vấn tai nghe
 Con EX50LP chất âm chi tiết của nó ra sao ạ và sau khi burn in thì nó có bớt được cái treble chói của nó không ạ hay là vẫn vậy hả bác ?
 Khó cải thiện lắm bạn ạ.
 ==========================
 333
-Tư vấn
+Tư vấn tai nghe
 Mong bác tư vấn dùm mấy cái tai nghe này, tôi dùng cho Iphone và nghe nhiều Bass.
 Với gu nghe nhạc của bác và thiết bị di động của bác thì bác nên mua em Denon in-ear AH-C260R đi, so với tầm tiền em này quả đáng đồng tiền và nghe khá được, đều ở 3 dải: Treble tơi, bass tốt.
 ==========================
 334
-Tai nghe
+Hỏi tai nghe
 Bác cho em hỏi làm thế nào để kiểm tra tai nghe thiệt hay giả nhỉ cụ thể là con HD202 II đi.
 Bạn cứ mua ở chỗ uy tín thì khỏi phải lo chuyện thật hay giả. 
 ==========================
 335
-Tai nghe
+Hỏi tai nghe
 Bác chỉ em cách phân biệt hàng DENON thật với giả với, đang tính mua em Denon AH-D310 mà thấy nơi thì bán 1.4 triệu nơi thì 950 ngàn chênh lệch nhau nhiều quá.
 Có 1 cách đơn giản là nhìn bằng mắt bạn nhé, với mấy tai nghe loại giả nhìn mắt thường là thấy như chất liệu dở, cấu trúc xập sệ, còn siêu giả mà giống 99,9% ý, nói gọn lại là chịu không phân biệt nổi thì hầu hết anh em chơi tai nghe lâu thì sẽ không dính hàng giả, cứ mua những con chưa thấy có người bảo có hàng giả, những con tầm trung trở lên cũng cực hiếm có hàng giả.
 ==========================
 336
-Tư vấn
+Tư vấn tai nghe
 Trước đây em dùng Tai nghe Soundmax giá tầm 120 ngàn, rất thích âm bass mạnh đến rung tai của nó nhưng giờ mất rồi, hiện đang xài con SHQ1000 nhưng không ưng ý lắm, giờ muốn kiếm một em in-ear khung giá tầm 700 ngàn ạ ?
 Bạn dùng Soundmagic E10 thử xem. 
 ==========================
 337
-Tư vấn
+Tư vấn tai nghe
 Cho mình hỏi xem em tai nghe ear-bud nào hay dùng cho Ipod Touch 4, mình thường nghe Pop, có bass càng mạnh càng tốt.
 MX880 nhé, thích bass mạnh thì nên hướng đến in-ear.
 ==========================
@@ -1684,23 +1689,23 @@ Tai nghe ear-bud đánh bass nó gọn hơn in-ear, nếu tai thiên bass 1 chú
 Không phải cứ ear-bud là bass gọn hơn in-ear bác ạ. 
 ==========================
 339
-Tai nghe
+Hỏi tai nghe
 Bác cho em hỏi 1 câu ngu nhé, ví dụ mình đang dùng 1 DAP nghe bằng 1 tai nghe mà DAP có thể kéo được, nếu dùng thêm 1 cái headamp nho nhỏ thì nghe có hay hơn chút nào không ?
 Để cho âm thanh to lên là thứ nhất và để làm cho cái DAP của bạn phát tiết hết được tinh túy của nó nữa, dùng amp nghe sướng hơn nhiều, nhưng lùng bùng quá nên mình chỉ để ở nhà thôi.
 ==========================
 340
-Tư vấn
+Hỏi tai nghe
 Tình hình là em có 1 cái tai nghe HD218 không hiểu sao giờ chỉ nghe được 1 bên, giờ đem ra đâu ở Hà Nội sửa được nhỉ ?
 Chạy qua xuân vũ hỏi xem, hình như cũng sửa tai nghe đó. 
 ==========================
 341
-Tai nghe
+FL2
 Máy nghe nhạc Clip+ đi với tai nghe FL2 được không ạ, em chủ yếu nghe rock nhẹ, folk rock, ballad, không lời như nhạc cụ kiểu sáo, piano, guitar. 
 FL2 đặc biệt hợp với nhạc không lời kiều sáo, piano đấy, điểm yếu duy nhất của nó là bass thôi, vì vậy trừ nhạc dance và rock ra thì các loại khác mình nghĩ khó có con nào qua nổi con này trong tầm giá.
 ==========================
 342
-Máy tính
-Tình hình là em có con case cùi bắp muốn lắp thêm cái card màn hình 8400GS để chơi LOL ở mức cấu hình rất thấp các bác xem cấu hình máy em hiện giờ có lắp được không nhé vì đợt trước lắp con card màn hình 7300GT vào nó báo lỗi khi cài driver là "this graphics driver could not find compatible graphics hardware" bác giúp em nhé.
+Tư vấn card màn hình
+Tình hình là em có con thùng máy cùi bắp muốn lắp thêm cái card màn hình 8400GS để chơi LOL ở mức cấu hình rất thấp các bác xem cấu hình máy em hiện giờ có lắp được không nhé vì đợt trước lắp con card màn hình 7300GT vào nó báo lỗi khi cài driver là "this graphics driver could not find compatible graphics hardware" bác giúp em nhé.
 Mua con card màn hình GT210 đi, hình như từ 700 tới 900 ngàn gì đó, con này thấy mấy hàng net lắp, chơi thử hình như cũng được 60 FPS.
 ==========================
 343
@@ -1709,17 +1714,17 @@ Mỗi khi xong một ván đấu khi đội kia đầu hàng hoặc hết trận
 Là good game đó.
 ==========================
 344
-Tư vấn
+Tư vấn bàn phím
 Tớ không phải là dân chuyên chơi trò chơi điện tử, nên yêu cầu cũng không quá cao, chỉ cần bàn phím dạng bàn phím cơ, có đèn LED, có lót tay to chút, càng to càng khoái, tháo lắp được càng hay, thêm vài nút chỉnh âm lượng, điểu chỉnh nhạc này nọ coi phim cho tiện, bền, còn chuột thì to, nút thì ngoài 3 nút cơ bản không cần gì thêm và bền, càng bền càng tốt, giá cả không thành vấn đề, mua hàng tốt là một cách tiết kiệm, mong bạn chỉ dùm mình chuột và bàn phím đáp ứng đúng nhu cầu và giá cả hợp lí nhất.
 Bàn phím thì lấy con CM Storm Trigger đi, đáp ứng hoàn hảo nhu cầu của bạn luôn, giá tầm 2.5 triệu, chuột thì quen dùng Dell rồi thì lấy Dell tiếp mà dùng đi, gợi ý Dell Moczul chẳng hạn, giá tầm 300 ngàn nhưng cũng rất ngon.
 ==========================
 345
-Mạng
+Modem
 Bác cho em hỏi nhờ với, em mới lấy cái D-link 524 từ nhà ông anh về để dùng, em cắm như này Modem Planet VNPT nối vối D link 524 nối với laptop thì laptop vào mạng bình thường nhưng cái Dlink này đã cài đặt cả mật khẩu cho wifi rồi bây giờ phát ra thấy có sóng nhưng có cả mật khẩu nữa làm sao lấy lại được mật khẩu ạ vì anh em quên mật khẩu rồi.
 Gõ 192.168.0.1 nhé.
 ==========================
 346
-Tai nghe
+Hỏi tai nghe
 Tình hình em đang định kiếm mua em tai nghe Sennheiser IE8i của bác Tùng, lên hỏi ý kiến bác xem như thế nào,đã từng dùng hoặc từng kiểm tra thì cho em xin ý kiến, nghe bác ấy quảng cáo là chất lượng cao, giá em hàng giả này là 1.4 triệu, bác cho em ý kiến , có nên mua không ạ ?
 Nói không với hàng giả nhé bạn, 1.4 triệu mua được khối con ngon lành hơn nhiều.
 ==========================
@@ -1739,17 +1744,17 @@ Tình hình là có mấy nhỏ bạn nhờ kiếm giùm tai nghe Beats giả ng
 Không khuyến khích hàng giả bạn nhé nó quảng cáo giống 9/10 toàn nói xạo cả thôi trừ khi bạn mua để thời trang còn không thì đễ tiền làm mấy con dưới 1 triệu của Vsonic hay Soundmagic, giá ở Việt Nam mấy con này quá tốt luôn rồi.
 ==========================
 350
-Tư vấn
+Tư vấn tai nghe
 Em có con điện thoại Bold 9000 muốn mua cái tai nghe thỉnh thoảng rảnh nghe nhạc tý, yêu cầu của em là: tương thích với con Bold 9000 của em, bass khỏe và chắc, giá thì tối đa khoảng 400 ngàn thôi, nói không với hàng giả, cuối cùng là nó hiện đang bán trên thị trường Việt Nam, bác biết thì tư vấn cho em với ạ.
 Chọn tai nghe Pl11 nhé ,không có đối thủ đâu.
 ==========================
 351
-Máy tính
+Hỏi máy tính
 Mình đọc ở đâu cũng thấy khi tăng tốc CPU hoặc RAM thì đồng thời phải tăng điện thế của nó, bạn có thể giải thích rõ vì sao không, để xem nó có ảnh hưởng vói kiếp sống của CPU hoặc RAM ra sao.
 Trả lời có thể ví von như thế này : khi bạn phải làm 1 việc gì đó nặng nhọc, tốn nhiều sức thì đến lúc ăn cơm, bạn có phải ăn nhiều hơn so với mức bình thường khi không phải làm gì không ?
 ==========================
 352
-Tư vấn
+Máy chủ
 Nhờ bác tư vấn giúp em một bộ gồm 2 bộ máy chủ dùng cho văn phòng nhỏ khoảng 20 người dùng đổ lại, nhu cầu là một máy chủ chạy chính và 1 làm dự phòng cũng như làm NAT ra internet bên ngoài, giá tiền dự kiến chi được khoảng 2500$ cho tới 3000$ đổ xuống thôi.
 Từ 2500$ tới 3000$ thì chỉ được hơn 1 con HP dòng G6 thôi, nếu lắp tủ rack nữa là vừa hết tiền, nhưng với 20 người dùng thì chỉ cần con HP dòng G3 là quá đủ ,theo tôi thì bác kiếm con HP, IBM, Dell, NEC, Fujitsu chạy 2 con CPU Xeon 771 là chạy ngon rồi, NEC và Fujitsu có vẻ mọi người không thích lắm nhưng tôi làm nhiều thấy nó không thua kém gì mấy thằng HP và IBM.
 ==========================
@@ -1759,7 +1764,7 @@ Từ 2500$ tới 3000$ thì chỉ được hơn 1 con HP dòng G6 thôi, nếu l
 Chai rượu kế bên mới có giá đó đấy bác.
 ==========================
 354
-Tai nghe
+Tai nghe Beats
 Tai nghe Beats chỉ được cái bề ngoài, nhưng Beats Solo hàng giả mua ở songlong thì nghe thử rồi nên em mới nói thế.
 Nghe nói tai nghe Beats hàng giả còn hay hơn đồ thật.
 ==========================
@@ -1769,7 +1774,7 @@ Sao trò Darksiders 2 có lỗi gì mà cứ chơi được một chút nó lạ
 Mình chơi bình thường mà, có bị làm sao đâu? 
 ==========================
 356
-Trò chơi điện tử
+Death
 Mà giờ mới biết nhân vật Death là con gái.
 Ủa Death là con trai mà?
 ==========================
@@ -1874,7 +1879,7 @@ Anh em nào rành về xe cho mình hỏi cái cắm phía dưới lỗ điều 
 Xe thể thao đó, mà xe thể thao thì xuất phát nhanh và tăng tốc cùng tiết kiệm thời gian là những tiêu chí đầu tiên nên nếu thiết kế thông thường thì tay phải bác xoay chìa khóa xong mới đưa tay xuống cần số được, còn với xe thể thao thì tay trái bác xoay chìa khóa đồng thời với tay phải bác vào số và thế là phóng, bác tiết kiệm được thời gian hơn, xuất phát nhanh hơn.
 ==========================
 377
-Tư vấn
+Tư vấn tai nghe
 Bác tư vấn cho em cái , nên mua tai nghe HD800 hay là HD700 ?
 Càng đắt càng thể hiện đẳng cấp bạn ạ.
 ==========================
@@ -2039,7 +2044,7 @@ Dù gì sản phẩm apple phải như thế nào thì mới kéo khách hàng m
 Đâu phải sản phẩm nào của Apple cũng tốt đâu, vấn đề là nó dùng nhiều chiêu tiếp thị để lôi kéo khách hàng, nhất là khách hàng ăn theo các loại.
 ==========================
 410
-Máy tính
+Hệ điều hành
 Dùng Mac OS đơn giản tiện dụng thì thích thế thôi, ai tôn sùng đâu nhỉ, mình chạy song song MAC OS cho giải trí và Windows 7 cho học tập đây, nên đừng bảo mình nói xạo.
 Xài vậy tốn thời gian hơn nhiều, trong khi Windows 7 mạnh hơn thằng Mac OS gấp trăm lần. 
 ==========================
@@ -2069,7 +2074,7 @@ Em cũng bằng bác nên bị con bạn thân chê lùn suốt
 Không đúng, đó là chữ Lễ, ra đời là phải biết Lễ, ở nhà lễ phép với ông bà, cha mẹ, ra đời lễ phép với bạn bè, thầy cô, đi làm lễ phép với đồng nghiệp, cấp trên, lãnh đạo rồi thì lễ nghĩa với cấp dưới, với nhân dân, người ta học được lễ và thực hành được lễ thì sống ở đâu cũng có thể thành công.
 ==========================
 416
-Tư vấn
+Sinh lí
 Làm sao để bạn không cao nhưng người khác cũng phải ngước nhìn ?
 Hài hước vui tính hoạt bát thì không cần cao mọi người vẫn yêu mến. 
 ==========================
@@ -2094,33 +2099,33 @@ Cơ thể lành lặn là được rồi, việc gì phải lo việc cao với 
 Cơ thể ành lặn đấy mà có được đối xử như người bình thường đâu, vậy cũng buồn lắm. 
 ==========================
 421
-Máy tính
+Tư vấn máy tính
 Mình cần 1 cái gì đó đút vào Socket AM3+ được và hiệu năng hơn đám Athlon. 
 Bạn thử Phenom II X4 hoặc X6 .
 ==========================
 422
-Máy tính
+Hỏi quạt
 Em mới mua dàn máy AMD nhưng không hiểu sao quạt CPU AMD nó kêu ghê quá, em làm đủ mọi cách hướng dẫn trên mạng thậm chí đem tới bảo hành về nhà vẫn cảm thấy kêu rất to, CPU em là Phenom X4 645, bác chỉ giáo dùm em với.
 Bạn vào Bios rồi chỉnh Smart Fan 50% thôi và bật quạt mát and im lặng nhé, nếu vẫn không được thì mua thêm con HP 928 huyền thoại là êm ngay.
 ==========================
 423
-Máy tính
+Hỏi CPU
 Có phải dòng CPU Phenom X4 645 nóng quá đòi hỏi quạt CPU hoạt động nhiều không ạ, em mới khởi động máy lên thì quạt nó đã kêu như rồi, em chả biết vì sao nữa.
 Nóng thì có nóng, 4 nhân lại xung cao mà, nhưng không đến nỗi nóng quá, chắc 1 phần do AMD làm cái quạt dỏm quá, xài quạt 70mm lấy gì không kêu, bạn thay quạt 80 vô là êm thôi. 
 ==========================
 424
-Máy tính
-cho em hỏi AMD có dòng CPU nào sắp ra hiệu năng nhỉnh hơn Athlon mà dùng socket AM3+ không bác, và LLANO đánh mảng thị trường nào ạ ?
-Từ từ sẽ có dòng mới mà bạn.
+AMD
+Cho em hỏi AMD có dòng CPU nào sắp ra hiệu năng nhỉnh hơn Athlon mà dùng socket AM3+ không bác, và LLANO đánh mảng thị trường nào ạ ?
+Từ từ sẽ có dòng mới mà bạn .
 ==========================
 425
-Tư vấn
+CPU
 Ai bảo bạn LLANO bằng con Athlon x4, đấy là chỉ so sánh trên lí thuyết thôi, xung nhịp bây giờ không quyết định nhiều lắm đâu bạn nhé, LLANO nó tich hợp cả card màn hình luôn và hiệu năng của nó so với cái giá tiền tương đương thì còn tùy loại cao cấp hay bình dân mà.
 Thật ra nó dùng điện còn ít hơn nữa.
 ==========================
 426
-Tư vấn
-Em có tầm 14 triệu, nhu cầu chủ yếu là làm đồ họa 3 chiều, với tầm tiền ấy nên mua case AMD hay Intel xeon E3 1230 ?
+Tư vấn CPU
+Em có tầm 14 triệu, nhu cầu chủ yếu là làm đồ họa 3 chiều, với tầm tiền ấy nên mua CPU AMD hay Intel xeon E3 1230 ?
 Làm đồ họa thì AMD làm gì có con nào so được với Xeon 1230. 
 ==========================
 427
@@ -2249,22 +2254,22 @@ Thủ tướng có cho dân bầu đâu, toàn là bầu cho mấy lão nghị q
 Thế mà toàn nói mấy ông trên kia bảo do dân bầu ra, nực cười không thể tả được.
 ==========================
 452
-Đồ ăn
+Trứng
 Không thích ăn trứng thì sao ạ ?
 Mình cũng chả thích ăn trứng.
 ==========================
 453
-Đồ ăn
+Trứng
 Ăn trứng sống thì sao ?
 Ăn trứng sống dễ bị bệnh lắm đấy.
 ==========================
 454
-Đồ ăn
+Trứng
 Em toàn ăn trứng rán với ốp lết. 
 Mình ăn tất cả các kiểu trứng luôn này.
 ==========================
 455
-Đồ ăn
+Trứng
 Cho mình hỏi trứng trưng làm như thế nào ạ ?
 Đun dầu nóng, đập trứng vào chảo rồi quấy đều lên và cho thêm các loại thực phẩm phụ tuỳ ý như cà chua, nước mắm, hành tươi, hành khô.
 ==========================
@@ -2279,22 +2284,22 @@ Mình mới cài xong mới vào chơi, đánh nhau mà không biết tổ hợp
 Tổ hợp phím thì dần dần mới học được, còn phản đòn thì chuột phải lúc nó đỏ lên ấy.
 ==========================
 458
-Trò chơi điện tử
+Mafia 2
 Mafia 2 có đáng chơi không để mình tải về, chơi Sleeping Dog xong thấy thòm thèm quá.
 Mafia 2 chơi hay khỏi chê, đua xe với lại bắn súng ngon hơn Sleeping Dog nhìu, chưa kể ăn trộm xe rồi luộc lại thằng hàng của mình nữa, chỉ có điều là không cua gái được thôi.
 ==========================
 459
-Trò chơi điện tử
+Sleeping Dog
 Trong Sleeping Dog có chỗ nào bán Lamborghini không bác, thấy mấy chiếc này chạy nhan nhản mà không biết chỗ nào bán để mua ?
 Gần chỗ cảng tàu, kho hàng đó bạn.
 ==========================
 460
-Trò chơi điện tử
+Sleeping Dog
 Cho em hỏi đến đoạn bắt thằng Dogeyes xong và gắn bug vào bệnh viện xong là sắp hết trò chơi chưa để em chơi chậm lại ?
 Chưa đâu, cứ thong thả mà chơi.
 ==========================
 461
-Trò chơi điện tử
+Sleeping Dog
 Trong trò Sleeping Dog thì cái nội dung tải thêm Just Cause 2 là sao vậy ?
 Nó sẽ cho bạn thêm bộ tranh phục của nhân vật trong trò Just Cause 2, và có sẵn trong tủ đó.
 ==========================
@@ -2414,7 +2419,7 @@ Chả là đang tải bình thường cái tự nhiên giờ lại không tải 
 Khởi động lại modem nha bạn.
 ==========================
 485
-Trò chơi điện tử
+Kiếm Thế
 Tình hình là em đang chơi Kiếm Thế máy chủ Cang Kiếm, bác có chơi Kiếm Thế không ạ và chơi ở máy chủ nào thế để em chuyển về chơi chung cho vui.
 Trước có chơi mà bị thằng nào nó lừa lấy mật khẩu mất tiêu rồi.
 ==========================
@@ -2444,9 +2449,9 @@ Nàng kiểu lỡ bước của HKT cũng nhảy múa ầm ầm lời tệ tệ 
 Vì HKT là người Việt Nam đó mà.
 ==========================
 491
-Máy tính
+Hỏi RAM
 Sao mình cắm 2 thanh RAM 4GB vào máy tính nhưng máy không nhận đủ vậy ?
-Muốn nhận đủ thì cài Windows 64bit nhé, vẫn muốn cắm cho đủ 8GB thì một là cắm cho đẹp, hai là tháo ra bán một que đi đỡ phí. 
+Muốn nhận đủ RAM thì cài Windows 64bit nhé, vẫn muốn cắm cho đủ 8GB thì một là cắm cho đẹp, hai là tháo ra bán một que đi đỡ phí. 
 ==========================
 492
 Nghĩa vụ quân sự
@@ -2459,12 +2464,12 @@ Chui vào Quân đội thì phải xác định là để làm gì thì mới đ
 Bác nói không chính xác lắm, trung đoàn bộ binh tớ không biết chứ chú tớ ngành Công binh và Thông Tin, ông nào cũng kinh tế ngon cả chỉ biết chú bảo ngành này làm kinh tế được và chú là chủ tài khoản nên kiếm được khá thôi.
 ==========================
 494
-Máy tính
+Hỏi mainboard
 Con mainboard của mình lên website thấy có bản BIOS ghi là hỗ trợ CPU 6 nhân mà vô danh sách CPU hỗ trợ chả thấy con nào hỗ trợ 6 nhân cả, kiểu này muốn dùng Thuban phải đổi mainboard sao ?
 BIOS 1.0 đã hỗ trợ thuban rồi, nhưng vì hạn NDA chưa hết nên chưa thêm vào danh sách CPU hỗ trợ đó thôi.
 ==========================
 495
-Máy tính
+Hỏi card màn hình
 Mình định lấy con này và ECS GTS250 black, nhưng thấy con GTS250 kia còn có 1 cái tản nhiệt RAM ốp đằng sau, ko biết nó có vướng vào quạt tản nhiệt của CPU không nhỉ, gắn vào khe PCI-E sợ không phát huy hết công lực, bác xem hộ em với.
 Gắn vô tư không bị cấn gì đâu bạn cứ yên tâm.
 ==========================
@@ -2474,22 +2479,22 @@ Em muốn cải thiện chiều cào 1m63 khiêm tốn của mình nên tính đ
 Chỗ đó là khỏi nói luôn đấy bạn, đầy hồ luôn chứ chẳng chơi.
 ==========================
 497
-Điện thoại
+Captivate
 Cho em hỏi giá điện thoại Captivate mới 100% thì khoảng bao nhiêu ạ, thấy có nơi thì 8 triệu nguyên seal, 7.8 triệu mới 100%, 7.5 triệu rồi nãy thì lại thấy 6.8 triệu, bác trả lời hộ em cái, và mua Captivate mới 100% ở TP.HCM thì nên mua của ai ạ ? 
 Mua với giá 6.8 triệu là tốt nhất nhưng sẽ khó kiếm, 7 triệu thì dễ kiếm hơn.
 ==========================
 498
-Tư vấn
+Tư vấn laptop
 Không biết chỗ nào bán HP 8570w hàng mới ở TP.HCM nhỉ ?
 laptopcali với dnt đầy đấy bạn.
 ==========================
 499
-Máy tính
+Tư vấn card màn hình
 Bác cho em hỏi cái, em học xây dựng, phần mềm thì bây giờ xài AUTOCAD, chơi vài trò chơi trực tuyến như võ lâm 2, dotA thôi ạ, mỗi ngày xài máy khoảng 5 tiếng, sau này ra trường thì em không biết có dùng thêm phần mềm chuyên ngành nào không, và không biết máy đáp ứng nổi không và với cấu hình máy này có thể giải quyết nhu cầu học tập với giải trí chút đỉnh của em trong khoảng 10 năm nữa không ạ?
 AUTOCAD, trò chơi trực tuyến thì card màn hình HD 4000 chạy tốt, tui dùng cái thời HD 3000 còn chạy nữa là, còn vấn đề 10 năm tới thì hơi khó nói, hay nói đúng ra là 10 năm thì công nghệ nó thay đổi nhanh lắm cứ tính tầm mấy năm Đại học thì nó chắc còn xài được.
 ==========================
 500
-Laptop
+Hỏi laptop
 Cho em hỏi laptop em dùng pin cắm sạc cả ngày như thế này đúng cách chưa nhỉ ?
 Dùng pin thoải mái đi, như máy mình cắm sạc suốt ngày có sao đâu, lâu lâu có việc mới rút ra thôi, bác chăm máy thế nào cũng nản cho xem nên tốt nhất để yên đấy mà xài.
 ==========================

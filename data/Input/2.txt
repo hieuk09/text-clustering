@@ -1,30 +1,30 @@
 ﻿1
-Laptop
-Cho mình mình mới mua con laptop HP Elitebook 8560w thấy dùng máy nóng quá, sử dụng phần mềm kiểm tra nhiệt độ trên máy tính báo 60 độ C, cho hỏi máy có vấn đề gì về phần cứng không ?
+Hỏi laptop
+Cho mình hỏi, mình mới mua con laptop HP Elitebook 8560w thấy dùng máy nóng quá, sử dụng phần mềm kiểm tra nhiệt độ trên máy tính báo 60 độ C, cho hỏi máy có vấn đề gì về phần cứng không ?
 60 độ thì bình thường có gì đâu, nếu bác lo thì đem đi vệ sinh lại máy đi, hoặc kiểm tra xem có dính vi rút không ?
 ==========================
 2
-Laptop
+Hỏi laptop
 Ai đã nâng cấp BIOS cho Elitebook 8460p thì có thể hướng dẫn mình được không ạ ?
 Tải cái bản BIOS trên web hãng về rồi cài như bình thường bác nhé, nhớ cắm sạc đầy đủ.
 ==========================
 3
-Laptop
+Hỏi laptop
 Con Elitebook 8760W lắp được 2 ổ cứng 2.5inch, hàng đi kèm đã lắp 1 con ổ cứng SSD 256GB, chạy thì ngon rồi, nhưng công việc của mình liên quan đến dữ liệu lớn, muốn lắp thêm ổ thứ 2, mình đã mở lắp lưng máy, thấy khe này đang để trống, lắp ổ vào thì thấy có lẽ cần cái khung (hoặc khay) cho nó nữa nên cần hỏi là mua cái khung này ở đâu ?
 Bác tìm bên cửa hàng Caddy Bay nhé, có một số địa chỉ ở Tân Bình và Cao Thắng bán.
 ==========================
 4
-Laptop
+Hỏi laptop
 Con Elitebook 8760W bảo hành 3 năm, và công việc của mình cần xử lý hiệu năng lớn, muốn nâng lên 32GB RAN (hiện giờ đang là 16GB RAM), vấn đề là đã lắp đủ 4 con RAM 4GB vào 4 khe, giờ có thể mang ra hãng để đổi sang 4 con 8GB RAM được không hoặc thay ở công ty nào đó mà không làm mất bảo hành hãng ?
 Nâng RAM bác mua ở ngoài hoặc nhờ cửa hàng nâng, không cần mang ra hãng, nếu bảo hành thì vẫn nhận nhưng không bảo hành linh kiện thay thế ở đây là RAM.
 ==========================
 5
-Laptop
+HP 8570w
 Không biết chỗ nào bán laptop HP 8570w hàng mới ở Hồ Chí Minh không nhỉ ?
 Bác thử hỏi bác Gia Khang bên diễn đàn VOZ xem, bác này bảo nhập về mấy con loại này mà giá rẻ lắm.
 ==========================
 6
-Laptop
+Hỏi laptop
 Bác cho em hỏi sao con 8460p của em dạo này gần hết pin toàn bị sập nguồn, chả báo chả rằng gì cả, lỗi này không biết do pin hay do máy ?
 Lỗi này là do pin chai nhưng Windows báo không chính xác, giả sử pin chai mất 9% nhưng Windows báo vẫn đủ, nên khi pin còn 9% máy sẽ bị sập nguồn trước khi báo. 
 ==========================
@@ -34,7 +34,7 @@ Lấy tất cả những điểm mạnh của các cầu thủ thì sẽ chính 
 So về sự hoàn hảo và toàn diện thì không ai bằng được Adriano thần thánh, có 1 tiêu chí quan trọng mà bạn không nói tới là phong độ, sự ổn định và chú Ronaldo giữ thăng bằng rất kém, rất hay ngã.
 ==========================
 8
-Bóng đá
+Rooney
 Sao danh sách này không có Rooney thần thánh nhỉ ?
 Gã trâu nước đó thì có thể xếp vào nhóm cuối thôi. 
 ==========================
@@ -44,77 +44,77 @@ Falcao có đánh đầu hay cũng không bằng được Rooney.
 Về khoản đánh đầu thì Rooney còn phải gọi Klose bằng sư phụ.
 ==========================
 10
-Bóng đá
+Ibrahimovic
 Ibrahimovic là con nhà võ có khác.
 Mình thích nhất là Ibrahimovic, cái cách cha này ghi bàn thật tuyệt vời.
 ==========================
 11
-Điện thoại
+Hỏi điện thoại
 Nghe nói Galaxy S chạy bị khựng gì đó, có sửa lỗi đó được chưa ?
-Người ta đã sửa rồi và rất dễ dàng.
+Người ta đã sửa rồi và rất dễ dàng .
 ==========================
 12
-Điện thoại
+Hỏi điện thoại
 Muốn root máy điện thoại có dễ dàng như kiểu bấm một nút không hay phức tạp hơn ?
 Có, khá dễ dàng đó bác.
 ==========================
 13
-Điện thoại
+Hỏi điện thoại
 Về pin thì thế nào cho nhu cầu, đọc truyện tranh khoảng 3 tiếng, lướt web 1 tiếng với 3G, thỉnh thoảng nghe nhạc tầm 1 tới 2 tiếng, với màn hình độ sáng 40%, 50%, và ROM nào là chuẩn nhất ?
 Mình đang dùng ROM Darky 10.1 kernel darkcore 2.6 thấy nhanh, pin lâu, có chương trình Voodoo Sound v9 nghe nhạc rất hay.
 ==========================
 14
-Điện thoại
+Hỏi điện thoại
 Bộ nhớ máy chuẩn i9000 là bao nhiêu ?
 Bộ nhớ ROM khoảng vài trăm MB, bộ nhớ cho ứng dụng 1.87 Gb, phần còn lại là thẻ nhớ trong với khoảng 5.6 GB.
 ==========================
 15
-Điện thoại
+Hỏi điện thoại
 HTC Galaxy S có chơi được những game định dạng cao như Need for speed, Asphalt 6, Ninja assasin, PES 11 không ?
 Chơi được hết đó bạn.
 ==========================
 16
-Điện thoại
+Hỏi điện thoại
 HTC Galaxy S có game nào dàn trận như Field runner không, hay là Cut the rope hoặc Fruit ninja có chém được hơn 3 ngón tay không ?
 HTC Galaxy S có thể chém được 5 ngón tay nhé.
 ==========================
 17
-Điện thoại
+Hỏi điện thoại
 Quan trọng hơn hết là HTC Galaxy S có dùng Wifi phát ra từ Connectify được không, mình đọc thấy bảo là Android không cho phép điều đó, anh em giải thích kỹ hộ, tại dùng wifi kiểu này mới tiện, không thì tải trò chơi điện tử bằng 3G tốn tiền lắm.
 Mình chưa thử, tại nhà mình có wifi router rồi.
 ==========================
 18
-Điện thoại
+Hỏi điện thoại
 Máy HTC Galaxy S dùng lâu có nóng không ?
 Hơi nóng nếu chơi trò chơi điện tử 3 chiều hoặc tải cái gì đấy qua 3G lâu.
 ==========================
 19
-Điện thoại
+Hỏi điện thoại
 Màn hình HTC Galaxy S dễ trầy không ?
 Mình không dùng dán màn hình, lớp Chrome quanh máy còn có vết trầy chứ màn hình chẳng hề hấn gì cả, mặc dù để trong túi quần, thỉnh thoảng có trộn thêm chìa khóa và tiền xu.
 ==========================
 20
-Điện thoại
+Hỏi điện thoại
 Bộ phụ kiện chuẩn theo máy HTC Galaxy S gồm những cái gì ?
 Sạc, cáp, tai nghe, hướng dẫn sử dụng.
 ==========================
 21
-Điện thoại
+Hỏi điện thoại
 Cần giới thiệu cho một ROM Cook đáp ứng nhu cầu của mình và chỉ cách làm luôn ?
 Con ROM v5.6 + Kernel Darkcore 2.7, đảm bảo mượt cực kì, còn tìm hiểu thì bạn sang bên tinhte.com ấy, nhiều lắm . 
 ==========================
 22
-Điện thoại
+Hỏi điện thoại
 Mới mua 1 con Samsung Captivate, giờ làm gì để vọc máy các bác nhỉ đây là lần đâu tiên em cầm điện thoại sử dung hệ điều hành Android ?
 Thì vứt vào thùng giặt, giặt xong đem đi sửa tìm cách cho nó sống lại cũng là một cách vọc.
 ==========================
 23
-Điện thoại
+Điện
 Cái đó là cái gì bác nhỉ, gọi là gì để xem mua cái về cho an toàn con điện thoại yêu của mình ? 
 3 con điện trở 100000 ôm mắc nối tiếp, nối được đúng chân ở cái cổng USB là bất kể ra sao cũng kích hoạt được chế độ tải, là đồ tự chế chứ không phải thiết bị gì cả, nếu yêu khoa học thì quậy, chứ nếu thích nhanh thì ra hàng nó cứu cho, chắc 50, 100 ngàn gì đấy. 
 ==========================
 24
-Điện thoại
+Hỏi điện thoại
 Mình mới nâng cấp HTC Galaxy S lên phiên bản 2.3.4, nói chung là không thấy gì khác cả ?
 Có khác đấy, với bản mới độ trễ cảm ứng giảm xuống rõ, giờ không còn thấy khác nhiều so với Samsung Focus nữa, và khi vuốt sang ngang nhìn thấy cả Icon trang bên cạnh, như vậy nó tự nhiên hơn.
 ==========================
@@ -129,12 +129,12 @@ Muốn chuyển qua dùng Android, nhắm được 2 em là Captivate và Vibran
 Thử là biết thôi, vì nếu là nút cảm ứng nó nhạy tới mức nhiều người bực mình bởi lúc chơi các trò chơi chẳng may chạm nhẹ tay vào là bị văng ra ngoài, mà mua nếu không quá coi trọng hình thức thì cứ i9000 mà mua bởi nhiều ROM cũng như bản thân Samsung nó cũng làm ROM mới cho i9000 đầu tiên.
 ==========================
 27
-Laptop
+Vệ sinh laptop
 Bác có biết chổ nào vệ sinh laptop uy tín trên địa bàn TP.HCM không, xài em nó cũng lâu roài, giờ muốn sửa soạn em nó để đón năm mới. 
 Dòng này cứ thoải mái lột đồ em nó ra mà khám phá đi thím, thoải mái đi, cùng lắm là lời mấy con ốc chứ gì đâu.
 ==========================
 28
-Laptop
+Hỏi laptop
 Bác có thể chia sẻ một ít kinh nghiệm thực tế khi sử dụng quạt tản nhiệt cho laptop không, tại mình dùng 8540w đặt trên mặt bàn thì thấy phần ở gần ổ cứng khá nóng.
 Máy bác chạy lâu thì kiếm lấy cái đế tản nhiệt kê vào thì thoáng hơn, nhưng mà nên chế lấy một cái nguồn rời đầu USB cho quạt tản nhiệt, chứ nó lấy nguồn từ mạch USB thì về lâu dài cũng không hay đâu ạ, còn kê cao thì phải kê kiểu gì chứ, nhiều ông lấy quyển sách kê vào dưới máy bịt kín lỗ thông hơi vào thì còn lởm hơn. 
 ==========================
@@ -144,52 +144,52 @@ Clip hướng dẫn của bác làm bằng những phần mềm gì thế chia s
 Chương trình Adobe After Effect đó bác.
 ==========================
 30
-Laptop
+Bảo hành
 Em mang qua laptopcali để bảo hành hôm thứ 6 ngày 14 bác ạ, nhưng phải chờ đến thứ 2 vừa rồi các bác ấy mới mang qua HP được, đến nay vẫn chưa có tin, mong là sẽ suôn sẻ.
 Kinh nghiệm các bác mang đi bảo hành thì mang đầu tuần ấy, mang thứ 6 thì nhanh thứ 2, chậm thì thứ 4 mới được lấy máy, mình lần đầu mang đi thứ 6, tối về không có máy điên luôn, đến chiều thứ 2 gần tối rồi bên đó gọi mình cũng chạy vèo đi lấy vì giờ thiếu laptop nó cứ sao sao ấy không chịu nổi. 
 ==========================
 31
-Laptop
+Vệ sinh laptop
 Dạo này mình cảm giác là con laptop 8560w của mình nóng hơn bình thường thì phải, không biết là có phải vệ sinh lại không nhỉ, mình mua bên songvietlaptop được gần 1 năm rồi, chả có lỗi gì hết, chỉ có cái GPU nóng quá khi chơi game.
 1 năm là làm vệ sinh được rồi, bác mang qua mình làm vệ sinh với trét keo tản nhiệt lại nhé, dòng này card màn hình mạnh nên quạt thổi nhiều, nhanh bẩn lắm. 
 ==========================
 32
-Laptop
+Hỏi laptop
 Cuối tuần em xách qua bác giúp em sửa laptop nhé.
 Hỗ trợ miễn phí mà, bác cứ thoải mái đi.
 ==========================
 33
-Laptop
+Hỏi laptop
 Các bác cho em hỏi, em dùng con HP 8460p i7 card màn hình rời, em mới cài bản Windows 8 Enterprise mà giờ thiếu driver, vậy giờ phải cài driver thế nào đây các bác, tải driver ở đâu giờ, cái card rời là 6470M mà Windows 8 nó tự cài thành 7400M liệu có ổn không ? 
 Ổn, card màn hình 6470M lúc ra mắt theo Series 7000M thì được AMD Rename thành 7450M, driver hiện giờ của bạn báo là 7400M Series thì nó sẽ mới hơn cái driver nhận là 6470M đấy.
 ==========================
 34
-Laptop
+Hỏi laptop
 Các bác cho em hỏi với, em dùng Elitebook 8440p, dùng cũng được 2 năm rồi, máy móc thì không sao, tự dưng cái chuyển đổi điện bị hỏng, em thay cái mới cùng chân cùng hãng ở ngay gần nhà, vào chơi Dota 2 với NBA 2K13 thì giật, cho em hỏi đấy có phải do cục chuyển đổi điện không ?
 Cục chuyển đổi điện có nhiều loại lắm, chất lượng khác xa nhau, nếu máy có card màn hình rời thì xài cục 90w còn card của Intel thì 60w, mua cục chuyển đổi điện nên mua loại tốt thì máy mới ổn định được bác ạ.
 ==========================
 35
-Laptop
-Bác ơi sao con Elitebook 8460p của em không bật wifi được, cái nút wifi nó sáng đỏ không à, không biết bị sao nữa, lúc trước nó xài bình thường mà.
+Hỏi laptop
+Bác ơi sao con Elitebook 8460p của em không bật wifi được, cái nút wifi nó sáng đỏ không à, không biết bị sao nữa, lúc trước nó xài bình thường mà ?
 Mình cũng bị như bạn, xoay đủ kiểu không hết, cuối cùng đưa đi bảo hành, kết quả là được thay cái Mainboard mới.
 ==========================
 36
-Laptop
+Loa laptop
 Mà sao loa con Elitebook nghe dở quá, có cách nào làm nó nghe hay hơn được không nhỉ ?
 Mua KOSS KSC35 hoặc KOSS KSC75 như mình đi bạn, nghe đã lắm. 
 ==========================
 37
-Laptop
+Pin laptop
 Ai cho em hỏi em cắm nguồn vào dùng laptop sau 1 thời gian tầm nửa ngày thấy pin giảm tầm 0.8%, vậy là do pin tự xả à ?
 Sao bác đo được 0.8% tài thế ?
 ==========================
 38
-Laptop
+Elitebook
 Cho em hỏi vấn đề này với, xét về độ bền bên ngoài thì em không nói ở đây, em chỉ thắc mắc chất lượng bên trong thôi, bác xài Elitebook thấy có hay bị hư lặt vặt như loa, màn hình, ổ cứng, có hay bị treo máy hay chạy chậm không, xin bác công tâm nói rõ cho thằng em biết với ?
 Con Elitebook của mình thì mới dùng 3 tháng chưa nói được gì nhiều, nhưng em DV5T trước đó thì chạy ngon lành 3 năm rồi và vẫn đang chạy tốt, chưa hỏng hóc 1 món gì cả chỉ có màn hình LCD là cảm giác hơi vàng hơn thôi.
 ==========================
 39
-Laptop
+Hỏi laptop
 Laptop của mình màn hình không thấy nhấp nháy gì cả, bật lên thấy vẫn sáng đèn, nhưng màn hình đen thui, cắm cáp card màn hình vào xuất ra máy chiếu hay màn hình LCD ngoài cũng không lên. 
 Thì chắc là hư Mainboard rồi, làm sao xuất gì nữa.
 ==========================
@@ -199,12 +199,12 @@ Bác nói rõ về phần mềm 3D Drive Guard được không ạ, em thấy c�
 Nó là phần mềm chống sốc cho ổ cứng, nếu bác tháo ra thì lúc laptop bác đang làm việc mà laptop bác cứ lắc hay để trên đùi thì ổ cứng của bác teo chắc, nếu gỡ ra rồi thì khả năng ổ cứng của bác bị Badsector vài chỗ, không thể phục hồi cách duy nhất là cắt những chỗ hư đó đi chấp nhận ổ cứng bị giảm đi 1 tí dung lượng.
 ==========================
 41
-Laptop
+Ổ cứng
 Tình hình là em có được 1 cái Caddy và 1 ổ cứng SSD 2.5inch, giờ em tháo ổ 500GB ra bỏ vào Caddy và cho ổ cứng SSD vào laptop thì làm sao để chuyển Windows từ ổ cứng 500GB theo máy vào ổ cứng SSD hả bác ?
 Nếu thay ổ cứng thì bác chỉ việc đem cái ổ cứng qua máy bàn, Gùng ghost để chép các phân vùng cho nhanh, chỉ khoảng 1 tiếng là xong nếu dữ liệu khoảng 500GB, nhưng chắc là ổ cứng SSD nên chắc bác có ít dữ liệu, quá trình sẽ nhanh hơn. 
 ==========================
 42
-Laptop
+Loa laptop
 Bác cho em hỏi, máy em đang dùng là Elitebook 8440p ạ, sau mấy lần em nghe nhạc vặn hết cỡ âm lượng thì vẫn bình thường, nhưng bây giờ em vặn to hết cỡ thì máy nó lại bị rè, có cách nào cứu vớt được không ạ ?
 Loa bác hư vậy thì gần như không thể cứu vớt, không có loa nào được thiết kế để nghe âm lương tối đa cả bác ạ, nghe âm lượng tối đa nhiều loa nó sẽ bị rè, bác thử burn-in nó xem, nhiều khi hên cứu lại được.
 ==========================
@@ -214,7 +214,7 @@ Axít
 Axít đâu mà axít hả bác, em nghĩ đấy là nước bọt đấy.
 ==========================
 44
-Laptop
+Loa laptop
 Cái nắp đậy dưới đít máy của em nó bị lỏng bác ạ nên khi mở loa to thì nghe như bị rè rất ức chế, có cách nào khắc phục không bác ? 
 Không có đâu, loa dòng này thiết kế có một bên mở nó rung rung cái màng nên máy nào cũng rè cả.
 ==========================
@@ -224,87 +224,87 @@ Bác dùng kiểu gì mà sắp hỏng sạc laptop thế ?
 Chắc tại em hay cho nó rơi xuống đất quá.
 ==========================
 46
-Laptop
+Hỏi laptop
 Chỗ bạn có docking second hand cho dòng 2540p không, docking 2530p có sử dụng được cho 2540 không ?
 Để mình kiểm tra lại bác nhé, loại này lâu rồi không biết để ở ngóc ngách nào, docking của 2530p khác của 2540p bác ạ.
 ==========================
 47
-Laptop
+Hỏi laptop
 Cho em hỏi con 8460p của em cái tấm nhựa đen ốp màn hình ở bên viền trái nó bị kiểu như hở ý, bình thường để dùng thì chẳng ảnh hưởng gì nhưng lâu lâu ngứa tay bóp nó vào thì nghe tiếng tách rất khẽ, không biết bên mình có hỗ trợ về khoản này không nhỉ để hôm nào rảnh em xách lên trước khi nghỉ tết, tiện thể bác cho em hỏi luôn máy còn bảo hành mà muốn vệ sinh thì bên mình có hỗ trợ luôn không?
 Làm vệ sinh vô tư bác ạ, làm vệ sinh dòng này đơn giản lắm, cái tấm ốp nó là nhựa ở trong có băng dính 2 mặt hoặc là lẫy, nó cũng không ảnh hưởng gì đâu vì miếng đó không phải miếng chịu lực bác ạ, cứ kệ nó thôi, xử lý thì cũng được nhưng tháo ra lắp vào chưa cần thiết.
 ==========================
 48
-Laptop
+Tư vấn laptop
 Mình học xây dựng dân dụng thì nên lấy con laptop 8460p có card màn hình rời hay 8470p card onboard hả bác, mà nên lấy cái ổ cứng SSD 180 không nhỉ ?
 Xây dựng thì nên mua dòng 15inch bác ạ, dòng 15inch màn hình đẹp hơn với lại card màn hình mạnh hơn chứ dòng 14inch thì card màn hình yếu lắm.
 ==========================
 49
-Máy tính
+Hỏi máy tính
 Tình hình là 2 cái cổng USB 3.0 của em chỉ nhận USB mà không nhận chuột với máy in thì xử lý thế nào hả các thím ?
 Bác dùng hệ điều hành gì đấy bác, thử cài lại driver xem.
 ==========================
 50
-Laptop
+Hỏi laptop
 Em laptop 8460p của mình thỉnh thoảng bị đen màn hình, hoặc nhòe nhoẹt một cái rồi đơ luôn, nhưng nếu đang xem video hay nghe nhạc trên web thì vẫn nghe thấy tiếng, chỉ là không nhìn thấy gì thôi, như thế là bị bệnh gì vậy ?
 Chắc cáp nối màn hình bị lỏng, tháo ra lắp lại thử xem, nếu vẫn bị thì mang ra cửa hàng, cái màn hoặc cái card đồ họa có vấn đề rồi bác ạ.
 ==========================
 51
-Laptop
-Máy với móc chán nhất là cài driver cho laptop HD, bộ cài gì mà bung ra mấy GB lận, phiền phức, bộ phục hồi đi kèm đến tận 16GB mà khi bung ra bằng đĩa boot cũng chẳng cài sẵn driver, không biết lúc tạo bung Windows thì nhà máy làm thế nào nhỉ ?
+HP
+Máy với móc chán nhất là cài driver cho laptop HP, bộ cài gì mà bung ra mấy GB lận, phiền phức, bộ phục hồi đi kèm đến tận 16GB mà khi bung ra bằng đĩa boot cũng chẳng cài sẵn driver, không biết lúc tạo bung Windows thì nhà máy làm thế nào nhỉ ?
 Trời, cài driver cho máy HP là đơn giản nhất trên đời rồi mà bạn, cài Windows xong thiếu cái nào thì lên web HP thôi, tải chi cho đủ bộ, cài cho máy Sony mới cực bạn ơi.
 ==========================
 52
-Laptop
+HP
 Laptop HP chưa bằng Lenovo đâu, cài phần mềm Lenovo manager vô nó tự nâng cấp tất cả gì còn thiếu luôn.
-Hp có Softpaq download manager mà, tuy chưa bằng Thinkpad nhưng cũng ổn rồi mà cái phần nâng cấp hệ thống của Lenovo nhiều cái nó cũng chả tự cài được, đặc biệt là mấy dòng máy tính bảng X, muốn cài đủ là cũng phải mày mò thêm.
+HP có Softpaq download manager mà, tuy chưa bằng Thinkpad nhưng cũng ổn rồi mà cái phần nâng cấp hệ thống của Lenovo nhiều cái nó cũng chả tự cài được, đặc biệt là mấy dòng máy tính bảng X, muốn cài đủ là cũng phải mày mò thêm.
 ==========================
 53
-Máy tính
+Ngân hàng
 Sao em nâng cấp lên Windows 8 lại không thanh toán được nhỉ, dùng thẻ Visa của Vietcombank, cái số thẻ là điền số tài khoản hay điền số ghi trên thẻ các bác nhỉ?
 Số ghi trên thẻ nhé.
 ==========================
 54
-Laptop
+Tư vấn laptop
 Mình đang định mua con 2560P hàng mới giá tầm 12 triệu, cấu hình i5 2xxx, 4GB RAM, theo bác có nên không ?
 Nói chung là ngon.
 ==========================
 55
-Laptop
+HP
 Mà tụi HP vẫn chưa nâng cấp drivers cho Windows 8 nữa, làm ăn chậm chạp quá, hay do BIOS chưa nâng cấp lên bác nhỉ, của mình là bản F28 là mới nhất của HP rồi.
 HP chỉ hỗ trợ 1 năm thôi, qua 1 năm lố 1 ngày mà Windows 8 có ra thì cũng đừng mong có driver, máy mình lố 1 tháng phải đi lụm lặt driver của đủ các dòng máy khác cài vô đây, rất may là vẫn đủ.
 ==========================
 56
-Laptop
+Hỏi laptop
 Định cài Windows 8 cho con laptop HP2540p, liệu các driver Windows 7 có ổn với Windows 8 không ?
 Bác chỉ cần cài driver cho âm thanh, Touchpad, Quick launch vào thôi, còn lại thì ổn hết.
 ==========================
 57
-Laptop
+Hỏi RAM
 Laptop mình đang có 1 thanh RAM Hynix 4GB 1600, giờ mua thêm 1 thanh RAM Samsung 4GB 1600 sợ không tốt, trước bị vụ cắm lệch hãng hãi rồi.
 Cắm lệch hãng là dùng RAM của 2 hãng khác nhau hả bạn, bị xung đột gì hay sao ?
 ==========================
 58
-Laptop
+Bảo hành
 Bác ơi cho em hỏi, gửi máy lên bảo hành ở hãng HP trên Hà Nội thì có sợ bị luộc đồ không, con 8460p của em hỏng microphone mà 1 tuần rồi chưa nhận lại được.
 Họ cho thêm bạn chả hết chứ luộc đồ của bạn làm gì hả trời.
 ==========================
 59
-Laptop
+Hỏi laptop
 Em muốn hỏi là làm sao để khi bật Wifi mà không bật Bluetooth khi dùng 8460p ?
 Dùng chương trình HP power assistant, vào cấu hình cần thiết rùi chọn advance, có tùy chọn tắt bluetooth đó bạn, trong này bạn có thể xây dựng khả năng quản lý nguồn điện tiêu thụ của máy. 
 ==========================
 60
-Laptop
+Bảo hành
 Mình sắp nhờ người thân mua 1 chiếc laptop Elitebook 8460p đã sửa rồi, bảo hành toàn cầu 1 năm, không biết khi về Việt Nam bảo hành ở đâu các bạn nhỉ ?
 Bảo hành ở trung tâm bảo hành HP như máy mới, hãng không phân biệt bảo hành hàng mới hay hàng sửa rồi.
 ==========================
 61
-Laptop
+Hỏi laptop
 Con 8440p của mình có 1 vệt tròn nếu để màn hình màu đen thì không thấy, còn đâu để màu khác thì thấy nó có màu trắng, đường kính to hơn que tăm 1 chút, liệu như vậy có được bảo hành không ?
 Xem chỗ đấy có phải vết của trackpoint in lên màn hình không ?
 ==========================
 62
-Laptop
+Hỏi laptop
 Bác cho hỏi, con 8540w chơi trò chơi trực tuyến có ngon không, em đang tính mua con này, nhìn nó đẹp quá.
 Trò chơi trực tuyến thì ăn thua gì bác, card màn hình Intel HD onboard còn chiến nổi mà, quan trọng RAM nhiều để cày nhiều tài khoản thôi, mình đang chơi Crysis 2 chỉnh cấu hình thấp nhất chơi đã quá luôn nè.
 ==========================
@@ -314,17 +314,17 @@ Bác có cái wallpaper nào đẹp không chia sẻ em với ?
 Bác thích wallpaper theo chủ đề gì?
 ==========================
 64
-Laptop
+Hỏi laptop
 Máy mình hay có tình trạng khởi động máy lên thì thường hay đứng ở màn hình hiện logo của HP, phải tắt rồi bấm lại nó mới vào Windows được, chỉ mình cách khắc phục với.
 Máy mình cũng bị đứng như vậy nhưng đợi một lúc là nó vô à, có lẽ bạn phải kiên nhẫn đợi thêm 1 chút. 
 ==========================
 65
-Máy tính
+HDMI
 Bạn biết mua cổng chuyển card màn hình sang HDMI ở Hà Nội ở đâu không, và giá thế nào ?
 Chỉ có DP sang HDMI chứ card màn hình sao sang HDMI được bác, giá thì tầm 600 ngàn hơn thì phải.
 ==========================
 66
-Laptop
+Webcam
 Webcam thì họa hoằn lắm mới dùng, vân tay lúc đầu có thể thấy thích, cài đặt để lòe nhau, được thời gian cũng chán à bác. 
 Nên có webcam bác à, sẽ có lúc bác sẽ hối tiếc đó.
 ==========================
@@ -334,14 +334,14 @@ Dell mới ra 3 con laptop EliteBook 8460w, 8560w và 8760w mới, coi bộ cũn
 Mình thấy xấu hơn đời hiện tại. 
 ==========================
 68
-Laptop
+Webcam
 Dùng webcam để đăng nhập laptop nhanh thật nhưng mà đợi nó hiện ra lâu kinh khủng đi được. 
 Đúng rồi đấy, hiện lâu quá.
 ==========================
 69
 Laptop
 Trò chơi điện tử thì mình cũng không chơi nhiều lắm, đang xài máy G51JX X1 mà những trò nặng chả bao giờ đụng đến, máy này chơi game vừa vừa chắc được, các ứng dụng đa phương tiện thì để hôm nào đi xem thực tế đã, hôm nọ đi học thấy trong trường có 1 thằng xài con này trông sang cực. 
-Đúng đó bác, tới đó xem kỹ rồi quyết định, nếu thỉnh thoảng chơi giải trí thì em này dư sức đáp ứng.
+Đúng đó bác, tới đó xem kỹ rồi quyết định, nếu thỉnh thoảng chơi giải trí thì em này dư sức đáp ứng .
 ==========================
 70
 Laptop
@@ -349,127 +349,127 @@ Cần gì mua quạt tản nhiệt, mình thấy con laptop này rất mát mà 
 Mọi người thấy mát chứ mình ngồi với em nó buổi trưa sờ lên chỗ để tay là nóng lắm ấy.
 ==========================
 71
-Laptop
+Hỏi laptop
 Cho mình hỏi Elitebook với dòng p hoặc w thì có khác nhau nhiều không nhỉ, ví dụ như 8540p với 8540w ?
 Cũng khác nhưng không nhiều lắm, dòng w cấu hình cao và sức mạnh hơn, dòng p thì hơn ở thời lượng pin.
 ==========================
 72
-Laptop
+Pointstick
 Bạn đã dùng thử mấy con Elitebook 8x70p chưa, thấy cái Pointstick có nhẹ nhàng mềm mại không, mình có con 8460p cái Pointstick khó chịu quá.
 Pointstick xài sướng lắm mà, bác chỉnh tốc độ lên chưa ?
 ==========================
 73
-Laptop
+RAM
 Em vừa mua máy Eiltebook, RAM 1600 trong khi máy hỗ trợ có 1333, chả hiểu bọn HP nghĩ gì, hi vọng khi nâng cấp BIOS lần sau nó hỗ trợ 1600.
-Có gì lạ đâu, RAM BUS 1600 vẫn chạy được ở 1333 mà; có ảnh hưởng gì đến performance của máy đâu là lăn tăn 
+Có gì lạ đâu, RAM BUS 1600 vẫn chạy được ở 1333 mà, có ảnh hưởng gì đến performance của máy đâu mà lăn tăn .
 ==========================
 74
-Laptop
+Hỏi laptop
 Cho mình hỏi luôn con HP EliteBook 2740p đó giá thấp nhất hiện giờ là bao nhiêu vậy ạ ?
 Cỡ chuẩn của laptop thường là xung quanh 14inch, các máy to hơn hay nhỏ hơn đều đắt hơn, hơn nữa cái 2740p là máy tính bảng lai máy tính bàn mà bác, làm gì có giá rẻ.
 ==========================
 75
-Laptop
+Bluetooth
 Máy laptop 8440p của em sao đã cài đầy đủ driver bluetooth rồi, đã bắt cặp với điện thoại rồi mà sao lúc gửi nó cứ báo là không tìm thấy thiết bị vậy bác, em thử trên cả BB8820 và Nokia 3110c đều thế cả.
 Lỗi này hình như bắt cặp được, nhưng sau đó sẽ bị mất cặp đó đi, bạn nên xóa driver bluetooth đi sau đó khởi động lại máy và cài lại bạn ạ.
 ==========================
 76
-Laptop
+Ổ cứng
 Sao không lắp ổ cứng SDD lắp vào chỗ khay DVD, giữ nguyên trạng cái ổ cứng vì có chống sốc 3D mà ?
 Hình như khác ở thứ tự bác ạ.
 ==========================
 77
-Laptop
+Hỏi laptop
 Hôm nay cũng mới lấy em HP bảo hành về, qua lấy máy hỏi ông trả máy là máy em bị sao thì ông ý cũng bảo là thay Mainboard thôi, thế sao thay Mainboard mà vẫn sêri cũ thì ông ý bảo thế mới là bảo hành chính hãng chứ anh, mang đi bào hành mà nhận về đồ khác thì còn gì là chính hãng nữa, thôi thì cám ơn các bác em về.
 Chắc nhà sản xuất biết cái Mainboard đó sẽ hỏng nên làm 1 cái y như thế để dự phòng trước cho bác rồi. 
 ==========================
 78
-Máy tính
+Hỏi máy tính
 So sánh 2 con chip i7 2670QM 2.2GHz với i7 2620M 2.7Ghz thì thế nào nhỉ ?
 2670QM có threading 4 nhân 8 luồng nên là 4 nhân ảo và 4 nhân thật, còn 2620M có threading 2 nhân 4 luồng nên là 2 nhân ảo và 2 nhân thật, rõ ràng là 2670QM mạnh hơn nhiều, nhưng mà theo trình còi của em thì mấy thao tác thông thường thì không vượt trội hơn đâu vì không phải ứng dụng nào cũng tận dụng được 4 nhân thật, và vì 2620M xung cao hơn nên không khéo đôi khi thấy mượt hơn. 
 ==========================
 79
-Laptop
+Hỏi laptop
 Bác cho em hỏi, con Elitebook 8460p của em từ hôm đi bảo hành về bị sao ý, cứ tắt máy đi thì nó tự khởi động lại, hibernate thì 1 lúc tự bật, đại khái là giờ muốn tắt chỉ còn cách tháo pin thế là bi gì vậy, em tưởng lỗi Windows, cài lại, được vài hôm lại bị tiếp.
 Mang đi bảo hành tiếp thôi bác.
 ==========================
 80
-Laptop
+Elitebook
 Mà thực sự lần này mà phải mang đi bảo hành nữa thì đúng là không còn tí niềm tin gì vào siêu bền với chả siêu thấm siêu thoáng gì nữa ráo, mình mua cho vợ con laptop Acer có 12 triệu cách đây cả 3 năm, dùng chả thấy bị gì, mình mua Elitebook, quảng cáo loạn xị lên mà bảo hành liên tục thế thì mặt mũi đâu mà nhìn vợ nữa, chán, chả nhẽ bảo hành 3 năm thì cả 3 năm đều mang đi bảo hành sao, hay tại số tôi đen ?
 Chắc số bạn xui quá rồi, mình xài qua mấy con Elitebook, rơi đủ kiểu, mà đã con nào hỏng đâu.
 ==========================
 81
-Laptop
+Hỏi laptop
 Bác cho em hỏi cái, mấy con Elitebook dòng p có thể sử dụng liên tục thời gian khoảng 1 tuần không ạ, 8460p hay 8470p ấy ?
 Máy mình xài được 2 năm rồi, chỉ có tối mình ngủ là cho nó ngủ thôi mà vẫn sống nhăn răng này.
 ==========================
 82
-Laptop
+Hỏi laptop
 Bác ơi, cho em hỏi, em có con HP 8510p, phòng trọ có truyền hình cáp, vậy có thiết bị gì để kết nối laptop và truyền hình được không, em máu xem bóng đá quá.
 Mua TV Box nhé.
 ==========================
 83
-Máy tính
+Hỏi CPU
 Các bác cho em hỏi là con chip Core i5 3360M với 3320M sức mạnh chênh nhau có nhiều không ạ ?
 Chênh nhau 200Mhz, có nhưng không đáng kể, gần như không nhận ra được nếu không benchmark.
 ==========================
 84
-Laptop
+Hỏi laptop
 Các bác cho hỏi em mua con 8460P được hơn 1 năm, mà dạo gần đây mới để ý khi ổ cứng chạy cứ nghe tiếng lạch tạch rất nhỏ, như thế có bình thường không hả các bác?
 Kêu lạch tạch là có vấn đề rồi, máy bảo hành 3 năm thì đi bảo hành đi thôi.
 ==========================
 85
-Laptop
+Hỏi laptop
 Bác nào dùng Elitebook đang dùng Windows 8 như em không ạ, em gặp vấn đề khá nghiêm trọng là mỗi khi dùng máy gần hết pin, cắm sạc vào là máy chạy rất chậm, mặc dù đã để chế độ High Perfomance, duyệt web cũng không nổi. 
 Bác thử nâng BIOS lên bản mới nhất xem sao, nếu không cải thiện có thể bản Windows bị lỗi
 ==========================
 86
-Laptop
+Hỏi laptop
 Em có thắc mắc là em đang dùng elitebook 8470p sử dụng ổ cứng 500Gb, định dạng mặc định nó là MBR nay muốn xài UEFI thì phải chuyển thành GPT, nhưng mà em không biết chuyển thế nào lên GPT, nếu chuyển phải format hết thì sợ mấy phân vùng nhỏ khoảng 300mb của hệ thống bị xóa đi thì có thể không boot được nữa. không biết làm sao để sử dụng UEFI với Windows 8?
 Từ MBR lên GPT thì bắt buộc phải xóa hết ổ cứng rồi, vì GPT cần 1 phân vùng EFI Partiion khúc đầu, cứ xóa hết đi rồi cài lại, chỉ mất cái phân vùng hồi phục của HP thôi.
 ==========================
 87
-Laptop
+Hỏi laptop
 À cho hỏi, máy laptop của mình nó có 1 cái phần trống khoảng 5GB, vào phần thiết bị thì thấy nó để là ACATEL Mass Storage, cho mình hỏi phần này là gì vậy và nó là thiết bị nào của máy ?
 Cái này là bộ cài đặt driver của Card 3G WWAN thì phải.
 ==========================
 88
-Laptop
+Hỏi laptop
 À cho mình hỏi thêm, con laptop 8560w của mình mỗi lần khởi động máy là phải rút hết mấy thiết bị đang cắm cổng USB ra, nếu không nó treo máy luôn ở logo HP có cách nào sửa cái này không ta ?
 Thiết bị gắn ngoài có vấn đề nên nó mới bị treo lúc khởi động nhé, ổ cứng di động WB 1TB cũ của mình bị hư nên cắm vào nó cũng bị vậy.
 ==========================
 89
-Laptop
+Hỏi laptop
 Em muốn hỏi là cái độ sáng tối màn hình của em sao nó chỉ có 2 chế độ sáng và tối thôi, rất bực, em mới dùng laptop lần đầu mong giúp đỡ.
 Bác cài đầy đủ driver và cái HP quick lauch vào, mó có chế độ tự động điều chỉnh độ sáng tối dựa vào cảm biến ánh sáng nếu thích bác tắt đi điều chỉnh tay.
 ==========================
 90
-Laptop
+Tư vấn laptop
 Nhu cầu của em là làm CAD trước em dùng con t61 chạy cũng được, nhưng em nó mới đổ bệnh card màn hình lăn quay ra chết, đi sửa rồi nhưng lại không chịu được nhiệt độ em kiểm tra bằng mấy bộ phim định dạng cao nên lăn quay tiếp, giờ chán mà kinh tế tầm 10 triệu đang thích đổi sang HP vì chán Thinkpad của Lenovo và cũng ngán mấy ông Dell Latitude cũng hay chết card màn hình ,bác thấy em dùng 6930p có được không hay phải lên máy trạm nào tầm tầm như 8530w ?
 6930p cũ quá rồi, giá giờ chỉ hơn 5 triệu thôi, tầm 10 triệu mua được 8440w đó bạn.
 ==========================
 91
-Laptop
+Ổ cứng
 Mình đang xài 8540w, mình mới ghost Windows nhưng tốc độ quá chậm chỉ có cỡ 168MB trên 1 phút, cái này có phải do ổ cứng bị lỗi không ?
 Muốn biết ổ cứng có bị lỗi hay không thì bác dùng phần mềm kiểm tra và quá trình sử dụng thấy có gì khác thường mới biết chứ ghost lúc nhanh lúc chậm mà, thậm chí chế độ bác nén để cao thì lúc bung tâp tin ghost nó cũng lâu hơn mà.
 ==========================
 92
-Laptop
+Tư vấn laptop
 Bác cho em hỏi con 8560w chip I7, RAM 8g, card màn hình Nvdia Quadro m1000, ổ cứng 320GB giá bao nhiêu được không, và địa điểm mua nó nữa ?
 24 tới 25tr mua cấu hình I5 AMD M5950 thôi, card màn hình ngon hơn, CPU có thể nâng sau, mà thiết nghĩ nên nâng ổ cứng SSD trước, mà đùa chứ giá đó bác nên xem hàng gần mới ấy, chọn được khối con ngon hơn, giá tầm 22 triệu thôi là được W520 rồi.
 ==========================
 93
-Tư vấn
+Tư vấn CPU
 Em học kiến trúc quy hoạch hay sử dụng các phần mềm đồ họa, liệu i5 có dùng được không ạ, bác tư vấn giúp em 1 con máy trạm với, nghe bạn bảo loại máy này làm việc mới được nên minh cũng thích, càng nhiều con tham khảo càng tốt nha.
 CPU chủ yếu để dưng hình hay xuất thành ra sản phẩm thôi bác, ví dụ chương trình tính toán nhiều, chạy máy ảo thì mới dùng CPU nhiều, còn chạy các chương trình đồ họa thì card màn hình mới đóng nhân tố chính, khi bác làm nó không bị giật mà hình ảnh nó chuẩn xác hơn, dòng 15.6inch thì từ W520, M4600, 8560w xếp theo chất lượng máy.
 ==========================
 94
-Laptop
-Bác cho em hỏi con 8560w chip I7, RA 8g, nvdia quadro m1000, hdd 320g gia bao nhjeu dc ko? Địa điểm mua. E xem ben laptopcali ma mắc quá tận 30 củ, mà e chỉ có khoang 24, 25 tr. Các bác giup e voi kết con nay quá à.
-Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+Tư vấn laptop
+Bác cho em hỏi con 8560w chip I7, RA 8g, nvdia quadro m1000, ổ cứng 320 GB giá bao nhiêu được không, và địa điểm mua nữa, em xem bên laptopcali mà mắc quá tận 30 triệu, mà em chỉ có khoang 24, 25 triệu thôi .
+Bác ráng đầu tư thêm chút nữa đi thì mới mua được một con tốt .
 ==========================
 95
-Máy tính
+Hỏi card màn hình
 Anh cho em hỏi cái GPU chắc cũng không liên quan đến việc chạy phần mềm có mượt hay không đâu phải không, em xác định mua máy để học tập, tìm hiểu lập trình mà thôi, lâu lâu chỉ dựng video nhỏ sơ sài thì GPU cũng chẳng nhằm nhò gì phải không ạ ?
 GPU tùy phần mềm mới phát huy tác dụng thôi bác.
 ==========================
@@ -479,7 +479,7 @@ Ai đăng kí sau phải gọi người đăng kí trước là sư huynh nhé
 Máy thằng nào khủng nhất thì thằng đấy là sư huynh.
 ==========================
 97
-Laptop
+Elitebook
 Bác có biết thông tin khi nào thì Elitebook 8560w, 8460w và 8760w ra không vậy ?
 Mấy bác bán hàng nói là tháng 6 sẽ về tới Việt Nam.
 ==========================
@@ -489,17 +489,17 @@ Chúc mừng năm mới, tết vui không anh em?
 Năm nay chả ai lì xì.
 ==========================
 99
-Laptop
+Hỏi laptop
 Em mới sắm con 8460p nhưng dính một vài bệnh nhỏ sau, không dùng touchpad để cuộn khi làm việc được dù đã cài cái phần mềm Synaptics, thiết bị kiểm tra vân tay không nhận driver và không tăng giảm độ sáng màn hình bằng cách nhấn phím fn với f9 được, dù dùng nó để tăng giảm âm lượng loa vẫn được, bác có biết vì sao không thì chỉ em ?
 Có thể do bác cài driver không đúng, bác kiểm tra lại xem cài đủ hết chưa ?
 ==========================
 100
-Laptop
+Hỏi laptop
 Con 8540w của em chạy bình thường nhiệt độ CPU tầm 57 độ, liệu có nóng quá không nhỉ ? 
 Bình thường, mình chạy toàn từ 87 tới 90 độ C còn cóc lo nữa là.
 ==========================
 101
-Laptop
+Vệ sinh laptop
 Bác dùng laptop mà thấy nhiệt độ cao quá thì nên đem máy đi vệ sinh đi, tuy dòng này trâu bò thật nhưng dùng lâu ngày bên trong bẩn lắm, ảnh hưởng tới tuổi thọ máy, bụi là kẻ thù số một của máy tính.
 Bình thường lướt web, tác vụ văn phòng cũng chỉ cỡ 43 tới 50 độ C thôi bạn, nhưng khi nào tính toán lớn thì nó mới lên cao như vậy, đấy là đã dùng thêm U2 quạt để bớt vài độ đi rồi đó.
 ==========================
@@ -514,17 +514,17 @@ Cho em hỏi là làm việc ở Lotteria 1 tuần phải làm bao nhiêu ngày 
 Không ép buộc nhé, mình thường thì làm 3 tới 5 ca, nếu bạn rảnh nhiều thì có thể làm nhiều ca hơn, nếu bạn bận cả tuần thì nghỉ cả tuần, chả sao cả. 
 ==========================
 104
-Laptop
+Hỏi laptop
 Bác cho em hỏi máy Elitebook hoạt động hằng ngày chỉ lướt web và dùng Excel thì tầm 38 tới 40 độ có gọi là chuẩn không ạ ?
 Thế là bình thường thôi, Elitebook nhiều người còn xài cả tuần không tắt ấy chứ.
 ==========================
 105
-Laptop
+Hỏi laptop
 Bạn cho mình hỏi 1 chút với, tình hình là mình mới mua 1 con HP 8440p, màn hình độ phân giải 1600x900, khi dùng thì màn hình máy bị nháy nháy chuyển từ sáng sang tối hoặc ngược lại, ban đầu mình tưởng do cái cảm biến ánh sáng nên đã vào BIOS tắt đi, nhưng khi dùng vẫn bị hiện tượng trên, khi đang dùng hoặc để yên máy không làm gì vẫn bị hiện tượng trên tuy nhiên phải quan sát kỹ mới thấy, không biết có phải máy mình bị hỏng không nữa để đem đi đổi hoặc bảo hành vì máy mình mới mua được 2 tuần.
 Theo mình thì là do cái chế độ tiết kiệm pin của Windows 7.
 ==========================
 106
-Máy tính
+AMD
 Cái này là nâng cấp cho mấy cái card màn hình ATI ấy, chứ đâu phải chip AMD đâu.
 AMD mua lại thương hiệu ATI rồi bạn, nên giờ card đồ họa gọi chung AMD hết.
 ==========================
@@ -534,43 +534,43 @@ Máy laptop mua chưa được 6 tháng mà tự nhiên đêm nay, khuya thanh v
 Đập luôn rồi đi mua máy mới đi bác ạ.
 ==========================
 108
-Laptop
+Hỏi laptop
 Sáng này em vừa tậu được 1 em 8460p, cho em hỏi là cái touchpad chỉnh sao để có thể kéo trang web lên, xuống khi đang lướt web ạ, em chưa tìm ra chỗ chỉnh, đang phải ấn phím spacebar để kéo trang web xuống.
 Cài thêm phần mềm Mouse kèm theo của laptop chưa, cài rồi thì như hình hướng dẫn nhé, bạn kéo bằng 2 ngón đa điểm là "Two finger scrolling" còn kéo bình thường sát bên phải touchpad là "Scrolling" ấy. 
 ==========================
 109
-Laptop
+Bảo hành
 Mới đi bảo hành cái microphone của cái laptop 8460p chiều qua sáng nay đã có hàng, mém nữa là đợi dài cổ tới mùng 2 tháng 1 vì các bác ấy nghỉ lễ 4 ngày. 
 Dòng doanh nhân máy trạm mình thấy được bảo hành ưu tiên hơn các dòng khác, nếu có sẵn linh kiện thì họ thay nhanh cho bác thôi. 
 ==========================
 110
-Laptop
+Hỏi laptop
 Dòng HP 8560P sau khi chuyển sang chế độ ngủ của máy thì mình bật lại nó không lên màn hình, các đèn đều sáng và máy đã chạy, nình phải đè nút nguồn để nó tắt hẳn sau đó khởi động lại thì mới lên, vậy là bị bệnh gì vậy bạn?
 Bạn kiểm tra lại driver của card màn hình và chipset nhé. 
 ==========================
 111
-Laptop
+Hỏi laptop
 Cho em hỏi con laptop 8470p i5, ổ cứng SSD 180GB, RAM 8GB không có card màn hình rời có chạy tốt Etab và Fifa 2013 không mấy bác, ngoài ra pin 6cell em này khoảng được mấy giờ ?
 Fifa 13 thì Core i3 thế hệ 2 onboard của thằng bạn mình cũng chơi tốt rồi, pin máy em xài bình thường tầm 2 giờ, còn tùy vào chương trình đang chạy nữa.
 ==========================
 112
-Laptop
+Đổi
 Mình có con 8460p, màn độ phân giải cao, pin 9cell, card màn hình HD3000, mua được 4 tháng còn bảo hành 3 năm, đổi không ?
 Ủa máy bạn ngon quá, mình cũng muốn đổi lắm nhưng mà ba mẹ không cho đổi đâu.
 ==========================
 113
-Laptop
+Hỏi laptop
 Cho em hỏi là máy 8460p của bác tháo cục pin ra thì ở dưới cục pin có cái miếng nào ghi product key của Windows 7 Professional không, máy em thảo ra chả có miếng nào ghi product key cả.
 Có chứ bạn, không thì bạn cứ xác định là gặp hàng giả rồi.
 ==========================
 114
-Laptop
+Hỏi laptop
 8560W giờ giá tầm bao nhiêu nhỉ, thấy 8460p giá giảm nhiều rồi mà 8560w không giảm được bao nhiêu.
 Vẫn vậy thôi, chắc còn lâu mới xuống đó bạn.
 ==========================
 115
-Laptop
-Máy laptop của em đã được bảo hành, bác chúc mừng em đi 
+Bảo hành
+Máy laptop của em đã được bảo hành, bác chúc mừng em đi .
 Không ngờ vậy mà cũng được bảo hành.
 ==========================
 116
@@ -589,12 +589,12 @@ Em ở Hà Nội thì mua keo tản nhiệt Noctua NT-H1 ở đâu vậy, dạo 
 Mai Hoàng, HNC, HNN...nhiều chỗ bán mà bạn 
 ==========================
 119
-Máy tính
+Hỏi CPU
 Kiểm tra tải tối đa CPU thì dùng phần mềm gì cũng được, miễn là 100% CPU hay là phải có phần mềm riêng ạ ?
 Kiểm tra tải tối đa CPU thì nhiều phần mềm lắm, cơ mà chủ yếu vẫn là Linx Avx, Y-cruncher, V-ray thôi.
 ==========================
 120
-Laptop
+Elitebook
 Đã phát hiện ra 1 điểm bất tiện ở con Elitebook là để chia được ổ của nó thì phải chấp nhận bỏ tính năng F11 Recovery.
 Nó là phân vùng riêng chia các phân vùng khác bình thường có ảnh hưởng gì đến nó đâu ?
 ==========================
@@ -604,7 +604,7 @@ Tự nhiên trưa nay bật con laptop lướt web bình thường mà đã 70 �
 70 độ là có vấn đề rồi bạn.
 ==========================
 122
-Laptop
+Tư vấn laptop
 Laptop 8460p với lại 8540w thì nên lấy con nào hơn ạ, giá 2 con bằng nhau cơ mà bác nêu ưu khuyết 2 con dùm em được không ạ, 8540w có đèn bàn phím không, card màn hình FX880 so với 6470M dùng để chơi trò chơi điện tử thế nào, em chỉ cần giải trí nhẹ nhàng thôi.
 Không cần dùng độ họa cao siêu thì 8460p đi bác, em này chạy mát hơn nhiều và pin cũng lâu hơn, kiếm em nào màn hình phân giải cao nhìn ảnh sẽ đẹp hơn đó, 8540w chỉ có đèn chiếu bàn phím không có đèn bàn phím nhé, mà các bác đừng ham hố cái đèn bàn phím quá, nhìn thì oai hơn thật nhưng buổi tối nhìn hơi khó chịu vì ánh sáng nó hắt lên mất tập trung, cái đèn chiếu bàn phím nó chiếu xuống nên không bị khó chịu đâu.
 ==========================
@@ -619,62 +619,62 @@ Vậy bên bác có bán con 8560p bảo hành 3 năm không ?
 Em hết loại này rồi, đợt tới chỉ có 8460p và 8560w toàn hàng bảo hành 3 năm, ngày sản xuất còn mới cứng bác ạ.
 ==========================
 125
-Laptop
-Em chuyên ảnh ọt, không biết màn hình laptop 8560w này sao các bác nhỉ?
+Hỏi laptop
+Em chuyên ảnh ọt, không biết màn hình laptop 8560w này sao các bác nhỉ ?
 Màn hình định dạng cao là để cho dân đồ họa ảnh ọt mà, bác coi tạm cái này tự đánh giá vậy nhé, để xài cho ảnh ọt thì màu sặc sỡ hơn không hẳn là ngon mà là màu thật mới là khó.
 ==========================
 126
-Laptop
+Hỏi laptop
 Sao con laptop có ổ cứng 500GB và card màn hình rời lại rẻ hơn con có ổ cứng 320GB, card màn hình onboard nhỉ ?
 Con dưới đầy đủ các lựa chọn hơn con trên. 
 ==========================
 127
-Laptop
+Hỏi laptop
 Bạn cho mình hỏi con 8440p của mình 1 số nút bây giờ không gõ được nữa mình nghĩ là mấy nút đó hư rồi vì vào cmd và boot mini Windows XP từ đĩa Hiren's Boot đều không dùng được, theo bạn mình nên gọi điện cho bên Isis hay mang thẳng lên trung tâm bảo hành của HP và trường hợp của mình có được bảo hành không ?
 Còn bảo hành thì bạn cứ mang lên đó bảo hành nhé, họ sẽ sửa cho bạn, bạn cứ yên tâm.
 ==========================
 128
-Laptop
+Hỏi laptop
 Bác ơi vấn đề của em là nếu laptop dùng mạng có dây thì mọi chuyện đều ổn, nhưng khi chuyển sang wifi thi lại không kết nối được, vậy nguyên nhân nó có thể là như nào bác nhỉ ?
 Em nghĩ bác nên cài thử chương trình Intel Wireless LAN xem, lần trước em cũng bị như bác rồi cài nó vào lại dùng wifi bình thường.
 ==========================
 129
-Laptop
+Hỏi laptop
 Hình như Elitebook 8460p thiết kế cho những người thuận tay trái hoặc chuyên dùng touchpad hay sao ấy, đặt chỗ thoát nhiệt đúng góc bên phải chỗ cầm chuột làm em toàn phải đặt hộp nhựa che cho khỏi nóng tay.
 Kiểu thiết kế này là bất hợp lý khi dùng chuột ngoài, nhưng lại rất hợp lý cho những máy nhỏ gọn như chiếc 2530p của em, tay trái cầm laptop, tay phải dùng touchpad, trackpoint để lướt web khi nằm trên gường, ngồi trên tàu xe, lại càng hợp lý hơn nữa nếu là laptop lai máy tính bảng như dòng 27xxp.
 ==========================
 130
-Laptop
+Hỏi RAM
 Có cách nào cho máy 8560p nhận được RAM bus 1600 không ?
 Khác biệt giữa RAM bus 1600 và bus 1333 chả đáng kể mấy đâu, cứ 1333 mà xài thôi.
 ==========================
 131
-Laptop
+Hỏi laptop
 Hiện tại em đang có con laptop HP Compaq CQ 42 455TU hiện đang dùng em CPU P6300 bây giờ muốn nâng lên em Dual core G860 được không bác vì em nghe nói con này socket hỗ trợ cả i3 ?
 Bạn tính cưa con G860 to oạch để gắn vào laptop à, không được nhé, laptop thì dùng CPU cho laptop thôi.
 ==========================
 132
-Laptop
+Tư vấn laptop
 HP EliteBook so với Dell Latitude loại nào tốt hơn nhỉ ?
 Elitebook vỏ cứng hơn của Dell nhiều, nhưng nếu kinh doanh thường thì Dell Latitude thì màn hình đẹp hơn.
 ==========================
 133
-Laptop
+Tư vấn laptop
 Bác tư vấn cho em với ạ, em thì chưa dùng HP bao giờ, hiện đang dùng Dell và cảm thấy ổn, cũng đang nhắm em v3450 nhưng mà thấy con HP này hay nên cũng phân vân, nếu dùng dell thì em yên tâm vì đang dùng 5 năm nay rồi, thấy rất tốt nhưng thấy các bác ca ngợi em 8440p nhiều quá mà chưa biết thế nào. 
 Thế bác kiếm probook 6460b đi đảm bảo bền hơn con v3450 đó, bảo hành dài gấp 3 luôn, 8440p thì đời cũ hơn rồi, bác cứ 6460b mà mua đi cho nó mới.
 ==========================
 134
-Laptop
+FingerPrint
 Bác dùng laptop 8560w rồi cho em cái hướng dẵn dùng chức năng FingerPrint với ?
 Bác tải cái FingerPrint Driver về nhé, sau đó tải cái HP ProtectTool Security Manager về, cài rồi làm theo hướng dẫn thôi.
 ==========================
 135
-Laptop
+Hỏi laptop
 Giá con laptop cấu hình Quadro 1000m bao nhiêu vậy bạn?
 Trên trang laptopcali.com là 33.9 triệu đó bạn.
 ==========================
 136
-Laptop
+Hỏi laptop
 Các bác cho em hỏi cái tấm dưới máy laptop của em nó không khớp ở chỗ bên tay phải, lấy tay gõ vào thì hơi lung lay, lúc mua em không để ý, không biết cái này có thay được không bác nhỉ ?
 Vị trí ổ đĩa CD đúng không, nếu đúng là vị trí ổ CD-Rom thì là bình thường thôi bạn.
 ==========================
@@ -694,7 +694,7 @@ Mình muốn mua bộ đèn chùm ở Hà Nội phù hợp với căn phòng cao
 Đèn đóm tùy bạn thích loại xịn, giá cao hay loại tầm tầm, nếu giá mềm thì ở dọc đường Lê Duẩn bán vô số, đoạn gần với hầm Kim Liên ấy.
 ==========================
 140
-Laptop
+Apple
 Con laptop Dell độ tương phản có vẻ cao hơn, đậm màu hơn, con Apple tông màu hơi nghiêng về màu xanh dương.
 Apple màu bị ngả xanh dương là đặc điểm riêng của đèn LED trắng, đây là nguyên nhân các màn hình đồ họa cao cấp ko dùng LED trắng, sau Led cinema Apple có dòng cao cấp hơn lại dùng đèn huỳnh quang, độ tương phản của Dell cao hơn vì nó là màn hình PVA.
 ==========================
@@ -714,12 +714,12 @@ Thế nào là người lớn, là chững chạc vậy bác?
 Là phải biết tự lập, tự gánh vác nhiều thứ mà không cần phải hỏi ý kiến ba mẹ, phải biết nghĩ đến người khác, nhường nhịn,...
 ==========================
 144
-Laptop
+Hỏi laptop
 Bạn cho hỏi giữa laptop U2311 và U2410 với U2412 HM có khác biệt nhiều lắm không ?
 U2311 với U2412 cùng loại panel e-IPS, chỉ khác U2412 dùng đèn nền LED, U2410 thì dùng panel H-IPS, ở đẳng cấp khác so với e-IPS, nhìn vào cái giá của nó là thấy rõ rồi.
 ==========================
 145
-Laptop
+Apple
 Ai thích đẹp, sang trọng và màu sắc chuẩn thì chọn laptop Apple, còn không muốn bỏ ra nhiều tiền thì còn nhiều sự chựa chọn khác rẻ hơn mà.
 Sang trọng đẹp thì đúng, còn màu chuẩn thì em thấy thua hết màn hình CRT. 
 ==========================
@@ -769,12 +769,12 @@ Làm thêm với giá 15 ngàn 1 giờ, 1 ngày làm 4 giờ liệu có gọi l�
 Có phải suy nghĩ hay cực lực gõ, chỉnh sữa gì không, nếu chỉ làm đơn giản thì tốt.
 ==========================
 155
-Tư vấn
-Em gái em học kỹ thuật cần mua máy tinh cấu hình ổn 1 chút có card màn hình rời, màn hình 14inch, bề ngoài một chút thẩm mỹ nữa mong bác giúp đỡ.
-Rham khảo thử dell vostro 3460 bạn nhé, tầm tiền này thì mua em này ngon rồi, màn nhám, bảo mật vân tay, thiết kế và hiệu năng tốt, có đèn bàn phím, ổ cứng 7200 truy xuất dữ liệu nhanh.
+Tư vấn laptop
+Em gái em học kỹ thuật cần mua laptop cấu hình ổn 1 chút có card màn hình rời, màn hình 14inch, bề ngoài một chút thẩm mỹ nữa mong bác giúp đỡ.
+Tham khảo thử dell vostro 3460 bạn nhé, tầm tiền này thì mua em này ngon rồi, màn nhám, bảo mật vân tay, thiết kế và hiệu năng tốt, có đèn bàn phím, ổ cứng 7200 truy xuất dữ liệu nhanh.
 ==========================
 156
-Tư vấn
+Tư vấn máy tính
 Sinh viên làm thêm, gom góp được 10 triệu thôi bác ạ, em cầm 1 máy làm đồ họa và giải trí, nhờ bác tư vấn cho nên mua máy nào ?
 Mua được máy có CPU i7 luôn đó chứ, tầm này thì i7-720qm, 740qm đầy ra, nhưng mấy con i7 này làm lò sưởi được đấy. 
 ==========================
@@ -814,17 +814,17 @@ Buồn cười
 Buồn ấy mà cũng cười được hả bạn ?
 ==========================
 164
-Máy tính
+Ổ cứng
 Công việc của mình không dính nhiều tới đồ họa, nói chung là công việc nhẹ nhàng thì có cần dùng tới ổ cứng SSD không, theo mình hiểu thì ổ cứng SSD nhanh và tiết kiệm hơn ổ cứng HDD, điều này có đúng không và nếu đúng thì tiết kiệm pin hơn bao nhiêu phần trăm so với ổ cứng HDD ?
 Công việc nhẹ nhàng thì ổ cứng HDD bình thường cũng được chứ không cần phải là ổ SSD đâu.
 ==========================
 165
-Laptop
+Hỏi laptop
 Mình nhắm em laptop 8560p và muốn màn hình định dạng cao, như vậy thì chữ có quá bé không ?
 8560p có màn hình khoảng 15.6inch định dạng cao thì chữ không quá bé đâu, nếu thấy quá bé thì chỉnh lại độ phân giải cho màn hình được mà. 
 ==========================
 166
-Laptop
+Hỏi laptop
 Đằng sau máy Elitebook có cái mật mã để cài Windows Vista OEM Business có dùng cho Windows 7 được không bác nhỉ?
 Bác dùng đĩa Windows 7 OEM mà cài cho nhanh, khỏi mất công điền mật mã.
 ==========================
@@ -834,22 +834,22 @@ Loa Mono nghĩa là sao bác, em chuưa hiểu.
 Mono tức là chỉ có 1 kênh âm thanh thôi, còn Stereo là 2 kênh âm thanh.
 ==========================
 168
-Laptop
-Đĩa Windows 7 OEM lấy ở đâu ra vậy, để mình cài vào laptop.
+Hỏi laptop
+Đĩa Windows 7 OEM lấy ở đâu ra vậy, để mình cài vào laptop ?
 Lúc mua máy nếu không có thì bên cửa hàng sẽ cho bác một cái. 
 ==========================
 169
-Máy tính
+Driver
 À mà mấy cái driver có tên Broadcom có công dụng là gì và có nên cài vào máy hay không bạn?
 Thì là driver cho phần cứng chứ là gì nữa bác.
 ==========================
 170
-Máy tính
+Hỏi máy tính
 Modem có phải driver cho mang Lan đâu nhỉ, hay mình nhầm ?
 Bạn cứ nghĩ đơn giản rằng model là thiết bị chuyển từ tín hiệu số ra tín hiệu tương tự dùng để chuyển tín hiệu dạng sóng đi là được rồi, do đó có nhiều thứ được gọi là modem.
 ==========================
 171
-Máy tính
+Phần mềm
 Mấy phần mềm Ultility của Intel mình không hiểu chức năng nó làm gì ?
 Các phần mềm Ultility của Intel giúp cho Windows biết được các thành phần của Mainboard và hiển thị tên các thành phần đó chính xác trong mục quản lí các thiết bị của Windows.
 ==========================
@@ -894,7 +894,7 @@ Bạn nghĩ có ai điên đến mức đem ý tưởng kinh doanh mà mình ấ
 Như thế này, bạn có ý tưởng bạn không có tiền, bạn có thể tìm người có tiền trình bày hợp tác rồi chia sẻ theo tỉ lệ, startup toàn thế nhé, chỉ có mỗi cái ý tưởng thôi, đa số không có vốn.
 ==========================
 180
-Điện thoại
+Hỏi điện thoại
 Tình hình là em dành dụm được ít tiền mua con Galaxy S3 xách tay của nhà mạng NTT Docomo bên Nhật, nhưng mua về bật máy ảnh lên và chụp ảnh thì bị nhoè ở những phần có chữ màu trắng, kiểu như bị hiệu ứng chói nắng mặt trời ý ạ, bạn có kinh nghiệm cho mình hỏi đó là lỗi máy hay thế nào ạ ? 
 Chụp những cái khác vẫn bình thường à ?
 ==========================
@@ -904,12 +904,12 @@ Trường em thì hơn 2 chục ngàn sinh viên, mà có sẵn 2 xe nước mí
 Mình ủng hộ bạn đó
 ==========================
 182
-Laptop
+Hỏi laptop
 Mấy bác cho em hỏi khi mua 8540w mới thì số S/N của pin, máy và sạc có trùng nhau không và nếu không trùng thì có được bảo hành của HP không ?
 Dù là hàng mới hay không thì các số S/N phải trùng, trước khi đưa tền, bạn ra trung tâm bảo hành của HP, người ta sẽ quét mã vạch kiểm tra miễn phí cho bạn.
 ==========================
 183
-Laptop
+Hỏi laptop
 Mua laptop ở laptophuyhoang.com có đảm bảo không? 
 Bạn kiểm tra kĩ mặt ngoài xem có trầy xước gì không, rồi lật máy lên kiểm tra chỗ khe hút gió xem có bụi nhiều không, nếu thấy bụi bám vào nhiều khả năng là máy xài rồi, kiểm tra ổ cứng hoạt động và bật tắt được lâu chưa, và cuối cùng là kiểm tra thời gian bảo hành, pin và máy có số S/N trùng nhau không.
 ==========================
@@ -919,22 +919,22 @@ Chả là thi xong đợt này, mình định tập lái xe hơi, nhưng nghe b�
 Khác xa một trời một vực luôn bác ạ, trước em học mất 3 tháng, hình như luật mới lên 6 tháng rồi, bằng B2 nhé, thi luật trên máy tính và thi lái trên sa hình.
 ==========================
 185
-Laptop
+Hỏi laptop
 Bác biết nguyên nhân vì sao mọi người có xu thế chuyển dần sang dùng Probook không ?
 Vì HP Probook rẻ hơn các máy khác một cơ số tiền, với cơ số đó thì có thể nâng cấp lên được ổ cứng SSD.
 ==========================
 186
-Tư vấn
+Tư vấn laptop
 Em học kĩ thuật, ngành ô tô thuộc khoa cơ khí động lực, với khoảng tiền 15 triệu trở xuống thì em nên mua máy laptop nào thuận lợi cho việc học tập, bác tư vấn giúp em với , phân tích cho em rõ luôn với.
 15 triệu thì bác mua HP ELitebook 8460p cũng được, dân kỹ thuật, văn phòng xài nhiều, đây là dòng doanh nhân cao cấp nhất của HP, có thiết kế sang trọng bắt mắt, đạt tiêu chuẩn quân đội Mỹ, siêu bền, máy này bác dùng đến khi ra trường, đi làm cũng vẫn còn xài được tốt, chất lượng hơn nhiều dòng giải trí hay doanh nhân giá rẻ như Vostro, Probook nên bác yên tâm về chất lượng nhé.
 ==========================
 187
-Laptop
+Hỏi laptop
 Không biết dòng Sony Vaio SVS-13126PG/B dùng ra sao nhỉ, công việc của em là lập trình website, em thích kiểu dáng của laptop đó và sự gọn nhẹ của nó, cấu hình có vẻ đủ cho nhu cầu.
 Bàn phím con này làm sao ăn được Thinkpad T, lập trình thì nên nhắm mấy con đấy bạn à, ví dụ như Thinkpad T430 chẳng hạn.
 ==========================
 188
-Tư vấn
+Tư vấn laptop
 Bác tư vấn giúp em một con laptop về chạy Photoshop với Corel với, em chỉ cần màn hình 14inch thôi.
 Thinkpad T430S nhé, có card màn hình rời và ổ cứng SSD nhé, vừa mỏng, nhẹ 1.7kg, lại hiệu năng cao, bền bỉ, pin trâu, vừa với tầm tiền đấy.
 ==========================
@@ -969,12 +969,12 @@ PDF mà ghét thì thích gì hả em ?
 Word anh ơi, vừa đọc sách vừa hiệu chỉnh luôn cũng được. 
 ==========================
 195
-Laptop
+Tư vấn laptop
 Theo bác thì nên chon Elitebook dòng P hay W ?
 Elitebook p hay w dùng đều sướng cái chính là nhu cầu công việc của bác nhiều hay ít thôi.
 ==========================
 196
-Laptop
+Hỏi laptop
 Dòng laptop 8460w và 8560w khi nào xuất xưởng vậy bác ?
 Tháng 8 bác ạ.
 ==========================
@@ -989,7 +989,7 @@ Mình muốn hỏi 1 chút nữa là card 3G WWAN UN2400 có GPS không, nếu c
 Có GPS nhưng phải cài phần mềm riếng, bác mua ở đâu mang đến họ cài rồi hướng dẫn cho, cài phần mềm của HP không có xài được GPS nhưng mà lại xài được chức năng nhắn tin.
 ==========================
 199
-Laptop
+Hỏi laptop
 Pin em 6cell mà báo có hơn 51W thì có vấn đề gì không ạ, đã thế cái thiết kế dung lượng lại mỗi lúc nó nhảy 1 kiểu, còn mức độ chai bằng 0%. 
 Cái chương trình đo dung lượng pin thì không chính xác hoàn toàn đâu, nhưng cái thiết kế dung lượng thì mình thấy báo khá chính xác, con của bạn cũng chưa phải lo vì chênh lệch không nhiều, ngoài ra bạn thử kiểm tra xem có phải pin của bạn là pin longlife hay không vì pin longlife thiết kế của nó là 51wh còn pin thường là 55wh, mình chỉ thấy nó chính xác khi đo số cycle thôi, chỉ khi thấy dung lượng báo quá thấp thì mới nên quan tâm bạn ạ/
 ==========================
@@ -1004,7 +1004,7 @@ Có cách nào chặn thư báo thông báo từ facebook vào email của mình
 Lọc để nó cho vào mục spam hoặc vào 1 cái mục riêng đi.
 ==========================
 202
-Phần mềm
+BKAV
 Chương trình BKAV là chương trình diệt virus nhẹ nhất mình từng biết, những bản trước đây nặng không đến 1MB, chạy chiếm bộ nhớ chỉ vài trăm byte, mà hiệu quả lại cực cao đặc biệt là đối với các virus từ Việt Nam ra, hiện nay thì do phiên bản mới nâng cấp và thêm nhiều công nghệ phòng chống virus nên tăng dung lượng lên là điều tất yếu, theo mình đánh giá thì khi chạy BKAV vẫn rất nhẹ nhàng và nhanh nhất.
 Hình như là bạn chưa dùng Pentium 4 với BKAV năm 2006 nhỉ, mình nhớ là lần đấy mình cài BKAV nó chậm đi còn một nửa và quét virus 3 lần thì lần 1 là 5000 con, 2 lần sau là 2000 con và cứ duy trì mãi như thế, bạn giải thích sao nhỉ ?
 ==========================
@@ -1084,27 +1084,27 @@ Có phần mềm nào hỗ trợ tắt màn hình không ?
 Muốn tắt màn hình bất cứ lúc nào bạn thích thì có phần mềm Lights out, chỉ việc nhấn vào icon, muốn mở màn hình thì nhích chuột hoặc bấm bất kỳ phím nào cũng được.
 ==========================
 218
-Laptop
+Hỏi laptop
 Bác cho em hỏi nếu mua laptop ở nước ngoài thi xem cấu hình máy ở trang nào vậy ?
 Nếu xem cấu hình thì bạn lên trang chủ của hãng ấy.
 ==========================
 219
-Laptop
+Hỏi laptop
 Nếu nhờ mua laptop ở nước ngoài đem về thì sao bác, mắc hơn mua ở Việt Nam à ?
 Mua ở nước ngoài thì phải kiếm nơi nào rẻ thôi chứ mua ở cửa hàng thì không rẻ hơn so với mua ở Việt Nam đâu.
 ==========================
 220
-Laptop
+Hỏi laptop
 Mấy bác cho em hỏi HP 8440p thì pin máy nào phù hợp với nó nữa ạ, em đang tính mua quả pin trai gì gì đó dùng cho an toàn 1 tí.
 Pin thì dòng này có pin 8 cell dạng dock chữ U hoặc 12 cell dạng dock gắn dưới đáy máy có thể dùng cả ngày, đang có sẵn ở Việt Nam bác thử tìm kiếm nhé.
 ==========================
 221
-Laptop
+Pin
 Vấn đề về pin là có phần mềm nào để máy hoàn toàn không sạc pin không, mặc dù em để ý mấy hôm nay rồi, cứ pin đến 95% thì nó vẫn chưa sạc, còn dưới tầm đấy là nó sạc hộ cho mình, nhưng như vậy thì cứ vài hôm là pin nó từ 100% xuống dưới 95% và bị sạc, làm như vậy nhiều thì pin sẽ bị chai mất.
 Pin chai thì kệ nó bác ơi, lúc trước mua máy em cũng hay lăn tăn lắm, xong rồi pin chai 3%, em bắt đầu kệ, đến 7% thì em cân lại pin một lần, xuống lại còn 5%. Sau đấy thì chai lên 10%, lúc đấy thì em kệ hẳn, dùng chả xót nữa, cứ cắm sạc, buồn thì rút, vui thì sạc, dùng xong cứ tống vào balo, thế mà nó lại chả chai thêm tí nào.
 ==========================
 222
-Laptop
+Hỏi laptop
 Con 8540w có bao nhiêu khe RAM vậy, định lúc nào dư tiền nâng cấp thêm cho nó ? 
 Nếu nó giống 8740 thì có 2 khe RAM bạn ạ, 1 khe trong máy đã cắm sẵn, còn 1 khe ở dưới miếng nhựa dành cho khách tự nâng cấp.
 ==========================
@@ -1144,12 +1144,12 @@ Làm thêm 15 ngàn 1 giờ, 1 ngày làm 4 giờ liệu có gọi là bóc lộ
 Bóc gì mà bóc, tốt quá còn gì, chạy bàn hộc máu ra được có 10 ngàn một giờ kia kìa. 
 ==========================
 230
-Laptop
+Chi nhánh
 Cho mình hỏi chi nhánh sắp mở là ở đâu, em đang bị thất nghiệp, nơi nào cũng đưa hồ sơ mà chẳng thấy cuộc gọi nào.
 Không chắc nữa, mình nghe mấy đứa bạn nói sắp mở ở trung tâm thương mại nào đó sắp xây xong. 
 ==========================
 231
-Tư vấn
+Tư vấn điện thoại
 Tình hình là mới mua cái smartphone nên tính mua cái sim 3G về xài, nhu cầu chính là lướt web, mạng xã hội, lâu lâu coi tí youtube gì thôi, bác tư vấn cho em với. 
 Viettel thì rẻ nhưng chất lượng không bằng Vinaphone, Vinaphone lại đắt hơn , nói chung tiền nào của nấy.
 ==========================
@@ -1349,32 +1349,32 @@ Mới thử decode film HD codec x264 trên con card màn hình ATI, driver mớ
 Mình chỉ nhớ là mình dùng Windows 7 decode ầm ầm mà, kéo phần 3D lên thấy hình mịn đẹp lắm, mà cpu lại ko bị tải tối đa nữa, ATI decode thấy phê lắm.
 ==========================
 271
-Máy tính
-Vậy nếu em có muốn nâng cấp thì chắc là các dòng Core i đời đầu là được đúng không ạ ?
+Hỏi CPU
+Vậy nếu em có muốn nâng cấp CPU thì chắc là các dòng Core i đời đầu là được đúng không ạ ?
 Ừ, có phải cứ đời sau là mạnh hơn đâu, đời đầu còn nhiều còn mạnh lắm mà, giống như đời core 2 giờ nâng cấp lên dòng hi-end của nó vẫn còn mạnh lắm.
 ==========================
 272
-Máy tính
+CPU
 Giờ thì chỉ còn việc tìm con QX9300 là xong.
 Con này hình như khoảng 1000 USD.
 ==========================
 273
-Máy tính
+Hỏi CPU
 Của mình là core i5, không biết ở đâu bán chip core i7 740 giá mềm 1 chút nhỉ ?
 Giờ mua đắt lắm bác ạ, đợi vài tháng nữa chip sandy bridge phổ biến rồi thì core i đời đầu mới giảm giá nhiều.
 ==========================
 274
-Máy tính
+Mạng
 Cái WWAN card mua ở đâu ở Hà Nội nhỉ, giá cả thế nào hả bạn ? 
 Giá cả dao động quanh tầm giá 1.5 triệu, nơi mua thì bạn có thể vào mục Mua bán Máy tính xách tay ở vOz, có vài bác rao đấy.
 ==========================
 275
-Laptop
+Hỏi laptop
 Em mới lấy 1 con 8730w dòng DreamColor LCD mà màn hình hơi ngả xanh, em đã thử chỉnh đủ kiểu rồi mà nó vẫn xanh kể cả trong BIOS cũng thế, qua bên bán so sánh với 1 con 8730w khác thì nó cũng xanh như nhau, khác hoàn toàn với các máy khác màu nào ra màu đó, xem máy 8530w thì không bị sao, do bị phủ 1 lớp màu xanh đó mà những hình ảnh nó bị lệch màu, em nghĩ là do cân bằng trắng của màn nó bị lỗi, có cách giải quyết nào giúp em với ?
 Do trong phần mặc định chỉnh gamma màu xanh lá của card Nvidia mặc định của nó để lệch sang màu xanh, bác nhấn chuột phải vào màn hình, chọn Nividia sau đó trong phần chỉnh gamma chỉnh lại cân bằng là được.
 ==========================
 276
-Laptop
+Hỏi laptop
 Thế còn cơ chế tự khóa cứng ổ cứng bằng cơ và phần mềm 3D Driveguard khi ổ cứng gặp chấn rung của elitebook thì sao hả bác, chẳng lẽ nó còn chưa đủ an toàn sao ?
 Nó chỉ hữu ích khi bác gặp chấn động thôi chứ ổ cứng là quay cơ học nên việc lỗi hỏng do nhà sản xuất là bình thường.
 ==========================
@@ -1384,12 +1384,12 @@ Nếu dùng Windows thì dùng luôn chương trình chia partition của nó, d
 Không phải đâu bác ạ, cái phần mềm của Windows nó không chia theo ý mình được đâu mà nó mặc định chia theo cách quản lý của nó, ổ C nó mặc định chia to lắm, khi chia nó lại có giới hạn không cho phép tăng giảm chứ chương trình kia chia thoải mái lắm.
 ==========================
 278
-Laptop
+Hỏi laptop
 Sao máy nóng thế bác, xem có bụi biếc gì bị hút vào quạt không, máy có bị virus làm hoạt động quá công suất không ?
 Khả năng là virus bác ạ, đợt mùa đông em xài mà máy cứ lạnh ngắt ý chứ có ấm được cho đâu, mà quét bằng AVG không ăn thua gì, khéo phải tải cái Mcafee trong HP.com về thử vậy.
 ==========================
 279
-Laptop
+Hỏi laptop
 Bạn ơi cho hỏi sao máy mình lúc mới mua về thấy quạt quay thổi hơi nóng rất mạnh chỗ khe tản nhiệt và máy rất mát mà sao giờ tự nhiên không thấy hơi nóng thổi ra từ khe tản nhiệt nữa, mà mình thấy 2 bên chỗ để tay và bàn phím ấm ấm cảm giác rất khó chịu, có phải quạt không chạy không, các bạn có biết phần mềm nào kiểm tra quạt này không ?
 Máy mình khe tản nhiệt vẫn thổi bình thường, buổi trưa thì sờ lên máy thấy cũng khá nóng, có buổi tối thì sờ mới thấy ấm ấm thôi.
 ==========================
@@ -1479,42 +1479,42 @@ Làm thuế nào để người ta biết rằng mình rất iu người ta ?
 Quan trọng là ở cách thể hiện tình yêu chứ.
 ==========================
 297
-Laptop
+Tư vấn laptop
 Mình muốn mua laptop Core i5, card màn hình 1GB, RAM 4GB, màn hình 15inch thì dòng nào có đèn LED và bàn phím chiclet, mình ham cái bàn phím này nên đang đắn đo. 
 Bàn phím chiclet thì máy có máy không, mà bác xác định là có cần cái đấy không, ví như bác nhìn thích nhưng mang về nhà chả mấy khi dùng thì đợi có cái máy đó làm gì nhọc công.
 ==========================
 298
-Laptop
+Hỏi laptop
 Mình mới mua laptop nên hơi gà, cho mình hỏi làm sao sử dụng chuột phải trên touchpad của Dell ? 
-bạn cài đúng bản synapstic 14 hoặc 15 có tapzone xong đặt vùng nào đó là chuột phải .
+Bạn cài đúng bản synapstic 14 hoặc 15 có tapzone xong đặt vùng nào đó là chuột phải .
 ==========================
 299
-Máy tính
+Hỏi CPU
 Cái này không hỗ trợ CPU AMD à ?
 Không hỗ trợ AMD đâu bạn.
 ==========================
 300
-Laptop
+Hỏi laptop
 Các bác cho em hỏi touchpad của 8540w có đa điểm không, dùng được 2 hay 3 ngón tay không ?
 Dùng được 2 ngón với zoom và thanh cuộn bạn à.
 ==========================
 301
-Laptop
+Hỏi laptop
 có bác nào cài thành công Windows XP trên 8540p chưa nhỉ, mình có đĩa nhưng trong quá trình cài đặt, sau khi format rồi khởi động máy lại cài tiếp thì nó báo lỗi.
 Chuyển lại thử giao tiếp của máy từ AHCI -> IDE rồi cài Windows vào thử xem bạn, đa số mình thấy là bị dính lỗi này, sau đó vào trong Windows cài lại phần này theo các hướng dẫn đã có trên mạng.
 ==========================
 302
-Laptop
+Hỏi laptop
 Em dùng 8540w ,CPU i7, RAM 4GB, máy ee chỉ chạy Firefox 4, em để chế đọ high perfomance vậy mà nhiệt độ chip core 0 là 62 tới 70 độ, core 2 là 58 tới 60 độ còn GPU là 62 độ, sao cao thế bác, liệu có phải do xung đôt của phần mềm nào không hay có vấn đề gì ?
 Máy bác hơn mình có 5-10 độ thôi, không có gì cần lo lắng cả. 
 ==========================
 303
-Laptop
+Hỏi laptop
 Cái nhiệt độ máy em phần mềm báo là 40 tới 50 độ, thế mà đít máy nó nóng ran tay, ko lẽ phần mềm nó lừa mình ? 
 Vỏ kim loại tản nhiệt trực tiếp mà bác, sờ nóng nhưng nó không bị tình trạng lò hấp như vỏ nhựa hoặc vỏ bọc nhôm trang trí.
 ==========================
 304
-Laptop
+Hỏi laptop
 Trời ơi chết mất với cái nhận dạng vân tay cũa laptop mình thằng em mình nó lấy tay nó quẹt quẹt vài cái là vô được luôn mà mình với nó có anh em bà con gì đâu mà vân tay giống nhau, kiểu này chắc dẹp cái này không xài nữa quá.
 Đặt chế độ chính xác cao cho nó bác à, bảo mật hơn, quét chính xác hơn, ngay trong BIOS có 3 mức quét mà bác, bác thích quét nhanh thì mới vậy thôi. 
 ==========================
@@ -1524,12 +1524,12 @@ Cá nhân em thì thấy mẫu Elitebook 8540 và 8740 hiện giờ đẹp hơn,
 Sao mình xem qua ảnh thấy nó đẹp quá trời mà nhỉ.
 ==========================
 306
-Laptop
+Hỏi laptop
 Đang chờ 8540w i7 hay 8440w giảm giá là mua thôi, tại vì đang hài lòng con máy bàn AMD x6 và 8510w nên chưa vội lắm, mà không biết dòng P mới này chất lượng có ngon hơn dòng w đời cũ không ta, 8540w chẳng hạn ?
 Làm sao mà so được, phân khúc khác nhau mà, có thì nhỉnh hơn dòng P đời trước thôi.
 ==========================
 307
-Laptop
+Loa laptop
 Bác nói có quá không vậy, loa ngoài em nó nghe cũng bình thường mà, làm gì đến nỗi bịt tai lại cho đỡ thẹn. 
 Bác cứ nghe nhiều đi rồi chắc cũng hiểu, mình không chịu được nên toàn phải cắm tai nghe Ipod vào thôi. 
 ==========================
@@ -1539,52 +1539,52 @@ Em nâng cấp BIOS bằng chương trình HP support Assistant không được.
 Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
 ==========================
 309
-Laptop
-Em nâng cấp BIOS bằng chương trình HP support Assistant không được.
-Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+Trò chơi điện tử
+Chơi game này, không nạp thẻ thì có được không bạn ơi ?
+Game phụ thuộc vào kĩ năng của từng người, thẻ chỉ giúp bạn có áo đẹp chứ không phải nạp thẻ mua bạch cầu hoàng rồi nốc để auto lên level rồi pro như mấy game online khác đâu.
 ==========================
 310
-Laptop
-Em nâng cấp BIOS bằng chương trình HP support Assistant không được.
-Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+Trò chơi điện tử
+Vậy Veigar thì sao bác ?
+Veigar không cơ động bằng Blanc, cơ mà đánh đơn mục tiêu khỏe .
 ==========================
 311
-Laptop
-Em nâng cấp BIOS bằng chương trình HP support Assistant không được.
-Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+Trò chơi điện tử
+Chỉ mình cách chơi lên đồ Ashe với ?
+Bỏ Ashe đi bác, cầm Ashe vào đánh dễ thua lắm .
 ==========================
 312
-Laptop
-Em nâng cấp BIOS bằng chương trình HP support Assistant không được.
-Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+Trò chơi điện tử
+Renekton nên mua đồ thế nào ̣nhỉ ?
+Rìu đen, giáp lửa, búa băng, giáp băng, 1 chỗ còn lại thì tùy trận .
 ==========================
 313
-Laptop
-Em nâng cấp BIOS bằng chương trình HP support Assistant không được.
-Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+Trò chơi điện tử
+Akali lên 9 21 hay 21 9 nhỉ ?
+Mình lên 21 9 còn bạn thích lên thế nào thì có thể chỉnh thế ấy .
 ==========================
 314
-Laptop
-Em nâng cấp BIOS bằng chương trình HP support Assistant không được.
-Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+Trò chơi điện tử
+Mà lên đồ cho Akali thế nào thế ?
+Kiếm súng, song kiếm tai ương, đồng hồ cát, rabbadon, 1 chỗ còn lại tùy trận .
 ==========================
 315
-Laptop
-Em nâng cấp BIOS bằng chương trình HP support Assistant không được.
-Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+Trò chơi điện tử
+Cho em hỏi cách chơi và xây dựng TF ạ ?
+TF ngày xưa chơi theo hướng ad nhưng giờ không hiểu sao lại theo hướng AP, vai trò của bạn trong trận là chọn bài vàng, canh phóng vào mặt adc đối phương để mấy thằng bruiser và adc bên mình lao vào cắn xé, lúc truy đuổi thì với cái chiêu cuối của bạn, bạn sẽ dễ dàng kêt liễu đối phương .
 ==========================
 316
-Laptop
+Bảo hành
 Bác cho em hỏi có bác nào ở TP.HCM mua máy xách tay đi bảo hành ở HP chưa, có phải mất phí không nếu như là hàng xách tay không giấy tờ , máy em có trục trặc về Windows bản quyền, em xài 8540w bẻ khóa bằng mã dưới đít máy mà không được.
 Hp bảo hành toàn cầu và không cần bất kì 1 giấy tờ gì, chỉ cần tra đúng số S/N, P/N là được bảo hành, nhiều bạn dùng 8540w mà hỏi ai đó cho xin cái recovery, thường thì không dùng được mã dưới đít đâu, nhưng máy em thì lại dùng được, hôm trước mất cái recovery, cài bằng Windows 7 64bit tải trên trang chủ về đánh cái mã vào lại ngon thế mới hay chứ.
 ==========================
 317
-Laptop
+Bảo hành
 Các bác cho em hỏi máy trong thời gian bảo hành mà ổ cứng nó bị hư thì có được bảo hành không ?
 Thay mới luôn bạn.
 ==========================
 318
-Laptop
+Bảo hành
 Bác cho em hỏi có bác nào ở TP.HCM mua máy xách tay đi bảo hành ở HP chưa, có phải mất phí không nếu như là hàng xách tay không giấy tờ , máy em có trục trặc về Windows bản quyền, em xài 8540w bẻ khóa bằng mã dưới đít máy mà không được.
 Còn bảo hành bác nên mang ra hãng kiểm tra xem có 1 năm chính hãng không hay là chỉ 6 tháng thôi.
 ==========================
@@ -1594,17 +1594,17 @@ Máy có chứng nhận bản quyền rồi mà.
 Nhiều máy không thể cài bằng mã đó đâu, mình lên trung tâm bảo hành của Lenovo thì nó bảo nếu máy có Windows bản quyền thì nó phải có 1 cái tem chứng nhận, còn những máy khác thì chỉ có recovery thôi.
 ==========================
 320
-Laptop
+Bảo hành
 Nhiều máy không thể cài bằng mã đó đâu, mình lên trung tâm bảo hành của Lenovo thì nó bảo nếu máy có Windows bản quyền thì nó phải có 1 cái tem chứng nhận, còn những máy khác thì chỉ có recovery thôi.
 Service tag của bác có chữ R ở đầu hoặc cuối thì là hàng ref, hoặc kiểm tra bảo hành em nó, bảo hành chỉ 6 tháng hoặc 1 năm, nhưng mà elitebook đời 3 lại bảo hành 1 năm nên cái này tương đối.
 ==========================
 321
-Laptop
+Hỏi laptop
 Hỏi bác còn em HP 8740w ref không, nếu còn thì có đúng là hàng ref nguyên seal chưa bóc?
 Còn hàng ref nguyên seal chưa bóc bác ạ, em nhập 1 lần là nhiều luôn bác cứ yên tâm qua bóc seal ngửi mùi máy còn thơm lắm, dòng này hàng ref thùng đẹp lắm, thùng nó như thùng máy mới chứ không phải thùng mì tôm như thùng hàng ref của mấy dòng bình dân hay dòng cấp thấp hơn đâu.
 ==========================
 322
-Laptop
+Hỏi laptop
 Hỏi bác còn em HP 8740w ref không, nếu còn thì có đúng là hàng ref nguyên seal chưa bóc?
 Đề nghị cho songviet, con 8740w lần trước cũng mua ở đây, thấy ổn.
 ==========================
@@ -1614,32 +1614,32 @@ Thôi laptop chỗ nào uy tín mà mua bác ạ, kiểu như lấy vợ về m�
 Em hãi vụ này lắm, bây giờ động phòng xong mà phát hiện ra dùng tem giả thì chắc còn mỗi nước nhảy lầu.
 ==========================
 324
-Laptop
+Bảo hành
 Em hãi vụ này lắm, bây giờ động phòng xong mà phát hiện ra dùng tem giả thì chắc còn mỗi nước nhảy lầu.
 Tem giả là cửa hàng vớ vẩn thôi, gì chứ songviet hay vietcali trên này em đảm bảo là không có đâu, có cứ bắn bỏ em.
 ==========================
 325
-Laptop
+Hỏi laptop
 Con máy của mình dùng khi không cắm sạc thì hay bị nháy nháy màn hình mà cũng không biết nguyên nhân nữa, để hôm nào cài lại Windows coi thử. 
 Nó cứ như kiểu đang tập Thái cực quyền của Trương Tam Phong ý, bác hiểu ý em không, chứ nó không giật đùng đùng,em nghĩ do pin nó không đáp ứng nổi con màn hình.
 ==========================
 326
-Laptop
+Bảo hành
 Tem giả là cửa hàng vớ vẩn thôi, gì chứ songviet hay vietcali trên này em đảm bảo là không có đâu, có cứ bắn bỏ em.
 Bên này hàng mở rồi, secondhand, ref đều ghi rõ cả.
 ==========================
 327
-Laptop
+Hỏi laptop
 Nó cứ như kiểu đang tập Thái cực quyền của Trương Tam Phong ý, bác hiểu ý em không, chứ nó không giật đùng đùng,em nghĩ do pin nó không đáp ứng nổi con màn hình.
 Không đến nỗi pin lởm thế đâu, bác thử cài lại Windows với tất tần tật drivers mới nhất chưa, riêng cái card màn hình thì tải trên trang chủ nhé.
 ==========================
 328
-Laptop
+Hỏi laptop
 Bên DTZ bán có lô hàng 8640p giá ngon lắm kìa, CPU Intel Core i5-2520 2.53GHz, RAM 4G DDR3, ổ cứng 500GB, màn hình 14inch LED rất sáng phân giải cao 1600x900, DVD-RW ghi DVD, card màn hình ATI 6470 1024MB Dediacted, card màn hình rời dành cho đồ họa, Windows 7 bản quyền, pin 6 cell xài 3 giờ, hàng mới 100% nguyên thùng, giá 20000000 Việt NamD.
 Bên này là bên nào hở bác, songviet hay laptopcali ạ ?
 ==========================
 329
-Máy tính
+Ép xung
 Mua được cái Z68 cùi, ép xung nhẹ nhàng 1 phát, bác chuột nâng cấp giúp với.
 Đã xong.
 ==========================
@@ -1949,12 +1949,12 @@ Chuẩn rồi, giờ báo tung tin vớ vẩn nhiều lắm chả biết tin và
 Nhà báo có học công nghệ thông tin đâu mà biết.
 ==========================
 389
-Tư vấn
+Tư vấn laptop
 Em học xây dựng, đang tính chọn con máy nào đó giá khoảng 9 tới 11 triệu không hơn, có thể sử dụng tốt mấy phần mềm của xây dựng và thi thoảng chiến tí trò chơi dạng Fifa, AOE, xin bác tư vấn giùm em, em chân thành cảm ơn.
 Tư vấn cho bạn tham khảo laptop này để bạn có thêm sự lựa chọn nè : Dell Latitude E5430 (Core i5 3210M, RAM 4GB, ổ cứng 500GB, card màn hình HD 4000, 14inch) tầm 12.5 triệu.
 ==========================
 390
-Tư vấn
+Tư vấn laptop
 Tư vấn cho bạn tham khảo laptop này để bạn có thêm sự lựa chọn nè : Dell Latitude E5430 (Core i5 3210M, RAM 4GB, ổ cứng 500GB, card màn hình HD 4000, 14inch) tầm 12.5 triệu.
 Cảm ơn bác, nhưng em chỉ được 11 triệu là tối đa rồi ạ.
 ==========================
@@ -1964,12 +1964,12 @@ Hệ điều hành gì, Windows 8 hả?
 Hệ điều hành Windows 7 ultimate 64bit bác ạ.
 ==========================
 392
-Laptop
+Hỏi laptop
 Máy em là K46CA-WX013, em cũng đã kiểm tra công tắc wifi rồi vẫn mở và tắt được bình thường mà để mở nó cũng không dò được wifi mới lạ chứ, kiểu này chắc cài lại Windows hoặc mang cho kỹ thuật quá.
 Con K46CA-WX013 của mình cũng y chang như của bạn, không bắt được wifi, wifi không ổn định chút nào, thậm chí wifi nhà mình thì không bắt được mà lại hiện lên 1 loạt wifi nhà hàng xóm, độ bắt sóng wifi còn không bằng con di động của mình.
 ==========================
 393
-Laptop
+Lỗ
 Kinh doanh cũng phải có lúc lỗ chứ.
 Ừ, phải có lúc lỗ chứ không phải lúc nào cũng lỗ.
 ==========================
@@ -1979,92 +1979,92 @@ Bác vào tư vấn để em bổ sung, gõ đi gõ lại ngại quá.
 Hệ lụy của việc lười Google bác ạ.
 ==========================
 395
-Laptop
-Laptop bác dùng làm đồ họa gì, có chơi trò chơi điện tử không, có hay mang vác không, có cần máy nhìn đẹp không, có dùng Mac được không?
+Tư vấn laptop
+Laptop bác dùng làm đồ họa gì, có chơi trò chơi điện tử không, có hay mang vác không, có cần máy nhìn đẹp không, có dùng Mac được không ?
 Mình cần laptop có xử lí 3D, có chơi trò chơi điện tử, có mang vác, không cần nhìn đẹp, không dùng Mac.
 ==========================
 396
-Laptop
+Tư vấn laptop
 Mình cần laptop có xử lí 3D, có chơi trò chơi điện tử, có mang vác, không cần nhìn đẹp, không dùng Mac.
 Có mang vác, nhìn đẹp, bạn chiến con Dell XPS 15 giải trí cũng khá được, ngoài ra còn có thêm dòng Asus nếu không ngại khối lượng thì xúc em này khá ổn.
 ==========================
 397
-Laptop
+Tư vấn laptop
 Cần chọn latop để làm đồ hoạ tốt dưới 30 triệu thì chọn con nào hả bác, bác cho em biết dòng máy cũng được em tự tìm hiểu về các con trong dòng, hiện em đang tìm hiểu dòng Dell XPS có được không hả bác ?
 Tư vấn cho bạn tham khảo laptop này để có thêm sự lựa chọn nè Dell Precision M4600 (Core i7 2760QM, RAM 8GB, ổ cứng 750GB, card màn hình Nvidia FX1000M 2GB, màn hình 15.6inch) tầm 30.7 triệu.
 ==========================
 398
-Laptop
-Bác ý không chơi 17inch mà
+Hỏi laptop
+Bác không chơi 17inch à ?
 Ừ đúng, trước định làm con M6700 nhưng nghĩ mình không dùng đến, bởi có mấy cái màn hình ở nhà, mua laptop 17inch mang đi làm gì cho mệt cắm card màn hình vào 3 cái màn hình 17inch có phải tốt hơn không.
 ==========================
 399
-Laptop
+Máy tính
 Bác xem cái Dream C của 8650W này so với không có DC này, mình không có đủ tiền chứ nếu có tầm như bác là mình chơi em 8650W DC rồi đó.
-Ơ sao không có cấu hình hả bác, cho em cấu hình phát em đag bận nên lười tìm.
+Ơ sao không có cấu hình hả bác, cho em cấu hình phát em đag bận nên lười tìm ?
 ==========================
 400
-Laptop
-Ơ sao không có cấu hình hả bác, cho em cấu hình phát em đag bận nên lười tìm.
+Hỏi máy tính
+Ơ sao không có cấu hình hả bác, cho em cấu hình phát em đag bận nên lười tìm ?
 Cái này nó so sánh 2 cái màn hình với nhau thôi, cấu hình thì tối của 8560w lên được CPU i7 2820QM và Quadro 2000m.
 ==========================
 401
-Laptop
-N56 cấu hình mạnh, chạy mượt, khủng hơn thì có G55VW
+N56
+N56 cấu hình mạnh, chạy mượt, khủng hơn thì có G55VW .
 N56 sao đi đo với dòng asus G được
 ==========================
 402
-Laptop
+Card màn hình
 Card màn hình firepro M8900 là lựa chọn card màn hình thấp nhất trong dòng m6600 nha bạn, từ m8900 lên quadro 3000m thêm 300$ á, về điểm đo bằng 3dmark thì m8900 cao hơn nhiều nhưng về khả năng hỗ trợ các tập lệnh đồ họa thì firepro không có cửa so với quadro đâu bác.
 Quadro 3000m khác Quadro K3000m bác ạ, nếu của bác là K3000m thì em không có gì để nói còn nếu là 3000m thì bác nên xem lại.
 ==========================
 403
-Laptop
+Card màn hình
 Quadro 3000m khác Quadro K3000m bác ạ, nếu của bác là K3000m thì em không có gì để nói còn nếu là 3000m thì bác nên xem lại.
 Đúng rồi đó bạn, từ thời m6600 chỉ có lựa chọn 3000m hoặc 5010m thôi, không có dòng Kepler đâu, từ thời m6600 thì lựa chọn firepro m8900 là thấp nhất, sau đó là quadro 3000m thì phải têm 300$ nữa, còn dòng K3000m bác nói thì tới m6700 mới có.
 ==========================
 404
 Laptop
-E có hàng này Dell Precision M6600, chuyên cho dân đồ họa.
+Em có hàng này Dell Precision M6600, chuyên cho dân đồ họa.
 Bạn mua thôi còn chờ gì nữa, hàng ngon.
 ==========================
 405
-Laptop
+Tư vấn laptop
 Có mang vác, nhìn đẹp, bạn chiến con Dell XPS 15 giải trí cũng khá được, ngoài ra còn có thêm dòng Asus nếu không ngại khối lượng thì xúc em này khá ổn.
 Mình cũng định mua con M6700 rồi nhưng nghĩ nó to với cả nhìn thô màn hình 17inch không cần thiết lắm tuy là nó khỏe thật.
 ==========================
 406
-Laptop
+XPS
 Cấu hình con XPS làm đồ họa có được không ?
 Mua Dell XPS làm đồ họa là sai lầm của tạo hóa.
 ==========================
 407
-Laptop
+XPS
 Mua Dell XPS làm đồ họa là sai lầm của tạo hóa.
 Sao có người bảo XPS là dòng chuyên đồ hoạ mà, hoá ra là dòng giải trí à ?
 ==========================
 408
-Laptop
+XPS
 XPS là dòng giải trí cao cấp, ngang với HP Envy, ai bảo con ấy chuyên đồ họa đánh người ấy đi bác ạ.
 Em định không mua laptop xịn nữa, mua laptop rẻ thôi và máy bàn cho nó khoẻ.
 ==========================
 409
 Laptop
 Em định không mua laptop xịn nữa, mua laptop rẻ thôi và máy bàn cho nó khoẻ.
-Em có PC rồi nhưng vẫn phải mua cái laptop tốt bác ạ. Cái thú chụp ảnh rồi cho vào laptop chỉnh sửa bất cứ đâu lúc rỗi. chứ ngồi cop vap PC ở nhà rất chán. Lúc nào có cảm hứng là làm.
+Em có PC rồi nhưng vẫn phải mua cái laptop tốt bác ạ, cái thú chụp ảnh rồi cho vào laptop chỉnh sửa bất cứ đâu lúc rỗi, chứ ngồi máy bàn ở nhà rất chán, muốn là lúc nào có cảm hứng là làm cơ .
 ==========================
 410
-Laptop
+Firepro
 Dùng laptop nếu ai chơi trò chơi điện tử nhiều thì chọn FirePro cho nó tốt, ai đồ họa là chính thì ráng cắn răng mà mua Quadro.
 Công nhận Quadro nó đắt thiệt.
 ==========================
 411
-Laptop
+Firepro
 M8900 là khủng nhất của Firepro nên ít ra cũng phải hơn 3000m chứ, em đọc ở 1 số nơi thì thấy M8900 hơn 4000m và thua 5010m tầm 5% thôi, trên voz cũng thấy có nói
 Bạn nói hơn thua là ở mặt nào, về mặt trò chơi điện tử (chiến trường 3dmark) đúng là m8900 hơn cả quadro 4000m thậm chí gần bằng 5010m, nhưng tất nhiên không ai mua firepro/quadro về chơi trò chơi điện tử mà sẽ dùng để dựng hình hoặc làm đồ họa bằng các ứng dụng chuyên nghiệp, mà mặt này thì firepro chỉ có nước hít khói hít bụi quadro thôi chứ đừng nói là chạy theo nhá, và sự thực thì m8900 vẫn là lựa chọn rẻ tiền nhất trong dòng m6600, trên m8900 là quadro 3000m và thêm 300$ nâng cấp nữa, đó là sự thật đó ạ.
 ==========================
 412
-Laptop
+Tư vấn laptop
 Dự tính là mua Probook 4540 và Dell Vostro mà không biết mua ở đâu, thằng bạn hôm qua sang bên laptopno1 thấy bảo hết hàng, giờ Hà Nội chỗ nào còn hàng chỉ giúp em với.
 Còn hàng mà bác, hôm nay hàng có sẵn bác nhé.
 ==========================
@@ -2079,7 +2079,7 @@ Laptop còn cả 2 con à ?
 Cả 2 con đều còn bác ạ.
 ==========================
 415
-Laptop
+Hỏi laptop
 Nói cho em biết Dell vostro với Dell latitude nó khác nhau cái gì không ạ ?
 Bạn có thể tham khảo 2 mẫu dell vostro và dell latitude tại website laptopanphong.com thì bạn sẽ biết khác nhau như thế nào.
 ==========================
@@ -2089,13 +2089,13 @@ Cả 2 con laptop đều còn bác ạ.
 Cơ mà phải 2 con laptop đều còn khuyến mãi không ạ ?
 ==========================
 417
-Laptop
+Tư vấn laptop
 Mình đang rất phân vân 2 con này,bạn chọn giúp mình với, Dell vostro 3560 thì con này khỏi cần bàn, người người nhà nhà đều biết, hoặc IBM 7 hay Thinkpad T420 Intel® Core™ i5 2520 Sandy Bridge 4x2.53Ghz turbo 3.2GHz, 4GB RAM DDR3, ổ cứng 320GB 7200rpm 16MB cache, màn hình 14.1 inches 1600x900 LED, 2 card đồ họa là 1GB NVIDIA N12P-NS1™ và Intel 3000 MHD™ 1GB, giá 15 triệu.
 Chào bạn, mình vừa lấy 1 con T420, cấu hình và giá cũng như trên, máy ngon không có điểm gì chê cả, chọn thinkpad làm việc tốt, mà cũng đang chơi PES 2013 tối đa cấu hình luôn.
 ==========================
 418
 Laptop
-mình vừa lấy 1 con T420, cấu hình và giá cũng như trên, máy ngon không có điểm gì chê cả, chọn thinkpad làm việc tốt, mà cũng đang chơi PES 2013 tối đa cấu hình luôn.
+Mình vừa lấy 1 con T420, cấu hình và giá cũng như trên, máy ngon không có điểm gì chê cả, chọn thinkpad làm việc tốt, mà cũng đang chơi PES 2013 tối đa cấu hình luôn.
 Mình hơi ngại là mua nhằm máy không phải máy mới bạn ạ, lăn tăn mỗi điểm này.
 ==========================
 419
@@ -2109,17 +2109,17 @@ Bạn học kinh tế quốc dân à ?
 Học ở đấy bị đồng tính đấy.
 ==========================
 421
-Laptop
+Tư vấn laptop
 Mục đích định dùng laptop làm gì thì mới tư vấn được chứ, Lenovo mua lại nguyên dây chuyền Thinkpad rồi mà, sao còn IBM T420 nữa nhỉ ?
 Quên mất cái mục đích, xin lỗi bác, mục đích em đơn giản lắm, chơi trò chơi như dota thôi, tí photoshop và mấy phần mềm chỉnh video tầm trung thôi, quan trọng hơn cả là độ bền vì nghe nói Thinkpad khá bền nên kết, chưa có kinh nghiệm sử dụng nên mới phân vân.
 ==========================
 422
-Laptop
+Thinkpad
 So với Thinkpad E đã được chưa mà đòi so với T ?
 Tính cái phần mềm hãng là con Thinkpad E nó lợi kha khá, cơ mà bàn phím của E hơi cùi bác à.
 ==========================
 423
-Laptop
+Thinkpad
 Tính cái phần mềm hãng là con Thinkpad E nó lợi kha khá, cơ mà bàn phím của E hơi cùi bác à.
 Bàn phím con Vostro lởm cực, không có tí phản hồi nào, so với bàn phím cùi của E thì còn cách khá xa.
 ==========================
@@ -2129,17 +2129,17 @@ Dìm hàng Dell Vostro 3560 đấy à ?
 Không phải là dìm hàng, mà cái chính là so Vostro với thinkpad thì đúng là Vostro không có cửa mà, em đang sài vostro đây.
 ==========================
 425
-Laptop
+Hỏi laptop
 Xin hỏi bác con Thinkpad T400 nâng cấp được lên 4GB RAM không ạ ?
 Được chứ bạn, bạn nâng cấp từ 3GB lên 4GB thì bạn thêm 500 ngàn nữa, thay 1 thanh 1GB bằng 1 thanh 2GB.
 ==========================
 426
-Laptop
+Hỏi laptop
 Xin hỏi bác con Thinkpad T400 RAM tối đa là bao nhiêu ạ?
 Tối đa là 8GB RAM bạn ạ.
 ==========================
 427
-Laptop
+Hỏi laptop
 Xin hỏi bác con Thinkpad T400 nâng cấp được card màn hình không ạ ?
 Nâng cấp cho card màn hình rời thì không được bạn ạ, không tự lắp thêm được vào.
 ==========================
@@ -2149,37 +2149,37 @@ Em chào anh, sắp lấy vợ chưa anh ?
 Chưa, vẫn đang sợ có vợ.
 ==========================
 429
-Laptop
-Con envy 17 đó thuộc loại nhẹ và nó thiết kế rất gọn không cồng kềnh như những con 17 inch khác, con này thiết kế unibody vỏ nhôm khối vuốt tròn như macbook pro, màn hình thì bọc kính rất đẹp, có 2 khe ổ cứng để cắm thêm 1 cái nữa, thường thì mua 17 inch khi cần máy có cấu hình khủng , nếu yêu cầu là 17 inch mà cần nhẹ di chuyển nhiều sao không làm con nào nhỏ gọn tầm 13,14 inch, cùng lắm là 15.6inch nếu cần cấu hình cao, sau đó sắm thêm quả màn hình ngoài 24inch là được nhất, như mình đây toàn xài máy nhỏ gọn, về nhà hoặc công ty đều cắm ra màn hình ngoài 21.5 inch xài cho sướng, cắm cả chuột quang, cả bàn phím ngoài luôn dùng cho thoải mái, thường thì bọn tây nó hay dùng docking để cắm các thiết bị ngoại vi vào sẵn đó, đi về cắm xoạch máy vào bật lên là được luôn, đi đâu thì ấn nút rút máy ra xách đi.
+HP Envy
+Con Envy 17 đó thuộc loại nhẹ và nó thiết kế rất gọn không cồng kềnh như những con 17 inch khác, con này thiết kế unibody vỏ nhôm khối vuốt tròn như macbook pro, màn hình thì bọc kính rất đẹp, có 2 khe ổ cứng để cắm thêm 1 cái nữa, thường thì mua 17 inch khi cần máy có cấu hình khủng , nếu yêu cầu là 17 inch mà cần nhẹ di chuyển nhiều sao không làm con nào nhỏ gọn tầm 13,14 inch, cùng lắm là 15.6inch nếu cần cấu hình cao, sau đó sắm thêm quả màn hình ngoài 24inch là được nhất, như mình đây toàn xài máy nhỏ gọn, về nhà hoặc công ty đều cắm ra màn hình ngoài 21.5 inch xài cho sướng, cắm cả chuột quang, cả bàn phím ngoài luôn dùng cho thoải mái, thường thì bọn tây nó hay dùng docking để cắm các thiết bị ngoại vi vào sẵn đó, đi về cắm xoạch máy vào bật lên là được luôn, đi đâu thì ấn nút rút máy ra xách đi.
 Nhưng trót thích mất rồi, giờ chỉ cần đâu uy tín là triển khai thôi.
 ==========================
 430
-Laptop
+HP Envy
 Trót thích mất HP Envy 17 rồi, giờ chỉ cần đâu uy tín là triển khai thôi
 Envy 15 và envy 17 hiếm lắm bác ạ vì em nó giá cao bán không dễ nên ít nơi nhập, bác thử lên cửa hàng HP ở Vincom xem có không, không thì phải hỏi trong Sài Gòn thôi, con này có 1 cái đặc điểm như mình nói ở trên đó là nếu xạc đầy mà không sử dụng, để 1 vài ngày thì pin nó sẽ sụt vài phần trăm do hiện tượng truyền điện qua vỏ, cái này thì không ảnh hưởng gì cả, chỉ có là bác để vài ngày thì phải xạc thêm vài phút cho nó đầy lên thôi.
 ==========================
 431
-Laptop
+HP Envy
 Envy 15 và envy 17 hiếm lắm bác ạ vì em nó giá cao bán không dễ nên ít nơi nhập, bác thử lên cửa hàng HP ở Vincom xem có không, không thì phải hỏi trong Sài Gòn thôi, con này có 1 cái đặc điểm như mình nói ở trên đó là nếu xạc đầy mà không sử dụng, để 1 vài ngày thì pin nó sẽ sụt vài phần trăm do hiện tượng truyền điện qua vỏ, cái này thì không ảnh hưởng gì cả, chỉ có là bác để vài ngày thì phải xạc thêm vài phút cho nó đầy lên thôi.
 Nhưng mà nó to, nhìn cho rõ
 ==========================
 432
-Laptop
+Bảo hành
 Nếu như mình mua ở laptop HP ở laptopus.com, thì vẫn hưởng chính sách bảo hành toàn cầu chứ nhỉ?
 HP bảo hành toàn cầu, tuy nhiên hàng nhập khẩu khi nhập về thường trôi bảo hành mất vài tháng, cho nên khi bán hàng các cửa hàng tự đứng ra bảo hành cho phần thời gian bảo hành bị trôi đó, nếu cửa hàng đó có quan hệ tốt với HP thì thời gian đó họ vẫn có thể thay linh kiện của hãng cho bác hoặc khi hết hạn bảo hành 2 năm thì họ vẫn thay thế linh kiện với giá hữu nghị cho bác, nhưng điều này thì cũng ít cửa hàng làm được cho nên nếu mua ở xa thì bác kiểm tra phiên bản xem thời gian bảo hành hãng thực tế là bao lâu cho yên tâm, ngoài ra mua hàng mới thì nên mua nguyên seal thùng, mặc dù seal có thể làm giả được nhưng vẫn yên tâm, tốt nhất là có người quen trong đó đến kiểm tra, khui thùng rồi niêm phong gửi ra cho bác là tốt nhất.
 ==========================
 433
-Laptop
+Bảo hành
 HP bảo hành toàn cầu, tuy nhiên hàng nhập khẩu khi nhập về thường trôi bảo hành mất vài tháng, cho nên khi bán hàng các cửa hàng tự đứng ra bảo hành cho phần thời gian bảo hành bị trôi đó, nếu cửa hàng đó có quan hệ tốt với HP thì thời gian đó họ vẫn có thể thay linh kiện của hãng cho bác hoặc khi hết hạn bảo hành 2 năm thì họ vẫn thay thế linh kiện với giá hữu nghị cho bác, nhưng điều này thì cũng ít cửa hàng làm được cho nên nếu mua ở xa thì bác kiểm tra phiên bản xem thời gian bảo hành hãng thực tế là bao lâu cho yên tâm, ngoài ra mua hàng mới thì nên mua nguyên seal thùng, mặc dù seal có thể làm giả được nhưng vẫn yên tâm, tốt nhất là có người quen trong đó đến kiểm tra, khui thùng rồi niêm phong gửi ra cho bác là tốt nhất.
 Bác cho em hỏi tiếp, tem HP chính hãng sẽ dán ở đâu, phân biệt với hàng refurbished kiểu gì ạ, bác làm quen dòng Envy này rồi cho em ít thông tin quý bác nhé.
 ==========================
 434
-Laptop
+Hỏi laptop
 Bác cho em hỏi tiếp, tem HP chính hãng sẽ dán ở đâu, phân biệt với hàng refurbished kiểu gì ạ, bác làm quen dòng Envy này rồi cho em ít thông tin quý bác nhé.
 Mua ở đâu thì mua, tránh xa cái Laptopsongviet ra http://vozforums.com/showthread.php?t=3154583.
 ==========================
 435
-Laptop
+Hỏi laptop
 Chỉ có cục pin cho laptop 2 bên không ngồi lại nói chuyện với nhau được sao ?
 Em đã rất thiện chí bác ạ, hơn 1 lần em đã yêu cầu được cho em các thêm tiền đổi máy mới cho xong chuyện, chính bên ấy cứ hứa hươu hứa vượn là sẽ giải quyết tất cả mọi vấn đề nên mới gây ức chế cho em.
 ==========================
@@ -2209,39 +2209,39 @@ Bạn tải cái chương trình HP Support Assistant về cài đi, nó có tí
 Chỉnh thành Advanced chỗ nào vậy bác, của em nó vào Setting của Assistant thì toàn cái nâng cấp vớ vẩn.
 ==========================
 441
-Laptop
+Hỏi laptop
 Mình mấy bữa nay cũng băn khoăn cái vụ này, toàn dùng Battery Care nên thấy ảo quá, bữa nay mới cài cái HP Support assistant vô thì hỡi ôi, sao Design Capacity chỉ có 5100mAh, Full charge Capacity chỉ có 4773mAh, Remaining Capacity thì 4773mAh, trong khi mua quảng cáo là pin 8cell, chả lẽ lại lừa đảo à ?
 Không có lừa đảo gì đâu, chú ý đơn vị nhá bạn, bên HP Support Assistant thì đơn vị là mAh, còn cái bạn nói đơn vị là Wh, trong HP Support Assistant muốn tính ra Wh thì lấy Design Capacity nhân với Design Voltage.
 ==========================
 442
-Laptop
+Hỏi laptop
 Cho em hỏi mai tính mua 1 em 8540w về mà lần đầu mua laptop nên chưa biết nên kiểm tra gì nhỉ : màn hình, pin, còn gì nữa nhỉ ?
 Nguyên seal hay là mở rồi vậy bạn, nên mua nguyên seal đi cho khỏe.
 ==========================
 443
-Laptop
+Hỏi laptop
 Chỉnh thành Advanced chỗ nào vậy bác, của em nó vào Setting của Assistant thì toàn cái nâng cấp vớ vẩn.
 Nâng cấp HP Support Assistant lên bản mới nhất chưa bạn, trên cửa sổ HP Battery Check nó cũng có chữ Setting nữa mà, thử nâng cấp lên bản mới nhất xem.
 ==========================
 444
-Laptop
+Hỏi laptop
 Không có lừa đảo gì đâu, chú ý đơn vị nhá bạn, bên HP Support Assistant thì đơn vị là mAh, còn cái bạn nói đơn vị là Wh, trong HP Support Assistant muốn tính ra Wh thì lấy Design Capacity nhân với Design Voltage.
 Cám ơn bạn, mình quên mất cái vụ này, mà không hiểu sao máy mình mới mua được gần 3 tháng mà pin đã chai 6% rồi, mình sử dụng pin đúng như hướng dẫn, nhưng sau mỗi lần sạc thì dung lượng pin cứ giảm đều.
 ==========================
 445
-Laptop
+Phần mềm
 Nâng cấp HP Support Assistant lên bản mới nhất chưa bạn, trên cửa sổ HP Battery Check nó cũng có chữ Setting nữa mà, thử nâng cấp lên bản mới nhất xem.
-Hóa ra là do em dùng bản 4.2, giờ thì có rồi.
+Hóa ra là do em dùng bản cũ, giờ thì có rồi.
 ==========================
 446
-Laptop
+Pin
 Cám ơn bạn, mình quên mất cái vụ này, mà không hiểu sao máy mình mới mua được gần 3 tháng mà pin đã chai 6% rồi, mình sử dụng pin đúng như hướng dẫn, nhưng sau mỗi lần sạc thì dung lượng pin cứ giảm đều.
 Hôm nay lần đầu tiên dùng HP Battery Check để kiểm tra nên chưa biết nữa, để vài bữa nữa để ý xem thử đã, con máy laptop của mình cũng dùng khoảng gần 3 tháng rồi, dùng pin chẳng đúng cách gì cả, ở nhà thì cắm sạc để đó dùng suốt, tối hibernate vẫn cắm sạc để đó luôn, bữa nào học trên trường thì vác lên dùng, gần cạn đem về nhà lại cắm vào vừa sạc vừa dùng tiếp, tưởng đâu chai nhiều nhiều, ai dè mới 2% thôi.
 ==========================
 447
-Laptop
+Hỏi laptop
 Không biết bác có biết cách đưa tín hiệu âm thanh qua cổng Display chưa ạ, em dùng cáp chuyển DP-HDMI thì chỉ có tín hiệu hình ảnh thôi còn âm thanh thì không mặc dù loa trong máy vẫn kêu ầm ầm, em dùng 8540W ạ.
-Có đưa được tín hiệu qua cổng Displaysang được LCD bác à, bác phải ấn chuột phải vào cái loa ở góc màn khay đồng hồ và chọn Playback Devices và chọn thiết bị muốn phát âm thanh như là loa ngoài hoặc LCD hoặc loa Laptop, ở đây em dùng thêm card âm thanh gắn ngoài nên có lựa chọn loa ngoài nhé.
+Có đưa được tín hiệu qua cổng Display sang được LCD bác à, bác phải ấn chuột phải vào cái loa ở góc màn khay đồng hồ và chọn Playback Devices và chọn thiết bị muốn phát âm thanh như là loa ngoài hoặc LCD hoặc loa Laptop, ở đây em dùng thêm card âm thanh gắn ngoài nên có lựa chọn loa ngoài nhé.
 ==========================
 448
 Obama
@@ -2264,12 +2264,12 @@ AMD không chạy được Real temp bạn.
 Của mình E5200 bác ạ.
 ==========================
 452
-Máy tính
+CPU
 Con Q8400 không ép xung được có 885 điểm thôi.
 Cũng đang đau đầu với nó nè, tỉ lệ tối đa của Q8400 là 8, cái này không tăng thêm được, chỉ có cách nâng bus thực mà bus thực của nó mặc định là 333MHz nên bus hệ thống 333MHzx4, 1333MHz đụng giới hạn của main G41 của mình rồi không tăng hơn được nữa, chán đời ghê luôn, mấy con mainboard G31 của ASUS như P5KPL-CM hỗ trợ FSB 1600, biết thế trước mua G31 cho rẻ, ép xung cho sướng.
 ==========================
 453
-Máy tính
+CPU
 Dota 2 không cần đến i7 đâu bạn, i3 là thừa lắm rồi.
 Dạ vâng, nhưng mục đích cũng là để cho lâu dài trong tương lai nữa ạ, sợ nếu mua core i3 thì sau này lại phải mất công đổi máy nữa.
 ==========================
@@ -2279,7 +2279,7 @@ Tiền tệ
 Cỡ khoảng 17 triệu đấy bác.
 ==========================
 454
-Laptop
+Tư vấn laptop
 Cố tí nữa làm cái Dell xps 15 chip i7, card màn hình 2630QM bạn ạ.
 Ừ, thêm 2 triệu nữa được con màn hình ngon.
 ==========================
@@ -2289,12 +2289,12 @@ Máy bạn mình core i5, card màn hình Radeon HD 6470m chạy Dota 2 chỉ đ
 Cái này do nh yếu tố nữa, i5 đời mấy, RAM thế nào,...
 ==========================
 456
-Tư vấn
-Mình đang muốn mua máy, kinh phí dưới 30 triệu, màn hình 17inch, và nhẹ nhất có thể, mang vác nhiều, bác có em nào hội tụ đủ yêu cầu thì chỉ mình với ?
+Tư vấn laptop
+Mình đang muốn mua laptop, kinh phí dưới 30 triệu, màn hình 17inch, và nhẹ nhất có thể, mang vác nhiều, bác có em nào hội tụ đủ yêu cầu thì chỉ mình với ?
 17inch mà nhẹ thì hơi khó bác ạ, mang vác nhiều mệt đấy, bác có thể nói rõ nhu cầu được không, thêm vào nữa là dòng có màn hình 17inch cũng không nhiều.
 ==========================
 457
-Laptop
+Tư vấn laptop
 Nhu cầu chẳng có gì nhiều, mua giúp bạn thôi, mua tại Hà Nội, con HP có được không các bác nhỉ?
 Nếu mua thì bảo hành HP Việt Nam ở chỗ nào nhỉ?
 ==========================
@@ -2304,12 +2304,12 @@ Envy 17 thì khủng rồi, lại có màn hình 3D nữa, nặng 2.75 kg.
 Mình thích 100% nguyên seal nhé, mang vác alienware cực lắm.
 ==========================
 459
-Laptop
+Hỏi laptop
 Tình hình là sau 30/4 laptop em tự nhiên bị liệt các phím T, U, P, Q, 1, lúc thì nhấn được lúc không, nhưng có cách tạm thời là nhấn mạnh hoặc nhấn phím số thì nó sẽ nhận được.
 Bạn dùng phần mềm Passmark nhé, bạn bật phần mềm cho nó chạy, khi nào thấy bị liệt phím hoặc chập thì bạn vào phần mềm kiểm tra xem phím nào bị, phần mềm rất dễ dùng, bạn cần tư vấn thêm hay kiểm tra thì liên hệ mình làm giúp bạn, thường nếu như bạn nêu ở trên thì do nó đang chập phím.
 ==========================
 460
-Laptop
+Hỏi laptop
 Máy em bị liệt phím nhưng cứ lúc nào kiểm tra là nó lại hoạt động bình thường, bực mình quá, sửa khoảng 5 nút thì hết bao nhiêu vậy bác, em ở HCM ?
 Thế bác cứ bật phần mềm lên rồi để đấy làm việc khác, ở trên này có mấy bác Sài Gòn sửa chữa uy tín của anh em VOZ đó bác, với lại nếu sửa phím thì dù là 1 phím, vài phím hay nhiều phím thì vẫn phải bóc các phím để gỡ mạch ra vẽ lại bằng bút kẻ mạch bạc ơi, nên việc sửa bàn phím là mất thời gian, tóm lại bàn phím giờ rẻ bác thay cho nhanh ạ.
 ==========================
@@ -2339,7 +2339,7 @@ Mấy bài về freemind, rational thì ai chơi hội thảo bạn, cùng lắm
 Đi làm rồi, mà còn thiếu môn mới tốt nghiệp.
 ==========================
 466
-Laptop
+Giáo dục
 Mình học giao thông mà toàn phải học kỹ thuật điện, kỹ thuật nhiệt, hóa học, tin học C++ làm gì không biết, giờ chẳng nhớ tí nào mấy môn đấy nữa.
 Giao thông mà cũng cần phải học mấy môn ấy à?
 ==========================
@@ -2371,25 +2371,25 @@ Cái thời gian ngồi chém gió đó thà ở nhà còn hơn. Bắ
 472
 Laptop
 IBM T9400 ngon quá mà không đủ tiền mua.
-Ráng để dành tiền rồi mua nhé
+Ráng để dành tiền rồi mua nhé .
 ==========================
 473
-Laptop
+Hỏi laptop
 Có dock cho T60 không bác ?
 Không bạn à.
 ==========================
 474
-Laptop
+Hỏi laptop
 Đang quan tâm con Thinkpad T420, X220, E220s bao giờ có hàng hả bác ?
 Tầm 2 tháng nữa mới bắt đầu có bạn à.
 ==========================
 475
-Laptop
-Cho mình hỏi cái máy t400 không có máy ảnh và nhận dạng vân tay đúng không ạ ?
+T400
+Cho mình hỏi cái máy T400 không có máy ảnh và nhận dạng vân tay đúng không ạ ?
 Không có máy ảnh thôi còn nhận dạng vân tay  thì có bạn ạ.
 ==========================
 476
-Laptop
+Thinkpad
 Em Thinkpad có máy ảnh không bác nhỉ, mà em ấy màn hình LCD thường hay màn hình LED thế ?
 Đặc trưng của dòng Thinkpad là ít có máy ảnh, còn màn hình LED thì không bạn ạ, hiếm con nào có màn hình LED lắm.
 ==========================
@@ -2399,12 +2399,12 @@ Bây giờ ngon hơn nhìu rồi anh ạ, chắc anh K4x, giờ gần đến K60
 Mới đến K54 mà ông, chém gió gì to thế.
 ==========================
 478
-Laptop
+Pin
 Mua laptop pin 9cell xong hối hận đó bạn, 6cell cũng đủ dùng hơn 4 tiếng rồi.
 Sao hối hận thế bạn, nó thòi ra phía sau à, mình hay ở trên trường nên cần pin càng lâu càng tốt .
 ==========================
 479
-Laptop
+Đại học
 Do trường mình liên kết rất tốt với IBM từ lâu về giáo dục lẫn máy móc nên máy trong trường toàn do IBM hỗ trợ, tất cả laptop bên mình là chính hãng và chất lượng rất tốt với giá tốt nhất vì không phải mở cửa hàng, không phải thuê nhân viên nên không còn thùng và seal, bên mình buôn bán trong trường lấy chữ tín là chính nên các bạn không phải lo lắng về hàng dỏm.
 Toàn hàng ngon mà giá cũng tốt nhỉ, mấy con máy tính trong trường Bách Khoa toàn máy IBM từ cái thời Napoleong, nhớ hồi còn học toàn pải dùng máy cách đấy 3, 4 năm, nản quá, không biết bây giờ có gì hơn không.
 ==========================
@@ -2464,52 +2464,52 @@ Anh em ruột mà bảo không yêu thương nhau thì sao được, mình cũng
 Bạn nghĩ sao khi 1 đứa con gái ôm 1 người con trai đang không mặc áo mà vẫn không bị nói năng gì.
 ==========================
 491
-Laptop
+Tư vấn laptop
 Em đang định sắm con laptop U seri, U31 hoặc U46, em đang tìm con nào nhẹ, pin lâu , chỉ cần card màn hình kiểu Intel HD graphic vì làm văn phòng thôi, không chơi card màn hình rời vừa nóng lại tốn pin, ngoài sê ri U của Asus còn con nào khác không bác, thích thiết kế của U31 hơn U46 nhưng chíp lại chỉ là core i thế hệ thứ nhất không phải sandy bridge nên đang lăn tăn giữa U31 và U46.
 So sánh giữa U46 và U31 : màn hình U31 là 13.3inch còn U46 là 14inch, CPU U46 là i3 2330, U31 là i3-380, đối với công việc văn phòng thì hiệu năng không khác nhau, U31 nhẹ hơn U46, U31 thì pin lâu hơn U46, tóm lại theo mình lựa chọn U31 là hiệu quả nhất đối với nhu cầu của bạn.
 ==========================
 492
-Laptop
+Tư vấn laptop
 Mình đang muốn mua DELL Inspiron 15R N5110 không biết còn hàng không và được khuyến mãi gì không, và nâng RAM lên 8GB thì thêm bao nhiêu tiền nữa ?
 DELL Inspiron 15R N5110 vẫn đang bán giá là 19.2 triệu VND, đối với Dell thì chỉ có máy không thôi, nếu nâng thêm 8GB thì đầu tư thêm 900 ngàn bạn nhé.
 ==========================
 493
-Máy tính
+Hỏi máy tính
 Bên bác có về Eee PC X101 không ?
 Em lại chưa về kịp X101, nhưng như thông số thì 1015PEM vẫn là lựa chọn hơn nó mà, tuy nhiên có 2 sự khác biệt có thể nhìn thấy: CPU của X101 là N455 còn của 1015 là N550, ổ cứng của X101 là 2.5" SATA 8GB SSD còn của 1015 là 250GB SATA HDD, X101 vẫn có vẻ khoái hơn nhờ cái ổ cứng SSD nhanh nhẹn.
 ==========================
 494
-Laptop
+Tư vấn laptop
 Em thích gọn nhẹ với màn 14inch nhưng lại không thấy ở cửa hàng có con k43sv-vx210, chỉ thấy con k53sv-sx492 cấu hình tương đương.
 Laptop Asus 14inch inch không tích hợp công nghệ Optimus, không có bàn phím số mở rộng bên cạnh, theo mình lấy em 15.6inch ngon hơn nhiều.
 ==========================
 495
-Laptop
+Hỏi laptop
 Em Asus K53E chip B940 liệu có hàng lại không bác ? 
 Chưa thấy kế hoạch của hãng bạn ạ.
 ==========================
 496
-Tư vấn
+Tư vấn laptop
 Anh có thể tư vấn cho em loại laptop nào không để lại dấu vân tay khi mình dùng không ?
 ASUS K53SV-SX845 màu nâu bóng sẽ không để lại dấu vân tay bạn nhé.
 ==========================
 497
-Laptop
+Bảo hành
 Cho em hỏi, màn hình em bị hở sáng rất nhiều, liệu có được bảo hành không ạ ?
 Bạn mang qua trung tâm bảo hành để bên kỹ thuật kiểm tra lỗi nhé.
 ==========================
 498
-Tai nghe
+Hỏi tai nghe
 PX100ii bên mình còn màu trắng không anh ?
 Sennheiser PX100ii iP màu trắng còn hàng bạn nhé.
 ==========================
 499
-Laptop
+HP Pavillion dv4-3002tx
 HP Pavillion dv4-3002tx còn không bác, còn là em qua mua.
 HP Pavillion dv4-3002tx còn hàng bạn nhé.
 ==========================
 500
 Trò chơi điện tử
-Cho mình hỏi là trò LOL có thể chơi riêng 1 mình được không, chứ không biết kĩ năng vào đứng lung tung thua là cái chắc.
+Cho mình hỏi là trò Liên minh huyền thoại có thể chơi riêng 1 mình được không, chứ không biết kĩ năng vào đứng lung tung thua là cái chắc.
 Bạn chơi chế độ đánh với máy, trước để hiểu cách chơi và lên đồ, cách mua đồ thì nó đã chỉ sẵn, mua cái gì cái gì thì lên được món gì, không phải tìm tòi cách lên đồ như Dota, mỗi nhân vật có 1 cách chơi riêng, nếu chưa hiểu nhân vật đó kĩ năng như thế nào thì chỉ cần chọn vào nhân vật đó xem trước kĩ năng nó đánh ra sao, nhân vật đó nên lên theo con đường sức mạnh hay kĩ thuật.
 ==========================
