@@ -65,6 +65,7 @@ public class QuestionProcessor {
 		Integer outputLabelNumber = temp.intValue();
 		String label = (String)topics.get(outputLabelNumber);
 		label = label.replace('_', ' ');
+		System.out.println(label);
 		
 		//from topic, get the question for AIML module
 		Node root = xmlDoc.getDocumentElement();

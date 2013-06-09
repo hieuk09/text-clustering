@@ -55,16 +55,15 @@ public class Runner {
 		//Print command in AIML format 
 		//printAIML();
 		
-		//createTrainAndTestFile("data/input.txt", "data/test.txt", "data/train.txt");
+//		createTrainAndTestFile("data/input.txt", "data/test.txt", "data/train.txt");
 //		createSVMTrainingSet("data/Input", "data/SVM");
 //		try {
 //			SvmProcessor.svmTrain();
 //		} catch (IOException e) {
 //			// TODO Auto-generated catch block
 //			e.printStackTrace();
-//		}
-		String label = QuestionProcessor.getTrueQuestion("Ram của tôi bị hỏng rồi");
-		System.out.println(label);
+//		}		
+		testQuestions();
 		
 		//convertLabelToClass("data/predict-label.txt", "data/predict-class.txt");
 		
@@ -169,7 +168,7 @@ public class Runner {
 		Conversation[] conversations = Arrays.copyOf(objectArray, objectArray.length, Conversation[].class);
 
 		int length = conversations.length;
-		int lengthTest = length / 4;
+		int lengthTest = length / 5;
 		int lengthTrain = length - lengthTest;		
 		
 		Conversation[] test = new Conversation[lengthTest];
@@ -286,10 +285,10 @@ public class Runner {
 			for (int i = 0; i < conversations.length; i++) {				
 				map.clear();				
 				
-				//String[] answer = conversations[i].getAnswer().split(" ");
+//				String[] answer = conversations[i].getAnswer().split(" ");
 				String[] question = conversations[i].getQuestion().split(" ");
 
-				//Utility.putIndex2Map(answer, map, dictionary);
+//				Utility.putIndex2Map(answer, map, dictionary);
 				Utility.putIndex2Map(question, map, dictionary);
 
 				Integer topic_index = topics.indexOf(conversations[i].getTopic());
@@ -303,6 +302,7 @@ public class Runner {
 					try {
 						Integer index = (Integer)iter.next();
 						Double value = (double) (map.get(index)*1.0 / (question.length));
+//						Double value = (double) (map.get(index)*1.0 / (question.length + answer.length));
 						bw.write(" " + index.toString() + ":" + value.toString());
 
 					} catch (NoSuchElementException ex) {
@@ -676,5 +676,18 @@ public class Runner {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+	}
+	
+	public static void testQuestions() {
+		String label = QuestionProcessor.getTrueQuestion("Tư vấn mua laptop");
+		System.out.println(label);
+		label = QuestionProcessor.getTrueQuestion("Tôi muốn tìm một cái headphone");
+		System.out.println(label);
+		label = QuestionProcessor.getTrueQuestion("Máy tính của mình bị hư, bạn có biết chỗ nào sửa không?");
+		System.out.println(label);
+		label = QuestionProcessor.getTrueQuestion("RAM của mình bị vấn đề gì ấy");
+		System.out.println(label);
+		label = QuestionProcessor.getTrueQuestion("Có ai biết cài lại win không?");
+		System.out.println(label);
 	}
 }
