@@ -82,7 +82,5 @@ public class XMLOutput{
 			return false;
 		}
 		return true;
-
 	}
-
 }
