@@ -21,6 +21,7 @@ public class Crawler {
 	//	private static String API_SECRET = "01d8314e08f1e207370f8b778485bd6af18e34ff";
 
 	public static void main(String[] args) throws Exception {
+//		getYahooData();
 		getXMLData();
 	}
 
@@ -69,13 +70,28 @@ public class Crawler {
 	public static void getXMLData() throws Exception {
 
 		JAXBContext jc = JAXBContext.newInstance(Query.class);
-		Unmarshaller unmarshaller = jc.createUnmarshaller();        
+		Unmarshaller unmarshaller = jc.createUnmarshaller(); 
+		
+		File folder = new File("data/XML");
+		Query result = null;
 
-		File file = new File("data/XML/1.xml");
-		InputStream xmlStream= new FileInputStream(file);
+		for (final File fileEntry : folder.listFiles()) {
+			if (fileEntry.isDirectory()) {
+				//listFilesForFolder(fileEntry);
+			} else {
+				System.out.println(fileEntry.getName());
+				InputStream xmlStream= new FileInputStream(fileEntry);
 
-		Query answer = (Query) unmarshaller.unmarshal(xmlStream);
-		answer.write("data/raw-conversation.txt");
+				Query answer = (Query) unmarshaller.unmarshal(xmlStream);
+				
+				if (result == null) {
+					result = answer;
+				} else {
+					result.getResults().getQuestion().addAll(answer.getResults().getQuestion());
+				}
+			}
+		}
+		result.write("data/raw-conversation.txt");
 	}
 
 }

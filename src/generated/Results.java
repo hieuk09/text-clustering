@@ -80,12 +80,11 @@ public class Results {
 	}
 
 	public void write(String fileName) {
-
 		try {
 			BufferedWriter bufferWriter = new BufferedWriter(new FileWriter(fileName));
 			int count = 0;
 
-			if (question == null) {
+			if (question != null) {
 
 				for (Question q : question) {
 					count++;

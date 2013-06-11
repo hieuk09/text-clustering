@@ -21,3 +21,4 @@ data/predict-label.txt
 data/test.txt
 data/train.txt
 output.aiml
+data/raw-conversation.txt
