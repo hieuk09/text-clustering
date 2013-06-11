@@ -21,8 +21,8 @@ public class Crawler {
 	//	private static String API_SECRET = "01d8314e08f1e207370f8b778485bd6af18e34ff";
 
 	public static void main(String[] args) throws Exception {
-//		getYahooData();
-		getXMLData();
+		getYahooData();
+//		getXMLData();
 	}
 
 	public static void getYahooData() throws Exception {
@@ -34,8 +34,8 @@ public class Crawler {
 		Object[] objectArray = list.toArray();
 		String[] categories = Arrays.copyOf(objectArray, objectArray.length, String[].class);
 
-		String before = "http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20answers.getbycategory%20where%20category_name%3D%22";
-		String after = "\"%20and%20type%3D\"resolved\"%20and%20region%3D\"vn\"";
+		String before = "http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20answers.search(0%2C50)%20where%20query%3D%22";
+		String after = "%22%20and%20type%3D%22resolved%22%20and%20region%3D%22vn%22";
 
 		Query result = null;
 
