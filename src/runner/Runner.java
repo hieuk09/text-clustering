@@ -56,14 +56,14 @@ public class Runner {
 		//printAIML();
 		
 //		createTrainAndTestFile("data/input.txt", "data/test.txt", "data/train.txt");
-//		createSVMTrainingSet("data/Input", "data/SVM");
+		createSVMTrainingSet("data/Input", "data/SVM");
 //		try {
 //			SvmProcessor.svmTrain();
 //		} catch (IOException e) {
 //			// TODO Auto-generated catch block
 //			e.printStackTrace();
 //		}		
-		testQuestions();
+//		testQuestions();
 		
 		//convertLabelToClass("data/predict-label.txt", "data/predict-class.txt");
 		
@@ -168,7 +168,7 @@ public class Runner {
 		Conversation[] conversations = Arrays.copyOf(objectArray, objectArray.length, Conversation[].class);
 
 		int length = conversations.length;
-		int lengthTest = length / 5;
+		int lengthTest = length / 4;
 		int lengthTrain = length - lengthTest;		
 		
 		Conversation[] test = new Conversation[lengthTest];

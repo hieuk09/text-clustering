@@ -42,65 +42,68 @@ import yahoo.answers.Question;
  */
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlType(name = "", propOrder = {
-    "question"
+		"question"
 })
 @XmlRootElement(name = "results")
 public class Results {
 
-    @XmlElement(name = "Question", namespace = "urn:yahoo:answers", required = true)
-    protected List<Question> question;
+	@XmlElement(name = "Question", namespace = "urn:yahoo:answers", required = true)
+	protected List<Question> question;
 
-    /**
-     * Gets the value of the question property.
-     * 
-     * <p>
-     * This accessor method returns a reference to the live list,
-     * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the JAXB object.
-     * This is why there is not a <CODE>set</CODE> method for the question property.
-     * 
-     * <p>
-     * For example, to add a new item, do as follows:
-     * <pre>
-     *    getQuestion().add(newItem);
-     * </pre>
-     * 
-     * 
-     * <p>
-     * Objects of the following type(s) are allowed in the list
-     * {@link Question }
-     * 
-     * 
-     */
-    public List<Question> getQuestion() {
-        if (question == null) {
-            question = new ArrayList<Question>();
-        }
-        return this.question;
-    }
-    
-    public void write(String fileName) {
-    	
+	/**
+	 * Gets the value of the question property.
+	 * 
+	 * <p>
+	 * This accessor method returns a reference to the live list,
+	 * not a snapshot. Therefore any modification you make to the
+	 * returned list will be present inside the JAXB object.
+	 * This is why there is not a <CODE>set</CODE> method for the question property.
+	 * 
+	 * <p>
+	 * For example, to add a new item, do as follows:
+	 * <pre>
+	 *    getQuestion().add(newItem);
+	 * </pre>
+	 * 
+	 * 
+	 * <p>
+	 * Objects of the following type(s) are allowed in the list
+	 * {@link Question }
+	 * 
+	 * 
+	 */
+	public List<Question> getQuestion() {
+		if (question == null) {
+			question = new ArrayList<Question>();
+		}
+		return this.question;
+	}
+
+	public void write(String fileName) {
+
 		try {
 			BufferedWriter bufferWriter = new BufferedWriter(new FileWriter(fileName));
 			int count = 0;
-						
-			for (Question q : question) {
-				count++;
-				bufferWriter.write(Integer.toString(count) + "\n");
-				bufferWriter.write(q.getCategory().getContent() + "\n");
-				bufferWriter.write(q.getSubject() + "\n");				
-				bufferWriter.write(q.getContent() + "\n");
-				bufferWriter.write(q.getChosenAnswer() + "\n");
-				bufferWriter.write("==================================================\n");
+
+			if (question == null) {
+
+				for (Question q : question) {
+					count++;
+					bufferWriter.write(Integer.toString(count) + "\n");
+					bufferWriter.write(q.getCategory().getContent().replaceAll("(\\r|\\n)", " ") + "\n");
+					bufferWriter.write(q.getSubject().replaceAll("(\\r|\\n)", " ") + "\n");				
+					//				bufferWriter.write(q.getContent().replaceAll("(\\r|\\n)", " ") + "\n");
+					bufferWriter.write(q.getChosenAnswer().replaceAll("(\\r|\\n)", " ") + "\n");
+					bufferWriter.write("==================================================\n");
+				}
 			}
-			
+
 			bufferWriter.flush();
 			bufferWriter.close();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}    	
-    }
+	}
 
 }
