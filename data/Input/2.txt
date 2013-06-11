@@ -1,0 +1,2515 @@
+﻿1
+Laptop
+Cho mình mình mới mua con laptop HP Elitebook 8560w thấy dùng máy nóng quá, sử dụng phần mềm kiểm tra nhiệt độ trên máy tính báo 60 độ C, cho hỏi máy có vấn đề gì về phần cứng không ?
+60 độ thì bình thường có gì đâu, nếu bác lo thì đem đi vệ sinh lại máy đi, hoặc kiểm tra xem có dính vi rút không ?
+==========================
+2
+Laptop
+Ai đã nâng cấp BIOS cho Elitebook 8460p thì có thể hướng dẫn mình được không ạ ?
+Tải cái bản BIOS trên web hãng về rồi cài như bình thường bác nhé, nhớ cắm sạc đầy đủ.
+==========================
+3
+Laptop
+Con Elitebook 8760W lắp được 2 ổ cứng 2.5inch, hàng đi kèm đã lắp 1 con ổ cứng SSD 256GB, chạy thì ngon rồi, nhưng công việc của mình liên quan đến dữ liệu lớn, muốn lắp thêm ổ thứ 2, mình đã mở lắp lưng máy, thấy khe này đang để trống, lắp ổ vào thì thấy có lẽ cần cái khung (hoặc khay) cho nó nữa nên cần hỏi là mua cái khung này ở đâu ?
+Bác tìm bên cửa hàng Caddy Bay nhé, có một số địa chỉ ở Tân Bình và Cao Thắng bán.
+==========================
+4
+Laptop
+Con Elitebook 8760W bảo hành 3 năm, và công việc của mình cần xử lý hiệu năng lớn, muốn nâng lên 32GB RAN (hiện giờ đang là 16GB RAM), vấn đề là đã lắp đủ 4 con RAM 4GB vào 4 khe, giờ có thể mang ra hãng để đổi sang 4 con 8GB RAM được không hoặc thay ở công ty nào đó mà không làm mất bảo hành hãng ?
+Nâng RAM bác mua ở ngoài hoặc nhờ cửa hàng nâng, không cần mang ra hãng, nếu bảo hành thì vẫn nhận nhưng không bảo hành linh kiện thay thế ở đây là RAM.
+==========================
+5
+Laptop
+Không biết chỗ nào bán laptop HP 8570w hàng mới ở Hồ Chí Minh không nhỉ ?
+Bác thử hỏi bác Gia Khang bên diễn đàn VOZ xem, bác này bảo nhập về mấy con loại này mà giá rẻ lắm.
+==========================
+6
+Laptop
+Bác cho em hỏi sao con 8460p của em dạo này gần hết pin toàn bị sập nguồn, chả báo chả rằng gì cả, lỗi này không biết do pin hay do máy ?
+Lỗi này là do pin chai nhưng Windows báo không chính xác, giả sử pin chai mất 9% nhưng Windows báo vẫn đủ, nên khi pin còn 9% máy sẽ bị sập nguồn trước khi báo. 
+==========================
+7
+Bóng đá
+Lấy tất cả những điểm mạnh của các cầu thủ thì sẽ chính là Ronaldo - Người ngoài hành tinh, không biết bao lâu nữa sẽ có 1 siêu sao như vậy xuất hiện.
+So về sự hoàn hảo và toàn diện thì không ai bằng được Adriano thần thánh, có 1 tiêu chí quan trọng mà bạn không nói tới là phong độ, sự ổn định và chú Ronaldo giữ thăng bằng rất kém, rất hay ngã.
+==========================
+8
+Bóng đá
+Sao danh sách này không có Rooney thần thánh nhỉ ?
+Gã trâu nước đó thì có thể xếp vào nhóm cuối thôi. 
+==========================
+9
+Bóng đá
+Falcao có đánh đầu hay cũng không bằng được Rooney.
+Về khoản đánh đầu thì Rooney còn phải gọi Klose bằng sư phụ.
+==========================
+10
+Bóng đá
+Ibrahimovic là con nhà võ có khác.
+Mình thích nhất là Ibrahimovic, cái cách cha này ghi bàn thật tuyệt vời.
+==========================
+11
+Điện thoại
+Nghe nói Galaxy S chạy bị khựng gì đó, có sửa lỗi đó được chưa ?
+Người ta đã sửa rồi và rất dễ dàng.
+==========================
+12
+Điện thoại
+Muốn root máy điện thoại có dễ dàng như kiểu bấm một nút không hay phức tạp hơn ?
+Có, khá dễ dàng đó bác.
+==========================
+13
+Điện thoại
+Về pin thì thế nào cho nhu cầu, đọc truyện tranh khoảng 3 tiếng, lướt web 1 tiếng với 3G, thỉnh thoảng nghe nhạc tầm 1 tới 2 tiếng, với màn hình độ sáng 40%, 50%, và ROM nào là chuẩn nhất ?
+Mình đang dùng ROM Darky 10.1 kernel darkcore 2.6 thấy nhanh, pin lâu, có chương trình Voodoo Sound v9 nghe nhạc rất hay.
+==========================
+14
+Điện thoại
+Bộ nhớ máy chuẩn i9000 là bao nhiêu ?
+Bộ nhớ ROM khoảng vài trăm MB, bộ nhớ cho ứng dụng 1.87 Gb, phần còn lại là thẻ nhớ trong với khoảng 5.6 GB.
+==========================
+15
+Điện thoại
+HTC Galaxy S có chơi được những game định dạng cao như Need for speed, Asphalt 6, Ninja assasin, PES 11 không ?
+Chơi được hết đó bạn.
+==========================
+16
+Điện thoại
+HTC Galaxy S có game nào dàn trận như Field runner không, hay là Cut the rope hoặc Fruit ninja có chém được hơn 3 ngón tay không ?
+HTC Galaxy S có thể chém được 5 ngón tay nhé.
+==========================
+17
+Điện thoại
+Quan trọng hơn hết là HTC Galaxy S có dùng Wifi phát ra từ Connectify được không, mình đọc thấy bảo là Android không cho phép điều đó, anh em giải thích kỹ hộ, tại dùng wifi kiểu này mới tiện, không thì tải trò chơi điện tử bằng 3G tốn tiền lắm.
+Mình chưa thử, tại nhà mình có wifi router rồi.
+==========================
+18
+Điện thoại
+Máy HTC Galaxy S dùng lâu có nóng không ?
+Hơi nóng nếu chơi trò chơi điện tử 3 chiều hoặc tải cái gì đấy qua 3G lâu.
+==========================
+19
+Điện thoại
+Màn hình HTC Galaxy S dễ trầy không ?
+Mình không dùng dán màn hình, lớp Chrome quanh máy còn có vết trầy chứ màn hình chẳng hề hấn gì cả, mặc dù để trong túi quần, thỉnh thoảng có trộn thêm chìa khóa và tiền xu.
+==========================
+20
+Điện thoại
+Bộ phụ kiện chuẩn theo máy HTC Galaxy S gồm những cái gì ?
+Sạc, cáp, tai nghe, hướng dẫn sử dụng.
+==========================
+21
+Điện thoại
+Cần giới thiệu cho một ROM Cook đáp ứng nhu cầu của mình và chỉ cách làm luôn ?
+Con ROM v5.6 + Kernel Darkcore 2.7, đảm bảo mượt cực kì, còn tìm hiểu thì bạn sang bên tinhte.com ấy, nhiều lắm . 
+==========================
+22
+Điện thoại
+Mới mua 1 con Samsung Captivate, giờ làm gì để vọc máy các bác nhỉ đây là lần đâu tiên em cầm điện thoại sử dung hệ điều hành Android ?
+Thì vứt vào thùng giặt, giặt xong đem đi sửa tìm cách cho nó sống lại cũng là một cách vọc.
+==========================
+23
+Điện thoại
+Cái đó là cái gì bác nhỉ, gọi là gì để xem mua cái về cho an toàn con điện thoại yêu của mình ? 
+3 con điện trở 100000 ôm mắc nối tiếp, nối được đúng chân ở cái cổng USB là bất kể ra sao cũng kích hoạt được chế độ tải, là đồ tự chế chứ không phải thiết bị gì cả, nếu yêu khoa học thì quậy, chứ nếu thích nhanh thì ra hàng nó cứu cho, chắc 50, 100 ngàn gì đấy. 
+==========================
+24
+Điện thoại
+Mình mới nâng cấp HTC Galaxy S lên phiên bản 2.3.4, nói chung là không thấy gì khác cả ?
+Có khác đấy, với bản mới độ trễ cảm ứng giảm xuống rõ, giờ không còn thấy khác nhiều so với Samsung Focus nữa, và khi vuốt sang ngang nhìn thấy cả Icon trang bên cạnh, như vậy nó tự nhiên hơn.
+==========================
+25
+Điện thoại
+RAM 512Mb, 1 ít chia sẻ cho card đồ họa, 1 ít chia sẻ dạng dự trữ cho các thành phần như máy ảnh, Kernel nên còn có một tí.
+Nhưng khi chạy các ứng dụng nặng thì nó sẽ tự động dọn dẹp RAM, bạn cứ chạy thử mấy trò chơi điện tử năng nặng như Asphalt 6 rồi thoát ra sẽ thấy RAM tự do rất nhiều.
+==========================
+26
+Điện thoại
+Muốn chuyển qua dùng Android, nhắm được 2 em là Captivate và Vibrant, hôm trước cầm thử Captivate thấy có vẻ không thoải mái bằng em I9000, và nghe nói dàn nút cảm ứng không nhạy, bạn cho ý kiến chút đi.
+Thử là biết thôi, vì nếu là nút cảm ứng nó nhạy tới mức nhiều người bực mình bởi lúc chơi các trò chơi chẳng may chạm nhẹ tay vào là bị văng ra ngoài, mà mua nếu không quá coi trọng hình thức thì cứ i9000 mà mua bởi nhiều ROM cũng như bản thân Samsung nó cũng làm ROM mới cho i9000 đầu tiên.
+==========================
+27
+Laptop
+Bác có biết chổ nào vệ sinh laptop uy tín trên địa bàn TP.HCM không, xài em nó cũng lâu roài, giờ muốn sửa soạn em nó để đón năm mới. 
+Dòng này cứ thoải mái lột đồ em nó ra mà khám phá đi thím, thoải mái đi, cùng lắm là lời mấy con ốc chứ gì đâu.
+==========================
+28
+Laptop
+Bác có thể chia sẻ một ít kinh nghiệm thực tế khi sử dụng quạt tản nhiệt cho laptop không, tại mình dùng 8540w đặt trên mặt bàn thì thấy phần ở gần ổ cứng khá nóng.
+Máy bác chạy lâu thì kiếm lấy cái đế tản nhiệt kê vào thì thoáng hơn, nhưng mà nên chế lấy một cái nguồn rời đầu USB cho quạt tản nhiệt, chứ nó lấy nguồn từ mạch USB thì về lâu dài cũng không hay đâu ạ, còn kê cao thì phải kê kiểu gì chứ, nhiều ông lấy quyển sách kê vào dưới máy bịt kín lỗ thông hơi vào thì còn lởm hơn. 
+==========================
+29
+Phần mềm
+Clip hướng dẫn của bác làm bằng những phần mềm gì thế chia sẻ em với ?
+Chương trình Adobe After Effect đó bác.
+==========================
+30
+Laptop
+Em mang qua laptopcali để bảo hành hôm thứ 6 ngày 14 bác ạ, nhưng phải chờ đến thứ 2 vừa rồi các bác ấy mới mang qua HP được, đến nay vẫn chưa có tin, mong là sẽ suôn sẻ.
+Kinh nghiệm các bác mang đi bảo hành thì mang đầu tuần ấy, mang thứ 6 thì nhanh thứ 2, chậm thì thứ 4 mới được lấy máy, mình lần đầu mang đi thứ 6, tối về không có máy điên luôn, đến chiều thứ 2 gần tối rồi bên đó gọi mình cũng chạy vèo đi lấy vì giờ thiếu laptop nó cứ sao sao ấy không chịu nổi. 
+==========================
+31
+Laptop
+Dạo này mình cảm giác là con laptop 8560w của mình nóng hơn bình thường thì phải, không biết là có phải vệ sinh lại không nhỉ, mình mua bên songvietlaptop được gần 1 năm rồi, chả có lỗi gì hết, chỉ có cái GPU nóng quá khi chơi game.
+1 năm là làm vệ sinh được rồi, bác mang qua mình làm vệ sinh với trét keo tản nhiệt lại nhé, dòng này card màn hình mạnh nên quạt thổi nhiều, nhanh bẩn lắm. 
+==========================
+32
+Laptop
+Cuối tuần em xách qua bác giúp em sửa laptop nhé.
+Hỗ trợ miễn phí mà, bác cứ thoải mái đi.
+==========================
+33
+Laptop
+Các bác cho em hỏi, em dùng con HP 8460p i7 card màn hình rời, em mới cài bản Windows 8 Enterprise mà giờ thiếu driver, vậy giờ phải cài driver thế nào đây các bác, tải driver ở đâu giờ, cái card rời là 6470M mà Windows 8 nó tự cài thành 7400M liệu có ổn không ? 
+Ổn, card màn hình 6470M lúc ra mắt theo Series 7000M thì được AMD Rename thành 7450M, driver hiện giờ của bạn báo là 7400M Series thì nó sẽ mới hơn cái driver nhận là 6470M đấy.
+==========================
+34
+Laptop
+Các bác cho em hỏi với, em dùng Elitebook 8440p, dùng cũng được 2 năm rồi, máy móc thì không sao, tự dưng cái chuyển đổi điện bị hỏng, em thay cái mới cùng chân cùng hãng ở ngay gần nhà, vào chơi Dota 2 với NBA 2K13 thì giật, cho em hỏi đấy có phải do cục chuyển đổi điện không ?
+Cục chuyển đổi điện có nhiều loại lắm, chất lượng khác xa nhau, nếu máy có card màn hình rời thì xài cục 90w còn card của Intel thì 60w, mua cục chuyển đổi điện nên mua loại tốt thì máy mới ổn định được bác ạ.
+==========================
+35
+Laptop
+Bác ơi sao con Elitebook 8460p của em không bật wifi được, cái nút wifi nó sáng đỏ không à, không biết bị sao nữa, lúc trước nó xài bình thường mà.
+Mình cũng bị như bạn, xoay đủ kiểu không hết, cuối cùng đưa đi bảo hành, kết quả là được thay cái Mainboard mới.
+==========================
+36
+Laptop
+Mà sao loa con Elitebook nghe dở quá, có cách nào làm nó nghe hay hơn được không nhỉ ?
+Mua KOSS KSC35 hoặc KOSS KSC75 như mình đi bạn, nghe đã lắm. 
+==========================
+37
+Laptop
+Ai cho em hỏi em cắm nguồn vào dùng laptop sau 1 thời gian tầm nửa ngày thấy pin giảm tầm 0.8%, vậy là do pin tự xả à ?
+Sao bác đo được 0.8% tài thế ?
+==========================
+38
+Laptop
+Cho em hỏi vấn đề này với, xét về độ bền bên ngoài thì em không nói ở đây, em chỉ thắc mắc chất lượng bên trong thôi, bác xài Elitebook thấy có hay bị hư lặt vặt như loa, màn hình, ổ cứng, có hay bị treo máy hay chạy chậm không, xin bác công tâm nói rõ cho thằng em biết với ?
+Con Elitebook của mình thì mới dùng 3 tháng chưa nói được gì nhiều, nhưng em DV5T trước đó thì chạy ngon lành 3 năm rồi và vẫn đang chạy tốt, chưa hỏng hóc 1 món gì cả chỉ có màn hình LCD là cảm giác hơi vàng hơn thôi.
+==========================
+39
+Laptop
+Laptop của mình màn hình không thấy nhấp nháy gì cả, bật lên thấy vẫn sáng đèn, nhưng màn hình đen thui, cắm cáp card màn hình vào xuất ra máy chiếu hay màn hình LCD ngoài cũng không lên. 
+Thì chắc là hư Mainboard rồi, làm sao xuất gì nữa.
+==========================
+40
+Phần mềm
+Bác nói rõ về phần mềm 3D Drive Guard được không ạ, em thấy có nó mà không hiểu tác dụng nên xóa mất rồi.
+Nó là phần mềm chống sốc cho ổ cứng, nếu bác tháo ra thì lúc laptop bác đang làm việc mà laptop bác cứ lắc hay để trên đùi thì ổ cứng của bác teo chắc, nếu gỡ ra rồi thì khả năng ổ cứng của bác bị Badsector vài chỗ, không thể phục hồi cách duy nhất là cắt những chỗ hư đó đi chấp nhận ổ cứng bị giảm đi 1 tí dung lượng.
+==========================
+41
+Laptop
+Tình hình là em có được 1 cái Caddy và 1 ổ cứng SSD 2.5inch, giờ em tháo ổ 500GB ra bỏ vào Caddy và cho ổ cứng SSD vào laptop thì làm sao để chuyển Windows từ ổ cứng 500GB theo máy vào ổ cứng SSD hả bác ?
+Nếu thay ổ cứng thì bác chỉ việc đem cái ổ cứng qua máy bàn, Gùng ghost để chép các phân vùng cho nhanh, chỉ khoảng 1 tiếng là xong nếu dữ liệu khoảng 500GB, nhưng chắc là ổ cứng SSD nên chắc bác có ít dữ liệu, quá trình sẽ nhanh hơn. 
+==========================
+42
+Laptop
+Bác cho em hỏi, máy em đang dùng là Elitebook 8440p ạ, sau mấy lần em nghe nhạc vặn hết cỡ âm lượng thì vẫn bình thường, nhưng bây giờ em vặn to hết cỡ thì máy nó lại bị rè, có cách nào cứu vớt được không ạ ?
+Loa bác hư vậy thì gần như không thể cứu vớt, không có loa nào được thiết kế để nghe âm lương tối đa cả bác ạ, nghe âm lượng tối đa nhiều loa nó sẽ bị rè, bác thử burn-in nó xem, nhiều khi hên cứu lại được.
+==========================
+43
+Axít
+Ôi trời, chắc bác đổ axít vào rồi 
+Axít đâu mà axít hả bác, em nghĩ đấy là nước bọt đấy.
+==========================
+44
+Laptop
+Cái nắp đậy dưới đít máy của em nó bị lỏng bác ạ nên khi mở loa to thì nghe như bị rè rất ức chế, có cách nào khắc phục không bác ? 
+Không có đâu, loa dòng này thiết kế có một bên mở nó rung rung cái màng nên máy nào cũng rè cả.
+==========================
+45
+Laptop
+Bác dùng kiểu gì mà sắp hỏng sạc laptop thế ?
+Chắc tại em hay cho nó rơi xuống đất quá.
+==========================
+46
+Laptop
+Chỗ bạn có docking second hand cho dòng 2540p không, docking 2530p có sử dụng được cho 2540 không ?
+Để mình kiểm tra lại bác nhé, loại này lâu rồi không biết để ở ngóc ngách nào, docking của 2530p khác của 2540p bác ạ.
+==========================
+47
+Laptop
+Cho em hỏi con 8460p của em cái tấm nhựa đen ốp màn hình ở bên viền trái nó bị kiểu như hở ý, bình thường để dùng thì chẳng ảnh hưởng gì nhưng lâu lâu ngứa tay bóp nó vào thì nghe tiếng tách rất khẽ, không biết bên mình có hỗ trợ về khoản này không nhỉ để hôm nào rảnh em xách lên trước khi nghỉ tết, tiện thể bác cho em hỏi luôn máy còn bảo hành mà muốn vệ sinh thì bên mình có hỗ trợ luôn không?
+Làm vệ sinh vô tư bác ạ, làm vệ sinh dòng này đơn giản lắm, cái tấm ốp nó là nhựa ở trong có băng dính 2 mặt hoặc là lẫy, nó cũng không ảnh hưởng gì đâu vì miếng đó không phải miếng chịu lực bác ạ, cứ kệ nó thôi, xử lý thì cũng được nhưng tháo ra lắp vào chưa cần thiết.
+==========================
+48
+Laptop
+Mình học xây dựng dân dụng thì nên lấy con laptop 8460p có card màn hình rời hay 8470p card onboard hả bác, mà nên lấy cái ổ cứng SSD 180 không nhỉ ?
+Xây dựng thì nên mua dòng 15inch bác ạ, dòng 15inch màn hình đẹp hơn với lại card màn hình mạnh hơn chứ dòng 14inch thì card màn hình yếu lắm.
+==========================
+49
+Máy tính
+Tình hình là 2 cái cổng USB 3.0 của em chỉ nhận USB mà không nhận chuột với máy in thì xử lý thế nào hả các thím ?
+Bác dùng hệ điều hành gì đấy bác, thử cài lại driver xem.
+==========================
+50
+Laptop
+Em laptop 8460p của mình thỉnh thoảng bị đen màn hình, hoặc nhòe nhoẹt một cái rồi đơ luôn, nhưng nếu đang xem video hay nghe nhạc trên web thì vẫn nghe thấy tiếng, chỉ là không nhìn thấy gì thôi, như thế là bị bệnh gì vậy ?
+Chắc cáp nối màn hình bị lỏng, tháo ra lắp lại thử xem, nếu vẫn bị thì mang ra cửa hàng, cái màn hoặc cái card đồ họa có vấn đề rồi bác ạ.
+==========================
+51
+Laptop
+Máy với móc chán nhất là cài driver cho laptop HD, bộ cài gì mà bung ra mấy GB lận, phiền phức, bộ phục hồi đi kèm đến tận 16GB mà khi bung ra bằng đĩa boot cũng chẳng cài sẵn driver, không biết lúc tạo bung Windows thì nhà máy làm thế nào nhỉ ?
+Trời, cài driver cho máy HP là đơn giản nhất trên đời rồi mà bạn, cài Windows xong thiếu cái nào thì lên web HP thôi, tải chi cho đủ bộ, cài cho máy Sony mới cực bạn ơi.
+==========================
+52
+Laptop
+Laptop HP chưa bằng Lenovo đâu, cài phần mềm Lenovo manager vô nó tự nâng cấp tất cả gì còn thiếu luôn.
+Hp có Softpaq download manager mà, tuy chưa bằng Thinkpad nhưng cũng ổn rồi mà cái phần nâng cấp hệ thống của Lenovo nhiều cái nó cũng chả tự cài được, đặc biệt là mấy dòng máy tính bảng X, muốn cài đủ là cũng phải mày mò thêm.
+==========================
+53
+Máy tính
+Sao em nâng cấp lên Windows 8 lại không thanh toán được nhỉ, dùng thẻ Visa của Vietcombank, cái số thẻ là điền số tài khoản hay điền số ghi trên thẻ các bác nhỉ?
+Số ghi trên thẻ nhé.
+==========================
+54
+Laptop
+Mình đang định mua con 2560P hàng mới giá tầm 12 triệu, cấu hình i5 2xxx, 4GB RAM, theo bác có nên không ?
+Nói chung là ngon.
+==========================
+55
+Laptop
+Mà tụi HP vẫn chưa nâng cấp drivers cho Windows 8 nữa, làm ăn chậm chạp quá, hay do BIOS chưa nâng cấp lên bác nhỉ, của mình là bản F28 là mới nhất của HP rồi.
+HP chỉ hỗ trợ 1 năm thôi, qua 1 năm lố 1 ngày mà Windows 8 có ra thì cũng đừng mong có driver, máy mình lố 1 tháng phải đi lụm lặt driver của đủ các dòng máy khác cài vô đây, rất may là vẫn đủ.
+==========================
+56
+Laptop
+Định cài Windows 8 cho con laptop HP2540p, liệu các driver Windows 7 có ổn với Windows 8 không ?
+Bác chỉ cần cài driver cho âm thanh, Touchpad, Quick launch vào thôi, còn lại thì ổn hết.
+==========================
+57
+Laptop
+Laptop mình đang có 1 thanh RAM Hynix 4GB 1600, giờ mua thêm 1 thanh RAM Samsung 4GB 1600 sợ không tốt, trước bị vụ cắm lệch hãng hãi rồi.
+Cắm lệch hãng là dùng RAM của 2 hãng khác nhau hả bạn, bị xung đột gì hay sao ?
+==========================
+58
+Laptop
+Bác ơi cho em hỏi, gửi máy lên bảo hành ở hãng HP trên Hà Nội thì có sợ bị luộc đồ không, con 8460p của em hỏng microphone mà 1 tuần rồi chưa nhận lại được.
+Họ cho thêm bạn chả hết chứ luộc đồ của bạn làm gì hả trời.
+==========================
+59
+Laptop
+Em muốn hỏi là làm sao để khi bật Wifi mà không bật Bluetooth khi dùng 8460p ?
+Dùng chương trình HP power assistant, vào cấu hình cần thiết rùi chọn advance, có tùy chọn tắt bluetooth đó bạn, trong này bạn có thể xây dựng khả năng quản lý nguồn điện tiêu thụ của máy. 
+==========================
+60
+Laptop
+Mình sắp nhờ người thân mua 1 chiếc laptop Elitebook 8460p đã sửa rồi, bảo hành toàn cầu 1 năm, không biết khi về Việt Nam bảo hành ở đâu các bạn nhỉ ?
+Bảo hành ở trung tâm bảo hành HP như máy mới, hãng không phân biệt bảo hành hàng mới hay hàng sửa rồi.
+==========================
+61
+Laptop
+Con 8440p của mình có 1 vệt tròn nếu để màn hình màu đen thì không thấy, còn đâu để màu khác thì thấy nó có màu trắng, đường kính to hơn que tăm 1 chút, liệu như vậy có được bảo hành không ?
+Xem chỗ đấy có phải vết của trackpoint in lên màn hình không ?
+==========================
+62
+Laptop
+Bác cho hỏi, con 8540w chơi trò chơi trực tuyến có ngon không, em đang tính mua con này, nhìn nó đẹp quá.
+Trò chơi trực tuyến thì ăn thua gì bác, card màn hình Intel HD onboard còn chiến nổi mà, quan trọng RAM nhiều để cày nhiều tài khoản thôi, mình đang chơi Crysis 2 chỉnh cấu hình thấp nhất chơi đã quá luôn nè.
+==========================
+63
+Wallpaper
+Bác có cái wallpaper nào đẹp không chia sẻ em với ?
+Bác thích wallpaper theo chủ đề gì?
+==========================
+64
+Laptop
+Máy mình hay có tình trạng khởi động máy lên thì thường hay đứng ở màn hình hiện logo của HP, phải tắt rồi bấm lại nó mới vào Windows được, chỉ mình cách khắc phục với.
+Máy mình cũng bị đứng như vậy nhưng đợi một lúc là nó vô à, có lẽ bạn phải kiên nhẫn đợi thêm 1 chút. 
+==========================
+65
+Máy tính
+Bạn biết mua cổng chuyển card màn hình sang HDMI ở Hà Nội ở đâu không, và giá thế nào ?
+Chỉ có DP sang HDMI chứ card màn hình sao sang HDMI được bác, giá thì tầm 600 ngàn hơn thì phải.
+==========================
+66
+Laptop
+Webcam thì họa hoằn lắm mới dùng, vân tay lúc đầu có thể thấy thích, cài đặt để lòe nhau, được thời gian cũng chán à bác. 
+Nên có webcam bác à, sẽ có lúc bác sẽ hối tiếc đó.
+==========================
+67
+Laptop
+Dell mới ra 3 con laptop EliteBook 8460w, 8560w và 8760w mới, coi bộ cũng nuột lắm.
+Mình thấy xấu hơn đời hiện tại. 
+==========================
+68
+Laptop
+Dùng webcam để đăng nhập laptop nhanh thật nhưng mà đợi nó hiện ra lâu kinh khủng đi được. 
+Đúng rồi đấy, hiện lâu quá.
+==========================
+69
+Laptop
+Trò chơi điện tử thì mình cũng không chơi nhiều lắm, đang xài máy G51JX X1 mà những trò nặng chả bao giờ đụng đến, máy này chơi game vừa vừa chắc được, các ứng dụng đa phương tiện thì để hôm nào đi xem thực tế đã, hôm nọ đi học thấy trong trường có 1 thằng xài con này trông sang cực. 
+Đúng đó bác, tới đó xem kỹ rồi quyết định, nếu thỉnh thoảng chơi giải trí thì em này dư sức đáp ứng.
+==========================
+70
+Laptop
+Cần gì mua quạt tản nhiệt, mình thấy con laptop này rất mát mà ?
+Mọi người thấy mát chứ mình ngồi với em nó buổi trưa sờ lên chỗ để tay là nóng lắm ấy.
+==========================
+71
+Laptop
+Cho mình hỏi Elitebook với dòng p hoặc w thì có khác nhau nhiều không nhỉ, ví dụ như 8540p với 8540w ?
+Cũng khác nhưng không nhiều lắm, dòng w cấu hình cao và sức mạnh hơn, dòng p thì hơn ở thời lượng pin.
+==========================
+72
+Laptop
+Bạn đã dùng thử mấy con Elitebook 8x70p chưa, thấy cái Pointstick có nhẹ nhàng mềm mại không, mình có con 8460p cái Pointstick khó chịu quá.
+Pointstick xài sướng lắm mà, bác chỉnh tốc độ lên chưa ?
+==========================
+73
+Laptop
+Em vừa mua máy Eiltebook, RAM 1600 trong khi máy hỗ trợ có 1333, chả hiểu bọn HP nghĩ gì, hi vọng khi nâng cấp BIOS lần sau nó hỗ trợ 1600.
+Có gì lạ đâu, RAM BUS 1600 vẫn chạy được ở 1333 mà; có ảnh hưởng gì đến performance của máy đâu là lăn tăn 
+==========================
+74
+Laptop
+Cho mình hỏi luôn con HP EliteBook 2740p đó giá thấp nhất hiện giờ là bao nhiêu vậy ạ ?
+Cỡ chuẩn của laptop thường là xung quanh 14inch, các máy to hơn hay nhỏ hơn đều đắt hơn, hơn nữa cái 2740p là máy tính bảng lai máy tính bàn mà bác, làm gì có giá rẻ.
+==========================
+75
+Laptop
+Máy laptop 8440p của em sao đã cài đầy đủ driver bluetooth rồi, đã bắt cặp với điện thoại rồi mà sao lúc gửi nó cứ báo là không tìm thấy thiết bị vậy bác, em thử trên cả BB8820 và Nokia 3110c đều thế cả.
+Lỗi này hình như bắt cặp được, nhưng sau đó sẽ bị mất cặp đó đi, bạn nên xóa driver bluetooth đi sau đó khởi động lại máy và cài lại bạn ạ.
+==========================
+76
+Laptop
+Sao không lắp ổ cứng SDD lắp vào chỗ khay DVD, giữ nguyên trạng cái ổ cứng vì có chống sốc 3D mà ?
+Hình như khác ở thứ tự bác ạ.
+==========================
+77
+Laptop
+Hôm nay cũng mới lấy em HP bảo hành về, qua lấy máy hỏi ông trả máy là máy em bị sao thì ông ý cũng bảo là thay Mainboard thôi, thế sao thay Mainboard mà vẫn sêri cũ thì ông ý bảo thế mới là bảo hành chính hãng chứ anh, mang đi bào hành mà nhận về đồ khác thì còn gì là chính hãng nữa, thôi thì cám ơn các bác em về.
+Chắc nhà sản xuất biết cái Mainboard đó sẽ hỏng nên làm 1 cái y như thế để dự phòng trước cho bác rồi. 
+==========================
+78
+Máy tính
+So sánh 2 con chip i7 2670QM 2.2GHz với i7 2620M 2.7Ghz thì thế nào nhỉ ?
+2670QM có threading 4 nhân 8 luồng nên là 4 nhân ảo và 4 nhân thật, còn 2620M có threading 2 nhân 4 luồng nên là 2 nhân ảo và 2 nhân thật, rõ ràng là 2670QM mạnh hơn nhiều, nhưng mà theo trình còi của em thì mấy thao tác thông thường thì không vượt trội hơn đâu vì không phải ứng dụng nào cũng tận dụng được 4 nhân thật, và vì 2620M xung cao hơn nên không khéo đôi khi thấy mượt hơn. 
+==========================
+79
+Laptop
+Bác cho em hỏi, con Elitebook 8460p của em từ hôm đi bảo hành về bị sao ý, cứ tắt máy đi thì nó tự khởi động lại, hibernate thì 1 lúc tự bật, đại khái là giờ muốn tắt chỉ còn cách tháo pin thế là bi gì vậy, em tưởng lỗi Windows, cài lại, được vài hôm lại bị tiếp.
+Mang đi bảo hành tiếp thôi bác.
+==========================
+80
+Laptop
+Mà thực sự lần này mà phải mang đi bảo hành nữa thì đúng là không còn tí niềm tin gì vào siêu bền với chả siêu thấm siêu thoáng gì nữa ráo, mình mua cho vợ con laptop Acer có 12 triệu cách đây cả 3 năm, dùng chả thấy bị gì, mình mua Elitebook, quảng cáo loạn xị lên mà bảo hành liên tục thế thì mặt mũi đâu mà nhìn vợ nữa, chán, chả nhẽ bảo hành 3 năm thì cả 3 năm đều mang đi bảo hành sao, hay tại số tôi đen ?
+Chắc số bạn xui quá rồi, mình xài qua mấy con Elitebook, rơi đủ kiểu, mà đã con nào hỏng đâu.
+==========================
+81
+Laptop
+Bác cho em hỏi cái, mấy con Elitebook dòng p có thể sử dụng liên tục thời gian khoảng 1 tuần không ạ, 8460p hay 8470p ấy ?
+Máy mình xài được 2 năm rồi, chỉ có tối mình ngủ là cho nó ngủ thôi mà vẫn sống nhăn răng này.
+==========================
+82
+Laptop
+Bác ơi, cho em hỏi, em có con HP 8510p, phòng trọ có truyền hình cáp, vậy có thiết bị gì để kết nối laptop và truyền hình được không, em máu xem bóng đá quá.
+Mua TV Box nhé.
+==========================
+83
+Máy tính
+Các bác cho em hỏi là con chip Core i5 3360M với 3320M sức mạnh chênh nhau có nhiều không ạ ?
+Chênh nhau 200Mhz, có nhưng không đáng kể, gần như không nhận ra được nếu không benchmark.
+==========================
+84
+Laptop
+Các bác cho hỏi em mua con 8460P được hơn 1 năm, mà dạo gần đây mới để ý khi ổ cứng chạy cứ nghe tiếng lạch tạch rất nhỏ, như thế có bình thường không hả các bác?
+Kêu lạch tạch là có vấn đề rồi, máy bảo hành 3 năm thì đi bảo hành đi thôi.
+==========================
+85
+Laptop
+Bác nào dùng Elitebook đang dùng Windows 8 như em không ạ, em gặp vấn đề khá nghiêm trọng là mỗi khi dùng máy gần hết pin, cắm sạc vào là máy chạy rất chậm, mặc dù đã để chế độ High Perfomance, duyệt web cũng không nổi. 
+Bác thử nâng BIOS lên bản mới nhất xem sao, nếu không cải thiện có thể bản Windows bị lỗi
+==========================
+86
+Laptop
+Em có thắc mắc là em đang dùng elitebook 8470p sử dụng ổ cứng 500Gb, định dạng mặc định nó là MBR nay muốn xài UEFI thì phải chuyển thành GPT, nhưng mà em không biết chuyển thế nào lên GPT, nếu chuyển phải format hết thì sợ mấy phân vùng nhỏ khoảng 300mb của hệ thống bị xóa đi thì có thể không boot được nữa. không biết làm sao để sử dụng UEFI với Windows 8?
+Từ MBR lên GPT thì bắt buộc phải xóa hết ổ cứng rồi, vì GPT cần 1 phân vùng EFI Partiion khúc đầu, cứ xóa hết đi rồi cài lại, chỉ mất cái phân vùng hồi phục của HP thôi.
+==========================
+87
+Laptop
+À cho hỏi, máy laptop của mình nó có 1 cái phần trống khoảng 5GB, vào phần thiết bị thì thấy nó để là ACATEL Mass Storage, cho mình hỏi phần này là gì vậy và nó là thiết bị nào của máy ?
+Cái này là bộ cài đặt driver của Card 3G WWAN thì phải.
+==========================
+88
+Laptop
+À cho mình hỏi thêm, con laptop 8560w của mình mỗi lần khởi động máy là phải rút hết mấy thiết bị đang cắm cổng USB ra, nếu không nó treo máy luôn ở logo HP có cách nào sửa cái này không ta ?
+Thiết bị gắn ngoài có vấn đề nên nó mới bị treo lúc khởi động nhé, ổ cứng di động WB 1TB cũ của mình bị hư nên cắm vào nó cũng bị vậy.
+==========================
+89
+Laptop
+Em muốn hỏi là cái độ sáng tối màn hình của em sao nó chỉ có 2 chế độ sáng và tối thôi, rất bực, em mới dùng laptop lần đầu mong giúp đỡ.
+Bác cài đầy đủ driver và cái HP quick lauch vào, mó có chế độ tự động điều chỉnh độ sáng tối dựa vào cảm biến ánh sáng nếu thích bác tắt đi điều chỉnh tay.
+==========================
+90
+Laptop
+Nhu cầu của em là làm CAD trước em dùng con t61 chạy cũng được, nhưng em nó mới đổ bệnh card màn hình lăn quay ra chết, đi sửa rồi nhưng lại không chịu được nhiệt độ em kiểm tra bằng mấy bộ phim định dạng cao nên lăn quay tiếp, giờ chán mà kinh tế tầm 10 triệu đang thích đổi sang HP vì chán Thinkpad của Lenovo và cũng ngán mấy ông Dell Latitude cũng hay chết card màn hình ,bác thấy em dùng 6930p có được không hay phải lên máy trạm nào tầm tầm như 8530w ?
+6930p cũ quá rồi, giá giờ chỉ hơn 5 triệu thôi, tầm 10 triệu mua được 8440w đó bạn.
+==========================
+91
+Laptop
+Mình đang xài 8540w, mình mới ghost Windows nhưng tốc độ quá chậm chỉ có cỡ 168MB trên 1 phút, cái này có phải do ổ cứng bị lỗi không ?
+Muốn biết ổ cứng có bị lỗi hay không thì bác dùng phần mềm kiểm tra và quá trình sử dụng thấy có gì khác thường mới biết chứ ghost lúc nhanh lúc chậm mà, thậm chí chế độ bác nén để cao thì lúc bung tâp tin ghost nó cũng lâu hơn mà.
+==========================
+92
+Laptop
+Bác cho em hỏi con 8560w chip I7, RAM 8g, card màn hình Nvdia Quadro m1000, ổ cứng 320GB giá bao nhiêu được không, và địa điểm mua nó nữa ?
+24 tới 25tr mua cấu hình I5 AMD M5950 thôi, card màn hình ngon hơn, CPU có thể nâng sau, mà thiết nghĩ nên nâng ổ cứng SSD trước, mà đùa chứ giá đó bác nên xem hàng gần mới ấy, chọn được khối con ngon hơn, giá tầm 22 triệu thôi là được W520 rồi.
+==========================
+93
+Tư vấn
+Em học kiến trúc quy hoạch hay sử dụng các phần mềm đồ họa, liệu i5 có dùng được không ạ, bác tư vấn giúp em 1 con máy trạm với, nghe bạn bảo loại máy này làm việc mới được nên minh cũng thích, càng nhiều con tham khảo càng tốt nha.
+CPU chủ yếu để dưng hình hay xuất thành ra sản phẩm thôi bác, ví dụ chương trình tính toán nhiều, chạy máy ảo thì mới dùng CPU nhiều, còn chạy các chương trình đồ họa thì card màn hình mới đóng nhân tố chính, khi bác làm nó không bị giật mà hình ảnh nó chuẩn xác hơn, dòng 15.6inch thì từ W520, M4600, 8560w xếp theo chất lượng máy.
+==========================
+94
+Laptop
+Bác cho em hỏi con 8560w chip I7, RA 8g, nvdia quadro m1000, hdd 320g gia bao nhjeu dc ko? Địa điểm mua. E xem ben laptopcali ma mắc quá tận 30 củ, mà e chỉ có khoang 24, 25 tr. Các bác giup e voi kết con nay quá à.
+Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+==========================
+95
+Máy tính
+Anh cho em hỏi cái GPU chắc cũng không liên quan đến việc chạy phần mềm có mượt hay không đâu phải không, em xác định mua máy để học tập, tìm hiểu lập trình mà thôi, lâu lâu chỉ dựng video nhỏ sơ sài thì GPU cũng chẳng nhằm nhò gì phải không ạ ?
+GPU tùy phần mềm mới phát huy tác dụng thôi bác.
+==========================
+96
+Sư huynh
+Ai đăng kí sau phải gọi người đăng kí trước là sư huynh nhé
+Máy thằng nào khủng nhất thì thằng đấy là sư huynh.
+==========================
+97
+Laptop
+Bác có biết thông tin khi nào thì Elitebook 8560w, 8460w và 8760w ra không vậy ?
+Mấy bác bán hàng nói là tháng 6 sẽ về tới Việt Nam.
+==========================
+98
+Tết
+Chúc mừng năm mới, tết vui không anh em? 
+Năm nay chả ai lì xì.
+==========================
+99
+Laptop
+Em mới sắm con 8460p nhưng dính một vài bệnh nhỏ sau, không dùng touchpad để cuộn khi làm việc được dù đã cài cái phần mềm Synaptics, thiết bị kiểm tra vân tay không nhận driver và không tăng giảm độ sáng màn hình bằng cách nhấn phím fn với f9 được, dù dùng nó để tăng giảm âm lượng loa vẫn được, bác có biết vì sao không thì chỉ em ?
+Có thể do bác cài driver không đúng, bác kiểm tra lại xem cài đủ hết chưa ?
+==========================
+100
+Laptop
+Con 8540w của em chạy bình thường nhiệt độ CPU tầm 57 độ, liệu có nóng quá không nhỉ ? 
+Bình thường, mình chạy toàn từ 87 tới 90 độ C còn cóc lo nữa là.
+==========================
+101
+Laptop
+Bác dùng laptop mà thấy nhiệt độ cao quá thì nên đem máy đi vệ sinh đi, tuy dòng này trâu bò thật nhưng dùng lâu ngày bên trong bẩn lắm, ảnh hưởng tới tuổi thọ máy, bụi là kẻ thù số một của máy tính.
+Bình thường lướt web, tác vụ văn phòng cũng chỉ cỡ 43 tới 50 độ C thôi bạn, nhưng khi nào tính toán lớn thì nó mới lên cao như vậy, đấy là đã dùng thêm U2 quạt để bớt vài độ đi rồi đó.
+==========================
+102
+Việc làm thêm
+Bạn có biết ai làm điện thoại viên không, cho xin ít kinh nghiệm đi ?
+Có thằng bạn mình làm, cần kinh nghiệm gì mình hỏi cho. 
+==========================
+103
+Việc làm thêm
+Cho em hỏi là làm việc ở Lotteria 1 tuần phải làm bao nhiêu ngày vậy ?
+Không ép buộc nhé, mình thường thì làm 3 tới 5 ca, nếu bạn rảnh nhiều thì có thể làm nhiều ca hơn, nếu bạn bận cả tuần thì nghỉ cả tuần, chả sao cả. 
+==========================
+104
+Laptop
+Bác cho em hỏi máy Elitebook hoạt động hằng ngày chỉ lướt web và dùng Excel thì tầm 38 tới 40 độ có gọi là chuẩn không ạ ?
+Thế là bình thường thôi, Elitebook nhiều người còn xài cả tuần không tắt ấy chứ.
+==========================
+105
+Laptop
+Bạn cho mình hỏi 1 chút với, tình hình là mình mới mua 1 con HP 8440p, màn hình độ phân giải 1600x900, khi dùng thì màn hình máy bị nháy nháy chuyển từ sáng sang tối hoặc ngược lại, ban đầu mình tưởng do cái cảm biến ánh sáng nên đã vào BIOS tắt đi, nhưng khi dùng vẫn bị hiện tượng trên, khi đang dùng hoặc để yên máy không làm gì vẫn bị hiện tượng trên tuy nhiên phải quan sát kỹ mới thấy, không biết có phải máy mình bị hỏng không nữa để đem đi đổi hoặc bảo hành vì máy mình mới mua được 2 tuần.
+Theo mình thì là do cái chế độ tiết kiệm pin của Windows 7.
+==========================
+106
+Máy tính
+Cái này là nâng cấp cho mấy cái card màn hình ATI ấy, chứ đâu phải chip AMD đâu.
+AMD mua lại thương hiệu ATI rồi bạn, nên giờ card đồ họa gọi chung AMD hết.
+==========================
+107
+Laptop
+Máy laptop mua chưa được 6 tháng mà tự nhiên đêm nay, khuya thanh vắng, nghe nó chạy mà kêu lọc cọc mới khiếp chứ. 
+Đập luôn rồi đi mua máy mới đi bác ạ.
+==========================
+108
+Laptop
+Sáng này em vừa tậu được 1 em 8460p, cho em hỏi là cái touchpad chỉnh sao để có thể kéo trang web lên, xuống khi đang lướt web ạ, em chưa tìm ra chỗ chỉnh, đang phải ấn phím spacebar để kéo trang web xuống.
+Cài thêm phần mềm Mouse kèm theo của laptop chưa, cài rồi thì như hình hướng dẫn nhé, bạn kéo bằng 2 ngón đa điểm là "Two finger scrolling" còn kéo bình thường sát bên phải touchpad là "Scrolling" ấy. 
+==========================
+109
+Laptop
+Mới đi bảo hành cái microphone của cái laptop 8460p chiều qua sáng nay đã có hàng, mém nữa là đợi dài cổ tới mùng 2 tháng 1 vì các bác ấy nghỉ lễ 4 ngày. 
+Dòng doanh nhân máy trạm mình thấy được bảo hành ưu tiên hơn các dòng khác, nếu có sẵn linh kiện thì họ thay nhanh cho bác thôi. 
+==========================
+110
+Laptop
+Dòng HP 8560P sau khi chuyển sang chế độ ngủ của máy thì mình bật lại nó không lên màn hình, các đèn đều sáng và máy đã chạy, nình phải đè nút nguồn để nó tắt hẳn sau đó khởi động lại thì mới lên, vậy là bị bệnh gì vậy bạn?
+Bạn kiểm tra lại driver của card màn hình và chipset nhé. 
+==========================
+111
+Laptop
+Cho em hỏi con laptop 8470p i5, ổ cứng SSD 180GB, RAM 8GB không có card màn hình rời có chạy tốt Etab và Fifa 2013 không mấy bác, ngoài ra pin 6cell em này khoảng được mấy giờ ?
+Fifa 13 thì Core i3 thế hệ 2 onboard của thằng bạn mình cũng chơi tốt rồi, pin máy em xài bình thường tầm 2 giờ, còn tùy vào chương trình đang chạy nữa.
+==========================
+112
+Laptop
+Mình có con 8460p, màn độ phân giải cao, pin 9cell, card màn hình HD3000, mua được 4 tháng còn bảo hành 3 năm, đổi không ?
+Ủa máy bạn ngon quá, mình cũng muốn đổi lắm nhưng mà ba mẹ không cho đổi đâu.
+==========================
+113
+Laptop
+Cho em hỏi là máy 8460p của bác tháo cục pin ra thì ở dưới cục pin có cái miếng nào ghi product key của Windows 7 Professional không, máy em thảo ra chả có miếng nào ghi product key cả.
+Có chứ bạn, không thì bạn cứ xác định là gặp hàng giả rồi.
+==========================
+114
+Laptop
+8560W giờ giá tầm bao nhiêu nhỉ, thấy 8460p giá giảm nhiều rồi mà 8560w không giảm được bao nhiêu.
+Vẫn vậy thôi, chắc còn lâu mới xuống đó bạn.
+==========================
+115
+Laptop
+Máy laptop của em đã được bảo hành, bác chúc mừng em đi 
+Không ngờ vậy mà cũng được bảo hành.
+==========================
+116
+Keo tản nhiệt
+Không biết dùng lâu thì keo tản nhiệt của bọn nào được hơn, chứ nếu ngang ngửa thế này thì cứ rẻ mà mua nhỉ ?
+Khác chứ, keo xịn 1 năm thay 1 lần, keo dỏm nửa năm, đấy là dùng cơ bản thôi đó.
+==========================
+117
+Keo tản nhiệt
+Nếu em xài laptop thì trét keo tản nhiệt theo kiểu nào nhỉ, hột gạo, thẻ ATM, hay ngón tay ta ?
+Hột gạo khá chuẩn nếu bạn dùng Laptop, trét hột to tí cho nó dư dả nhé.
+==========================
+118
+Keo tản nhiệt
+Em ở Hà Nội thì mua keo tản nhiệt Noctua NT-H1 ở đâu vậy, dạo này GPU của mình nóng quá ?
+Mai Hoàng, HNC, HNN...nhiều chỗ bán mà bạn 
+==========================
+119
+Máy tính
+Kiểm tra tải tối đa CPU thì dùng phần mềm gì cũng được, miễn là 100% CPU hay là phải có phần mềm riêng ạ ?
+Kiểm tra tải tối đa CPU thì nhiều phần mềm lắm, cơ mà chủ yếu vẫn là Linx Avx, Y-cruncher, V-ray thôi.
+==========================
+120
+Laptop
+Đã phát hiện ra 1 điểm bất tiện ở con Elitebook là để chia được ổ của nó thì phải chấp nhận bỏ tính năng F11 Recovery.
+Nó là phân vùng riêng chia các phân vùng khác bình thường có ảnh hưởng gì đến nó đâu ?
+==========================
+121
+Laptop
+Tự nhiên trưa nay bật con laptop lướt web bình thường mà đã 70 độ rồi bác ạ, bình thường chưa được 50 độ nữa. 
+70 độ là có vấn đề rồi bạn.
+==========================
+122
+Laptop
+Laptop 8460p với lại 8540w thì nên lấy con nào hơn ạ, giá 2 con bằng nhau cơ mà bác nêu ưu khuyết 2 con dùm em được không ạ, 8540w có đèn bàn phím không, card màn hình FX880 so với 6470M dùng để chơi trò chơi điện tử thế nào, em chỉ cần giải trí nhẹ nhàng thôi.
+Không cần dùng độ họa cao siêu thì 8460p đi bác, em này chạy mát hơn nhiều và pin cũng lâu hơn, kiếm em nào màn hình phân giải cao nhìn ảnh sẽ đẹp hơn đó, 8540w chỉ có đèn chiếu bàn phím không có đèn bàn phím nhé, mà các bác đừng ham hố cái đèn bàn phím quá, nhìn thì oai hơn thật nhưng buổi tối nhìn hơi khó chịu vì ánh sáng nó hắt lên mất tập trung, cái đèn chiếu bàn phím nó chiếu xuống nên không bị khó chịu đâu.
+==========================
+123
+Laptop
+Có laptop 8760w hàng khủng rồi đây, dùng card màn hình Quadro 4000M đó.
+Quadro 2000M thấy cũng ghê ghê, Quadro 4000m chắc kinh lắm.
+==========================
+124
+Mua bán
+Vậy bên bác có bán con 8560p bảo hành 3 năm không ?
+Em hết loại này rồi, đợt tới chỉ có 8460p và 8560w toàn hàng bảo hành 3 năm, ngày sản xuất còn mới cứng bác ạ.
+==========================
+125
+Laptop
+Em chuyên ảnh ọt, không biết màn hình laptop 8560w này sao các bác nhỉ?
+Màn hình định dạng cao là để cho dân đồ họa ảnh ọt mà, bác coi tạm cái này tự đánh giá vậy nhé, để xài cho ảnh ọt thì màu sặc sỡ hơn không hẳn là ngon mà là màu thật mới là khó.
+==========================
+126
+Laptop
+Sao con laptop có ổ cứng 500GB và card màn hình rời lại rẻ hơn con có ổ cứng 320GB, card màn hình onboard nhỉ ?
+Con dưới đầy đủ các lựa chọn hơn con trên. 
+==========================
+127
+Laptop
+Bạn cho mình hỏi con 8440p của mình 1 số nút bây giờ không gõ được nữa mình nghĩ là mấy nút đó hư rồi vì vào cmd và boot mini Windows XP từ đĩa Hiren's Boot đều không dùng được, theo bạn mình nên gọi điện cho bên Isis hay mang thẳng lên trung tâm bảo hành của HP và trường hợp của mình có được bảo hành không ?
+Còn bảo hành thì bạn cứ mang lên đó bảo hành nhé, họ sẽ sửa cho bạn, bạn cứ yên tâm.
+==========================
+128
+Laptop
+Bác ơi vấn đề của em là nếu laptop dùng mạng có dây thì mọi chuyện đều ổn, nhưng khi chuyển sang wifi thi lại không kết nối được, vậy nguyên nhân nó có thể là như nào bác nhỉ ?
+Em nghĩ bác nên cài thử chương trình Intel Wireless LAN xem, lần trước em cũng bị như bác rồi cài nó vào lại dùng wifi bình thường.
+==========================
+129
+Laptop
+Hình như Elitebook 8460p thiết kế cho những người thuận tay trái hoặc chuyên dùng touchpad hay sao ấy, đặt chỗ thoát nhiệt đúng góc bên phải chỗ cầm chuột làm em toàn phải đặt hộp nhựa che cho khỏi nóng tay.
+Kiểu thiết kế này là bất hợp lý khi dùng chuột ngoài, nhưng lại rất hợp lý cho những máy nhỏ gọn như chiếc 2530p của em, tay trái cầm laptop, tay phải dùng touchpad, trackpoint để lướt web khi nằm trên gường, ngồi trên tàu xe, lại càng hợp lý hơn nữa nếu là laptop lai máy tính bảng như dòng 27xxp.
+==========================
+130
+Laptop
+Có cách nào cho máy 8560p nhận được RAM bus 1600 không ?
+Khác biệt giữa RAM bus 1600 và bus 1333 chả đáng kể mấy đâu, cứ 1333 mà xài thôi.
+==========================
+131
+Laptop
+Hiện tại em đang có con laptop HP Compaq CQ 42 455TU hiện đang dùng em CPU P6300 bây giờ muốn nâng lên em Dual core G860 được không bác vì em nghe nói con này socket hỗ trợ cả i3 ?
+Bạn tính cưa con G860 to oạch để gắn vào laptop à, không được nhé, laptop thì dùng CPU cho laptop thôi.
+==========================
+132
+Laptop
+HP EliteBook so với Dell Latitude loại nào tốt hơn nhỉ ?
+Elitebook vỏ cứng hơn của Dell nhiều, nhưng nếu kinh doanh thường thì Dell Latitude thì màn hình đẹp hơn.
+==========================
+133
+Laptop
+Bác tư vấn cho em với ạ, em thì chưa dùng HP bao giờ, hiện đang dùng Dell và cảm thấy ổn, cũng đang nhắm em v3450 nhưng mà thấy con HP này hay nên cũng phân vân, nếu dùng dell thì em yên tâm vì đang dùng 5 năm nay rồi, thấy rất tốt nhưng thấy các bác ca ngợi em 8440p nhiều quá mà chưa biết thế nào. 
+Thế bác kiếm probook 6460b đi đảm bảo bền hơn con v3450 đó, bảo hành dài gấp 3 luôn, 8440p thì đời cũ hơn rồi, bác cứ 6460b mà mua đi cho nó mới.
+==========================
+134
+Laptop
+Bác dùng laptop 8560w rồi cho em cái hướng dẵn dùng chức năng FingerPrint với ?
+Bác tải cái FingerPrint Driver về nhé, sau đó tải cái HP ProtectTool Security Manager về, cài rồi làm theo hướng dẫn thôi.
+==========================
+135
+Laptop
+Giá con laptop cấu hình Quadro 1000m bao nhiêu vậy bạn?
+Trên trang laptopcali.com là 33.9 triệu đó bạn.
+==========================
+136
+Laptop
+Các bác cho em hỏi cái tấm dưới máy laptop của em nó không khớp ở chỗ bên tay phải, lấy tay gõ vào thì hơi lung lay, lúc mua em không để ý, không biết cái này có thay được không bác nhỉ ?
+Vị trí ổ đĩa CD đúng không, nếu đúng là vị trí ổ CD-Rom thì là bình thường thôi bạn.
+==========================
+137
+Bể cá
+Mình muốn hỏi chỗ mua và giá cả của bể cá ở Hà Nội?
+Bể cá mà muốn rẻ thì ra chợ Mơ, loại nhỏ nhỏ như phòng mình thì lúc nào cũng có bày sẵn, to hơn thì về nhà nó xem hàng rồi chở đến tận nhà, phụ kiện đèn, lọc, sủi đủ cả, đôn điếc đủ cả, giá ở đây là mềm nhất Hà Nội rồi đó.
+==========================
+138
+Tranh
+Tranh, ảnh treo tường ở Hà Nội chỗ nào bán rẻ mà đẹp ?
+Tranh treo tường thì tùy bác thích loại gì, nhưng Nguyễn Thái Học thì tranh gì cũng có, đợt trước mua cái tranh trống đồng ở đây giá 600 USD, vẫn cái đó lên Hàng Gai nó bán 1000 USD.
+==========================
+139
+Đèn
+Mình muốn mua bộ đèn chùm ở Hà Nội phù hợp với căn phòng cao độ hơn 3m. 
+Đèn đóm tùy bạn thích loại xịn, giá cao hay loại tầm tầm, nếu giá mềm thì ở dọc đường Lê Duẩn bán vô số, đoạn gần với hầm Kim Liên ấy.
+==========================
+140
+Laptop
+Con laptop Dell độ tương phản có vẻ cao hơn, đậm màu hơn, con Apple tông màu hơi nghiêng về màu xanh dương.
+Apple màu bị ngả xanh dương là đặc điểm riêng của đèn LED trắng, đây là nguyên nhân các màn hình đồ họa cao cấp ko dùng LED trắng, sau Led cinema Apple có dòng cao cấp hơn lại dùng đèn huỳnh quang, độ tương phản của Dell cao hơn vì nó là màn hình PVA.
+==========================
+141
+Việc làm thêm
+Cho mình hỏi, lúc phỏng vấn xin việc thì họ hỏi những câu nào vậy bạn, mai mình đi phỏng vấn rồi ?
+Bạn không cần lo gì đâu, cứ thoải mái mà trả lời dễ đậu hơn, đầu tiên bạn đến người ta đưa bạn 1 cái mẫu đơn, bạn điền thông tin vô sau đó n gồi chờ phỏng vấn, người ta hỏi theo thông tin trong cái mẫu đơn đó, có gì nói nấy thôi.
+==========================
+142
+Việc làm thêm
+Highland với KFC nó đăng kí tuyện dụng ở đâu vậy bạn, không biết xin việc ở 2 chỗ này như thế nào và thời gian nó tuyển dụng và nộp hồ sơ cho ai ?
+Highlands thì bạn nộp qua email, được thì người ta sẽ gọi bạn đi phỏng vấn, nếu làm toàn thời gian thì lương 2.4 triệu với 130 ngàn tiền giữ xe và chưa tính tiền bo.
+==========================
+143
+Người lớn
+Thế nào là người lớn, là chững chạc vậy bác?
+Là phải biết tự lập, tự gánh vác nhiều thứ mà không cần phải hỏi ý kiến ba mẹ, phải biết nghĩ đến người khác, nhường nhịn,...
+==========================
+144
+Laptop
+Bạn cho hỏi giữa laptop U2311 và U2410 với U2412 HM có khác biệt nhiều lắm không ?
+U2311 với U2412 cùng loại panel e-IPS, chỉ khác U2412 dùng đèn nền LED, U2410 thì dùng panel H-IPS, ở đẳng cấp khác so với e-IPS, nhìn vào cái giá của nó là thấy rõ rồi.
+==========================
+145
+Laptop
+Ai thích đẹp, sang trọng và màu sắc chuẩn thì chọn laptop Apple, còn không muốn bỏ ra nhiều tiền thì còn nhiều sự chựa chọn khác rẻ hơn mà.
+Sang trọng đẹp thì đúng, còn màu chuẩn thì em thấy thua hết màn hình CRT. 
+==========================
+146
+Trò chơi điện tử
+Trò chơi đua xe để kiểm tra là trò gì thế ạ , có chiếc xe BMW đỏ ấy ?
+NFS Hot Pursuit đó bạn.
+==========================
+147
+Laptop
+Nói thật là tớ thấy laptop 8540w đẹp hơn nhiều, thiết kế của thế hệ 3 không hợp với tớ, tớ thấy dòng 40 lịch lãm sang trọng hơn.
+Mình cũng thấy dòng mới này không đẹp, có vẻ cứng cáp và bóng bẩy hơn thôi.
+==========================
+148
+Việc làm thêm
+Burker King tuyển người ở Sài Gòn đấy, mà nó bắt nộp hồ sơ qua email thì mình lấy mẫu đâu ra mà nộp ạ ? 
+Đâu bắt nộp qua email đâu, lên chỗ 91 Paster lầu 5 chỗ nộp đơn Domino Pizza ấy, chị tiếp tân hỏi thì mình bảo nộp đơn cho Burger King, chỉ đưa mẫu điền vô, lên nhớ mang theo hồ sơ gồm đơn xin việc và sô yếu lí lịch luôn nhé.
+==========================
+149
+Việc làm thêm
+Bác phỏng vấn bên Nguyễn Kim là làm bán thời gian hay sao ạ?
+Toàn thời gian luôn chứ chứ đâu có bán thời gian, giờ thất nghiệp rồi, thời gian chẳng biết mang đi đâu hiến dâng. 
+==========================
+150
+Việc làm thêm
+Bác có kinh nghiệm làm hồ sơ xin việc ở Pizza Hut không chia sẻ giúp mình với ?
+Pizza hut hình như có mẫu đơn xin việc trực tuyến đó bác.
+==========================
+151
+Việc làm thêm
+Có quán thức ăn nhanh dạng Pizza Hut hay Lotteria nào ở Bình thạnh đang tuyển nhân viên làm bán thời gian không ạ ?
+Mấy chỗ thức ăn nhanh bác cứ vào nộp hồ sơ, khi cần nó sẽ gọi.
+==========================
+152
+Việc làm thêm
+Legend phỏng vấn gì vậy bạn, tiếng anh hay tiếng việt ?
+Legend có bạn mình đang làm trong đó, bác ấy bảo là phỏng vấn bằng tiếng Việt nhưng có 1 phần tự giới thiệu bằng tiếng Anh 
+==========================
+153
+Việc làm thêm
+Bác nào ở Cầu Giấy hay gần đó có thời gian thì đăng ký vào Ben Store 74 Nguyễn Khánh Toàn đi, em đi phỏng vấn nhưng vì ở xa quá, đi lại không tiện nên không kham nổi. 
+Em gần đó, nhưng em chỉ làm dc 1.5 tháng thôi, tại giữa tháng 8 phải đi thực tập xa, không ở Hà Nội được, liệu có xin được không nhỉ ?
+==========================
+154
+Việc làm thêm
+Làm thêm với giá 15 ngàn 1 giờ, 1 ngày làm 4 giờ liệu có gọi là bóc lột không ?
+Có phải suy nghĩ hay cực lực gõ, chỉnh sữa gì không, nếu chỉ làm đơn giản thì tốt.
+==========================
+155
+Tư vấn
+Em gái em học kỹ thuật cần mua máy tinh cấu hình ổn 1 chút có card màn hình rời, màn hình 14inch, bề ngoài một chút thẩm mỹ nữa mong bác giúp đỡ.
+Rham khảo thử dell vostro 3460 bạn nhé, tầm tiền này thì mua em này ngon rồi, màn nhám, bảo mật vân tay, thiết kế và hiệu năng tốt, có đèn bàn phím, ổ cứng 7200 truy xuất dữ liệu nhanh.
+==========================
+156
+Tư vấn
+Sinh viên làm thêm, gom góp được 10 triệu thôi bác ạ, em cầm 1 máy làm đồ họa và giải trí, nhờ bác tư vấn cho nên mua máy nào ?
+Mua được máy có CPU i7 luôn đó chứ, tầm này thì i7-720qm, 740qm đầy ra, nhưng mấy con i7 này làm lò sưởi được đấy. 
+==========================
+157
+Laptop
+Cái bàn rê chuột của HP Envy quá tệ và không nhạy, lúc dùng 2 ngón tay để kéo nó như bị ì có độ trễ khá lớn, em không biết có phải do diver của card màn hình không, nói chung cái bàn rê chuột của em nó quá tệ, có thể do en dùng của Macbook Pro quen rồi nên có sự so sánh khập khiễng chút.
+Mình thấy touchpad cũng khá nhạy mà, thua Macbook Pro có tí, mình thì cũng ít xài nên không quan trọng, toàn chuột cho chắc.
+==========================
+158
+Đại học
+Đại học CN HN là Đại học công nghệ Hà Nội à ?
+Không, đại học công nghiệp Hà Nội bạn à. 
+==========================
+159
+Đá banh
+Sáng mai vẫn đá banh bình thường chứ nhỉ ? 
+Còn tùy xem tối nay hoặc sáng mai nó có mưa không anh ạ.
+==========================
+160
+Tên
+Bạn tên là Thú hả bạn. 
+Tên mình là Thủ cơ.
+==========================
+161
+Đá banh
+Thế tối nay có đặt được sân không ?
+Tối nay không đặt được sân rồi, mà số lượng người đi được cũng có mấy đâu, để sang tuần sau đi.
+==========================
+162
+Đá banh
+Sáng chủ nhật có đá không bác để em còn đến xin gia nhập. 
+Có gì mình sẽ cập nhật tình hình cho bác, khỏi lo. 
+==========================
+163
+Buồn cười
+Ờ thì buồn cười thì cười vì buồn. 
+Buồn ấy mà cũng cười được hả bạn ?
+==========================
+164
+Máy tính
+Công việc của mình không dính nhiều tới đồ họa, nói chung là công việc nhẹ nhàng thì có cần dùng tới ổ cứng SSD không, theo mình hiểu thì ổ cứng SSD nhanh và tiết kiệm hơn ổ cứng HDD, điều này có đúng không và nếu đúng thì tiết kiệm pin hơn bao nhiêu phần trăm so với ổ cứng HDD ?
+Công việc nhẹ nhàng thì ổ cứng HDD bình thường cũng được chứ không cần phải là ổ SSD đâu.
+==========================
+165
+Laptop
+Mình nhắm em laptop 8560p và muốn màn hình định dạng cao, như vậy thì chữ có quá bé không ?
+8560p có màn hình khoảng 15.6inch định dạng cao thì chữ không quá bé đâu, nếu thấy quá bé thì chỉnh lại độ phân giải cho màn hình được mà. 
+==========================
+166
+Laptop
+Đằng sau máy Elitebook có cái mật mã để cài Windows Vista OEM Business có dùng cho Windows 7 được không bác nhỉ?
+Bác dùng đĩa Windows 7 OEM mà cài cho nhanh, khỏi mất công điền mật mã.
+==========================
+167
+Loa
+Loa Mono nghĩa là sao bác, em chuưa hiểu.
+Mono tức là chỉ có 1 kênh âm thanh thôi, còn Stereo là 2 kênh âm thanh.
+==========================
+168
+Laptop
+Đĩa Windows 7 OEM lấy ở đâu ra vậy, để mình cài vào laptop.
+Lúc mua máy nếu không có thì bên cửa hàng sẽ cho bác một cái. 
+==========================
+169
+Máy tính
+À mà mấy cái driver có tên Broadcom có công dụng là gì và có nên cài vào máy hay không bạn?
+Thì là driver cho phần cứng chứ là gì nữa bác.
+==========================
+170
+Máy tính
+Modem có phải driver cho mang Lan đâu nhỉ, hay mình nhầm ?
+Bạn cứ nghĩ đơn giản rằng model là thiết bị chuyển từ tín hiệu số ra tín hiệu tương tự dùng để chuyển tín hiệu dạng sóng đi là được rồi, do đó có nhiều thứ được gọi là modem.
+==========================
+171
+Máy tính
+Mấy phần mềm Ultility của Intel mình không hiểu chức năng nó làm gì ?
+Các phần mềm Ultility của Intel giúp cho Windows biết được các thành phần của Mainboard và hiển thị tên các thành phần đó chính xác trong mục quản lí các thiết bị của Windows.
+==========================
+172
+Phần mềm
+Chương trình 3D Driveguard cài vào là xong à, có phải tinh chỉnh hay làm gì không ?
+Cái 3D Driveguard cài vào là được rồi, sau khi cài xong mình nhớ là trong Control Panel sẽ có icon của nó.
+==========================
+173
+Phần mềm
+Bác dùng phần mềm gì để Ghost vậy, và khi Ghost xong thì tập tin Ghost dung lượng khoảng bao nhiêu vậy bác?
+Norton Ghost trong những đĩa Hiren's boot đó bạn, sau khi ghost 25GB Windows và phần mềm linh tinh thì nặng khoảng 16GB với thiết lập mặc định.
+==========================
+174
+Phần mềm
+HP 3D DriveGuard khi cài đến chỗ nó bảo khởi động lại máy là xong phải không?
+Cái 3D Driveguard mình hồi trước cài cũng thế, và nhớ là trong Control Panel có biểu tượng của nó là được đó bạn.
+==========================
+175
+Phần mềm
+Mình dùng bản 10.0 mà cứ vào Norton để ghost là máy cứ treo.
+Bạn vào trong Bioa chỉnh lại từ AHCI thành IDE thử xem và sau khi ghost xong thì chuyển ngược lại xem nó còn bị lỗi không ?
+==========================
+176
+Nhà đất
+Bạn thử làm 1 cái dự toán, với 1 tỷ thì mua đất ở đâu, xây nhà như nào để cho thuê và kiếm được hơn 10 triệu mỗi tháng hộ mình với, chi tiết vào nhé.
+Đây là có đất rồi, xây lên cho thuê, còn được 10 triệu mỗi tháng không thì xin thưa là thừa được ạ, vì còn phụ thuộc vào vị trí nữa.
+==========================
+177
+Nhà đất
+Có 1 tỉ thì mua 1 căn nhà, bây giờ bất động sản đóng băng nên mua nhà là chuẩn nhất, xong thì cho thuê phòng, 1 tháng thu tầm hơn chục triệu tiền lãi, cứ dần thế đã.
+Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+==========================
+178
+Kinh tế
+Kinh tế giờ khó khăn lắm bác à, nên gửi ngân hàng rồi hàng tháng lấy 7,8 triệu ra buôn lặt vặt cho nó nhàn.
+Gửi ngân hàng hàng tháng 7,8 triệu thì suy nghĩ làm gì cho nhức đầu, quan trọng là 1 tỷ người ta muốn tiền sinh sôi cơ mà, hay mua đất tích trữ nhỉ, đất quê giờ cũng có giá lắm.
+==========================
+179
+Kinh tế
+Bạn nghĩ có ai điên đến mức đem ý tưởng kinh doanh mà mình ấp ủ mang chia sẻ cho bạn không ?
+Như thế này, bạn có ý tưởng bạn không có tiền, bạn có thể tìm người có tiền trình bày hợp tác rồi chia sẻ theo tỉ lệ, startup toàn thế nhé, chỉ có mỗi cái ý tưởng thôi, đa số không có vốn.
+==========================
+180
+Điện thoại
+Tình hình là em dành dụm được ít tiền mua con Galaxy S3 xách tay của nhà mạng NTT Docomo bên Nhật, nhưng mua về bật máy ảnh lên và chụp ảnh thì bị nhoè ở những phần có chữ màu trắng, kiểu như bị hiệu ứng chói nắng mặt trời ý ạ, bạn có kinh nghiệm cho mình hỏi đó là lỗi máy hay thế nào ạ ? 
+Chụp những cái khác vẫn bình thường à ?
+==========================
+181
+Kinh tế
+Trường em thì hơn 2 chục ngàn sinh viên, mà có sẵn 2 xe nước mía rồi, bán cũng không chạy lắm thì phải, em lại tính đặt 1 xe nước mía siêu sạch để cạnh tranh, nước mía siêu sạch thì nhìn ly nó trang trọng hơn xíu.
+Mình ủng hộ bạn đó
+==========================
+182
+Laptop
+Mấy bác cho em hỏi khi mua 8540w mới thì số S/N của pin, máy và sạc có trùng nhau không và nếu không trùng thì có được bảo hành của HP không ?
+Dù là hàng mới hay không thì các số S/N phải trùng, trước khi đưa tền, bạn ra trung tâm bảo hành của HP, người ta sẽ quét mã vạch kiểm tra miễn phí cho bạn.
+==========================
+183
+Laptop
+Mua laptop ở laptophuyhoang.com có đảm bảo không? 
+Bạn kiểm tra kĩ mặt ngoài xem có trầy xước gì không, rồi lật máy lên kiểm tra chỗ khe hút gió xem có bụi nhiều không, nếu thấy bụi bám vào nhiều khả năng là máy xài rồi, kiểm tra ổ cứng hoạt động và bật tắt được lâu chưa, và cuối cùng là kiểm tra thời gian bảo hành, pin và máy có số S/N trùng nhau không.
+==========================
+184
+Xe hơi
+Chả là thi xong đợt này, mình định tập lái xe hơi, nhưng nghe bọn bạn bảo thi bằng lái xe hơi hình như khác thi bằng lái xe máy, em chả biết thế nào nên mạn phép hỏi bác trước cho chắc ăn.
+Khác xa một trời một vực luôn bác ạ, trước em học mất 3 tháng, hình như luật mới lên 6 tháng rồi, bằng B2 nhé, thi luật trên máy tính và thi lái trên sa hình.
+==========================
+185
+Laptop
+Bác biết nguyên nhân vì sao mọi người có xu thế chuyển dần sang dùng Probook không ?
+Vì HP Probook rẻ hơn các máy khác một cơ số tiền, với cơ số đó thì có thể nâng cấp lên được ổ cứng SSD.
+==========================
+186
+Tư vấn
+Em học kĩ thuật, ngành ô tô thuộc khoa cơ khí động lực, với khoảng tiền 15 triệu trở xuống thì em nên mua máy laptop nào thuận lợi cho việc học tập, bác tư vấn giúp em với , phân tích cho em rõ luôn với.
+15 triệu thì bác mua HP ELitebook 8460p cũng được, dân kỹ thuật, văn phòng xài nhiều, đây là dòng doanh nhân cao cấp nhất của HP, có thiết kế sang trọng bắt mắt, đạt tiêu chuẩn quân đội Mỹ, siêu bền, máy này bác dùng đến khi ra trường, đi làm cũng vẫn còn xài được tốt, chất lượng hơn nhiều dòng giải trí hay doanh nhân giá rẻ như Vostro, Probook nên bác yên tâm về chất lượng nhé.
+==========================
+187
+Laptop
+Không biết dòng Sony Vaio SVS-13126PG/B dùng ra sao nhỉ, công việc của em là lập trình website, em thích kiểu dáng của laptop đó và sự gọn nhẹ của nó, cấu hình có vẻ đủ cho nhu cầu.
+Bàn phím con này làm sao ăn được Thinkpad T, lập trình thì nên nhắm mấy con đấy bạn à, ví dụ như Thinkpad T430 chẳng hạn.
+==========================
+188
+Tư vấn
+Bác tư vấn giúp em một con laptop về chạy Photoshop với Corel với, em chỉ cần màn hình 14inch thôi.
+Thinkpad T430S nhé, có card màn hình rời và ổ cứng SSD nhé, vừa mỏng, nhẹ 1.7kg, lại hiệu năng cao, bền bỉ, pin trâu, vừa với tầm tiền đấy.
+==========================
+189
+Việc làm thêm
+Bác nào làm ở Pizza Hut hay Lotteria cho em hỏi cái, lương trả sau mỗi buổi làm hay cuối tháng ạ ?
+Trả vào mùng 5 hàng tháng.
+==========================
+190
+Việc làm thêm
+Làm thêm ở Pizza Hut hay Lotteria thì mới vào có cần đóng tiền mua đồng phục gì đó không ?
+Lotte mới vào làm đóng 100 ngàn mua đồng phục, nghỉ làm thì trả đồ lấy lại tiền. 
+==========================
+191
+Việc làm thêm
+Mặt em hơi mụn, như thế thì xin vào làm mấy tiệm ăn nhanh được không nhỉ ?
+Chả sao cả đâu.
+==========================
+192
+Trò chơi điện tử
+Cái trò chơi này nó nổi tiếng lắm hình như là nó có cho mình vài tế bào để phát triển thành các chủng tộc sau đó còn có để chiến tranh giữa các hành tinh nữa, hồi đó có trò ấy mà mình không có tải về chơi do hoàn cảnh giờ cần tìm nó chơi tý cho đỡ buồn, bác có biết trò đó tên là gì không ?
+Chính xác là Spore. 
+==========================
+193
+Xe hơi
+Mình sắp thi bằng lái xe hơi B2 mà lái tệ quá, xe nhà lại không ở chỗ đang ở nên phải tập bằng trò chơi điện tử, bác tư vấn cho trò nào tập lái tốt với ?
+City Car Driving nhé, trò này theo mình là mô phỏng lái xe thật nhất và đường xá rất rộng thêm vào đấy là bạn có thể tùy chọn những khu vực như đường đất, đường cao tốc để lái cho quen tay.
+==========================
+194
+Phần mềm
+PDF mà ghét thì thích gì hả em ?
+Word anh ơi, vừa đọc sách vừa hiệu chỉnh luôn cũng được. 
+==========================
+195
+Laptop
+Theo bác thì nên chon Elitebook dòng P hay W ?
+Elitebook p hay w dùng đều sướng cái chính là nhu cầu công việc của bác nhiều hay ít thôi.
+==========================
+196
+Laptop
+Dòng laptop 8460w và 8560w khi nào xuất xưởng vậy bác ?
+Tháng 8 bác ạ.
+==========================
+197
+Máy tính bảng
+Bác có xài dòng máy tính bảng nào của HP không, em cần ít ý kiến đánh giá máy so với dòng máy tính bảng X của Thinkpad.
+Hai con này chất lượng như nhau thôi bác, tùy bác thích kiểu dáng con nào hơn, con HP thì do cấu tạo cải tiến cái đèn chiếu bàn phím nên dòng máy tính bảng vẫn có, còn của Thinkpad thì không có, độ nhạy cảm ứng thì như nhau không thấy khác biệt.
+==========================
+198
+GPS
+Mình muốn hỏi 1 chút nữa là card 3G WWAN UN2400 có GPS không, nếu có thì kích hoạt tính năng này như thế nào ? 
+Có GPS nhưng phải cài phần mềm riếng, bác mua ở đâu mang đến họ cài rồi hướng dẫn cho, cài phần mềm của HP không có xài được GPS nhưng mà lại xài được chức năng nhắn tin.
+==========================
+199
+Laptop
+Pin em 6cell mà báo có hơn 51W thì có vấn đề gì không ạ, đã thế cái thiết kế dung lượng lại mỗi lúc nó nhảy 1 kiểu, còn mức độ chai bằng 0%. 
+Cái chương trình đo dung lượng pin thì không chính xác hoàn toàn đâu, nhưng cái thiết kế dung lượng thì mình thấy báo khá chính xác, con của bạn cũng chưa phải lo vì chênh lệch không nhiều, ngoài ra bạn thử kiểm tra xem có phải pin của bạn là pin longlife hay không vì pin longlife thiết kế của nó là 51wh còn pin thường là 55wh, mình chỉ thấy nó chính xác khi đo số cycle thôi, chỉ khi thấy dung lượng báo quá thấp thì mới nên quan tâm bạn ạ/
+==========================
+200
+Âm nhạc
+Không hiểu sao dạo này em rất kết mấy loại nhạc kiểu nhạc tình huống, lúc đang gay cấn, hoặc truy bắt tội phạm trong các phim, hoặc lúc đang kiểu cân não. 
+Bạn tìm những album nhạc phim của các phim kinh dị nổi tiếng hoặc hành động kịch tính là có liền à, cứ tìm kiếm trên google ví dụ như "2012 OST album" chẳng hạn.
+==========================
+201
+Facebook
+Có cách nào chặn thư báo thông báo từ facebook vào email của mình không nhỉ ?
+Lọc để nó cho vào mục spam hoặc vào 1 cái mục riêng đi.
+==========================
+202
+Phần mềm
+Chương trình BKAV là chương trình diệt virus nhẹ nhất mình từng biết, những bản trước đây nặng không đến 1MB, chạy chiếm bộ nhớ chỉ vài trăm byte, mà hiệu quả lại cực cao đặc biệt là đối với các virus từ Việt Nam ra, hiện nay thì do phiên bản mới nâng cấp và thêm nhiều công nghệ phòng chống virus nên tăng dung lượng lên là điều tất yếu, theo mình đánh giá thì khi chạy BKAV vẫn rất nhẹ nhàng và nhanh nhất.
+Hình như là bạn chưa dùng Pentium 4 với BKAV năm 2006 nhỉ, mình nhớ là lần đấy mình cài BKAV nó chậm đi còn một nửa và quét virus 3 lần thì lần 1 là 5000 con, 2 lần sau là 2000 con và cứ duy trì mãi như thế, bạn giải thích sao nhỉ ?
+==========================
+203
+Đánh đề
+Đánh đề lỡ xịt thì sao ?
+Ra đê mà nhảy tự tử.
+==========================
+204
+Guitar
+Guitar luyến hay chứ nhỉ ?
+Đúng rồi.
+==========================
+205
+Âm nhạc
+Bạn có biết mấy bài nhạc mà thằng Martin Sierra sử dụng trong vòng bán kết chương trình Got To Dance không ?
+Bài đầu là Paparazzi của Lady Gaga, bài sau là Hung up của Madonna.
+==========================
+206
+PG
+Chụp nhiều ảnh PG hơn đi bạn.
+PG xấu, được mỗi chân dài chắc do mặt quần ngắn.
+==========================
+207
+Mùa đông
+Mùa đông nào mình cũng chỉ mặc 1 áo sơ mi với 1 áo gió, hôm nào căng quá thì thêm cái áo len nữa, nhưng thỉnh thoảng thôi.
+Mùa đông về độ lạnh thì còn thua mùa Xuân bác ạ, Mùa xuân Hà Nội mấy năm gần đây rét không chịu nổi, làm nhà mình hết rượu nhanh.
+==========================
+208
+Hà Nội
+Thái độ phục vụ ở Hà Nội thì không chịu nổi đâu.
+Đúng là chuyện phục vụ thì không chịu nổi nhưng nói chung thì chuyện đó có thể hiểu là văn hóa.
+==========================
+209
+Hà Nội
+Bà này mới ra Hà Nội đã thấy mặc quần ngắn đi chơi rồi.
+Đó giờ chưa biết mặc quần ngắn là gì à, hai lúa thế đấy.
+==========================
+210
+Con gái
+Thế nhỏ ấy có thuộc dạng hiền lành con nhà gia giáo không ?
+Hám trai thì có ấy.
+==========================
+211
+Nước uống
+Đàn ông đích thực tốt nhất là uống sữa đậu nành đi cho lành. 
+Thế thì phải làm cốc sữa tươi ấm, mình toàn uống cà phê đen đá. 
+==========================
+212
+Đánh răng
+Mình đánh răng mỗi ngày có 1 lần mà vẫn trắng. 
+Mình không rượu bia, thuốc lá gì hết này.
+==========================
+213
+Đánh răng
+Mặc dù mình đánh răng rất kĩ và theo các qui tắc nha khoa, nhưng răng vẫn vàng, và ngày càng vàng hơn.
+Bác có hút thuốc không, nếu có thì bỏ đi mới mong răng trắng được, còn hút thuốc thì suốt đời răng vàng bác nhé. 
+==========================
+214
+Nước uống
+Đi với bạn gái, em toàn bị chọc là con nít vì không thích cà phê, mà lại thích sinh tố.
+Sao phải lo hả bạn, hình tượng mình có ngâm cả trong cốc nước đâu mà lo. 
+==========================
+215
+Trung tâm dịch vụ kỹ nghệ khuếch trương kỹ thuật đầu tư tín dụng
+Trung tâm này là trung tâm gì thế nhỉ ?
+Em nghĩ đây là Trung tâm dịch vụ kỹ nghệ khuếch trương kỹ thuật đầu tư tín dụng.
+==========================
+216
+Xe máy
+Em Honda Cub 79 50cc đây mà, nhà em có một em y như thế.
+Chiếc này là chị của mấy chiếc cub 78-79 bạn ơi, gọi là honda đam, là honda cho phụ nữ ấy, cùng thời với honda 67.
+==========================
+217
+Phần mềm
+Có phần mềm nào hỗ trợ tắt màn hình không ?
+Muốn tắt màn hình bất cứ lúc nào bạn thích thì có phần mềm Lights out, chỉ việc nhấn vào icon, muốn mở màn hình thì nhích chuột hoặc bấm bất kỳ phím nào cũng được.
+==========================
+218
+Laptop
+Bác cho em hỏi nếu mua laptop ở nước ngoài thi xem cấu hình máy ở trang nào vậy ?
+Nếu xem cấu hình thì bạn lên trang chủ của hãng ấy.
+==========================
+219
+Laptop
+Nếu nhờ mua laptop ở nước ngoài đem về thì sao bác, mắc hơn mua ở Việt Nam à ?
+Mua ở nước ngoài thì phải kiếm nơi nào rẻ thôi chứ mua ở cửa hàng thì không rẻ hơn so với mua ở Việt Nam đâu.
+==========================
+220
+Laptop
+Mấy bác cho em hỏi HP 8440p thì pin máy nào phù hợp với nó nữa ạ, em đang tính mua quả pin trai gì gì đó dùng cho an toàn 1 tí.
+Pin thì dòng này có pin 8 cell dạng dock chữ U hoặc 12 cell dạng dock gắn dưới đáy máy có thể dùng cả ngày, đang có sẵn ở Việt Nam bác thử tìm kiếm nhé.
+==========================
+221
+Laptop
+Vấn đề về pin là có phần mềm nào để máy hoàn toàn không sạc pin không, mặc dù em để ý mấy hôm nay rồi, cứ pin đến 95% thì nó vẫn chưa sạc, còn dưới tầm đấy là nó sạc hộ cho mình, nhưng như vậy thì cứ vài hôm là pin nó từ 100% xuống dưới 95% và bị sạc, làm như vậy nhiều thì pin sẽ bị chai mất.
+Pin chai thì kệ nó bác ơi, lúc trước mua máy em cũng hay lăn tăn lắm, xong rồi pin chai 3%, em bắt đầu kệ, đến 7% thì em cân lại pin một lần, xuống lại còn 5%. Sau đấy thì chai lên 10%, lúc đấy thì em kệ hẳn, dùng chả xót nữa, cứ cắm sạc, buồn thì rút, vui thì sạc, dùng xong cứ tống vào balo, thế mà nó lại chả chai thêm tí nào.
+==========================
+222
+Laptop
+Con 8540w có bao nhiêu khe RAM vậy, định lúc nào dư tiền nâng cấp thêm cho nó ? 
+Nếu nó giống 8740 thì có 2 khe RAM bạn ạ, 1 khe trong máy đã cắm sẵn, còn 1 khe ở dưới miếng nhựa dành cho khách tự nâng cấp.
+==========================
+223
+MotoGP
+Hehe, đã có lịch chiếu cho MotoGP chặng mở màn ở Qatar vào đêm Chủ nhật, rạng sáng thứ 2 rồi, xem kiểu này mệt phết, chiếu trên ESPN ấy.
+Xem vòng loại xong có cảm giác năm nay chẳng khác gì năm trước, vẫn là cuộc chiến giữa Lorenzo và Stoner thôi.
+==========================
+224
+Xe máy
+Bác cho em hỏi sao đĩa trên xe đua lại không đục lỗ như trên xe thường nhỉ ?
+Đĩa trên xe đua là đĩa carbon chứ không phải là đĩa thép như xe máy phổ thông đâu.
+==========================
+225
+MotoGP
+Không bao lâu nữa chắc Suzuki cũng rút khỏi MotoGP quá, năm trước còn 2 chiếc bây giờ còn mỗi 1 chiếc, trước đó thì Kawasaki đã rút khỏi MotoGP sau nhiều năm không cạnh tranh nổi với Ducati, Honda và yamaha, mà sao BMW không tham gia nhỉ, thấy mấy chiếc BMW S1000RR nhìn cũng tốt lắm chứ bộ ?
+Kawasaki rút lui là do cuộc khủng hoảng kinh tế năm 2008, còn BMW có vẻ không ham hố với đua xe, nên bên F1, BMW cũng đã rút lui sau mùa giải 2010.
+==========================
+226
+MotoGP
+Suzuki chả thấy đầu tư gì vào MotoGP cả, nên càng ngày càng vắng bóng là đúng rồi.
+Có vẻ Honda vẫn là máu me nhất.
+==========================
+227
+MotoGP
+Phải công nhận là thằng kẹo mút nó chạy ổn định quá, từ đầu tới cuối chả thấy sai lầm phát nào, nhưng mà cũng ăn may khi các đối thủ cứ lần lượt tự té hoặc xe gặp trục trặc, lúc Ped đuổi còn cách 1 giây mình tưởng kịp rồi, ai dè xe cộ lởm khởm thế nào lại bị bỏ xa, năm nay lại của thằng kẹo rồi.
+Không phải do xe yếu đâu, thằng Pedrosa đang đuổi theo Lorezo thì thấy mấy thằng kia té nên nhát tay ko dám chạy nữa, còn nói về trình nài xe và độ liều mạng thì mấy thằng kia phải gọi Rossi bằng cụ, sau trận đua hôm qua thì mình nghĩ cơ hội vô địch cho Rossi mùa này vẫn còn.
+==========================
+228
+Việc làm thêm
+Tình hình là em đang làm ở phở 24 mà lương bèo với làm mệt quá, hôm nay Pizza Hut mới gọi hẹn lịch phỏng vấn xong, không biết có nên chuyển chỗ làm không nữa, mấy bác làm trong Pizza Hut cho hỏi phỏng vấn ở pizza hut gồm mấy vòng vậy, công việc có phải đứng nhiều không thế ?
+Phỏng vấn 2 vòng, vòng 1 là phỏng vấn nhóm, vòng 2 là phỏng vấn cá nhân, công việc thì có mệt đó nhưng mà cũng cảm thấy vui, nói chung làm được hay không còn tùy khả năng chịu áp lực và sức khỏa của mỗi người thôi.
+==========================
+229
+Việc làm thêm
+Làm thêm 15 ngàn 1 giờ, 1 ngày làm 4 giờ liệu có gọi là bóc lột không hả bác ?
+Bóc gì mà bóc, tốt quá còn gì, chạy bàn hộc máu ra được có 10 ngàn một giờ kia kìa. 
+==========================
+230
+Laptop
+Cho mình hỏi chi nhánh sắp mở là ở đâu, em đang bị thất nghiệp, nơi nào cũng đưa hồ sơ mà chẳng thấy cuộc gọi nào.
+Không chắc nữa, mình nghe mấy đứa bạn nói sắp mở ở trung tâm thương mại nào đó sắp xây xong. 
+==========================
+231
+Tư vấn
+Tình hình là mới mua cái smartphone nên tính mua cái sim 3G về xài, nhu cầu chính là lướt web, mạng xã hội, lâu lâu coi tí youtube gì thôi, bác tư vấn cho em với. 
+Viettel thì rẻ nhưng chất lượng không bằng Vinaphone, Vinaphone lại đắt hơn , nói chung tiền nào của nấy.
+==========================
+232
+Đồ ăn
+Bò lá lốt trên đường Tôn Đức Thắng toàn thịt chuột cống chứ không phải thịt bò đâu.
+Ừ, cái này có nghe qua, đi ngang thấy ghê ghê. 
+==========================
+233
+Đồ ăn
+Quán bún Quy Nhơn ở đường Phan Xích Long, 27 ngàn 1 tô, em dân Quy Nhơn ăn xong muốn đánh vào mặt mụ chủ nấu dở làm hổ danh bún Quy Nhơn.
+Em định ghé qua đó thử phát ra sao, nghe bác nói vậy thì thôi về cho lành. 
+==========================
+234
+Đồ ăn
+Cá viên chiên gì ở góc Sương Nguyệt Ánh với Cách mạng tháng 8 đó, giá 6 ngàn 1 cây mà có 2 viên, thôi lun.
+Em có đi ăn 1 lần, kêu 2 dĩa đủ thứ cũng nhiều lắm, lúc tính tiền giá quá sốc, mà ăn cũng không ngon lành gì, tương ớt kì lắm, ăn là biết đồ dỏm, thế mà đông người ăn ghê cơ. 
+==========================
+235
+Đồ ăn
+Quán phá lấu lề đường kỳ đồng quận 3, gần với ngã 3 nguyễn thông, kế nhà thờ, cái chén phá lấu có tí xíu, nhỏ hơn chén cơm, nước khônh ngon lắm mà giá tới 15 ngàn, ăn xong thề không bao giờ quay lại.
+Tại người ta nấu với sữa tươi ấy, cơ mà không ngon thật, mình ăn 1 lần là sợ rồi.
+==========================
+236
+Đồ ăn
+Mấy cái quán bán hoành thánh, mỳ xá xíu vỉa hè đường Nguyễn Tri Phương, bán cũng bình thường nhưng giá tới 40, 50 ngàn 1 tô.
+Ừ mình từng bị chém 1 lần nè. 
+==========================
+237
+Đồ ăn
+Đồ ăn ở Quận 8, ngon rẻ, nhưng cái khoản vệ sinh thì tồi vô cùng, chén, muỗng, nĩa đa số còn dính dầu mỡ, khăn giấy dù đã được rửa.
+Mình sống khá gần đó, đi ăn nhiều, để ý thấy quán nào sạch đẹp thì cơm, gà ít hoặc dở và ngược lại, nên tốt nhất là mua đem về, mình thì thường ăn ở 142 thì phải, quán tồi tàn nhưng được nhất đường đó nên chỉ mua đem về.
+==========================
+238
+Đức
+Nhĩn rõ được sự hiếu chiến của bọn Đức. 
+Hiếu chiến được như nó là cả một vấn đề to đấy bác ạ, một mình nước Nga hay Anh hay Pháp đánh nhau chưa chắc đã chơi được Hitler đâu, mình là mình ghét cái trò đánh hội đồng lắm.
+==========================
+239
+Chủ nghĩa tư bản
+Đỉnh cao của Chủ nghĩa tư bản là phát xít, mấy thằng Anh, Mỹ mà không tiếp thu học thuyết Mác thì cũng phát xít hóa chế độ rồi.
+Có người nói mình phát xít bằng Chủ nghĩa cộng sản cộng với Chủ nghĩa dân tộc cực đoan, cứ nhìn cái màu đỏ đỏ trong mấy cây cờ trong hình là thấy quen quen rồi, giống Trung Quốc và Triều Tiên lúc duyệt binh kinh khủng. 
+==========================
+240
+Hitler
+Mình nghĩ Hitler cũng như Napoléon, anh hùng không gặp thời, cái sai của Hitler là đã diệt chủng người Do Thái, nếu không có Hitler thì sẽ không có nước Đức hùng mạnh và đoàn kết dân tộc, còn chiến tranh là chiến tranh, kẻ thắng làm vua, kẻ thua làm giặc. 
+Câu này chỉ đúng khi chế độ đó không gây tội ác diệt chủng, không phải bừa đâu cũng nói vậy được.
+==========================
+241
+ELF
+ELF là gì ?
+Là cái lũ phát ngôn như thế này: nếu có 1 ngày thế giới phản bội Super Junior, ELF cũng sẽ phản bội cả thế giới , em sẵn sàng giết bố mẹ nếu không cho em đi xem Suju biểu diễn, thật vui vì ông bà già cuối cùng đã biết điều và để mình đi,...
+==========================
+242
+Chụp ảnh
+Bác chụp panorama hả, hay sao mà lấy được cảnh rộng thế ?
+Panorama chụp bằng E71 đó, chứ đâu ra tấm ảnh rộng hơn mà cắt ra được tấm này. 
+==========================
+243
+Sinh lí
+Cho e hỏi là con trai mấy tuổi hết phát triển chiều cao, em năm nay 18 tuổi cao 1.78m mà nặng có 55kg. 
+Con trai thì thường là đến 22 bạn ạ.
+==========================
+244
+Hải Phòng
+Tớ không biết theo ý cậu thì thế nào mới cho là hay, nhưng tớ đã đi nhiều nơi và thấy nhiều người nói cái hay nhất ở Hải Phòng là người Hải Phòng, tất nhiên ở đâu cũng có người nọ người kia.
+Mình cũng mong là như vậy.
+==========================
+245
+Hải Phòng
+Hải Phòng trong thành phố có nóng như Hà Nội hôm nay không ạ ?
+Nóng lắm đấy.
+==========================
+246
+Hải Phòng
+Số là em vừa bị đày đi thực tập ở Hải Phòng chừng 2 tháng gì đó, em chưa đến Hải Phòng bao giờ bác có thể cho em biết Hải Phòng có gì hay và có gì dở không ạ ? 
+Hải phòng rất là rẻ và đẹp. 
+==========================
+247
+Đĩa
+Cho mình hỏi là mua đĩa thì mua ở đâu nhỉ, Hà Nội nhé ?
+Mua thì mua lẻ tẻ ngoài hàng thì bác có thể chứ không mua toàn bộ được đâu.
+==========================
+248
+Vũ Hà
+Nghe mấy bản nhạc ngày xưa của Vũ Hà hát thử đi, không tệ đâu. 
+Thà nghe Vũ Hà hát còn hơn là khối ca sĩ Việt Nam bây giờ.
+==========================
+249
+Giao thông
+Thế người ta độ xe hơi thì sao nhỉ, đáng lẽ cũng nên cho độ xe máy nhưng phải có quy định chặt chẽ, chư việc thay đèn xenon cho sáng hơn, lên phuộc cho ngon hơn, bánh mâm, thì có gì là sai đâu, chỉ có điều là những quái xế hay độ xe nên người ta thường đánh đồng độ xe là đua xe thôi.
+Mấy cái đèn đường trong cái thành phố này chưa đủ thấy đường cho bạn đi hay sao, hay là đèn sáng hơn để cho chói mắt mấy thằng khác để nhường đường cho bạn đi ?
+==========================
+250
+Lô đề
+Cho đến thời điểm hiện tại là em chưa đánh con lô hay đề nào, nghe giang hồ đồn là mới đầu trúng ác lắm em định làm 1 vố trúng lớn rồi nghỉ các bác tính có được không ?
+Đừng mất nhiều thời gian và tiền bạc cho loại cờ bạc đó.
+==========================
+251
+Lô đề
+Vác bảo em phải khuyên ngăn như thế nào khi người em yêu quý nhất lại đi đánh lô, ít thì em không nói làm gì, nhưng mới thua mất 1 nửa của 100 triệu mà cách đây 2 ngày lại đánh thêm 1000 điểm nữa.
+Cái này là máu rồi bác ạ, khuyên được thì tốt, mà không được thì cũng chịu thôi, làm sao để giữ được tài sản cho nó là tốt nhất.  
+==========================
+252
+Tư vấn
+Tình hình là em định mua con laptop nhưng chưa biết mua laptop gì, nhờ anh tư vấn, tầm tiền là từ 11 tới 12 triệu, mục đích sử dụng là có thể dùng cho các ứng dụng văn phòng xem phim và lập trình, em đang học năm 4 rồi xác định mua máy để sau này đi làm luôn các bác tư vấn máy nào bền bền 1 chút ạ.
+Bạn thử xem mẫu Thinkpad T420 xem nhé, dùng được lâu dài, bảo hành dài và ổn định.
+==========================
+253
+Việc làm thêm
+Kobe đang tuyển nè, dành cho nữ nhé. 
+Ồ tuyển nữ nhiều lên, Koke đang thiếu nữ trầm trọng.
+==========================
+254
+Chim
+Con này còn chưa mọc đuôi nữa, cỡ này thì nó ăn gì vậy bác, bỏ gạo với nước vô không biết nó có biết ăn được không nữa ?
+Bác này tưởng chim là gà à, ra ngoài hàng mua thức ăn bột làm sẵn đi, nếu chim không ăn được bột rắn thì pha tí nước cho em nó ăn, 1 ngày nó ăn không hết thì đổ rồi vệ sinh lại cái cóng ăn nhá.
+==========================
+255
+Chim
+Chim sa cá nhảy, bắt được chim là đen lắm đó bạn à.
+Ôi trước giờ tui bắt chim khoen này, rồi mòe từa lưa có sao đâu bạn.
+==========================
+256
+Chim
+Có biết cách chăm sóc chim chưa nhỉ ?
+Nhà em có 3 lồng, 2 lồng nuôi 2 con chim khoen ngày trước cũng bắt vầy nè, còn 1 lồng cho nó tắm, cũng có kinh nghiệm nuôi chim khoen 1 tí, không biết chim chích chòe than này nuôi có gì đặc biệt không bác chỉ em với ?
+==========================
+257
+Đẹp
+Cho em 1 vài nhận xét về gái đẹp bây giờ.
+Gái đẹp nó chỉ thích thằng lắm tiền thôi.
+==========================
+258
+Đẹp
+Cái nết đánh chết cái đẹp.
+Cái đẹp đè bẹp cái nết.
+==========================
+259
+Đẹp
+Trai đẹp, giàu cũng kiêu và chảnh, nói gì bọn con gái.
+Nhưng con gái chỉ cần đẹp là nó chảnh rồi, giàu nửa thì ôi thôi rồi.
+==========================
+260
+Đẹp
+Đẹp để phang, xấu để cưới.
+Chân lý.
+==========================
+261
+Giao thông
+Việt Nam có bao nhiêu tuyến liên vận quốc tế ?
+Việt Nam hiện tại có hơn 20 tuyến liên vận quốc tế.
+==========================
+262
+Giao thông
+Tốc độ phát triển hàng hóa đường bộ những năm gần đây ?
+Hàng hóa đường bộ chiếm tỉ trọng lớn nhất trong vận chuyển.
+==========================
+263
+Đẹp
+Đẹp đi đôi với chảnh.
+Chuẩn, có mấy con bạn đứa nào đẹp 1 tí là y như rằng chảnh, kiêu, lăng nhăng.
+==========================
+264
+Cưới
+Bác cho em hỏi, cưới người con gái cùng tên có được không ạ, có kiêng gì không và tại sao ?
+Lấy cũng được nhưng không tiện khi gọi tên nhau thôi.
+==========================
+265
+Máy tính
+Theo mình 1 con bò có nhiều tác dụng hơn 1 cái máy tính vì 1 con bò xấp xỉ giá cái máy tính nhưng sau 1 thời gian thì máy tính không đẻ ra máy tính con trong khi con bò có thể đẻ ra bê con, và với tốc độ mất giá như hiện nay giá con bò sau 1 năm là tăng trong khi giá máy tính sau 1 năm tụt thảm hại, con bò dễ điều khiển và sử dụng hơn 1 cái máy tính, các bác chỉ có thể cưỡi con bò đi từ đỉnh núi này qua đỉnh núi khác với máy tính đó là điều không thể, nếu chán sau 5 năm các bác có thể thịt con bò để ăn chứ sau 5 năm máy tính chỉ là đống sắt vụn, con bò có thể vắt sữa để uống chứ em chưa thấy ai vắt máy tính để uống cả, các bác có thể cầm gậy vụt con bò chứ các bác làm như thế với cái máy tính thì vui lắm, các bác có thể bắt con bò kéo 1 khúc gỗ hay 1 cái xe cải tiến để chở đồ mỗi khi đi đâu trong khi máy tính thì các bác phải chở nó ví dụ như khi đi bảo hành, các bác có thể đem con bò buộc vào cày và bắt nó cày chứ các bác mà buộc máy tính vào cái cày thì buồn lắm , ép xung 1 cái máy tính sao sướng bằng ép xung con bò ví dụ như bắt nó chạy , da bò dùng được nhièu việc chứ da máy tính thì không làm được việc gì, khi mất điện con bò vẫn hoạt động tốt chứ máy tính mất điện là toi.
+Đi so sánh 2 cái khác nhau hoàn toàn thì có ý nghĩa gì, con bò có ý nghĩa rất lớn với 1 số người và máy tính cũng vậy.
+==========================
+266
+Con gái
+Xấu nhưng chân tình còn hơn khối con xinh mà lẳng lơ.
+Em vẫn thích xinh xắn mà lẳng lơ hơn
+==========================
+267
+Tình cảm
+Dạo này đi chơi với bạn gái chán quá, cũng đi lòng vòng, đi ăn, xem phim, cà phê, nói chuyện xàm xàm riết thấy chán vãi, làm thế nào hâm nóng tình cảm lại đây ? 
+Rảnh rảnh và thông thường nhất thì nên đổi gió bằng cách đi chơi xa, kiểu dã ngoại, không nên đi 2 người trừ khi có kế hoạch gì khác, còn không nên rủ theo 1 hoặc 2 cặp, nhớ là cặp, đừng rủ mấy người độc, họ sẽ chán và không có trò gì hay ho đâu.
+==========================
+268
+Doremon
+Vẫn tin là sẽ có Doremon ở thế kỉ 22.
+Mình cũng đã từng tin là vậy.
+==========================
+269
+Đồ ăn
+Anh biết chỗ nào dạy nấu tốt uy tín, hay có phương pháp bí quyết nào nấu món cơm gà xối mỡ chia sẻ cho mình học với.
+Gà xối mỡ chín đều, da mầu vàng đẹp, có mùi thơm đặc trưng của mật ong và gia vị, thịt gà đậm, ăn ngọt và không khô, nguyên liệu bao gồm 1 con gà tơ khoảng 8 lạng đến 1 kg, mật ong, ngũ vị hương, nước tương, giấm, muối, đường, dầu ăn, cách làm: gà làm sạch rửa bằng nước rượu pha gừng tẩy hết mùi hôi và để ráo, pha nước giấm, đường có vị chua nhiều, trộn muối, ngũ vị hương, nước tương, mật ong, mỳ chính để sẵn làm gia vị tẩm ướp, bắc chảo nước, đun thật sôi, múc nước sôi già dội lên mình gà cho da gà căng ra, tiếp tục giội hỗn hợp giấm đường lên mình gà, da gà se lại thì bôi hỗn hợp gia vị tẩm ướp đều khắp ngoài và bên trong con gà, treo gà lên cho ráo và ngấm gia vị, bắc chảo khác, đổ nhiều dầu, đun sôi, đặt một cái vỉ ngang miệng chảo, trên đặt gà đã tẩm ướp, múc dầu đang sôi dội đều từ từ lên mình gà và cả bên trong bụng gà cho gà chín đều cả phần thịt bên trong, chặt gà thành miếng vừa ăn, xếp ra đĩa, thả vài nhánh rau mùi lên trên cho hấp dẫn, ăn kèm bánh bao, xôi chiên, bánh mỳ, bánh phồng tôm càng ngon.
+==========================
+270
+Phim
+Mới thử decode film HD codec x264 trên con card màn hình ATI, driver mới nhất, player mới nhất, DirectX9 mới nhất, Windows XP SP3 cập nhật mới nhất, tóm lại cái gì cũng mới nhất trừ ổ cứng, CPU, RAM, DVD ra thôi, phải nói là thất vọng vô cùng vì hồi trước dùng 8600GT decode mà hình đẹp y chang dùng CPU decode, còn giờ thì chán quá, than ôi ATI danh tiếng trên phim đây hay sao, cụ thể tệ thế nào thì: độ sâu màu giảm tệ hại, hình trên phim cứ như chỉ có 10bit, đã vậy còn bị lưu ảnh y như LCD gần hư rồi hay sao ấy, tóm lại xấu toàn diện trừ mỗi render phim ko dùng phần cứng decode thôi.
+Mình chỉ nhớ là mình dùng Windows 7 decode ầm ầm mà, kéo phần 3D lên thấy hình mịn đẹp lắm, mà cpu lại ko bị tải tối đa nữa, ATI decode thấy phê lắm.
+==========================
+271
+Máy tính
+Vậy nếu em có muốn nâng cấp thì chắc là các dòng Core i đời đầu là được đúng không ạ ?
+Ừ, có phải cứ đời sau là mạnh hơn đâu, đời đầu còn nhiều còn mạnh lắm mà, giống như đời core 2 giờ nâng cấp lên dòng hi-end của nó vẫn còn mạnh lắm.
+==========================
+272
+Máy tính
+Giờ thì chỉ còn việc tìm con QX9300 là xong.
+Con này hình như khoảng 1000 USD.
+==========================
+273
+Máy tính
+Của mình là core i5, không biết ở đâu bán chip core i7 740 giá mềm 1 chút nhỉ ?
+Giờ mua đắt lắm bác ạ, đợi vài tháng nữa chip sandy bridge phổ biến rồi thì core i đời đầu mới giảm giá nhiều.
+==========================
+274
+Máy tính
+Cái WWAN card mua ở đâu ở Hà Nội nhỉ, giá cả thế nào hả bạn ? 
+Giá cả dao động quanh tầm giá 1.5 triệu, nơi mua thì bạn có thể vào mục Mua bán Máy tính xách tay ở vOz, có vài bác rao đấy.
+==========================
+275
+Laptop
+Em mới lấy 1 con 8730w dòng DreamColor LCD mà màn hình hơi ngả xanh, em đã thử chỉnh đủ kiểu rồi mà nó vẫn xanh kể cả trong BIOS cũng thế, qua bên bán so sánh với 1 con 8730w khác thì nó cũng xanh như nhau, khác hoàn toàn với các máy khác màu nào ra màu đó, xem máy 8530w thì không bị sao, do bị phủ 1 lớp màu xanh đó mà những hình ảnh nó bị lệch màu, em nghĩ là do cân bằng trắng của màn nó bị lỗi, có cách giải quyết nào giúp em với ?
+Do trong phần mặc định chỉnh gamma màu xanh lá của card Nvidia mặc định của nó để lệch sang màu xanh, bác nhấn chuột phải vào màn hình, chọn Nividia sau đó trong phần chỉnh gamma chỉnh lại cân bằng là được.
+==========================
+276
+Laptop
+Thế còn cơ chế tự khóa cứng ổ cứng bằng cơ và phần mềm 3D Driveguard khi ổ cứng gặp chấn rung của elitebook thì sao hả bác, chẳng lẽ nó còn chưa đủ an toàn sao ?
+Nó chỉ hữu ích khi bác gặp chấn động thôi chứ ổ cứng là quay cơ học nên việc lỗi hỏng do nhà sản xuất là bình thường.
+==========================
+277
+Phần mềm
+Nếu dùng Windows thì dùng luôn chương trình chia partition của nó, dùng chi mấy cái phần mềm khác.
+Không phải đâu bác ạ, cái phần mềm của Windows nó không chia theo ý mình được đâu mà nó mặc định chia theo cách quản lý của nó, ổ C nó mặc định chia to lắm, khi chia nó lại có giới hạn không cho phép tăng giảm chứ chương trình kia chia thoải mái lắm.
+==========================
+278
+Laptop
+Sao máy nóng thế bác, xem có bụi biếc gì bị hút vào quạt không, máy có bị virus làm hoạt động quá công suất không ?
+Khả năng là virus bác ạ, đợt mùa đông em xài mà máy cứ lạnh ngắt ý chứ có ấm được cho đâu, mà quét bằng AVG không ăn thua gì, khéo phải tải cái Mcafee trong HP.com về thử vậy.
+==========================
+279
+Laptop
+Bạn ơi cho hỏi sao máy mình lúc mới mua về thấy quạt quay thổi hơi nóng rất mạnh chỗ khe tản nhiệt và máy rất mát mà sao giờ tự nhiên không thấy hơi nóng thổi ra từ khe tản nhiệt nữa, mà mình thấy 2 bên chỗ để tay và bàn phím ấm ấm cảm giác rất khó chịu, có phải quạt không chạy không, các bạn có biết phần mềm nào kiểm tra quạt này không ?
+Máy mình khe tản nhiệt vẫn thổi bình thường, buổi trưa thì sờ lên máy thấy cũng khá nóng, có buổi tối thì sờ mới thấy ấm ấm thôi.
+==========================
+280
+Phần mềm
+Everest bị khai tử rồi, FinalWire mua lại Everest từ Lavalys và đổi tên thành AIDA64 rồi.
+Hi hi chắc tại em chưa cập nhật thông tin rồi.
+==========================
+281
+Phần mềm
+Đang dùng Office 2010, thấy rất mượt.
+Tất nhiên nhưng cũng có nhiều người cảm thấy lạ và khó sử dụng đó bác. 
+==========================
+282
+Nàng tiên cá
+Cấu tạo nàng tiên cá thế kia thì yêu kiểu gì ?
+Theo như trong phim thì lau khô nước thì đuôi cá biến thành đôi chân người, tha hồ mà yêu.
+==========================
+283
+Âm nhạc
+Em đang thèm mấy bài nhạc có tiếng kéo của violon, càng nhiều càng tốt.
+Nghe Vanessa Mae không ?
+==========================
+284
+Âm nhạc
+Microwave với album Lối Thoát.
+Sở dĩ biết đến nhóm này và album này là nhờ bạn Hà Anh Tuấn có hát một bài ở album này trong chương trình Sao Mai Điểm Hẹn, vòng thi về Rock, album này có vài bài rất đáng nghe. 
+==========================
+285
+Sữa mẹ
+Sữa mẹ là tốt nhất cho sự phát triển của trẻ sơ sinh và trẻ nhỏ.
+Sai rồi, sữa mẹ là tôt nhất cho trẻ sơ sinh và bố trẻ nhỏ.
+==========================
+286
+Tình cảm 
+Mới quen 1 ngày mấy chục tin nhắn, quen lâu rồi mấy chục ngày mới có 1 tin nhắn.
+Nói chuẩn đấy.
+==========================
+287
+Tình cảm
+Lúc đầu chúng em chỉ chơi với nhau như những người bạn thân, sau 1 thời gian khá dài em nhận ra tình cảm của mình dành cho bạn ấy rất đặc biệt, và đã vài lần nói rồi, bạn ấy cũng có vẻ xuôi xuôi, nhưng dạo này có vẻ lờ em đi, mà hay đi chơi với thằng khác, hình như vui vẻ lắm.
+Mình nghĩ cũng phải có lý do gì rồi, nếu thực sự mà bạn ấy có cảm tình với bạn thì không bao giờ tự nhiên thế, con gái khi đã có tình cảm thật lòng thì thường rất sâu nặng.
+==========================
+288
+Lời hay ý đẹp
+Chúng ta sống hôm nay để ngày mai tốt hơn chứ không phải sống với quá khứ.
+Câu này hay quá.
+==========================
+289
+Tình cảm
+Mới chia tay, xóa hết hơn 2000 tin nhắn trong máy.
+Có 2000 thôi hả thím, ít quá. 
+==========================
+290
+Tình cảm
+Tình cảm giống như nắm cát, càng nắm thì lại càng tuột khỏi tay.
+Cũng còn tùy lúc thôi em ạ.
+==========================
+291
+Tình cảm
+Nếu đứng ngoài cuộc thì nói bỏ rất dễ, chỉ có người trong cuộc mới hiểu mà thôi, có lẽ nếu yêu thương 1 người nào đó thì cũng chỉ có giới hạn và đừng yêu thương quá nhiều, chỉ khi nào đã là vợ của mình thì hãy yêu thương hết lòng hết dạ.
+Nói thì dễ, nhưng khi ta bước vào cõi tình chỉ có hết lòng thui, yêu mà, làm gì có giới hạn nào.
+==========================
+292
+Tình cảm 
+Em mới nhận ra là nói chuyện với gái đối với em rất khó, mong anh giúp em với. 
+Cái bệnh nhát gái này bác phải tập nói chiện với gái qua chat với nhắn tin nhiều vào, sẽ mau khỏi bệnh thui, chúc may mắn nhé.
+==========================
+293
+Tình cảm
+Dư luận chỉ là cái đinh rỉ, yêu là yêu, yêu một người chứ không phải yêu dư luận nên chả việc gì phải quan tâm tới dư luận. 
+Đúng là suy nghỉ của bậc cường giả, mọi người cần học theo gương này. 
+==========================
+294
+Tình cảm
+Cho em hỏi cái này, làm ơn nói thiệt với em 1 chuyện này thui, 1 tên con trai có thể yêu một đứa con gái đã từng là người yêu của bạn thân mình không ?
+Không có vấn đề gì cả.
+==========================
+295
+Tình cảm
+Bộ mấy ông trai tân là người ta mê sao, lãng tử còn là trai tân con gái mới mê, lúc sắp sửa lâm trận bỏ đi ý.
+Lúc sắp lâm trận mà bỏ đi gọi là tử lãng nhách chứ lãng tử cái nỗi gì.
+==========================
+296
+Tình cảm
+Làm thuế nào để người ta biết rằng mình rất iu người ta ?
+Quan trọng là ở cách thể hiện tình yêu chứ.
+==========================
+297
+Laptop
+Mình muốn mua laptop Core i5, card màn hình 1GB, RAM 4GB, màn hình 15inch thì dòng nào có đèn LED và bàn phím chiclet, mình ham cái bàn phím này nên đang đắn đo. 
+Bàn phím chiclet thì máy có máy không, mà bác xác định là có cần cái đấy không, ví như bác nhìn thích nhưng mang về nhà chả mấy khi dùng thì đợi có cái máy đó làm gì nhọc công.
+==========================
+298
+Laptop
+Mình mới mua laptop nên hơi gà, cho mình hỏi làm sao sử dụng chuột phải trên touchpad của Dell ? 
+bạn cài đúng bản synapstic 14 hoặc 15 có tapzone xong đặt vùng nào đó là chuột phải .
+==========================
+299
+Máy tính
+Cái này không hỗ trợ CPU AMD à ?
+Không hỗ trợ AMD đâu bạn.
+==========================
+300
+Laptop
+Các bác cho em hỏi touchpad của 8540w có đa điểm không, dùng được 2 hay 3 ngón tay không ?
+Dùng được 2 ngón với zoom và thanh cuộn bạn à.
+==========================
+301
+Laptop
+có bác nào cài thành công Windows XP trên 8540p chưa nhỉ, mình có đĩa nhưng trong quá trình cài đặt, sau khi format rồi khởi động máy lại cài tiếp thì nó báo lỗi.
+Chuyển lại thử giao tiếp của máy từ AHCI -> IDE rồi cài Windows vào thử xem bạn, đa số mình thấy là bị dính lỗi này, sau đó vào trong Windows cài lại phần này theo các hướng dẫn đã có trên mạng.
+==========================
+302
+Laptop
+Em dùng 8540w ,CPU i7, RAM 4GB, máy ee chỉ chạy Firefox 4, em để chế đọ high perfomance vậy mà nhiệt độ chip core 0 là 62 tới 70 độ, core 2 là 58 tới 60 độ còn GPU là 62 độ, sao cao thế bác, liệu có phải do xung đôt của phần mềm nào không hay có vấn đề gì ?
+Máy bác hơn mình có 5-10 độ thôi, không có gì cần lo lắng cả. 
+==========================
+303
+Laptop
+Cái nhiệt độ máy em phần mềm báo là 40 tới 50 độ, thế mà đít máy nó nóng ran tay, ko lẽ phần mềm nó lừa mình ? 
+Vỏ kim loại tản nhiệt trực tiếp mà bác, sờ nóng nhưng nó không bị tình trạng lò hấp như vỏ nhựa hoặc vỏ bọc nhôm trang trí.
+==========================
+304
+Laptop
+Trời ơi chết mất với cái nhận dạng vân tay cũa laptop mình thằng em mình nó lấy tay nó quẹt quẹt vài cái là vô được luôn mà mình với nó có anh em bà con gì đâu mà vân tay giống nhau, kiểu này chắc dẹp cái này không xài nữa quá.
+Đặt chế độ chính xác cao cho nó bác à, bảo mật hơn, quét chính xác hơn, ngay trong BIOS có 3 mức quét mà bác, bác thích quét nhanh thì mới vậy thôi. 
+==========================
+305
+Laptop
+Cá nhân em thì thấy mẫu Elitebook 8540 và 8740 hiện giờ đẹp hơn, trông chuyên nghiệp hơn, thanh lịch và nhã nhặn, còn mẫu mới chưa được tận mắt thấy, thấy qua ảnh hơi thô.
+Sao mình xem qua ảnh thấy nó đẹp quá trời mà nhỉ.
+==========================
+306
+Laptop
+Đang chờ 8540w i7 hay 8440w giảm giá là mua thôi, tại vì đang hài lòng con máy bàn AMD x6 và 8510w nên chưa vội lắm, mà không biết dòng P mới này chất lượng có ngon hơn dòng w đời cũ không ta, 8540w chẳng hạn ?
+Làm sao mà so được, phân khúc khác nhau mà, có thì nhỉnh hơn dòng P đời trước thôi.
+==========================
+307
+Laptop
+Bác nói có quá không vậy, loa ngoài em nó nghe cũng bình thường mà, làm gì đến nỗi bịt tai lại cho đỡ thẹn. 
+Bác cứ nghe nhiều đi rồi chắc cũng hiểu, mình không chịu được nên toàn phải cắm tai nghe Ipod vào thôi. 
+==========================
+308
+Laptop
+Em nâng cấp BIOS bằng chương trình HP support Assistant không được.
+Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+==========================
+309
+Laptop
+Em nâng cấp BIOS bằng chương trình HP support Assistant không được.
+Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+==========================
+310
+Laptop
+Em nâng cấp BIOS bằng chương trình HP support Assistant không được.
+Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+==========================
+311
+Laptop
+Em nâng cấp BIOS bằng chương trình HP support Assistant không được.
+Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+==========================
+312
+Laptop
+Em nâng cấp BIOS bằng chương trình HP support Assistant không được.
+Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+==========================
+313
+Laptop
+Em nâng cấp BIOS bằng chương trình HP support Assistant không được.
+Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+==========================
+314
+Laptop
+Em nâng cấp BIOS bằng chương trình HP support Assistant không được.
+Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+==========================
+315
+Laptop
+Em nâng cấp BIOS bằng chương trình HP support Assistant không được.
+Bản BIOS trên web hãng nhẹ mà, tải về cài đi bác.
+==========================
+316
+Laptop
+Bác cho em hỏi có bác nào ở TP.HCM mua máy xách tay đi bảo hành ở HP chưa, có phải mất phí không nếu như là hàng xách tay không giấy tờ , máy em có trục trặc về Windows bản quyền, em xài 8540w bẻ khóa bằng mã dưới đít máy mà không được.
+Hp bảo hành toàn cầu và không cần bất kì 1 giấy tờ gì, chỉ cần tra đúng số S/N, P/N là được bảo hành, nhiều bạn dùng 8540w mà hỏi ai đó cho xin cái recovery, thường thì không dùng được mã dưới đít đâu, nhưng máy em thì lại dùng được, hôm trước mất cái recovery, cài bằng Windows 7 64bit tải trên trang chủ về đánh cái mã vào lại ngon thế mới hay chứ.
+==========================
+317
+Laptop
+Các bác cho em hỏi máy trong thời gian bảo hành mà ổ cứng nó bị hư thì có được bảo hành không ?
+Thay mới luôn bạn.
+==========================
+318
+Laptop
+Bác cho em hỏi có bác nào ở TP.HCM mua máy xách tay đi bảo hành ở HP chưa, có phải mất phí không nếu như là hàng xách tay không giấy tờ , máy em có trục trặc về Windows bản quyền, em xài 8540w bẻ khóa bằng mã dưới đít máy mà không được.
+Còn bảo hành bác nên mang ra hãng kiểm tra xem có 1 năm chính hãng không hay là chỉ 6 tháng thôi.
+==========================
+319
+Laptop
+Máy có chứng nhận bản quyền rồi mà.
+Nhiều máy không thể cài bằng mã đó đâu, mình lên trung tâm bảo hành của Lenovo thì nó bảo nếu máy có Windows bản quyền thì nó phải có 1 cái tem chứng nhận, còn những máy khác thì chỉ có recovery thôi.
+==========================
+320
+Laptop
+Nhiều máy không thể cài bằng mã đó đâu, mình lên trung tâm bảo hành của Lenovo thì nó bảo nếu máy có Windows bản quyền thì nó phải có 1 cái tem chứng nhận, còn những máy khác thì chỉ có recovery thôi.
+Service tag của bác có chữ R ở đầu hoặc cuối thì là hàng ref, hoặc kiểm tra bảo hành em nó, bảo hành chỉ 6 tháng hoặc 1 năm, nhưng mà elitebook đời 3 lại bảo hành 1 năm nên cái này tương đối.
+==========================
+321
+Laptop
+Hỏi bác còn em HP 8740w ref không, nếu còn thì có đúng là hàng ref nguyên seal chưa bóc?
+Còn hàng ref nguyên seal chưa bóc bác ạ, em nhập 1 lần là nhiều luôn bác cứ yên tâm qua bóc seal ngửi mùi máy còn thơm lắm, dòng này hàng ref thùng đẹp lắm, thùng nó như thùng máy mới chứ không phải thùng mì tôm như thùng hàng ref của mấy dòng bình dân hay dòng cấp thấp hơn đâu.
+==========================
+322
+Laptop
+Hỏi bác còn em HP 8740w ref không, nếu còn thì có đúng là hàng ref nguyên seal chưa bóc?
+Đề nghị cho songviet, con 8740w lần trước cũng mua ở đây, thấy ổn.
+==========================
+323
+Laptop
+Thôi laptop chỗ nào uy tín mà mua bác ạ, kiểu như lấy vợ về mà không biết nó có còn tem hay làm tem giả thì chia tay sớm.
+Em hãi vụ này lắm, bây giờ động phòng xong mà phát hiện ra dùng tem giả thì chắc còn mỗi nước nhảy lầu.
+==========================
+324
+Laptop
+Em hãi vụ này lắm, bây giờ động phòng xong mà phát hiện ra dùng tem giả thì chắc còn mỗi nước nhảy lầu.
+Tem giả là cửa hàng vớ vẩn thôi, gì chứ songviet hay vietcali trên này em đảm bảo là không có đâu, có cứ bắn bỏ em.
+==========================
+325
+Laptop
+Con máy của mình dùng khi không cắm sạc thì hay bị nháy nháy màn hình mà cũng không biết nguyên nhân nữa, để hôm nào cài lại Windows coi thử. 
+Nó cứ như kiểu đang tập Thái cực quyền của Trương Tam Phong ý, bác hiểu ý em không, chứ nó không giật đùng đùng,em nghĩ do pin nó không đáp ứng nổi con màn hình.
+==========================
+326
+Laptop
+Tem giả là cửa hàng vớ vẩn thôi, gì chứ songviet hay vietcali trên này em đảm bảo là không có đâu, có cứ bắn bỏ em.
+Bên này hàng mở rồi, secondhand, ref đều ghi rõ cả.
+==========================
+327
+Laptop
+Nó cứ như kiểu đang tập Thái cực quyền của Trương Tam Phong ý, bác hiểu ý em không, chứ nó không giật đùng đùng,em nghĩ do pin nó không đáp ứng nổi con màn hình.
+Không đến nỗi pin lởm thế đâu, bác thử cài lại Windows với tất tần tật drivers mới nhất chưa, riêng cái card màn hình thì tải trên trang chủ nhé.
+==========================
+328
+Laptop
+Bên DTZ bán có lô hàng 8640p giá ngon lắm kìa, CPU Intel Core i5-2520 2.53GHz, RAM 4G DDR3, ổ cứng 500GB, màn hình 14inch LED rất sáng phân giải cao 1600x900, DVD-RW ghi DVD, card màn hình ATI 6470 1024MB Dediacted, card màn hình rời dành cho đồ họa, Windows 7 bản quyền, pin 6 cell xài 3 giờ, hàng mới 100% nguyên thùng, giá 20000000 Việt NamD.
+Bên này là bên nào hở bác, songviet hay laptopcali ạ ?
+==========================
+329
+Máy tính
+Mua được cái Z68 cùi, ép xung nhẹ nhàng 1 phát, bác chuột nâng cấp giúp với.
+Đã xong.
+==========================
+330
+Tải
+Thử ở đây xem bạn: http://www.mediafire.com/?5a07e5cctq8te37
+Cảm ơn bác.
+==========================
+331
+Ép xung
+Chích đến 1.56vol ở 5.3GHZ vẫn xịt, thôi em dừng ở X52 với 2135 điểm vậy.
+D14 thì bác cứ chích thẳng lên 1.6vol hoặc 1.65vol xem em nó có vào được Windows không, không vào được thì hỏng rồi.
+==========================
+332
+Ép xung
+D14 thì bác cứ chích thẳng lên 1.6vol hoặc 1.65vol xem em nó có vào được Windows không, không vào được thì hỏng rồi
+Sợ rồi bác ơi, chíp xách tay chơi đến thế thôi.
+==========================
+333
+Ép xung
+Phần mềm này nó dựa vào tốc độ CPU để chấm điểm hay sao, con quad của mình không ép xung nó cho điểm thấp tè, buồn chán đời chả thèm post nữa.
+Xung càng cao thì điểm nó càng cao, ngay cả con i7-990X mà chạy cơ bản thì điểm nó cũng chỉ tầm 13xx thôi.
+==========================
+334
+Ép xung
+Ủa sao mình thấp thế
+Đúng là điểm rất thấp, bạn kiểm tra lại xem sao, mình nghĩ con này điểm phải tầm trên dưới 1xxx.
+==========================
+335
+Phòng
+Hic, chắc đến đời cháu đời chắt của mình mới có cái phòng đẹp như vậy.
+Em nghĩ tầm 20 triệu là được thôi mà, làm gì đắt lắm đâu.
+==========================
+336
+Phòng
+Em nghĩ tầm 20 triệu là được thôi mà, làm gì đắt lắm đâu.
+Nội thất thì mình không nói, nhưng muốn có 1 cái phòng riêng rộng 30m2 ở Hà Nội thì quả là hơi khó khăn, đã thế lại còn sơn tường và sàn gỗ nữa.
+==========================
+337
+Phòng
+Nội thất thì mình không nói, nhưng muốn có 1 cái phòng riêng rộng 30m2 ở Hà Nội thì quả là hơi khó khăn, đã thế lại còn sơn tường và sàn gỗ nữa.
+{hòng em có 12m2 đã hạnh phúc ngập tràn rồi.
+==========================
+338
+Phòng
+Thuê thằng nào nó vẽ rồi đem đóng được tốt, ít nhất được 80%, chứ còn bác mà kiếm được bộ này ở Việt Nam hơi khó.
+Thế kiểu này chỉ có ở nước ngoài hả bác, thế giờ thuê ở đâu vẽ và ra đâu đặt làm hả bác ?
+==========================
+339
+Nội thất
+Xem hết thì thích cái cách nó phối màu thôi, kiểu màu gỗ sáng hơi giống với bàn gỗ Maple Hòa Phát, giá mang máng là tầm 1 triệu 2 1 m dài, trước làm cái này mãi rồi, đo đạc chính xác cái phòng rồi đem vẽ, vẽ xong làm ý tưởng thiết kế, thiết xong thì đem ra bọn làm đồ gỗ nó làm nguyên mẫu lên đem về lắp cho, trước đấy phải thống nhất được màu sắc và cái gì nghe tên kêu như là giấy dán gỗ đại loại là lớp vỏ ngoài gỗ như giấy dán tường ấy.
+Cái gì tính 1 triệu 1 m dài vậy, theo em biết thì chi có tủ, bếp là tính bằng đơn vị m dài, còn đâu thì tính bằng mét vuông với cả bộ đồ nha bác, còn cái vỏ ngoài mà bác kêu không nhớ chắc là verneer, melamin, hoac laminate gì đó chăng.
+==========================
+340
+Nội thất
+Cái gì tính 1 triệu 1 m dài vậy, theo em biết thì chi có tủ, bếp là tính bằng đơn vị m dài, còn đâu thì tính bằng mét vuông với cả bộ đồ nha bác, còn cái vỏ ngoài mà bác kêu không nhớ chắc là verneer, melamin, hoac laminate gì đó chăng.
+Nửa năm hơn nên mình cũng quên rồi, ít để ý nữa, khả năng là nhầm vì làm tủ, quầy bar đều tính m dài hết mà mấy loại này đều phải đặt hàng thiết kế nên cứ gộp chung vào tính tạm.s
+==========================
+341
+IIG
+Microsoft Office Specialist đó bạn, hiện tại công ty IIG Việt Nam đang triển khai bài kiểm tra này đến các trường và tổ chức thi bên ngoài như TOEIC, IIG Việt Nam là đại diện của Certiport tại Việt Nam, vừa tổ chức xong Microsoft Office World Champion 2011.
+Đấy, phải dính tí Microsoft thì nghe mới nuột được, sao ở trên thấy bác nào bảo Certiport không có ở Việt Nam cơ mà nhỉ ?
+==========================
+342
+ICDL
+Ở nước ngoài biết office là điều dĩ nhiên rồi, không cần phải chứng tỏ, ICDL (International Computer Driving License) là Chương trình đào tạo và sát hạch cấp chứng chỉ tin học văn phòng quốc tế của tổ chức ICDL Vương quốc Anh, chương trình đang được triển khai tại Trung tâm đào tạo Công ty Đầu tư phát triển công nghệ Sobic.
+Học phí 1 chứng chỉ tin học văn phòng bao nhiêu bác, đang rảnh ?
+==========================
+343
+Web
+Mình lướt qua mấy web kích dục, thấy họ có mục chat trực tiếp qua web luôn
+Vậy cứ qua mấy web đó mà chat nhé.
+==========================
+344
+Thi
+Lo mà ôn thi đi không rớt đấy.
+Trừ tầm 3, 4 tiếng buổi tối ra thì em học cả ngày đó bác, hính vì bận học, không có thời gian suy nghĩ cho cái này nên mới phải nhờ các cao nhân.
+==========================
+345
+Thi
+Thật, cứ ôn thi đi xong rồi tính sau.
+Đồng ý.
+==========================
+346
+Việc làm thêm
+BBQ ở chỗ nào vậy bạn, làm luôn tết hả ?
+Hình như toàn hệ thống tuyển luôn đó bạn, làm tết thì lương từ 25 ngàn tới 30 ngàn 1 tiếng, bạn cứ nộp hồ sơ vào công ty của nó ở 84 Cao Thắng, chỗ đó là chỗ lẩu băng chuyền Kichi Kichi đó, nếu được gọi phỏng vấn thì nó cần tuyển cho cửa hàng nào thì nó sẽ đưa bạn vào cửa hàng đó.
+==========================
+347
+Việc làm thêm
+Cho em biết hồ sơ xin việc làm thêm cần có những gì được không, em cũng chuẩn bị đi làm thêm kiếm tí cháo qua ngày.
+Chia sẻ em ít kinh nghiệm học IELTS 9 tháng 7.0 được không, nên bắt đầu từ đâu với, em đang dở tiếng anh.
+==========================
+348
+Việc làm thêm
+Burger King giờ các bạn cứ nộp đơn và chờ thả cửa luôn á, sắp tới 2 tháng nữa sẽ có 1 tới 2 nhà hàng nữa, bạn nào nộp từ lâu cách đây 1 2 tháng sẽ được gọi, người ta tuyển theo vị trí, thời gian làm việc và tùy thuộc cửa hàng trưởng nữa, nói chung đây là môi trường làm việc rất tốt, vừa làm vừa chơi lương lại cao, mỗi tội về khuya thôi, tầm 1, 2 giờ sáng cũng có nhưng lương sẽ được cao.
+Dạ cám ơn nhìu ạ, mà sao về khuya thế, thân con gái sao về giờ đó được.
+==========================
+349
+Việc làm thêm
+Bạn có kinh nghiệm biết lương làm tết âm lịch của các nhà hàng: Pizza Hut, Domino, Burger King là bao nhiu một giờ không, Tết này mình ở Sài Gòn nên định tìm 1 chỗ chui vào làm mà không biết lương lậu tính sao hết, bạn có kinh nghiệm vào giúp với, cảm ơn bạn nhìu nghen.
+Lotte, KFC lương gấp đôi, Pizza Hut hình như gấp 3, Burger King thì chịu.
+==========================
+350
+Việc làm thêm
+Cho em hỏi thêm là làm việc ở Lotteria 1 tuần phải làm bao nhiêu ngày vậy ?
+Không ép buộc nhé, mình thường thì làm 3 tới 5 ca, nếu bạn rảnh nhiều thì có thể làm nhiều ca hơn, nếu bạn bận cả tuần thì nghỉ cả tuần, chả sao cả.
+==========================
+351
+Việc làm thêm
+Em nghe nói Burger King mới mở bên Phan Xích Long 1 cái ở đấy, không biết nộp đơn gồm những gì ạ, em định nộp đơn bên đó, nếu không được thì nộp sang Lotteria.
+Có bác minhphutran hay gì đó làm thì phải.
+==========================
+352
+Việc làm thêm
+Gò vấp có cái Burger King nào không bác ?
+Lăng Cha Cả có 1 cái Burger King đó, làm bên đó lương cao và phải đóng thuế 10% nhưng cuối năm nó sẽ trả lại, có con nhỏ làm chung nó làm 2 việc.
+==========================
+353
+Việc làm thêm
+Lăng Cha Cả có 1 cái Burger King đó, làm bên đó lương cao và phải đóng thuế 10% nhưng cuối năm nó sẽ trả lại, có con nhỏ làm chung nó làm 2 việc.
+Thiệt hả, mình cũng làm bên Lăng Cha Cả đây.
+==========================
+354
+Việc làm thêm
+Thiệt hả, mình cũng làm bên Lăng Cha Cả đây.
+Ngay cái chỗ Trung Tâm Anh Ngữ Dương Minh luôn đó phải không bạn ?
+==========================
+355
+Việc làm thêm
+Ngay cái chỗ Trung Tâm Anh Ngữ Dương Minh luôn đó phải không bạn ?
+Thì mình làm thêm ở đó nè.
+==========================
+356
+Bloomberg
+Đừng nghe Bloomberg chém gió.
+Hy vọng Bloomberg không chém gió như mình nghĩ.
+==========================
+357
+Lời nói
+Ờ, qua tết rồi xem, đợi xem coi có phải như lời bác không ?
+Lời mình như nào hả bác ?
+==========================
+358
+Bloomberg
+Hy vọng Bloomberg không chém gió như mình nghĩ.
+Chém gió với chả không chém gió.
+==========================
+359
+Trách nhiệm
+Không ai chịu trách nhiệm vụ này nhỉ ?
+Trách nhiệm là của tập thể, của toàn dân, nguyên nhân là do khách quan, do tình hình kinh tế, các thế lực, nói chung là phê và tự phê, kiểm điệm rút kinh nghiệm là được rồi.
+==========================
+360
+Running Man
+Mình toàn hóng chương trình Running Man trên 360kpop, xem giải trí chương trình này vui mà, lót dép chờ tập này.
+Tập này có khi nó cắt phần ở Việt Nam.
+==========================
+361
+Giáo dục
+Toán: bài toán dạng thạc sĩ tiến sĩ giải, bỏ hết, chỉ học cộng trừ nhân chia tính tiền cà phê thuốc lá rành là được, Văn : chỉ học văn thơ nhỏ lẻ thiếu nhi như cái trống trường em, con gà mới nở, Sử, Địa, Sinh, Anh văn, Thể dục: mấy môn này thiết thực nên đầu tư nhiều hơn, Tin học: chỉ dạy bộ office với cài Windows là được, sao này có rớt đại học thì còn nghề cài Windows dạo với đánh máy thuê, Lý, Hóa : bài học trình độ giáo sư, cắt còn một phần tư cuốn.
+Đọc đi đọc lại năm lần vẫn thấy không cãi được ông.
+==========================
+362
+Giáo dục
+Nhiều môn vớ vẩn nhưng chúng ta lại được thầy cô giải thích rằng nó giúp tư duy tốt, xin lỗi bác chứ thật ra chỉ để thu tiền thêm thôi và với chế độ hiện tại, ngu dân thì càng tốt, chứ thằng nào cũng văn minh hết thì sập mẹ chế độ rồi, nói chung là mấy thằng làm giáo dục chúng nó biết nổi khổ của học sinh,sinh viên lắm chứ, nhưng mà vì cần câu cơm nên phải làm thế.
+Thối nhất cái câu "những người học giỏi Toán thì thường học giỏi tiếng Anh, còn người học giỏi tiếng Anh chưa chắc học giỏi toán", chả liên quan gì cả.
+==========================
+363
+Giáo dục
+Thối nhất cái câu "những người học giỏi Toán thì thường học giỏi tiếng Anh, còn người học giỏi tiếng Anh chưa chắc học giỏi toán", chả liên quan gì cả.
+Giỏi toán là giỏi tiếng Anh, điều này được chứng minh là sai qua nhiều thế hệ.
+==========================
+364
+Giáo dục
+Mình học Sư phạm kĩ thuật cũng thấy nhiều môn thừa quá, mà không học thì bị gán cho cái mác "phản động".
+Môn "bắt buộc", không học thì ở lại lớp chứ sao lại "phản động" hả bác ?
+==========================
+365
+Giáo dục
+Môn "bắt buộc", không học thì ở lại lớp chứ sao lại "phản động" hả bác ?
+Không đậu mấy môn triết là không cho học chuyên ngành nhé.
+==========================
+366
+Giáo dục
+Học thế này là cưỡi máy bay xem hoa à, mình từng học 8 môn 1 kì đã thấy khổ lắm rồi.
+Thật ra nó rớt mà nó học lại, tài liệu có sẵn, bài giảng tập vở có hết, chủ yếu đăng kí học lại vô điểm danh để đi thi cho qua môn thôi.
+==========================
+367
+Giáo dục
+Thật ra nó rớt mà nó học lại, tài liệu có sẵn, bài giảng tập vở có hết, chủ yếu đăng kí học lại vô điểm danh để đi thi cho qua môn thôi.
+Nói thẳng luôn, mình từng thi hộ tiếng Anh cho thằng bạn học sư phạm kĩ thuật, hầu như sinh viên ngành kỹ thuật rất dốt tiếng Anh.
+==========================
+368
+Giáo dục
+Nói thẳng luôn, mình từng thi hộ tiếng Anh cho thằng bạn học sư phạm kĩ thuật, hầu như sinh viên ngành kỹ thuật rất dốt tiếng Anh.
+Chuẩn không cần chỉnh, dân kỹ thuật đa số sợ tiếng anh lắm.
+==========================
+367
+Giáo dục
+Nói thẳng luôn, mình từng thi hộ tiếng Anh cho thằng bạn học sư phạm kĩ thuật, hầu như sinh viên ngành kỹ thuật rất dốt tiếng Anh.
+Trước có thằng thuê mình thi tiếng Anh hộ, mà mình ghét nó nên từ chối khéo.
+==========================
+368
+Thi
+Trước có thằng thuê mình thi tiếng Anh hộ, mà mình ghét nó nên từ chối khéo.
+Ghét nó sao không thi cho nó rớt luôn ?
+==========================
+369
+Thi
+Mình thấy có khi ai mà trượt mấy môn bắt buộc lại tức lên mà ủng hộ bên kia thì chết.
+Mình ủng hộ bạn.
+==========================
+370
+Công nghệ thông tin
+Mình học Công nghệ thông tin phải học lấy cả luật, kế toán với tài chính nữa.
+Cả đời cậu cắm mặt vào cái máy, không lấy vợ, không sinh con à, xác định không úp mặt vào đó cả đời thì những cái bạn nói chả có thừa cái nào cả nhé, họ đào tạo ra lao động cho xã hội thì ít nhất họ cũng phải dạy cho các cậu biết kế toán tính lương cho các cậu thế nào để mà còn đình công đòi lương chứ.
+==========================
+371
+Nhà đất
+Đang không có tiền, đọc tin này muốn phát khùng luôn http://vnexpress.net/gl/kinh-doanh/d...e-hon-sat-vun/.
+Như là năm 2008 bạn mua 1 mảnh đất giá 10 tỉ bây giờ bạn bán chưa chắc được 5 tỉ, ai chả muốn làm giàu vấn đề là nó không gặp thuận lợi.
+==========================
+372
+Ngọc Trinh
+Trình độ phát biểu ngu và não phẳng gần ngang ngửa với Ngọc Trinh.
+Ít ra con bé Trinh nói cũng không sai, mỗi tội dân Việt không quen nói thẳng thôi.
+==========================
+373
+Nhà đất
+Như là năm 2008 bạn mua 1 mảnh đất giá 10 tỉ bây giờ bạn bán chưa chắc được 5 tỉ, ai chả muốn làm giàu vấn đề là nó không gặp thuận lợi.
+Năm nay bán không lời sao không chờ sang năm bán hoặc dùng cho mục đích khác ?
+==========================
+374
+Kinh doanh
+Kinh doanh lỗ lãi là chuyện bình thường mà 
+Đúng rồi ,kinh doanh lời lỗ là chuyện bình thường mà, sao bạn lại mất niềm tin vào Đảng như vậy, mình buồn lắm bạn biết không ?
+==========================
+375
+Giáo dục
+Mỹ thuật công nghiệp có các ngành nào ?
+Mỹ thuật công nghiệp thì có 4 chuyên ngành chính đấy bác ạ: đồ họa, nội thất, ngoại thất, tạo dáng, thời trang, đồ họa với nội thất thì ra trường dễ xin việc hơn tạo dáng với thời trang, còn có việc làm hay không thì còn tùy vào năng lực nữa, ra trường vẫn đói như thường vì kiếm việc thời buổi này cũng khó khăn, ôn thi thì ở đại học kiến trúc với đại học tôn đức thắng đều có lớp luyện vẽ đấy.
+==========================
+376
+Âm nhạc
+Em nhớ mang máng cái giai điệu thế này "đu à đu à đu má", bác xem giùm em là bài nào cái.
+Nè bác youtube.com/watch?v=BLEDDxpnDmU
+==========================
+377
+Công nghệ thông tin
+Lập trình viên 2 năm kinh nghiệm như tụi bạn mình lương cũng 800$ rồi, các bạn còn đòi gì nữa nhỉ, chưa kể làm outsource này nọ nữa.
+Làm ở đâu 800$ mà còn có thời gian outsource vậy ?
+==========================
+378
+Công nghệ thông tin
+Thím phân biệt rõ lao động với nhân lực đi ạ ?
+Hiểu một cách đơn giản nhất thì nhân lực là lao động lành nghề, hoặc nhân sự có năng lực, ở những lĩnh vực kiểu Công nghệ thông tin ngừoi ta cần nguồn nhân lực chứ không cần nguồn lao động.
+==========================
+379
+Công nghệ thông tin
+Bác có phải dân lập trình không vậy, học điện, điện tử là có một nền tảng cực kì tốt để học tiếp Hệ thống nhúng đấy, mảng này đang rất thịnh, cho em hỏi chỗ nào đang tuyển assembly vậy?
+Em không rõ, hỏi cao nhân khác đi ạ.
+==========================
+380
+Công nghệ thông tin
+Hồi đó đi học ông thầy nói 1 câu giờ mới thấy thấm: các em ra đi làm 2 năm mà không lên lãnh đạo thì đổi liền ngành khác nhá.
+Thầy quăng lựu đạn banh nhà lồng chợ, 2 năm chưa thoát khỏi kiếp junior chứ ở đấy mà lãnh đạo, 3 năm mới được mid-senior, 5 năm mới vô senior.
+==========================
+381
+Công nghệ thông tin
+Thầy quăng lựu đạn banh nhà lồng chợ, 2 năm chưa thoát khỏi kiếp junior chứ ở đấy mà lãnh đạo, 3 năm mới được mid-senior, 5 năm mới vô senior.
+Hên xui đấy bạn ạ, ví dụ bạn chỉ có kinh nghiệm 6 tháng nhưng vào 1 dự án toàn người mới, thì bạn: dĩ nhiên là sẽ được làm lãnh đạo.
+==========================
+382
+Công nghệ thông tin
+Hên xui đấy bạn ạ, ví dụ bạn chỉ có kinh nghiệm 6 tháng nhưng vào 1 dự án toàn người mới, thì bạn: dĩ nhiên là sẽ được làm lãnh đạo.
+Mình không biết công ty nào dám để 1 nhóm toàn người mới được dẫn dắt bởi 1 tay có 6 tháng kinh nghiệm đảm nhận 1 dữ án hoàn chỉnh, project manager để chó gặm à?
+==========================
+383
+Công nghệ thông tin
+Đang học học kì 8 công nghệ thông tin và hè này ra trường sẽ đi bộ đội.
+Lý do để ra khỏi ngành thật là chính đáng, mai em cũng đeo trộm kính lão của nội để cận nặng thôi.
+==========================
+384
+Công nghệ thông tin
+Hài nhất câu : Công nghệ thông tin dễ thăng tiến, giao thiệp rộng.
+Thì mấy tay IT trong công ty ai cũng biết mặt hết không giao thiệp rộng là gì.
+==========================
+385
+Công nghệ thông tin
+Tốt nghiệp Công nghệ thông tin bằng khá, giờ đi cài Windows dạo kiếm sống nhé, đam mê mấy thằng làm báo.
+Bạn đừng làm em thụt chí.
+==========================
+386
+Công nghệ thông tin
+Báo nói lương lập trình viên di động hàng ngàn đô mà không tuyển đủ người, tốt nhất lên mấy trang tuyển dụng tham khảo, nghe báo có mà bán nhà, dù gì mình thấy cái này đúng, số người đáp ứng đủ tiêu chuẩn để trả ngàn đô quá ít.
+Lương trên ngàn đô thì cũng 1 lô 1 lốc yêu cầu, mà số thằng chịu trả 1000 đô cũng không nhiều đâu, cỡ công ty outsource bự bự như Harvey Hash mà số được 1000 chỉ lẻ tẻ mà thôi.
+==========================
+387
+Công nghệ thông tin
+1 triệu nhân lực trong đó bao nhiêu phần trăm làm được việc, mà kiếm đâu ra việc cho 1 triệu thằng ngồi gõ ?
+1 triệu là tính luôn hết các nhà máy lắp ráp linh kiện, mấy công ty kinh doanh nội dung số luôn đấy.
+==========================
+388
+Công nghệ thông tin
+Chuẩn rồi, giờ báo tung tin vớ vẩn nhiều lắm chả biết tin vào đâu, cứ ham hố thì lao vào học sẽ thấm
+Nhà báo có học công nghệ thông tin đâu mà biết.
+==========================
+389
+Tư vấn
+Em học xây dựng, đang tính chọn con máy nào đó giá khoảng 9 tới 11 triệu không hơn, có thể sử dụng tốt mấy phần mềm của xây dựng và thi thoảng chiến tí trò chơi dạng Fifa, AOE, xin bác tư vấn giùm em, em chân thành cảm ơn.
+Tư vấn cho bạn tham khảo laptop này để bạn có thêm sự lựa chọn nè : Dell Latitude E5430 (Core i5 3210M, RAM 4GB, ổ cứng 500GB, card màn hình HD 4000, 14inch) tầm 12.5 triệu.
+==========================
+390
+Tư vấn
+Tư vấn cho bạn tham khảo laptop này để bạn có thêm sự lựa chọn nè : Dell Latitude E5430 (Core i5 3210M, RAM 4GB, ổ cứng 500GB, card màn hình HD 4000, 14inch) tầm 12.5 triệu.
+Cảm ơn bác, nhưng em chỉ được 11 triệu là tối đa rồi ạ.
+==========================
+391
+Phần mềm
+Hệ điều hành gì, Windows 8 hả?
+Hệ điều hành Windows 7 ultimate 64bit bác ạ.
+==========================
+392
+Laptop
+Máy em là K46CA-WX013, em cũng đã kiểm tra công tắc wifi rồi vẫn mở và tắt được bình thường mà để mở nó cũng không dò được wifi mới lạ chứ, kiểu này chắc cài lại Windows hoặc mang cho kỹ thuật quá.
+Con K46CA-WX013 của mình cũng y chang như của bạn, không bắt được wifi, wifi không ổn định chút nào, thậm chí wifi nhà mình thì không bắt được mà lại hiện lên 1 loạt wifi nhà hàng xóm, độ bắt sóng wifi còn không bằng con di động của mình.
+==========================
+393
+Laptop
+Kinh doanh cũng phải có lúc lỗ chứ.
+Ừ, phải có lúc lỗ chứ không phải lúc nào cũng lỗ.
+==========================
+394
+Tư vấn
+Bác vào tư vấn để em bổ sung, gõ đi gõ lại ngại quá.
+Hệ lụy của việc lười Google bác ạ.
+==========================
+395
+Laptop
+Laptop bác dùng làm đồ họa gì, có chơi trò chơi điện tử không, có hay mang vác không, có cần máy nhìn đẹp không, có dùng Mac được không?
+Mình cần laptop có xử lí 3D, có chơi trò chơi điện tử, có mang vác, không cần nhìn đẹp, không dùng Mac.
+==========================
+396
+Laptop
+Mình cần laptop có xử lí 3D, có chơi trò chơi điện tử, có mang vác, không cần nhìn đẹp, không dùng Mac.
+Có mang vác, nhìn đẹp, bạn chiến con Dell XPS 15 giải trí cũng khá được, ngoài ra còn có thêm dòng Asus nếu không ngại khối lượng thì xúc em này khá ổn.
+==========================
+397
+Laptop
+Cần chọn latop để làm đồ hoạ tốt dưới 30 triệu thì chọn con nào hả bác, bác cho em biết dòng máy cũng được em tự tìm hiểu về các con trong dòng, hiện em đang tìm hiểu dòng Dell XPS có được không hả bác ?
+Tư vấn cho bạn tham khảo laptop này để có thêm sự lựa chọn nè Dell Precision M4600 (Core i7 2760QM, RAM 8GB, ổ cứng 750GB, card màn hình Nvidia FX1000M 2GB, màn hình 15.6inch) tầm 30.7 triệu.
+==========================
+398
+Laptop
+Bác ý không chơi 17inch mà
+Ừ đúng, trước định làm con M6700 nhưng nghĩ mình không dùng đến, bởi có mấy cái màn hình ở nhà, mua laptop 17inch mang đi làm gì cho mệt cắm card màn hình vào 3 cái màn hình 17inch có phải tốt hơn không.
+==========================
+399
+Laptop
+Bác xem cái Dream C của 8650W này so với không có DC này, mình không có đủ tiền chứ nếu có tầm như bác là mình chơi em 8650W DC rồi đó.
+Ơ sao không có cấu hình hả bác, cho em cấu hình phát em đag bận nên lười tìm.
+==========================
+400
+Laptop
+Ơ sao không có cấu hình hả bác, cho em cấu hình phát em đag bận nên lười tìm.
+Cái này nó so sánh 2 cái màn hình với nhau thôi, cấu hình thì tối của 8560w lên được CPU i7 2820QM và Quadro 2000m.
+==========================
+401
+Laptop
+N56 cấu hình mạnh, chạy mượt, khủng hơn thì có G55VW
+N56 sao đi đo với dòng asus G được
+==========================
+402
+Laptop
+Card màn hình firepro M8900 là lựa chọn card màn hình thấp nhất trong dòng m6600 nha bạn, từ m8900 lên quadro 3000m thêm 300$ á, về điểm đo bằng 3dmark thì m8900 cao hơn nhiều nhưng về khả năng hỗ trợ các tập lệnh đồ họa thì firepro không có cửa so với quadro đâu bác.
+Quadro 3000m khác Quadro K3000m bác ạ, nếu của bác là K3000m thì em không có gì để nói còn nếu là 3000m thì bác nên xem lại.
+==========================
+403
+Laptop
+Quadro 3000m khác Quadro K3000m bác ạ, nếu của bác là K3000m thì em không có gì để nói còn nếu là 3000m thì bác nên xem lại.
+Đúng rồi đó bạn, từ thời m6600 chỉ có lựa chọn 3000m hoặc 5010m thôi, không có dòng Kepler đâu, từ thời m6600 thì lựa chọn firepro m8900 là thấp nhất, sau đó là quadro 3000m thì phải têm 300$ nữa, còn dòng K3000m bác nói thì tới m6700 mới có.
+==========================
+404
+Laptop
+E có hàng này Dell Precision M6600, chuyên cho dân đồ họa.
+Bạn mua thôi còn chờ gì nữa, hàng ngon.
+==========================
+405
+Laptop
+Có mang vác, nhìn đẹp, bạn chiến con Dell XPS 15 giải trí cũng khá được, ngoài ra còn có thêm dòng Asus nếu không ngại khối lượng thì xúc em này khá ổn.
+Mình cũng định mua con M6700 rồi nhưng nghĩ nó to với cả nhìn thô màn hình 17inch không cần thiết lắm tuy là nó khỏe thật.
+==========================
+406
+Laptop
+Cấu hình con XPS làm đồ họa có được không ?
+Mua Dell XPS làm đồ họa là sai lầm của tạo hóa.
+==========================
+407
+Laptop
+Mua Dell XPS làm đồ họa là sai lầm của tạo hóa.
+Sao có người bảo XPS là dòng chuyên đồ hoạ mà, hoá ra là dòng giải trí à ?
+==========================
+408
+Laptop
+XPS là dòng giải trí cao cấp, ngang với HP Envy, ai bảo con ấy chuyên đồ họa đánh người ấy đi bác ạ.
+Em định không mua laptop xịn nữa, mua laptop rẻ thôi và máy bàn cho nó khoẻ.
+==========================
+409
+Laptop
+Em định không mua laptop xịn nữa, mua laptop rẻ thôi và máy bàn cho nó khoẻ.
+Em có PC rồi nhưng vẫn phải mua cái laptop tốt bác ạ. Cái thú chụp ảnh rồi cho vào laptop chỉnh sửa bất cứ đâu lúc rỗi. chứ ngồi cop vap PC ở nhà rất chán. Lúc nào có cảm hứng là làm.
+==========================
+410
+Laptop
+Dùng laptop nếu ai chơi trò chơi điện tử nhiều thì chọn FirePro cho nó tốt, ai đồ họa là chính thì ráng cắn răng mà mua Quadro.
+Công nhận Quadro nó đắt thiệt.
+==========================
+411
+Laptop
+M8900 là khủng nhất của Firepro nên ít ra cũng phải hơn 3000m chứ, em đọc ở 1 số nơi thì thấy M8900 hơn 4000m và thua 5010m tầm 5% thôi, trên voz cũng thấy có nói
+Bạn nói hơn thua là ở mặt nào, về mặt trò chơi điện tử (chiến trường 3dmark) đúng là m8900 hơn cả quadro 4000m thậm chí gần bằng 5010m, nhưng tất nhiên không ai mua firepro/quadro về chơi trò chơi điện tử mà sẽ dùng để dựng hình hoặc làm đồ họa bằng các ứng dụng chuyên nghiệp, mà mặt này thì firepro chỉ có nước hít khói hít bụi quadro thôi chứ đừng nói là chạy theo nhá, và sự thực thì m8900 vẫn là lựa chọn rẻ tiền nhất trong dòng m6600, trên m8900 là quadro 3000m và thêm 300$ nâng cấp nữa, đó là sự thật đó ạ.
+==========================
+412
+Laptop
+Dự tính là mua Probook 4540 và Dell Vostro mà không biết mua ở đâu, thằng bạn hôm qua sang bên laptopno1 thấy bảo hết hàng, giờ Hà Nội chỗ nào còn hàng chỉ giúp em với.
+Còn hàng mà bác, hôm nay hàng có sẵn bác nhé.
+==========================
+413
+Laptop
+Laptop còn hàng mà bác, hôm nay hàng có sẵn bác nhé.
+Vậy à, thế mà bạn em hôm qua sang thì bảo hết hàng, cơ mà hôm nay bận học rồi, chiều mai mới đi được cơ.
+==========================
+414
+Laptop
+Laptop còn cả 2 con à ?
+Cả 2 con đều còn bác ạ.
+==========================
+415
+Laptop
+Nói cho em biết Dell vostro với Dell latitude nó khác nhau cái gì không ạ ?
+Bạn có thể tham khảo 2 mẫu dell vostro và dell latitude tại website laptopanphong.com thì bạn sẽ biết khác nhau như thế nào.
+==========================
+416
+Laptop
+Cả 2 con laptop đều còn bác ạ.
+Cơ mà phải 2 con laptop đều còn khuyến mãi không ạ ?
+==========================
+417
+Laptop
+Mình đang rất phân vân 2 con này,bạn chọn giúp mình với, Dell vostro 3560 thì con này khỏi cần bàn, người người nhà nhà đều biết, hoặc IBM 7 hay Thinkpad T420 Intel® Core™ i5 2520 Sandy Bridge 4x2.53Ghz turbo 3.2GHz, 4GB RAM DDR3, ổ cứng 320GB 7200rpm 16MB cache, màn hình 14.1 inches 1600x900 LED, 2 card đồ họa là 1GB NVIDIA N12P-NS1™ và Intel 3000 MHD™ 1GB, giá 15 triệu.
+Chào bạn, mình vừa lấy 1 con T420, cấu hình và giá cũng như trên, máy ngon không có điểm gì chê cả, chọn thinkpad làm việc tốt, mà cũng đang chơi PES 2013 tối đa cấu hình luôn.
+==========================
+418
+Laptop
+mình vừa lấy 1 con T420, cấu hình và giá cũng như trên, máy ngon không có điểm gì chê cả, chọn thinkpad làm việc tốt, mà cũng đang chơi PES 2013 tối đa cấu hình luôn.
+Mình hơi ngại là mua nhằm máy không phải máy mới bạn ạ, lăn tăn mỗi điểm này.
+==========================
+419
+Laptop
+Chỉ đơn giản xét riêng về đẳng cấp thì con Vostro đã thấp hơn con T420 rồi bạn à, để so với T420 với HP thì có 8460P chứ Vostro chưa đủ tầm.
+Thinkpad thẳng tiến nhé, dùng hơn một năm rồi phê lắm.
+==========================
+420
+Kinh tế quốc dân
+Bạn học kinh tế quốc dân à ?
+Học ở đấy bị đồng tính đấy.
+==========================
+421
+Laptop
+Mục đích định dùng laptop làm gì thì mới tư vấn được chứ, Lenovo mua lại nguyên dây chuyền Thinkpad rồi mà, sao còn IBM T420 nữa nhỉ ?
+Quên mất cái mục đích, xin lỗi bác, mục đích em đơn giản lắm, chơi trò chơi như dota thôi, tí photoshop và mấy phần mềm chỉnh video tầm trung thôi, quan trọng hơn cả là độ bền vì nghe nói Thinkpad khá bền nên kết, chưa có kinh nghiệm sử dụng nên mới phân vân.
+==========================
+422
+Laptop
+So với Thinkpad E đã được chưa mà đòi so với T ?
+Tính cái phần mềm hãng là con Thinkpad E nó lợi kha khá, cơ mà bàn phím của E hơi cùi bác à.
+==========================
+423
+Laptop
+Tính cái phần mềm hãng là con Thinkpad E nó lợi kha khá, cơ mà bàn phím của E hơi cùi bác à.
+Bàn phím con Vostro lởm cực, không có tí phản hồi nào, so với bàn phím cùi của E thì còn cách khá xa.
+==========================
+424
+Laptop
+Dìm hàng Dell Vostro 3560 đấy à ?
+Không phải là dìm hàng, mà cái chính là so Vostro với thinkpad thì đúng là Vostro không có cửa mà, em đang sài vostro đây.
+==========================
+425
+Laptop
+Xin hỏi bác con Thinkpad T400 nâng cấp được lên 4GB RAM không ạ ?
+Được chứ bạn, bạn nâng cấp từ 3GB lên 4GB thì bạn thêm 500 ngàn nữa, thay 1 thanh 1GB bằng 1 thanh 2GB.
+==========================
+426
+Laptop
+Xin hỏi bác con Thinkpad T400 RAM tối đa là bao nhiêu ạ?
+Tối đa là 8GB RAM bạn ạ.
+==========================
+427
+Laptop
+Xin hỏi bác con Thinkpad T400 nâng cấp được card màn hình không ạ ?
+Nâng cấp cho card màn hình rời thì không được bạn ạ, không tự lắp thêm được vào.
+==========================
+428
+Vợ
+Em chào anh, sắp lấy vợ chưa anh ? 
+Chưa, vẫn đang sợ có vợ.
+==========================
+429
+Laptop
+Con envy 17 đó thuộc loại nhẹ và nó thiết kế rất gọn không cồng kềnh như những con 17 inch khác, con này thiết kế unibody vỏ nhôm khối vuốt tròn như macbook pro, màn hình thì bọc kính rất đẹp, có 2 khe ổ cứng để cắm thêm 1 cái nữa, thường thì mua 17 inch khi cần máy có cấu hình khủng , nếu yêu cầu là 17 inch mà cần nhẹ di chuyển nhiều sao không làm con nào nhỏ gọn tầm 13,14 inch, cùng lắm là 15.6inch nếu cần cấu hình cao, sau đó sắm thêm quả màn hình ngoài 24inch là được nhất, như mình đây toàn xài máy nhỏ gọn, về nhà hoặc công ty đều cắm ra màn hình ngoài 21.5 inch xài cho sướng, cắm cả chuột quang, cả bàn phím ngoài luôn dùng cho thoải mái, thường thì bọn tây nó hay dùng docking để cắm các thiết bị ngoại vi vào sẵn đó, đi về cắm xoạch máy vào bật lên là được luôn, đi đâu thì ấn nút rút máy ra xách đi.
+Nhưng trót thích mất rồi, giờ chỉ cần đâu uy tín là triển khai thôi.
+==========================
+430
+Laptop
+Trót thích mất HP Envy 17 rồi, giờ chỉ cần đâu uy tín là triển khai thôi
+Envy 15 và envy 17 hiếm lắm bác ạ vì em nó giá cao bán không dễ nên ít nơi nhập, bác thử lên cửa hàng HP ở Vincom xem có không, không thì phải hỏi trong Sài Gòn thôi, con này có 1 cái đặc điểm như mình nói ở trên đó là nếu xạc đầy mà không sử dụng, để 1 vài ngày thì pin nó sẽ sụt vài phần trăm do hiện tượng truyền điện qua vỏ, cái này thì không ảnh hưởng gì cả, chỉ có là bác để vài ngày thì phải xạc thêm vài phút cho nó đầy lên thôi.
+==========================
+431
+Laptop
+Envy 15 và envy 17 hiếm lắm bác ạ vì em nó giá cao bán không dễ nên ít nơi nhập, bác thử lên cửa hàng HP ở Vincom xem có không, không thì phải hỏi trong Sài Gòn thôi, con này có 1 cái đặc điểm như mình nói ở trên đó là nếu xạc đầy mà không sử dụng, để 1 vài ngày thì pin nó sẽ sụt vài phần trăm do hiện tượng truyền điện qua vỏ, cái này thì không ảnh hưởng gì cả, chỉ có là bác để vài ngày thì phải xạc thêm vài phút cho nó đầy lên thôi.
+Nhưng mà nó to, nhìn cho rõ
+==========================
+432
+Laptop
+Nếu như mình mua ở laptop HP ở laptopus.com, thì vẫn hưởng chính sách bảo hành toàn cầu chứ nhỉ?
+HP bảo hành toàn cầu, tuy nhiên hàng nhập khẩu khi nhập về thường trôi bảo hành mất vài tháng, cho nên khi bán hàng các cửa hàng tự đứng ra bảo hành cho phần thời gian bảo hành bị trôi đó, nếu cửa hàng đó có quan hệ tốt với HP thì thời gian đó họ vẫn có thể thay linh kiện của hãng cho bác hoặc khi hết hạn bảo hành 2 năm thì họ vẫn thay thế linh kiện với giá hữu nghị cho bác, nhưng điều này thì cũng ít cửa hàng làm được cho nên nếu mua ở xa thì bác kiểm tra phiên bản xem thời gian bảo hành hãng thực tế là bao lâu cho yên tâm, ngoài ra mua hàng mới thì nên mua nguyên seal thùng, mặc dù seal có thể làm giả được nhưng vẫn yên tâm, tốt nhất là có người quen trong đó đến kiểm tra, khui thùng rồi niêm phong gửi ra cho bác là tốt nhất.
+==========================
+433
+Laptop
+HP bảo hành toàn cầu, tuy nhiên hàng nhập khẩu khi nhập về thường trôi bảo hành mất vài tháng, cho nên khi bán hàng các cửa hàng tự đứng ra bảo hành cho phần thời gian bảo hành bị trôi đó, nếu cửa hàng đó có quan hệ tốt với HP thì thời gian đó họ vẫn có thể thay linh kiện của hãng cho bác hoặc khi hết hạn bảo hành 2 năm thì họ vẫn thay thế linh kiện với giá hữu nghị cho bác, nhưng điều này thì cũng ít cửa hàng làm được cho nên nếu mua ở xa thì bác kiểm tra phiên bản xem thời gian bảo hành hãng thực tế là bao lâu cho yên tâm, ngoài ra mua hàng mới thì nên mua nguyên seal thùng, mặc dù seal có thể làm giả được nhưng vẫn yên tâm, tốt nhất là có người quen trong đó đến kiểm tra, khui thùng rồi niêm phong gửi ra cho bác là tốt nhất.
+Bác cho em hỏi tiếp, tem HP chính hãng sẽ dán ở đâu, phân biệt với hàng refurbished kiểu gì ạ, bác làm quen dòng Envy này rồi cho em ít thông tin quý bác nhé.
+==========================
+434
+Laptop
+Bác cho em hỏi tiếp, tem HP chính hãng sẽ dán ở đâu, phân biệt với hàng refurbished kiểu gì ạ, bác làm quen dòng Envy này rồi cho em ít thông tin quý bác nhé.
+Mua ở đâu thì mua, tránh xa cái Laptopsongviet ra http://vozforums.com/showthread.php?t=3154583.
+==========================
+435
+Laptop
+Chỉ có cục pin cho laptop 2 bên không ngồi lại nói chuyện với nhau được sao ?
+Em đã rất thiện chí bác ạ, hơn 1 lần em đã yêu cầu được cho em các thêm tiền đổi máy mới cho xong chuyện, chính bên ấy cứ hứa hươu hứa vượn là sẽ giải quyết tất cả mọi vấn đề nên mới gây ức chế cho em.
+==========================
+436
+Thương hiệu
+Chờ xem bên ấy vào giải thích ra sao, chứ làm ăn kiểu này thì mất khách lắm đấy, vì 1 cái lợi nhỏ mà mất đi cả thương hiệu xây dựng bao năm, chả đáng đâu.
+Vâng, đây không phải lần đầu tiên đâu bác ạ, cũng có 1 phốt rồi và cũng bị lên sổ đen của vài web chỉ là do em không để ý trước khi mua máy thôi.
+==========================
+437
+Phần mềm
+Biết cài 3DSMax 9 32bit cho Windows 7 hướng dẫn mình với, mình cài xong cứ bị báo lỗi, không vào được.
+3DSMax 9 32bit cài Windows nào cũng như nhau thôi bạn, chép hết dữ liệu trong dĩa CS vào ổ cứng, chạy tập tin cài đặt rồi bẻ khóa thôi, nếu bị lỗi thử nhấn chuột phải chọn Run as administrator xem được không, cài xong cài Vray đúng bản không lại lỗi nữa cho xem.
+==========================
+438
+DTZ
+MÌnh thấy DTZ cũng bán nhiều laptop HP elitebook mà sao không thấy có ý kiến gì về công ty này, thế công ty này có vấn đề gì không bác ?
+DTZ không quan tâm thị trường bán lẻ mà thường bán cho công ty phân phối lại nên trên này anh em ít người biết.
+==========================
+439
+Phần mềm
+Cài 3DSMax như bình thường mà bác, có khác gì đâu nhỉ, bác bị lỗi gì đấy, em chỉ có lúc cài 3DSMax 9 64 bit thì lúc chuyển nó không như bình thường thôi chứ 3DSMax 32 bit thì vẫn ngon mà, à mà bác dùng 3DSMax 9 hay 3DSMax Design 2009 ?
+Mình xài 3DSMax 2010, bạn học gì vậy, nếu học thiết kế nội thất cùng ngành thì anh em mình chia sẻ với nhau cho vui, mình đang đặt 8540w bên bác quang khôi mà ổng nói chưa dám hứa trước là sẽ có, thôi cũng ráng đợi, nếu bạn làm về 3ds max chia sẽ kinh nghiệm nha, đặc biệt về vray, mình rất thích, chúc vui, ai mới vào nghề render xuất ảnh mình có thể giúp nhìu đó.
+==========================
+440
+Phần mềm
+Bạn tải cái chương trình HP Support Assistant về cài đi, nó có tích hợp sẵn cái HP Battery Check trong đó luôn, cài xong rồi thì mở HP Support Assistant lên, vào phần Troubleshoot/Power, Thermal and Mechanical/Battery Check, đợi nó kiểm tra tí rồi vào Setting chỉnh thành Advanced, OK rồi xem kết quả.
+Chỉnh thành Advanced chỗ nào vậy bác, của em nó vào Setting của Assistant thì toàn cái nâng cấp vớ vẩn.
+==========================
+441
+Laptop
+Mình mấy bữa nay cũng băn khoăn cái vụ này, toàn dùng Battery Care nên thấy ảo quá, bữa nay mới cài cái HP Support assistant vô thì hỡi ôi, sao Design Capacity chỉ có 5100mAh, Full charge Capacity chỉ có 4773mAh, Remaining Capacity thì 4773mAh, trong khi mua quảng cáo là pin 8cell, chả lẽ lại lừa đảo à ?
+Không có lừa đảo gì đâu, chú ý đơn vị nhá bạn, bên HP Support Assistant thì đơn vị là mAh, còn cái bạn nói đơn vị là Wh, trong HP Support Assistant muốn tính ra Wh thì lấy Design Capacity nhân với Design Voltage.
+==========================
+442
+Laptop
+Cho em hỏi mai tính mua 1 em 8540w về mà lần đầu mua laptop nên chưa biết nên kiểm tra gì nhỉ : màn hình, pin, còn gì nữa nhỉ ?
+Nguyên seal hay là mở rồi vậy bạn, nên mua nguyên seal đi cho khỏe.
+==========================
+443
+Laptop
+Chỉnh thành Advanced chỗ nào vậy bác, của em nó vào Setting của Assistant thì toàn cái nâng cấp vớ vẩn.
+Nâng cấp HP Support Assistant lên bản mới nhất chưa bạn, trên cửa sổ HP Battery Check nó cũng có chữ Setting nữa mà, thử nâng cấp lên bản mới nhất xem.
+==========================
+444
+Laptop
+Không có lừa đảo gì đâu, chú ý đơn vị nhá bạn, bên HP Support Assistant thì đơn vị là mAh, còn cái bạn nói đơn vị là Wh, trong HP Support Assistant muốn tính ra Wh thì lấy Design Capacity nhân với Design Voltage.
+Cám ơn bạn, mình quên mất cái vụ này, mà không hiểu sao máy mình mới mua được gần 3 tháng mà pin đã chai 6% rồi, mình sử dụng pin đúng như hướng dẫn, nhưng sau mỗi lần sạc thì dung lượng pin cứ giảm đều.
+==========================
+445
+Laptop
+Nâng cấp HP Support Assistant lên bản mới nhất chưa bạn, trên cửa sổ HP Battery Check nó cũng có chữ Setting nữa mà, thử nâng cấp lên bản mới nhất xem.
+Hóa ra là do em dùng bản 4.2, giờ thì có rồi.
+==========================
+446
+Laptop
+Cám ơn bạn, mình quên mất cái vụ này, mà không hiểu sao máy mình mới mua được gần 3 tháng mà pin đã chai 6% rồi, mình sử dụng pin đúng như hướng dẫn, nhưng sau mỗi lần sạc thì dung lượng pin cứ giảm đều.
+Hôm nay lần đầu tiên dùng HP Battery Check để kiểm tra nên chưa biết nữa, để vài bữa nữa để ý xem thử đã, con máy laptop của mình cũng dùng khoảng gần 3 tháng rồi, dùng pin chẳng đúng cách gì cả, ở nhà thì cắm sạc để đó dùng suốt, tối hibernate vẫn cắm sạc để đó luôn, bữa nào học trên trường thì vác lên dùng, gần cạn đem về nhà lại cắm vào vừa sạc vừa dùng tiếp, tưởng đâu chai nhiều nhiều, ai dè mới 2% thôi.
+==========================
+447
+Laptop
+Không biết bác có biết cách đưa tín hiệu âm thanh qua cổng Display chưa ạ, em dùng cáp chuyển DP-HDMI thì chỉ có tín hiệu hình ảnh thôi còn âm thanh thì không mặc dù loa trong máy vẫn kêu ầm ầm, em dùng 8540W ạ.
+Có đưa được tín hiệu qua cổng Displaysang được LCD bác à, bác phải ấn chuột phải vào cái loa ở góc màn khay đồng hồ và chọn Playback Devices và chọn thiết bị muốn phát âm thanh như là loa ngoài hoặc LCD hoặc loa Laptop, ở đây em dùng thêm card âm thanh gắn ngoài nên có lựa chọn loa ngoài nhé.
+==========================
+448
+Obama
+Obama đang cầm quả tay Playstation để làm gì nhỉ ?
+Để chơi nấm lùn đó.
+==========================
+449
+Laptop
+Mình cũng vậy,cái design capacity của laptop cũng thay đổi mặc dù ít, lúc đầu mình nghĩ là do máy mới, chạy chưa ổn định nên cũng không quan tâm lắm, đến hôm nay, có ông anh cũng lấy con 8440p, ổng kêu pin chai 5%, lúc mình kiểm tra thì cái design capacity máy ổng gần 55W lận có chai 5% thì vẫn nhiều hơn máy mình, chai 0% nhưng có 51W, không hiểu cái này là do pin, do con chip trong pin hay do cái gì nhỉ ?
+Máy mình cũng vậy.
+==========================
+450
+Ép xung
+Mainboard mình là 2920XM-ES2 đó bác, cá nhân mình gọi nó là Intel Absolute-zero, Realtemp chỉ đo có 1 nhân thôi nên khó nói CPU nào mạnh hơn được, mấy con Xeon sẽ bị ép dữ lắm.
+Ừ, sáng nay mình cũng vừa xem lí lịch của em nó, đua cái này thì thường thằng nào xung cao là thắng chứ nhiều nhân không quan trọng.
+==========================
+451
+Phần mềm
+AMD không chạy được Real temp bạn.
+Của mình E5200 bác ạ.
+==========================
+452
+Máy tính
+Con Q8400 không ép xung được có 885 điểm thôi.
+Cũng đang đau đầu với nó nè, tỉ lệ tối đa của Q8400 là 8, cái này không tăng thêm được, chỉ có cách nâng bus thực mà bus thực của nó mặc định là 333MHz nên bus hệ thống 333MHzx4, 1333MHz đụng giới hạn của main G41 của mình rồi không tăng hơn được nữa, chán đời ghê luôn, mấy con mainboard G31 của ASUS như P5KPL-CM hỗ trợ FSB 1600, biết thế trước mua G31 cho rẻ, ép xung cho sướng.
+==========================
+453
+Máy tính
+Dota 2 không cần đến i7 đâu bạn, i3 là thừa lắm rồi.
+Dạ vâng, nhưng mục đích cũng là để cho lâu dài trong tương lai nữa ạ, sợ nếu mua core i3 thì sau này lại phải mất công đổi máy nữa.
+==========================
+454
+Tiền tệ
+1000$ Singapore bằng nhiêu VND, thế mình mới biết tư vấn, không giỏi về tỉ giá.
+Cỡ khoảng 17 triệu đấy bác.
+==========================
+454
+Laptop
+Cố tí nữa làm cái Dell xps 15 chip i7, card màn hình 2630QM bạn ạ.
+Ừ, thêm 2 triệu nữa được con màn hình ngon.
+==========================
+455
+Máy tính
+Máy bạn mình core i5, card màn hình Radeon HD 6470m chạy Dota 2 chỉ để được tầm trung thôi.
+Cái này do nh yếu tố nữa, i5 đời mấy, RAM thế nào,...
+==========================
+456
+Tư vấn
+Mình đang muốn mua máy, kinh phí dưới 30 triệu, màn hình 17inch, và nhẹ nhất có thể, mang vác nhiều, bác có em nào hội tụ đủ yêu cầu thì chỉ mình với ?
+17inch mà nhẹ thì hơi khó bác ạ, mang vác nhiều mệt đấy, bác có thể nói rõ nhu cầu được không, thêm vào nữa là dòng có màn hình 17inch cũng không nhiều.
+==========================
+457
+Laptop
+Nhu cầu chẳng có gì nhiều, mua giúp bạn thôi, mua tại Hà Nội, con HP có được không các bác nhỉ?
+Nếu mua thì bảo hành HP Việt Nam ở chỗ nào nhỉ?
+==========================
+458
+Laptop
+Envy 17 thì khủng rồi, lại có màn hình 3D nữa, nặng 2.75 kg.
+Mình thích 100% nguyên seal nhé, mang vác alienware cực lắm.
+==========================
+459
+Laptop
+Tình hình là sau 30/4 laptop em tự nhiên bị liệt các phím T, U, P, Q, 1, lúc thì nhấn được lúc không, nhưng có cách tạm thời là nhấn mạnh hoặc nhấn phím số thì nó sẽ nhận được.
+Bạn dùng phần mềm Passmark nhé, bạn bật phần mềm cho nó chạy, khi nào thấy bị liệt phím hoặc chập thì bạn vào phần mềm kiểm tra xem phím nào bị, phần mềm rất dễ dùng, bạn cần tư vấn thêm hay kiểm tra thì liên hệ mình làm giúp bạn, thường nếu như bạn nêu ở trên thì do nó đang chập phím.
+==========================
+460
+Laptop
+Máy em bị liệt phím nhưng cứ lúc nào kiểm tra là nó lại hoạt động bình thường, bực mình quá, sửa khoảng 5 nút thì hết bao nhiêu vậy bác, em ở HCM ?
+Thế bác cứ bật phần mềm lên rồi để đấy làm việc khác, ở trên này có mấy bác Sài Gòn sửa chữa uy tín của anh em VOZ đó bác, với lại nếu sửa phím thì dù là 1 phím, vài phím hay nhiều phím thì vẫn phải bóc các phím để gỡ mạch ra vẽ lại bằng bút kẻ mạch bạc ơi, nên việc sửa bàn phím là mất thời gian, tóm lại bàn phím giờ rẻ bác thay cho nhanh ạ.
+==========================
+461
+Giáo dục
+Thế này thì học được gì, ở Mỹ thằng nào trâu bò lắm cũng chỉ học 6 tới 7 môn 1 kì, mà muốn học hơn cũng chả ai cho học.
+Chương trình Việt Pháp của Bách khoa 20 môn một học kì đây, học hay đày đọa nhỉ ?
+==========================
+462
+Giáo dục
+Ông GS của mình đỗ đại học top Ivy, chẳng lẽ ổng nói láo, có 1 cái chương trình phóng sự 1 hay 2 tiếng của ổng phát trên VTV3 rồi đấy mà mình không nhớ, ông này người Mỹ nhưng dạy mình bằng tiếng Anh cả tiếng Việt giọng Bắc, không phải mấy ông giáo sư thường đâu.
+Mình có nói ổng nói sai đâu, giống như thông tin, thời gian sẽ trả lời, dân học Ivy ra thì cũng tùy loại, nhưng dạy bằng tiếng việt thì ông này cũng siêu nhân rồi.
+==========================
+463
+Giáo dục
+Ông này có tham gia hội thảo nào không, nếu có thì tham gia một suất xem ổng diễn thuyết thế nào.
+Mấy bài về freemind, rational thì ai chơi hội thảo bạn, cùng lắm tìm kiếm nghiên cứu ISI của ổng mà xem thôi.
+==========================
+464
+Giáo dục
+Mấy bài về freemind, rational thì ai chơi hội thảo bạn, cùng lắm tìm kiếm nghiên cứu ISI của ổng mà xem thôi.
+Ủa, bạn còn sinh viên à, tưởng là dân đi làm rồi chứ ?
+==========================
+465
+Đi làm
+Ủa, bạn còn sinh viên à, tưởng là dân đi làm rồi chứ ?
+Đi làm rồi, mà còn thiếu môn mới tốt nghiệp.
+==========================
+466
+Laptop
+Mình học giao thông mà toàn phải học kỹ thuật điện, kỹ thuật nhiệt, hóa học, tin học C++ làm gì không biết, giờ chẳng nhớ tí nào mấy môn đấy nữa.
+Giao thông mà cũng cần phải học mấy môn ấy à?
+==========================
+467
+Đi làm
+Đi làm rồi, mà còn thiếu môn mới tốt nghiệp.
+Chi tiền cho nó đi, cho nó lẹ, học nhiều chi lắm cũng tắm ở truồng.
+==========================
+468
+Giáo dục
+Đúng, không thể dẹp được, theo khảo sát của hãng thông tấn xã con vịt cồ chúng tôi, các bộ môn văn hoá truyền thống Đường lối Đảng công sản Việt Nam, Tư tưởng Hồ Chí Minh, Chủ nghĩa Mác Lê đã tạo chỗ vui chơi, giải trí lành mạnh cho hàng trăm ngàn sinh viên Việt Nam với các tiết mục kiểm tra facebook, chơi trò chơi điện tử, mậu binh, xập xám và đặc biệt cung cấp chỗ ngủ tiện nghi thoải mái không thua gì chuẩn khách sạn 5 sao với lời ru du dương của thầy, quạt trần 4 cánh xoay tốc độ 360 vòng 1 giây, kết quả khảo sát được công bố dựa trên 90% sinh viên Việt Nam đang theo học tại các trường đại học trên toàn quốc.
+Bậy, 90% lấy đâu ra, em tưởng 99% chứ.
+==========================
+469
+Giáo dục
+Bậy, 90% lấy đâu ra, em tưởng 99% chứ.
+10% còn lại là bọn học chuyên ngành đó.
+==========================
+470
+Giáo dục
+Tội nghiệp mấy bạn học đại học quá, vào đại học chả có gì hay ho, toàn mấy cái đâu đâu, ít chuyên môn, nếu có điều kiện cố gắng mà học cho qua rồi sau này sang nước tư bản châu âu, Mỹ mà học, chứ ở lại Việt Nam thì rốt cục chả làm ăn được trò trống gì đâu, giáo dục Việt Nam càng ngày càng thất bại, thô thiển.
+Học thì học vậy thôi, chứ được chữ kẹt nào vô đầu đâu bạn, mấy môn có liên quan tới Đảng, Cách mạng, triết thì đa số chỉ ngồi chơi chém gió.
+==========================
+471
+Giáo dục
+Học thì học vậy thôi, chứ được chữ kẹt nào vô đầu đâu bạn, mấy môn có liên quan tới Đảng, Cách mạng, triết thì đa số chỉ ngồi chơi chém gió.
+Cái thời gian ngồi chém gió đó thà ở nhà còn hơn. Bắt con người ta bắt xe bus lên trường, đi tiếng rưỡi về tiếng rưỡi. Ngày nào có Mác là ngày đó mất ba tiếng cho việc đi lại
+==========================
+472
+Laptop
+IBM T9400 ngon quá mà không đủ tiền mua.
+Ráng để dành tiền rồi mua nhé
+==========================
+473
+Laptop
+Có dock cho T60 không bác ?
+Không bạn à.
+==========================
+474
+Laptop
+Đang quan tâm con Thinkpad T420, X220, E220s bao giờ có hàng hả bác ?
+Tầm 2 tháng nữa mới bắt đầu có bạn à.
+==========================
+475
+Laptop
+Cho mình hỏi cái máy t400 không có máy ảnh và nhận dạng vân tay đúng không ạ ?
+Không có máy ảnh thôi còn nhận dạng vân tay  thì có bạn ạ.
+==========================
+476
+Laptop
+Em Thinkpad có máy ảnh không bác nhỉ, mà em ấy màn hình LCD thường hay màn hình LED thế ?
+Đặc trưng của dòng Thinkpad là ít có máy ảnh, còn màn hình LED thì không bạn ạ, hiếm con nào có màn hình LED lắm.
+==========================
+477
+Laptop
+Bây giờ ngon hơn nhìu rồi anh ạ, chắc anh K4x, giờ gần đến K60 rồi.
+Mới đến K54 mà ông, chém gió gì to thế.
+==========================
+478
+Laptop
+Mua laptop pin 9cell xong hối hận đó bạn, 6cell cũng đủ dùng hơn 4 tiếng rồi.
+Sao hối hận thế bạn, nó thòi ra phía sau à, mình hay ở trên trường nên cần pin càng lâu càng tốt .
+==========================
+479
+Laptop
+Do trường mình liên kết rất tốt với IBM từ lâu về giáo dục lẫn máy móc nên máy trong trường toàn do IBM hỗ trợ, tất cả laptop bên mình là chính hãng và chất lượng rất tốt với giá tốt nhất vì không phải mở cửa hàng, không phải thuê nhân viên nên không còn thùng và seal, bên mình buôn bán trong trường lấy chữ tín là chính nên các bạn không phải lo lắng về hàng dỏm.
+Toàn hàng ngon mà giá cũng tốt nhỉ, mấy con máy tính trong trường Bách Khoa toàn máy IBM từ cái thời Napoleong, nhớ hồi còn học toàn pải dùng máy cách đấy 3, 4 năm, nản quá, không biết bây giờ có gì hơn không.
+==========================
+480
+Đồng tính
+Người đồng tính thành công rất nhiều, như Elton John, Alexander Đại đế, Drew Barrymore, Angelina Jolie, Ian Mckellen, Xuân Diệu, Da Vinci.
+Thiếu huyền thoại Neil Pattrick Harris rồi.
+==========================
+481
+Đồng tính
+Quả thật em chưa bao giờ xem phim khiêu dâm đồng tính cả, tò mò thật.
+Tò mò thì tìm mà xem, xem trên mạng thiếu gì.
+==========================
+482
+Đồng tính
+Trịnh Công Sơn đồng tính à ?
+Theo 1 người đồng hương của Trịnh Công Sơn kể thì có tin đồn Trịnh Công Sơn là đồng tình, mà cách đây 3 chục năm người ta không bịa chuyện đâu.
+==========================
+483
+Đồng tính
+Theo 1 người đồng hương của Trịnh Công Sơn kể thì có tin đồn Trịnh Công Sơn là đồng tình, mà cách đây 3 chục năm người ta không bịa chuyện đâu.
+Bịa chuyện thì thời nào mà không có ?
+==========================
+484
+Đồng tính
+Bịa chuyện thì thời nào mà không có ?
+Cách đây 30 năm rất ít người biết đồng tính là gì, nên không phải tự nhiên mà họ cho rằng Trịnh Công Sơn là đồng tính nhé, phải có lửa mới có khói.
+==========================
+485
+Đồng tính
+Đối với nhiều bạn thì nhà sư với cha xứ và người độc thân còn phán là đồng tính mà.
+Ở đâu cũng có người đồng tính nhé, Australia có người đồng tính luyến ái được phép trở thành linh mục, còn nhà sư đồng tính thì có vụ Đàm Vĩnh Hưng khóa môi sư thầy đấy.
+==========================
+486
+Đồng tính
+Một cặp đồng tình có con ra sao nhỉ, ai sẽ là người làm mẹ đứa bé ?
+Chịu, nghe nói cùng 1 người cho tinh trùng, cả 2 bé luôn, cũng không biết là tinh trùng có phải của 2 vợ chồng không.
+==========================
+487
+Đồng tính
+Đồng tính mà giàu và thành công gấp tỷ lần các bạn dị tính vẫn đang kì thị.
+Người đồng tính thành công rất nhiều, như Elton John, Alexander Đại đế, Drew Barrymore, Angelina Jolie, Ian Mckellen, Xuân Diệu, Da Vinci.
+==========================
+488
+Tình cảm
+Đó đơn giản chỉ là tình anh em ruột thịt thôi, anh trai em mà biết chắc sẽ chửi em dữ lắm đó.
+Anh mình biết đấy bạn, vì có lần mình hỏi anh có yêu em không thì anh ấy bảo là có.
+==========================
+489
+Tình cảm
+Anh mình biết đấy bạn, vì có lần mình hỏi anh có yêu em không thì anh ấy bảo là có.
+Ôi ông anh của em mà cũng nói thế thì chết.
+==========================
+490
+Tình cảm
+Anh em ruột mà bảo không yêu thương nhau thì sao được, mình cũng yêu chị mình lắm, yêu cả bố mẹ mình nữa, theo thống kê thì thường người chồng, vợ hay người yêu của con sẽ có 1 ít tính cách của bố hoặc mẹ đó bạn.
+Bạn nghĩ sao khi 1 đứa con gái ôm 1 người con trai đang không mặc áo mà vẫn không bị nói năng gì.
+==========================
+491
+Laptop
+Em đang định sắm con laptop U seri, U31 hoặc U46, em đang tìm con nào nhẹ, pin lâu , chỉ cần card màn hình kiểu Intel HD graphic vì làm văn phòng thôi, không chơi card màn hình rời vừa nóng lại tốn pin, ngoài sê ri U của Asus còn con nào khác không bác, thích thiết kế của U31 hơn U46 nhưng chíp lại chỉ là core i thế hệ thứ nhất không phải sandy bridge nên đang lăn tăn giữa U31 và U46.
+So sánh giữa U46 và U31 : màn hình U31 là 13.3inch còn U46 là 14inch, CPU U46 là i3 2330, U31 là i3-380, đối với công việc văn phòng thì hiệu năng không khác nhau, U31 nhẹ hơn U46, U31 thì pin lâu hơn U46, tóm lại theo mình lựa chọn U31 là hiệu quả nhất đối với nhu cầu của bạn.
+==========================
+492
+Laptop
+Mình đang muốn mua DELL Inspiron 15R N5110 không biết còn hàng không và được khuyến mãi gì không, và nâng RAM lên 8GB thì thêm bao nhiêu tiền nữa ?
+DELL Inspiron 15R N5110 vẫn đang bán giá là 19.2 triệu VND, đối với Dell thì chỉ có máy không thôi, nếu nâng thêm 8GB thì đầu tư thêm 900 ngàn bạn nhé.
+==========================
+493
+Máy tính
+Bên bác có về Eee PC X101 không ?
+Em lại chưa về kịp X101, nhưng như thông số thì 1015PEM vẫn là lựa chọn hơn nó mà, tuy nhiên có 2 sự khác biệt có thể nhìn thấy: CPU của X101 là N455 còn của 1015 là N550, ổ cứng của X101 là 2.5" SATA 8GB SSD còn của 1015 là 250GB SATA HDD, X101 vẫn có vẻ khoái hơn nhờ cái ổ cứng SSD nhanh nhẹn.
+==========================
+494
+Laptop
+Em thích gọn nhẹ với màn 14inch nhưng lại không thấy ở cửa hàng có con k43sv-vx210, chỉ thấy con k53sv-sx492 cấu hình tương đương.
+Laptop Asus 14inch inch không tích hợp công nghệ Optimus, không có bàn phím số mở rộng bên cạnh, theo mình lấy em 15.6inch ngon hơn nhiều.
+==========================
+495
+Laptop
+Em Asus K53E chip B940 liệu có hàng lại không bác ? 
+Chưa thấy kế hoạch của hãng bạn ạ.
+==========================
+496
+Tư vấn
+Anh có thể tư vấn cho em loại laptop nào không để lại dấu vân tay khi mình dùng không ?
+ASUS K53SV-SX845 màu nâu bóng sẽ không để lại dấu vân tay bạn nhé.
+==========================
+497
+Laptop
+Cho em hỏi, màn hình em bị hở sáng rất nhiều, liệu có được bảo hành không ạ ?
+Bạn mang qua trung tâm bảo hành để bên kỹ thuật kiểm tra lỗi nhé.
+==========================
+498
+Tai nghe
+PX100ii bên mình còn màu trắng không anh ?
+Sennheiser PX100ii iP màu trắng còn hàng bạn nhé.
+==========================
+499
+Laptop
+HP Pavillion dv4-3002tx còn không bác, còn là em qua mua.
+HP Pavillion dv4-3002tx còn hàng bạn nhé.
+==========================
+500
+Trò chơi điện tử
+Cho mình hỏi là trò LOL có thể chơi riêng 1 mình được không, chứ không biết kĩ năng vào đứng lung tung thua là cái chắc.
+Bạn chơi chế độ đánh với máy, trước để hiểu cách chơi và lên đồ, cách mua đồ thì nó đã chỉ sẵn, mua cái gì cái gì thì lên được món gì, không phải tìm tòi cách lên đồ như Dota, mỗi nhân vật có 1 cách chơi riêng, nếu chưa hiểu nhân vật đó kĩ năng như thế nào thì chỉ cần chọn vào nhân vật đó xem trước kĩ năng nó đánh ra sao, nhân vật đó nên lên theo con đường sức mạnh hay kĩ thuật.
+==========================
