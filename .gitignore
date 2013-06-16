@@ -22,3 +22,5 @@ data/test.txt
 data/train.txt
 output.aiml
 data/raw-conversation.txt
+*.rar
+data/SVM/datasource/
