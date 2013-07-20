@@ -16,16 +16,16 @@ public class UtilityTest {
 
 	@Test
 	public void testIsSimilar() {
-//		assertTrue(Utility.isSimilar("I am 10 years old", "I am 10 *"));		
-//		assertTrue(Utility.isSimilar("I am 10 years old", "* 10 *"));
-//		assertTrue(Utility.isSimilar("I am 10 years old", "* 10 years old"));
-//		assertTrue(Utility.isSimilar("Mày đi đâu đó", "Mày đi đâu *"));		
-//		assertTrue(Utility.isSimilar("Mày đi đâu *", "Mày đi *"));
-//		
+		assertTrue(Utility.isSimilar("I am 10 years old", "I am 10 *"));		
+		assertTrue(Utility.isSimilar("I am 10 years old", "* 10 *"));
+		assertTrue(Utility.isSimilar("I am 10 years old", "* 10 years old"));
+		assertTrue(Utility.isSimilar("Mày đi đâu đó", "Mày đi đâu *"));		
+		assertTrue(Utility.isSimilar("Mày đi đâu *", "Mày đi *"));
+		
 		assertFalse(Utility.isSimilar("Mày có đi đâu đó không", "Mày có * đó không vậy"));
-//		
-//		assertFalse(Utility.isSimilar("* đi đâu đó", "Mày đi đâu *"));
-//		assertFalse(Utility.isSimilar("I am 10 years old", "I am 10"));
+		
+		assertFalse(Utility.isSimilar("* đi đâu đó", "Mày đi đâu *"));
+		assertFalse(Utility.isSimilar("I am 10 years old", "I am 10"));
 	}
 	
 	@Test

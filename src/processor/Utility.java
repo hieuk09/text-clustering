@@ -1,8 +1,13 @@
 package processor;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Random;
+
+import jvntagger.MaxentTagger;
+import jvntagger.POSTagger;
 
 public class Utility {
 	
@@ -118,5 +123,32 @@ public class Utility {
 	public static int random(int length) {
 		Random randomGenerator = new Random();
 		return randomGenerator.nextInt(length);
+	}
+	
+	public static int similarPercentage(String answer, String question) {		
+		String[] tokens = TextTokenizer.tokenize(question);
+		question = Utility.joinString(tokens, ' ');
+		question = question.replaceAll("[^\\w\\s\\u0081-\\u8888]", " ");
+		question = Tagger.tagging(question);
+		question = Utility.replaceUnwantedWord(question, "").replaceAll("\\s+", " ");
+		
+		tokens = TextTokenizer.tokenize(answer);
+		answer = Utility.joinString(tokens, ' ');
+		answer = answer.replaceAll("[^\\w\\s\\u0081-\\u8888]", " ");
+		answer = Tagger.tagging(answer);
+		answer = Utility.replaceUnwantedWord(answer, "").replaceAll("\\s+", " ");
+		
+		List<String> questions = Arrays.asList(question.split(" "));
+		List<String> answers = Arrays.asList(answer.split(" "));
+		HashMap<String, Integer> map = new HashMap<String, Integer>();
+		
+		int count = 0;
+		for (String s : questions) {			
+			if (answers.indexOf(s) >= 0 && map.containsKey(s) == false)
+				count++;
+			map.put(s, 1);
+		}
+		
+		return count * 100 / answers.size();
 	}
 }
